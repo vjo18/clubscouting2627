@@ -23,23 +23,12 @@ let browser;
 let page;
 
 function readCards(){
-  const cards=Array.from(document.querySelectorAll('.game-item'));
-  // Ploegpagina's kunnen een andere wrapper gebruiken dan reekspagina's.
-  if(!cards.length){
-    for(const link of document.querySelectorAll('a[href*="/nl/wedstrijd/"]')){
-      let el=link;
-      for(let i=0;el&&i<8;i++,el=el.parentElement){
-        const urls=new Set(Array.from(el.querySelectorAll('a[href*="/nl/wedstrijd/"]')).map(a=>a.pathname));
-        if(urls.size>1)break;
-        if(el.querySelectorAll('.score').length===1){cards.push(el);break;}
-      }
-    }
-  }
-  return cards.flatMap(el=>{
-    const a=el.querySelector('a.team-score, .team-score a, a[href*="/nl/wedstrijd/"]');
-    const url=a?.href || el.querySelector('.team-score')?.closest('a')?.href;
-    if(!url)return [];
-    return [{url,scoreText:el.querySelector('.score')?.textContent.trim()??'',text:el.textContent.replace(/\s+/g,' ').trim()}];
+  // Werkelijk waargenomen ploegpagina: game-container met a.team-score.
+  return Array.from(document.querySelectorAll('a.team-score[href*="/nl/wedstrijd/"]')).map(a=>{
+    const el=a.closest('.game-container, .game-item')||a.parentElement;
+    return {url:a.href,scoreText:a.querySelector('.score')?.textContent.trim()??'',
+      competition:el.querySelector('.game-type-name')?.textContent.trim()??'',
+      text:el.textContent.replace(/\s+/g,' ').trim()};
   });
 }
 
@@ -116,9 +105,17 @@ try{
     try{
       console.log('Wedstrijdblad: '+url);
       await page.goto(url,{waitUntil:'networkidle2',timeout:60000});
-      await page.waitForSelector('.opstelling-tabel .player .name',{timeout:30000});
+      await page.waitForSelector('.event-summary',{timeout:30000});
       const ids=await page.$$eval('.event-summary a[href]',els=>els.map(a=>a.getAttribute('href').match(/\/ploeg\/(\d+)/)?.[1]).filter(Boolean));
       if([...fixture.teams].some(id=>!ids.includes(id)))throw Error('Verkeerde ploeg-ID op wedstrijdblad');
+      const actualScore=score(await page.$eval('.event-summary .score',el=>el.textContent));
+      if(!actualScore||actualScore.join('-')!==fixture.score.join('-'))throw Error('Score verschilt van kalender');
+      const hasPlayers=await page.waitForSelector('.opstelling-tabel .player .name',{timeout:8000}).then(()=>true,()=>false);
+      if(!hasPlayers){
+        diagnostics.reports.push({url,status:'no_player_list',reason:'Geldige header en score, maar geen openbare spelerslijst'});
+        console.warn('Geen openbare spelerslijst; vorige gegevens behouden: '+url);
+        continue;
+      }
       const htmlPath=path.join(temp,'report.html');fs.writeFileSync(htmlPath,await page.content());
       const r=spawnSync('python3',[path.join(root,'scripts/import_report.py'),htmlPath,'--source',url,'--expected-score',fixture.score.join('-'),'--output-dir',path.join(temp,'data_raw/reports')],{cwd:root,stdio:'inherit'});
       if(r.status!==0)throw Error('Parser weigerde verslag');
