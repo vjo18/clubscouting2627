@@ -4959,12 +4959,12 @@
   ],
   "matchScope": "league_only",
   "calendarCoverage": {
-    "381025": {
-      "observed": 12,
-      "played": 7,
-      "excluded": 7,
-      "imported": 7,
-      "fetched_at": "2026-11-04T14:49:33.705Z",
+    "364285": {
+      "observed": 14,
+      "played": 9,
+      "excluded": 4,
+      "imported": 9,
+      "fetched_at": "2026-11-04T14:58:24.345Z",
       "completeness": "unverified",
       "preserved": 0
     },
@@ -4973,25 +4973,7 @@
       "played": 9,
       "excluded": 8,
       "imported": 9,
-      "fetched_at": "2026-11-04T14:49:06.814Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "364282": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 7,
-      "imported": 10,
-      "fetched_at": "2026-11-04T14:49:23.355Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "364285": {
-      "observed": 14,
-      "played": 9,
-      "excluded": 4,
-      "imported": 9,
-      "fetched_at": "2026-11-04T14:49:28.532Z",
+      "fetched_at": "2026-11-04T14:58:03.998Z",
       "completeness": "unverified",
       "preserved": 0
     },
@@ -5000,16 +4982,25 @@
       "played": 10,
       "excluded": 10,
       "imported": 10,
-      "fetched_at": "2026-11-04T14:49:17.183Z",
+      "fetched_at": "2026-11-04T14:58:14.144Z",
       "completeness": "unverified",
       "preserved": 0
     },
-    "360199": {
-      "observed": 14,
-      "played": 8,
-      "excluded": 4,
-      "imported": 8,
-      "fetched_at": "2026-11-04T14:49:12.072Z",
+    "381025": {
+      "observed": 12,
+      "played": 7,
+      "excluded": 7,
+      "imported": 7,
+      "fetched_at": "2026-11-04T14:58:29.270Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "364282": {
+      "observed": 30,
+      "played": 10,
+      "excluded": 7,
+      "imported": 10,
+      "fetched_at": "2026-11-04T14:58:19.353Z",
       "completeness": "unverified",
       "preserved": 0
     },
@@ -5018,7 +5009,16 @@
       "played": 10,
       "excluded": 12,
       "imported": 10,
-      "fetched_at": "2026-11-04T14:49:01.397Z",
+      "fetched_at": "2026-11-04T14:57:58.945Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "360199": {
+      "observed": 14,
+      "played": 8,
+      "excluded": 4,
+      "imported": 8,
+      "fetched_at": "2026-11-04T14:58:09.035Z",
       "completeness": "unverified",
       "preserved": 0
     }
