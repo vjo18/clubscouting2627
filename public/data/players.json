@@ -114,10 +114,10 @@
   "season": "2026-2027",
   "players": [
     {
-      "id": "unverified:360199:emile delbecke",
+      "id": "name:emile delbecke",
       "club_id": "roeselare",
       "name": "Emile Delbecke",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 8,
@@ -139,13 +139,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:leon vantornout",
+      "id": "name:leon vantornout",
       "club_id": "roeselare",
       "name": "Leon Vantornout",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 4,
@@ -159,17 +161,35 @@
             "https://www.rbfa.be/nl/wedstrijd/7663359",
             "https://www.rbfa.be/nl/wedstrijd/7663366"
           ]
+        },
+        "360198": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544584",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544573",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360199:nand bille",
+      "id": "name:nand bille",
       "club_id": "roeselare",
       "name": "Nand Bille",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 8,
@@ -191,13 +211,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:axl reynaert",
+      "id": "name:axl reynaert",
       "club_id": "roeselare",
       "name": "Axl Reynaert",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 6,
@@ -213,17 +235,32 @@
             "https://www.rbfa.be/nl/wedstrijd/7663366",
             "https://www.rbfa.be/nl/wedstrijd/7663354"
           ]
+        },
+        "360198": {
+          "listed": 3,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544573",
+            "https://www.rbfa.be/nl/wedstrijd/7544576",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360199:kobe wyffels",
+      "id": "name:kobe wyffels",
       "club_id": "roeselare",
       "name": "Kobe Wyffels",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 7,
@@ -244,13 +281,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:jasper sabbe",
+      "id": "name:jasper sabbe",
       "club_id": "roeselare",
       "name": "Jasper Sabbe",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 4,
@@ -264,17 +303,36 @@
             "https://www.rbfa.be/nl/wedstrijd/7663334",
             "https://www.rbfa.be/nl/wedstrijd/7663354"
           ]
+        },
+        "360198": {
+          "listed": 7,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544597",
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544568",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544573",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360199:yentel depoorter",
+      "id": "name:yentel depoorter",
       "club_id": "roeselare",
       "name": "Yentel Depoorter",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 8,
@@ -296,13 +354,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:jarno demonie",
+      "id": "name:jarno demonie",
       "club_id": "roeselare",
       "name": "Jarno Demonie",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 7,
@@ -323,13 +383,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:yentl dejonckheere",
+      "id": "name:yentl dejonckheere",
       "club_id": "roeselare",
       "name": "Yentl Dejonckheere",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 1,
@@ -340,17 +402,36 @@
           "matches": [
             "https://www.rbfa.be/nl/wedstrijd/7663341"
           ]
+        },
+        "360198": {
+          "listed": 7,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544597",
+            "https://www.rbfa.be/nl/wedstrijd/7544584",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544573",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544576",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360199:tristan vanhecke",
+      "id": "name:tristan vanhecke",
       "club_id": "roeselare",
       "name": "Tristan Vanhecke",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 2,
@@ -362,17 +443,34 @@
             "https://www.rbfa.be/nl/wedstrijd/7663341",
             "https://www.rbfa.be/nl/wedstrijd/7663348"
           ]
+        },
+        "360198": {
+          "listed": 5,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544597",
+            "https://www.rbfa.be/nl/wedstrijd/7544584",
+            "https://www.rbfa.be/nl/wedstrijd/7544573",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360199:naiven deconinck",
+      "id": "name:naiven deconinck",
       "club_id": "roeselare",
       "name": "Naiven Deconinck",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 6,
@@ -392,13 +490,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:luca segaert",
+      "id": "name:luca segaert",
       "club_id": "roeselare",
       "name": "Luca Segaert",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 6,
@@ -418,13 +518,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:pieter claerhout",
+      "id": "name:pieter claerhout",
       "club_id": "roeselare",
       "name": "Pieter Claerhout",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 1,
@@ -442,10 +544,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360199:juul lammertyn",
+      "id": "name:juul lammertyn",
       "club_id": "roeselare",
       "name": "Juul Lammertyn",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 8,
@@ -467,13 +569,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:stefan alexandru nicolescu",
+      "id": "name:stefan alexandru nicolescu",
       "club_id": "roeselare",
       "name": "Stefan Alexandru Nicolescu",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 4,
@@ -491,13 +595,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:381025:maxime de crop",
+      "id": "name:maxime de crop",
       "club_id": "torhout",
       "name": "Maxime De Crop",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 6,
@@ -513,17 +619,31 @@
             "https://www.rbfa.be/nl/wedstrijd/7662065",
             "https://www.rbfa.be/nl/wedstrijd/7662056"
           ]
+        },
+        "364285": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582",
+            "https://www.rbfa.be/nl/wedstrijd/7544594"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:mathis van vynckt",
+      "id": "name:mathis van vynckt",
       "club_id": "torhout",
       "name": "Mathis Van Vynckt",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 6,
@@ -539,17 +659,30 @@
             "https://www.rbfa.be/nl/wedstrijd/7662065",
             "https://www.rbfa.be/nl/wedstrijd/7662056"
           ]
+        },
+        "364285": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:alexander de loof",
+      "id": "name:alexander de loof",
       "club_id": "torhout",
       "name": "Alexander De Loof",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 3,
@@ -566,13 +699,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:381025:sem trancez",
+      "id": "name:sem trancez",
       "club_id": "torhout",
       "name": "Sem Trancez",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 7,
@@ -593,13 +728,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:381025:sam camara",
+      "id": "name:sam camara",
       "club_id": "torhout",
       "name": "Sam Camara",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 2,
@@ -611,17 +748,35 @@
             "https://www.rbfa.be/nl/wedstrijd/7662067",
             "https://www.rbfa.be/nl/wedstrijd/7662073"
           ]
+        },
+        "364285": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582",
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544574",
+            "https://www.rbfa.be/nl/wedstrijd/7544571",
+            "https://www.rbfa.be/nl/wedstrijd/7544578"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:mohammad amin arash",
+      "id": "name:mohammad amin arash",
       "club_id": "torhout",
       "name": "Mohammad Amin Arash",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 6,
@@ -637,17 +792,30 @@
             "https://www.rbfa.be/nl/wedstrijd/7662065",
             "https://www.rbfa.be/nl/wedstrijd/7662056"
           ]
+        },
+        "364285": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:mathieu van tieghem",
+      "id": "name:mathieu van tieghem",
       "club_id": "torhout",
       "name": "Mathieu Van Tieghem",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 3,
@@ -664,13 +832,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:381025:lukas oplusztil",
+      "id": "name:lukas oplusztil",
       "club_id": "torhout",
       "name": "Lukas Oplusztil",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 4,
@@ -684,17 +854,33 @@
             "https://www.rbfa.be/nl/wedstrijd/7662073",
             "https://www.rbfa.be/nl/wedstrijd/7662052"
           ]
+        },
+        "364285": {
+          "listed": 4,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582",
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544594"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:warre verbanck",
+      "id": "name:warre verbanck",
       "club_id": "torhout",
       "name": "Warre Verbanck",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 4,
@@ -708,17 +894,32 @@
             "https://www.rbfa.be/nl/wedstrijd/7662052",
             "https://www.rbfa.be/nl/wedstrijd/7662065"
           ]
+        },
+        "364285": {
+          "listed": 3,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582",
+            "https://www.rbfa.be/nl/wedstrijd/7544574",
+            "https://www.rbfa.be/nl/wedstrijd/7544578"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:berre cappelle",
+      "id": "name:berre cappelle",
       "club_id": "torhout",
       "name": "Berre Cappelle",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 4,
@@ -732,17 +933,30 @@
             "https://www.rbfa.be/nl/wedstrijd/7662073",
             "https://www.rbfa.be/nl/wedstrijd/7662056"
           ]
+        },
+        "364285": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:iben lapere",
+      "id": "name:iben lapere",
       "club_id": "torhout",
       "name": "Iben Lapere",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 5,
@@ -757,17 +971,32 @@
             "https://www.rbfa.be/nl/wedstrijd/7662052",
             "https://www.rbfa.be/nl/wedstrijd/7662056"
           ]
+        },
+        "364285": {
+          "listed": 3,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544594"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:aimé berteloot",
+      "id": "name:aimé berteloot",
       "club_id": "torhout",
       "name": "Aimé Berteloot",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 6,
@@ -787,13 +1016,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:381025:senne derycke",
+      "id": "name:senne derycke",
       "club_id": "torhout",
       "name": "Senne Derycke",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 2,
@@ -805,17 +1036,35 @@
             "https://www.rbfa.be/nl/wedstrijd/7662067",
             "https://www.rbfa.be/nl/wedstrijd/7662058"
           ]
+        },
+        "364285": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544574",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544571",
+            "https://www.rbfa.be/nl/wedstrijd/7544588"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:maxim decorte",
+      "id": "name:maxim decorte",
       "club_id": "torhout",
       "name": "Maxim Decorte",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 5,
@@ -834,13 +1083,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:381025:sam vermeire",
+      "id": "name:sam vermeire",
       "club_id": "torhout",
       "name": "Sam Vermeire",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 6,
@@ -856,17 +1107,30 @@
             "https://www.rbfa.be/nl/wedstrijd/7662065",
             "https://www.rbfa.be/nl/wedstrijd/7662056"
           ]
+        },
+        "364285": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544588"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360196:dominique junior youfeigane",
+      "id": "name:dominique junior youfeigane",
       "club_id": "roeselare",
       "name": "Dominique Junior Youfeigane",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -893,10 +1157,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:rens willy verhooghe",
+      "id": "name:rens willy verhooghe",
       "club_id": "roeselare",
       "name": "Rens Willy Verhooghe",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -923,10 +1187,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:jiri struyf",
+      "id": "name:jiri struyf",
       "club_id": "roeselare",
       "name": "Jiri Struyf",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -953,10 +1217,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:henri hendrik van marcke",
+      "id": "name:henri hendrik van marcke",
       "club_id": "roeselare",
       "name": "Henri Hendrik Van Marcke",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -983,10 +1247,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:sam josip valcke",
+      "id": "name:sam josip valcke",
       "club_id": "roeselare",
       "name": "Sam Josip Valcke",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -1013,10 +1277,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:jelco schamp",
+      "id": "name:jelco schamp",
       "club_id": "roeselare",
       "name": "Jelco Schamp",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -1043,10 +1307,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:thibaud sergeant",
+      "id": "name:thibaud sergeant",
       "club_id": "roeselare",
       "name": "Thibaud Sergeant",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -1073,10 +1337,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:guillaume laurent cnudde",
+      "id": "name:guillaume laurent cnudde",
       "club_id": "roeselare",
       "name": "Guillaume Laurent Cnudde",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -1103,10 +1367,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:arthur victor harinck",
+      "id": "name:arthur victor harinck",
       "club_id": "roeselare",
       "name": "Arthur Victor Harinck",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -1133,10 +1397,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:arne de schepper",
+      "id": "name:arne de schepper",
       "club_id": "roeselare",
       "name": "Arne De Schepper",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 9,
@@ -1162,10 +1426,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:joey edouard dujardin",
+      "id": "name:joey edouard dujardin",
       "club_id": "roeselare",
       "name": "Joey Edouard Dujardin",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -1192,10 +1456,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:leandro lieven depaepe",
+      "id": "name:leandro lieven depaepe",
       "club_id": "roeselare",
       "name": "Leandro Lieven Depaepe",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -1222,10 +1486,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:gilles d'hondt",
+      "id": "name:gilles d'hondt",
       "club_id": "roeselare",
       "name": "Gilles D'Hondt",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 6,
@@ -1241,17 +1505,33 @@
             "https://www.rbfa.be/nl/wedstrijd/7565318",
             "https://www.rbfa.be/nl/wedstrijd/7565284"
           ]
+        },
+        "360198": {
+          "listed": 5,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544568",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544573",
+            "https://www.rbfa.be/nl/wedstrijd/7544576"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360196:justin hallaert",
+      "id": "name:justin hallaert",
       "club_id": "roeselare",
       "name": "Justin Hallaert",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 6,
@@ -1274,10 +1554,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:joão domingos costa correia",
+      "id": "name:joão domingos costa correia",
       "club_id": "roeselare",
       "name": "João Domingos Costa Correia",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 4,
@@ -1291,17 +1571,29 @@
             "https://www.rbfa.be/nl/wedstrijd/7565318",
             "https://www.rbfa.be/nl/wedstrijd/7565284"
           ]
+        },
+        "360198": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544594"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360196:arne cassaert",
+      "id": "name:arne cassaert",
       "club_id": "roeselare",
       "name": "Arne Cassaert",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -1328,10 +1620,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:stan braem",
+      "id": "name:stan braem",
       "club_id": "roeselare",
       "name": "Stan Braem",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 10,
@@ -1358,10 +1650,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:daan debouver",
+      "id": "name:daan debouver",
       "club_id": "roeselare",
       "name": "Daan Debouver",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 5,
@@ -1383,10 +1675,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360196:michiel clyncke",
+      "id": "name:michiel clyncke",
       "club_id": "roeselare",
       "name": "Michiel Clyncke",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 5,
@@ -1408,10 +1700,10 @@
       "signals": []
     },
     {
-      "id": "unverified:381025:mauro renzi",
+      "id": "name:mauro renzi",
       "club_id": "torhout",
       "name": "Mauro Renzi",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 2,
@@ -1423,17 +1715,33 @@
             "https://www.rbfa.be/nl/wedstrijd/7662079",
             "https://www.rbfa.be/nl/wedstrijd/7662058"
           ]
+        },
+        "364285": {
+          "listed": 4,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544587",
+            "https://www.rbfa.be/nl/wedstrijd/7544588"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:sem deleu",
+      "id": "name:sem deleu",
       "club_id": "torhout",
       "name": "Sem Deleu",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 6,
@@ -1453,13 +1761,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:381025:cédric segers",
+      "id": "name:cédric segers",
       "club_id": "torhout",
       "name": "Cédric Segers",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 5,
@@ -1474,17 +1784,33 @@
             "https://www.rbfa.be/nl/wedstrijd/7662052",
             "https://www.rbfa.be/nl/wedstrijd/7662065"
           ]
+        },
+        "364285": {
+          "listed": 4,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582",
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544587"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:tiago dekie",
+      "id": "name:tiago dekie",
       "club_id": "torhout",
       "name": "Tiago Dekie",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 4,
@@ -1498,17 +1824,31 @@
             "https://www.rbfa.be/nl/wedstrijd/7662073",
             "https://www.rbfa.be/nl/wedstrijd/7662065"
           ]
+        },
+        "364285": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582",
+            "https://www.rbfa.be/nl/wedstrijd/7544587"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:381025:florent hoti",
+      "id": "name:florent hoti",
       "club_id": "torhout",
       "name": "Florent Hoti",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 1,
@@ -1519,17 +1859,31 @@
           "matches": [
             "https://www.rbfa.be/nl/wedstrijd/7662079"
           ]
+        },
+        "364285": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544571"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360196:fries dirk deschilder",
+      "id": "name:fries dirk deschilder",
       "club_id": "roeselare",
       "name": "Fries Dirk Deschilder",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360196": {
           "listed": 4,
@@ -1550,10 +1904,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:jitse de witte",
+      "id": "name:jitse de witte",
       "club_id": "torhout",
       "name": "Jitse De Witte",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 10,
@@ -1580,10 +1934,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:enrique tanghe",
+      "id": "name:enrique tanghe",
       "club_id": "torhout",
       "name": "Enrique Tanghe",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 10,
@@ -1610,10 +1964,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:tiebe trancez",
+      "id": "name:tiebe trancez",
       "club_id": "torhout",
       "name": "Tiebe Trancez",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 10,
@@ -1640,10 +1994,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:thijs coninckx",
+      "id": "name:thijs coninckx",
       "club_id": "torhout",
       "name": "Thijs Coninckx",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 10,
@@ -1670,10 +2024,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:thibaux bart van de gehuchte",
+      "id": "name:thibaux bart van de gehuchte",
       "club_id": "torhout",
       "name": "Thibaux Bart Van De Gehuchte",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 9,
@@ -1699,10 +2053,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:thibo janssens",
+      "id": "name:thibo janssens",
       "club_id": "torhout",
       "name": "Thibo Janssens",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 9,
@@ -1721,17 +2075,29 @@
             "https://www.rbfa.be/nl/wedstrijd/7514447",
             "https://www.rbfa.be/nl/wedstrijd/7514439"
           ]
+        },
+        "364285": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364284:ebe tanghe",
+      "id": "name:ebe tanghe",
       "club_id": "torhout",
       "name": "Ebe Tanghe",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 10,
@@ -1758,10 +2124,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:bryan van den bogaert",
+      "id": "name:bryan van den bogaert",
       "club_id": "torhout",
       "name": "Bryan Van Den Bogaert",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 7,
@@ -1785,10 +2151,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:yari brachet",
+      "id": "name:yari brachet",
       "club_id": "torhout",
       "name": "Yari Brachet",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 6,
@@ -1811,10 +2177,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:rune vandeginste",
+      "id": "name:rune vandeginste",
       "club_id": "torhout",
       "name": "Rune Vandeginste",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 8,
@@ -1832,17 +2198,30 @@
             "https://www.rbfa.be/nl/wedstrijd/7514447",
             "https://www.rbfa.be/nl/wedstrijd/7514439"
           ]
+        },
+        "364285": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544587",
+            "https://www.rbfa.be/nl/wedstrijd/7544588"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364284:tristan nick shillam",
+      "id": "name:tristan nick shillam",
       "club_id": "torhout",
       "name": "Tristan Nick Shillam",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 9,
@@ -1868,10 +2247,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:noah vanwalleghem",
+      "id": "name:noah vanwalleghem",
       "club_id": "torhout",
       "name": "Noah Vanwalleghem",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 9,
@@ -1890,17 +2269,30 @@
             "https://www.rbfa.be/nl/wedstrijd/7514431",
             "https://www.rbfa.be/nl/wedstrijd/7514439"
           ]
+        },
+        "364285": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544582",
+            "https://www.rbfa.be/nl/wedstrijd/7544574"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364284:lars gerrits",
+      "id": "name:lars gerrits",
       "club_id": "torhout",
       "name": "Lars Gerrits",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 4,
@@ -1914,17 +2306,32 @@
             "https://www.rbfa.be/nl/wedstrijd/7514382",
             "https://www.rbfa.be/nl/wedstrijd/7514396"
           ]
+        },
+        "364285": {
+          "listed": 4,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544587",
+            "https://www.rbfa.be/nl/wedstrijd/7544588"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364284:alieu faal",
+      "id": "name:alieu faal",
       "club_id": "torhout",
       "name": "Alieu Faal",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 7,
@@ -1941,17 +2348,29 @@
             "https://www.rbfa.be/nl/wedstrijd/7514382",
             "https://www.rbfa.be/nl/wedstrijd/7514396"
           ]
+        },
+        "364285": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544599"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364284:mathieu geeraerd",
+      "id": "name:mathieu geeraerd",
       "club_id": "torhout",
       "name": "Mathieu Geeraerd",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 9,
@@ -1977,10 +2396,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364284:matti bram van de gehuchte",
+      "id": "name:matti bram van de gehuchte",
       "club_id": "torhout",
       "name": "Matti Bram Van De Gehuchte",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364284": {
           "listed": 6,
@@ -1996,62 +2415,7 @@
             "https://www.rbfa.be/nl/wedstrijd/7514396",
             "https://www.rbfa.be/nl/wedstrijd/7514431"
           ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:maxime de crop",
-      "club_id": "torhout",
-      "name": "Maxime De Crop",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582",
-            "https://www.rbfa.be/nl/wedstrijd/7544594"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:noah vanwalleghem",
-      "club_id": "torhout",
-      "name": "Noah Vanwalleghem",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582",
-            "https://www.rbfa.be/nl/wedstrijd/7544574"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:matti bram van de gehuchte",
-      "club_id": "torhout",
-      "name": "Matti Bram Van De Gehuchte",
-      "identity_verified": false,
-      "teams": {
+        },
         "364285": {
           "listed": 4,
           "known_minutes": 0,
@@ -2067,35 +2431,16 @@
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364285:berre cappelle",
-      "club_id": "torhout",
-      "name": "Berre Cappelle",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:dylan ragolle",
+      "id": "name:dylan ragolle",
       "club_id": "torhout",
       "name": "Dylan Ragolle",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364285": {
           "listed": 5,
@@ -2110,43 +2455,32 @@
             "https://www.rbfa.be/nl/wedstrijd/7544571",
             "https://www.rbfa.be/nl/wedstrijd/7544578"
           ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:sam camara",
-      "club_id": "torhout",
-      "name": "Sam Camara",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 6,
+        },
+        "364284": {
+          "listed": 4,
           "known_minutes": 0,
           "minutes_known_matches": 0,
           "known_starts": 0,
           "known_bench_only": 0,
           "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582",
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544574",
-            "https://www.rbfa.be/nl/wedstrijd/7544571",
-            "https://www.rbfa.be/nl/wedstrijd/7544578"
+            "https://www.rbfa.be/nl/wedstrijd/7514415",
+            "https://www.rbfa.be/nl/wedstrijd/7514421",
+            "https://www.rbfa.be/nl/wedstrijd/7514431",
+            "https://www.rbfa.be/nl/wedstrijd/7514439"
           ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364285:timo de laender",
+      "id": "name:timo de laender",
       "club_id": "torhout",
       "name": "Timo De Laender",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364285": {
           "listed": 5,
@@ -2161,17 +2495,32 @@
             "https://www.rbfa.be/nl/wedstrijd/7544588",
             "https://www.rbfa.be/nl/wedstrijd/7544578"
           ]
+        },
+        "364284": {
+          "listed": 4,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7514373",
+            "https://www.rbfa.be/nl/wedstrijd/7514404",
+            "https://www.rbfa.be/nl/wedstrijd/7514447",
+            "https://www.rbfa.be/nl/wedstrijd/7514439"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364285:mathieu johny vervaecke",
+      "id": "name:mathieu johny vervaecke",
       "club_id": "torhout",
       "name": "Mathieu Johny Vervaecke",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364285": {
           "listed": 3,
@@ -2184,62 +2533,33 @@
             "https://www.rbfa.be/nl/wedstrijd/7544574",
             "https://www.rbfa.be/nl/wedstrijd/7544578"
           ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:lukas oplusztil",
-      "club_id": "torhout",
-      "name": "Lukas Oplusztil",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 4,
+        },
+        "364284": {
+          "listed": 5,
           "known_minutes": 0,
           "minutes_known_matches": 0,
           "known_starts": 0,
           "known_bench_only": 0,
           "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582",
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544594"
+            "https://www.rbfa.be/nl/wedstrijd/7514415",
+            "https://www.rbfa.be/nl/wedstrijd/7514421",
+            "https://www.rbfa.be/nl/wedstrijd/7514431",
+            "https://www.rbfa.be/nl/wedstrijd/7514447",
+            "https://www.rbfa.be/nl/wedstrijd/7514439"
           ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364285:thibo janssens",
-      "club_id": "torhout",
-      "name": "Thibo Janssens",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:gianni lingier",
+      "id": "name:gianni lingier",
       "club_id": "torhout",
       "name": "Gianni Lingier",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364285": {
           "listed": 4,
@@ -2253,128 +2573,30 @@
             "https://www.rbfa.be/nl/wedstrijd/7544594",
             "https://www.rbfa.be/nl/wedstrijd/7544587"
           ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:cédric segers",
-      "club_id": "torhout",
-      "name": "Cédric Segers",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 4,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582",
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544587"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:warre verbanck",
-      "club_id": "torhout",
-      "name": "Warre Verbanck",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 3,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582",
-            "https://www.rbfa.be/nl/wedstrijd/7544574",
-            "https://www.rbfa.be/nl/wedstrijd/7544578"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:tiago dekie",
-      "club_id": "torhout",
-      "name": "Tiago Dekie",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
+        },
+        "364284": {
           "listed": 2,
           "known_minutes": 0,
           "minutes_known_matches": 0,
           "known_starts": 0,
           "known_bench_only": 0,
           "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582",
-            "https://www.rbfa.be/nl/wedstrijd/7544587"
+            "https://www.rbfa.be/nl/wedstrijd/7514431",
+            "https://www.rbfa.be/nl/wedstrijd/7514447"
           ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364285:mathis van vynckt",
-      "club_id": "torhout",
-      "name": "Mathis Van Vynckt",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:mohammad amin arash",
-      "club_id": "torhout",
-      "name": "Mohammad Amin Arash",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544582"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:matthias deforche",
+      "id": "name:matthias deforche",
       "club_id": "roeselare",
       "name": "Matthias Deforche",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360198": {
           "listed": 4,
@@ -2388,17 +2610,34 @@
             "https://www.rbfa.be/nl/wedstrijd/7544568",
             "https://www.rbfa.be/nl/wedstrijd/7544576"
           ]
+        },
+        "360199": {
+          "listed": 5,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7663359",
+            "https://www.rbfa.be/nl/wedstrijd/7663334",
+            "https://www.rbfa.be/nl/wedstrijd/7663350",
+            "https://www.rbfa.be/nl/wedstrijd/7663342",
+            "https://www.rbfa.be/nl/wedstrijd/7663354"
+          ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360198:emiel vanacker",
+      "id": "name:emiel vanacker",
       "club_id": "roeselare",
       "name": "Emiel Vanacker",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360198": {
           "listed": 9,
@@ -2421,13 +2660,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360198:hasse roelens",
+      "id": "name:hasse roelens",
       "club_id": "roeselare",
       "name": "Hasse Roelens",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360198": {
           "listed": 9,
@@ -2450,13 +2691,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360198:guess depuydt",
+      "id": "name:guess depuydt",
       "club_id": "roeselare",
       "name": "Guess Depuydt",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360198": {
           "listed": 8,
@@ -2478,13 +2721,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360198:liano leverze",
+      "id": "name:liano leverze",
       "club_id": "roeselare",
       "name": "Liano Leverze",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360198": {
           "listed": 8,
@@ -2506,13 +2751,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360198:mathis lesy",
+      "id": "name:mathis lesy",
       "club_id": "roeselare",
       "name": "Mathis Lesy",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360198": {
           "listed": 7,
@@ -2529,485 +2776,442 @@
             "https://www.rbfa.be/nl/wedstrijd/7544583",
             "https://www.rbfa.be/nl/wedstrijd/7544576"
           ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:warre roelens",
-      "club_id": "roeselare",
-      "name": "Warre Roelens",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 8,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544597",
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544584",
-            "https://www.rbfa.be/nl/wedstrijd/7544568",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544576",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:jari van cauwenberghe",
-      "club_id": "roeselare",
-      "name": "Jari Van Cauwenberghe",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 8,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544597",
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544584",
-            "https://www.rbfa.be/nl/wedstrijd/7544568",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544573",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544576"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:yentl dejonckheere",
-      "club_id": "roeselare",
-      "name": "Yentl Dejonckheere",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 7,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544597",
-            "https://www.rbfa.be/nl/wedstrijd/7544584",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544573",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544576",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:imam bektemirov",
-      "club_id": "roeselare",
-      "name": "Imam Bektemirov",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 8,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544597",
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544584",
-            "https://www.rbfa.be/nl/wedstrijd/7544568",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544576",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:korneel maerten",
-      "club_id": "roeselare",
-      "name": "Korneel Maerten",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 7,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544597",
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544584",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544576",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:simon montmorency",
-      "club_id": "roeselare",
-      "name": "Simon Montmorency",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 7,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544597",
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544584",
-            "https://www.rbfa.be/nl/wedstrijd/7544568",
-            "https://www.rbfa.be/nl/wedstrijd/7544573",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:jasper sabbe",
-      "club_id": "roeselare",
-      "name": "Jasper Sabbe",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 7,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544597",
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544568",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544573",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:gideon konadu afari",
-      "club_id": "roeselare",
-      "name": "Gideon Konadu Afari",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 8,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544597",
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544584",
-            "https://www.rbfa.be/nl/wedstrijd/7544568",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544573",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544576"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:tristan vanhecke",
-      "club_id": "roeselare",
-      "name": "Tristan Vanhecke",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 5,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544597",
-            "https://www.rbfa.be/nl/wedstrijd/7544584",
-            "https://www.rbfa.be/nl/wedstrijd/7544573",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:dex verduyn",
-      "club_id": "roeselare",
-      "name": "Dex Verduyn",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 5,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544597",
-            "https://www.rbfa.be/nl/wedstrijd/7544568",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544576",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:nelles goethals",
-      "club_id": "torhout",
-      "name": "Nelles Goethals",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 4,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544571",
-            "https://www.rbfa.be/nl/wedstrijd/7544587",
-            "https://www.rbfa.be/nl/wedstrijd/7544588"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:ferre roegiest",
-      "club_id": "torhout",
-      "name": "Ferre Roegiest",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 8,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544574",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544571",
-            "https://www.rbfa.be/nl/wedstrijd/7544587",
-            "https://www.rbfa.be/nl/wedstrijd/7544588",
-            "https://www.rbfa.be/nl/wedstrijd/7544578"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:bas merci",
-      "club_id": "roeselare",
-      "name": "Bas Merci",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 4,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:mauro renzi",
-      "club_id": "torhout",
-      "name": "Mauro Renzi",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 4,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544587",
-            "https://www.rbfa.be/nl/wedstrijd/7544588"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:leon vantornout",
-      "club_id": "roeselare",
-      "name": "Leon Vantornout",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 6,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544584",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544573",
-            "https://www.rbfa.be/nl/wedstrijd/7544583",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:matheo bleyaert",
-      "club_id": "torhout",
-      "name": "Matheo Bleyaert",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 7,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544574",
-            "https://www.rbfa.be/nl/wedstrijd/7544571",
-            "https://www.rbfa.be/nl/wedstrijd/7544587",
-            "https://www.rbfa.be/nl/wedstrijd/7544588",
-            "https://www.rbfa.be/nl/wedstrijd/7544578"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:iben lapere",
-      "club_id": "torhout",
-      "name": "Iben Lapere",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 3,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544594"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:florent hoti",
-      "club_id": "torhout",
-      "name": "Florent Hoti",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
+        },
+        "360199": {
           "listed": 2,
           "known_minutes": 0,
           "minutes_known_matches": 0,
           "known_starts": 0,
           "known_bench_only": 0,
           "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7663359",
+            "https://www.rbfa.be/nl/wedstrijd/7663334"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:warre roelens",
+      "club_id": "roeselare",
+      "name": "Warre Roelens",
+      "identity_method": "club_name",
+      "teams": {
+        "360198": {
+          "listed": 8,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544597",
             "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544571"
+            "https://www.rbfa.be/nl/wedstrijd/7544584",
+            "https://www.rbfa.be/nl/wedstrijd/7544568",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544576",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
+        },
+        "360199": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7663359",
+            "https://www.rbfa.be/nl/wedstrijd/7663342"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:jari van cauwenberghe",
+      "club_id": "roeselare",
+      "name": "Jari Van Cauwenberghe",
+      "identity_method": "club_name",
+      "teams": {
+        "360198": {
+          "listed": 8,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544597",
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544584",
+            "https://www.rbfa.be/nl/wedstrijd/7544568",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544573",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544576"
           ]
         }
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:364285:yassin nedjadi",
+      "id": "name:imam bektemirov",
+      "club_id": "roeselare",
+      "name": "Imam Bektemirov",
+      "identity_method": "club_name",
+      "teams": {
+        "360198": {
+          "listed": 8,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544597",
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544584",
+            "https://www.rbfa.be/nl/wedstrijd/7544568",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544576",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:korneel maerten",
+      "club_id": "roeselare",
+      "name": "Korneel Maerten",
+      "identity_method": "club_name",
+      "teams": {
+        "360198": {
+          "listed": 7,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544597",
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544584",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544576",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
+        },
+        "360196": {
+          "listed": 3,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7565322",
+            "https://www.rbfa.be/nl/wedstrijd/7565352",
+            "https://www.rbfa.be/nl/wedstrijd/7565284"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:simon montmorency",
+      "club_id": "roeselare",
+      "name": "Simon Montmorency",
+      "identity_method": "club_name",
+      "teams": {
+        "360198": {
+          "listed": 7,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544597",
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544584",
+            "https://www.rbfa.be/nl/wedstrijd/7544568",
+            "https://www.rbfa.be/nl/wedstrijd/7544573",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
+        },
+        "360199": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7663348",
+            "https://www.rbfa.be/nl/wedstrijd/7663334"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:gideon konadu afari",
+      "club_id": "roeselare",
+      "name": "Gideon Konadu Afari",
+      "identity_method": "club_name",
+      "teams": {
+        "360198": {
+          "listed": 8,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544597",
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544584",
+            "https://www.rbfa.be/nl/wedstrijd/7544568",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544573",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544576"
+          ]
+        },
+        "360199": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7663359"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:dex verduyn",
+      "club_id": "roeselare",
+      "name": "Dex Verduyn",
+      "identity_method": "club_name",
+      "teams": {
+        "360198": {
+          "listed": 5,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544597",
+            "https://www.rbfa.be/nl/wedstrijd/7544568",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544576",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
+        },
+        "360199": {
+          "listed": 3,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7663334",
+            "https://www.rbfa.be/nl/wedstrijd/7663342",
+            "https://www.rbfa.be/nl/wedstrijd/7663354"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:nelles goethals",
+      "club_id": "torhout",
+      "name": "Nelles Goethals",
+      "identity_method": "club_name",
+      "teams": {
+        "364285": {
+          "listed": 4,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544571",
+            "https://www.rbfa.be/nl/wedstrijd/7544587",
+            "https://www.rbfa.be/nl/wedstrijd/7544588"
+          ]
+        },
+        "381025": {
+          "listed": 5,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7662058",
+            "https://www.rbfa.be/nl/wedstrijd/7662073",
+            "https://www.rbfa.be/nl/wedstrijd/7662052",
+            "https://www.rbfa.be/nl/wedstrijd/7662065",
+            "https://www.rbfa.be/nl/wedstrijd/7662056"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:ferre roegiest",
+      "club_id": "torhout",
+      "name": "Ferre Roegiest",
+      "identity_method": "club_name",
+      "teams": {
+        "364285": {
+          "listed": 8,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544574",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544571",
+            "https://www.rbfa.be/nl/wedstrijd/7544587",
+            "https://www.rbfa.be/nl/wedstrijd/7544588",
+            "https://www.rbfa.be/nl/wedstrijd/7544578"
+          ]
+        },
+        "364282": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002"
+          ]
+        },
+        "364284": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7514447"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:bas merci",
+      "club_id": "roeselare",
+      "name": "Bas Merci",
+      "identity_method": "club_name",
+      "teams": {
+        "360198": {
+          "listed": 4,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544583",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:matheo bleyaert",
+      "club_id": "torhout",
+      "name": "Matheo Bleyaert",
+      "identity_method": "club_name",
+      "teams": {
+        "364285": {
+          "listed": 7,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544574",
+            "https://www.rbfa.be/nl/wedstrijd/7544571",
+            "https://www.rbfa.be/nl/wedstrijd/7544587",
+            "https://www.rbfa.be/nl/wedstrijd/7544588",
+            "https://www.rbfa.be/nl/wedstrijd/7544578"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:yassin nedjadi",
       "club_id": "torhout",
       "name": "Yassin Nedjadi",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364285": {
           "listed": 4,
@@ -3025,13 +3229,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:364285:matthis decaesstecker",
+      "id": "name:matthis decaesstecker",
       "club_id": "torhout",
       "name": "Matthis Decaesstecker",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364285": {
           "listed": 5,
@@ -3046,42 +3252,31 @@
             "https://www.rbfa.be/nl/wedstrijd/7544587",
             "https://www.rbfa.be/nl/wedstrijd/7544588"
           ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:gilles d'hondt",
-      "club_id": "roeselare",
-      "name": "Gilles D'Hondt",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 5,
+        },
+        "381025": {
+          "listed": 2,
           "known_minutes": 0,
           "minutes_known_matches": 0,
           "known_starts": 0,
           "known_bench_only": 0,
           "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544568",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544573",
-            "https://www.rbfa.be/nl/wedstrijd/7544576"
+            "https://www.rbfa.be/nl/wedstrijd/7662058",
+            "https://www.rbfa.be/nl/wedstrijd/7662065"
           ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360198:kylian abdelkerim",
+      "id": "name:kylian abdelkerim",
       "club_id": "roeselare",
       "name": "Kylian Abdelkerim",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360198": {
           "listed": 1,
@@ -3099,10 +3294,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364285:charles decorte",
+      "id": "name:charles decorte",
       "club_id": "torhout",
       "name": "Charles Decorte",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364285": {
           "listed": 6,
@@ -3118,43 +3313,30 @@
             "https://www.rbfa.be/nl/wedstrijd/7544587",
             "https://www.rbfa.be/nl/wedstrijd/7544588"
           ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:senne derycke",
-      "club_id": "torhout",
-      "name": "Senne Derycke",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 6,
+        },
+        "381025": {
+          "listed": 1,
           "known_minutes": 0,
           "minutes_known_matches": 0,
           "known_starts": 0,
           "known_bench_only": 0,
           "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544574",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544571",
-            "https://www.rbfa.be/nl/wedstrijd/7544588"
+            "https://www.rbfa.be/nl/wedstrijd/7662058"
           ]
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:360198:mathijs maerten",
+      "id": "name:mathijs maerten",
       "club_id": "roeselare",
       "name": "Mathijs Maerten",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360198": {
           "listed": 2,
@@ -3173,10 +3355,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364285:lukas campe",
+      "id": "name:lukas campe",
       "club_id": "torhout",
       "name": "Lukas Campe",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364285": {
           "listed": 2,
@@ -3188,1148 +3370,7 @@
             "https://www.rbfa.be/nl/wedstrijd/7544567",
             "https://www.rbfa.be/nl/wedstrijd/7544571"
           ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:loïc achiel vergote",
-      "club_id": "torhout",
-      "name": "Loïc Achiel Vergote",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 6,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544574",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544571",
-            "https://www.rbfa.be/nl/wedstrijd/7544588",
-            "https://www.rbfa.be/nl/wedstrijd/7544578"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:marlon rachidi",
-      "club_id": "roeselare",
-      "name": "Marlon Rachidi",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 4,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544567",
-            "https://www.rbfa.be/nl/wedstrijd/7544584",
-            "https://www.rbfa.be/nl/wedstrijd/7544568",
-            "https://www.rbfa.be/nl/wedstrijd/7544573"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360196:korneel maerten",
-      "club_id": "roeselare",
-      "name": "Korneel Maerten",
-      "identity_verified": false,
-      "teams": {
-        "360196": {
-          "listed": 3,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7565322",
-            "https://www.rbfa.be/nl/wedstrijd/7565352",
-            "https://www.rbfa.be/nl/wedstrijd/7565284"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360199:simon montmorency",
-      "club_id": "roeselare",
-      "name": "Simon Montmorency",
-      "identity_verified": false,
-      "teams": {
-        "360199": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7663348",
-            "https://www.rbfa.be/nl/wedstrijd/7663334"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360199:lander maeyaert",
-      "club_id": "roeselare",
-      "name": "Lander Maeyaert",
-      "identity_verified": false,
-      "teams": {
-        "360199": {
-          "listed": 7,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7663348",
-            "https://www.rbfa.be/nl/wedstrijd/7663359",
-            "https://www.rbfa.be/nl/wedstrijd/7663334",
-            "https://www.rbfa.be/nl/wedstrijd/7663350",
-            "https://www.rbfa.be/nl/wedstrijd/7663342",
-            "https://www.rbfa.be/nl/wedstrijd/7663366",
-            "https://www.rbfa.be/nl/wedstrijd/7663354"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360199:lucas heyman",
-      "club_id": "roeselare",
-      "name": "Lucas Heyman",
-      "identity_verified": false,
-      "teams": {
-        "360199": {
-          "listed": 7,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7663348",
-            "https://www.rbfa.be/nl/wedstrijd/7663359",
-            "https://www.rbfa.be/nl/wedstrijd/7663334",
-            "https://www.rbfa.be/nl/wedstrijd/7663350",
-            "https://www.rbfa.be/nl/wedstrijd/7663342",
-            "https://www.rbfa.be/nl/wedstrijd/7663366",
-            "https://www.rbfa.be/nl/wedstrijd/7663354"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:lars gerrits",
-      "club_id": "torhout",
-      "name": "Lars Gerrits",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 4,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544587",
-            "https://www.rbfa.be/nl/wedstrijd/7544588"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:liam dupont",
-      "club_id": "torhout",
-      "name": "Liam Dupont",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 5,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544587",
-            "https://www.rbfa.be/nl/wedstrijd/7544588",
-            "https://www.rbfa.be/nl/wedstrijd/7544578"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:gerard maréchal",
-      "club_id": "torhout",
-      "name": "Gerard Maréchal",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 6,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544574",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544571",
-            "https://www.rbfa.be/nl/wedstrijd/7544588",
-            "https://www.rbfa.be/nl/wedstrijd/7544578"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:wout vansteene",
-      "club_id": "torhout",
-      "name": "Wout Vansteene",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 5,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544587",
-            "https://www.rbfa.be/nl/wedstrijd/7544588",
-            "https://www.rbfa.be/nl/wedstrijd/7544578"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:alieu faal",
-      "club_id": "torhout",
-      "name": "Alieu Faal",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544599"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:lowie vergote",
-      "club_id": "torhout",
-      "name": "Lowie Vergote",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544599"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:kobe jolyt",
-      "club_id": "torhout",
-      "name": "Kobe Jolyt",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 6,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544599",
-            "https://www.rbfa.be/nl/wedstrijd/7544574",
-            "https://www.rbfa.be/nl/wedstrijd/7544594",
-            "https://www.rbfa.be/nl/wedstrijd/7544571",
-            "https://www.rbfa.be/nl/wedstrijd/7544587",
-            "https://www.rbfa.be/nl/wedstrijd/7544578"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:dylan bauwens",
-      "club_id": "torhout",
-      "name": "Dylan Bauwens",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 6,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:matteo vanmaele",
-      "club_id": "torhout",
-      "name": "Matteo Vanmaele",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 10,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:brent sintubin",
-      "club_id": "torhout",
-      "name": "Brent Sintubin",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 9,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:thibault segers",
-      "club_id": "torhout",
-      "name": "Thibault Segers",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 9,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:henri denys",
-      "club_id": "torhout",
-      "name": "Henri Denys",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 6,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510011"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:iony sabbe",
-      "club_id": "torhout",
-      "name": "Iony Sabbe",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 10,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:sebastiaan cordie",
-      "club_id": "torhout",
-      "name": "Sebastiaan Cordie",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 8,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:milan denolf",
-      "club_id": "torhout",
-      "name": "Milan Denolf",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 6,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:jente sintubin",
-      "club_id": "torhout",
-      "name": "Jente Sintubin",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 10,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:joran debou",
-      "club_id": "torhout",
-      "name": "Joran Debou",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 9,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:obed apprey",
-      "club_id": "torhout",
-      "name": "Obed Apprey",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 10,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:ferre roegiest",
-      "club_id": "torhout",
-      "name": "Ferre Roegiest",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:lars vanhoutte",
-      "club_id": "torhout",
-      "name": "Lars Vanhoutte",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510011"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:sem albrecht",
-      "club_id": "torhout",
-      "name": "Sem Albrecht",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:sebbe cappelle",
-      "club_id": "torhout",
-      "name": "Sebbe Cappelle",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 10,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:kobe blomme",
-      "club_id": "torhout",
-      "name": "Kobe Blomme",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 4,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510002",
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510011"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360199:matthias deforche",
-      "club_id": "roeselare",
-      "name": "Matthias Deforche",
-      "identity_verified": false,
-      "teams": {
-        "360199": {
-          "listed": 5,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7663359",
-            "https://www.rbfa.be/nl/wedstrijd/7663334",
-            "https://www.rbfa.be/nl/wedstrijd/7663350",
-            "https://www.rbfa.be/nl/wedstrijd/7663342",
-            "https://www.rbfa.be/nl/wedstrijd/7663354"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360199:mathis lesy",
-      "club_id": "roeselare",
-      "name": "Mathis Lesy",
-      "identity_verified": false,
-      "teams": {
-        "360199": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7663359",
-            "https://www.rbfa.be/nl/wedstrijd/7663334"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360199:wout derycke",
-      "club_id": "roeselare",
-      "name": "Wout Derycke",
-      "identity_verified": false,
-      "teams": {
-        "360199": {
-          "listed": 4,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7663359",
-            "https://www.rbfa.be/nl/wedstrijd/7663342",
-            "https://www.rbfa.be/nl/wedstrijd/7663366",
-            "https://www.rbfa.be/nl/wedstrijd/7663354"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360199:gideon konadu afari",
-      "club_id": "roeselare",
-      "name": "Gideon Konadu Afari",
-      "identity_verified": false,
-      "teams": {
-        "360199": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7663359"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360199:warre roelens",
-      "club_id": "roeselare",
-      "name": "Warre Roelens",
-      "identity_verified": false,
-      "teams": {
-        "360199": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7663359",
-            "https://www.rbfa.be/nl/wedstrijd/7663342"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:arne bryon",
-      "club_id": "torhout",
-      "name": "Arne Bryon",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 8,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:mauritz decleire",
-      "club_id": "torhout",
-      "name": "Mauritz Decleire",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 7,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510011",
-            "https://www.rbfa.be/nl/wedstrijd/7510070"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:rens goethals",
-      "club_id": "torhout",
-      "name": "Rens Goethals",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 8,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510021",
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:381025:nelles goethals",
-      "club_id": "torhout",
-      "name": "Nelles Goethals",
-      "identity_verified": false,
-      "teams": {
-        "381025": {
-          "listed": 5,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7662058",
-            "https://www.rbfa.be/nl/wedstrijd/7662073",
-            "https://www.rbfa.be/nl/wedstrijd/7662052",
-            "https://www.rbfa.be/nl/wedstrijd/7662065",
-            "https://www.rbfa.be/nl/wedstrijd/7662056"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:381025:matthis decaesstecker",
-      "club_id": "torhout",
-      "name": "Matthis Decaesstecker",
-      "identity_verified": false,
-      "teams": {
-        "381025": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7662058",
-            "https://www.rbfa.be/nl/wedstrijd/7662065"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:381025:charles decorte",
-      "club_id": "torhout",
-      "name": "Charles Decorte",
-      "identity_verified": false,
-      "teams": {
-        "381025": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7662058"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:381025:colin balcaen",
-      "club_id": "torhout",
-      "name": "Colin Balcaen",
-      "identity_verified": false,
-      "teams": {
-        "381025": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7662058"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:robbe decoster",
-      "club_id": "torhout",
-      "name": "Robbe Decoster",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 6,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510077",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:cis vanbrabant",
-      "club_id": "torhout",
-      "name": "Cis Vanbrabant",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 6,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510034",
-            "https://www.rbfa.be/nl/wedstrijd/7510055",
-            "https://www.rbfa.be/nl/wedstrijd/7510060",
-            "https://www.rbfa.be/nl/wedstrijd/7510070",
-            "https://www.rbfa.be/nl/wedstrijd/7510043"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:miel gevaert",
-      "club_id": "torhout",
-      "name": "Miel Gevaert",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510011"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:lowiek vyncke",
-      "club_id": "torhout",
-      "name": "Lowiek Vyncke",
-      "identity_verified": false,
-      "teams": {
-        "364282": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7510025",
-            "https://www.rbfa.be/nl/wedstrijd/7510077"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364284:lukas campe",
-      "club_id": "torhout",
-      "name": "Lukas Campe",
-      "identity_verified": false,
-      "teams": {
+        },
         "364284": {
           "listed": 7,
           "known_minutes": 0,
@@ -4348,51 +3389,254 @@
         }
       },
       "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
     },
     {
-      "id": "unverified:364284:dylan ragolle",
+      "id": "name:loïc achiel vergote",
       "club_id": "torhout",
-      "name": "Dylan Ragolle",
-      "identity_verified": false,
+      "name": "Loïc Achiel Vergote",
+      "identity_method": "club_name",
       "teams": {
+        "364285": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544574",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544571",
+            "https://www.rbfa.be/nl/wedstrijd/7544588",
+            "https://www.rbfa.be/nl/wedstrijd/7544578"
+          ]
+        },
         "364284": {
+          "listed": 3,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7514421",
+            "https://www.rbfa.be/nl/wedstrijd/7514431",
+            "https://www.rbfa.be/nl/wedstrijd/7514447"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:marlon rachidi",
+      "club_id": "roeselare",
+      "name": "Marlon Rachidi",
+      "identity_method": "club_name",
+      "teams": {
+        "360198": {
           "listed": 4,
           "known_minutes": 0,
           "minutes_known_matches": 0,
           "known_starts": 0,
           "known_bench_only": 0,
           "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7514415",
-            "https://www.rbfa.be/nl/wedstrijd/7514421",
-            "https://www.rbfa.be/nl/wedstrijd/7514431",
-            "https://www.rbfa.be/nl/wedstrijd/7514439"
+            "https://www.rbfa.be/nl/wedstrijd/7544567",
+            "https://www.rbfa.be/nl/wedstrijd/7544584",
+            "https://www.rbfa.be/nl/wedstrijd/7544568",
+            "https://www.rbfa.be/nl/wedstrijd/7544573"
+          ]
+        },
+        "360199": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7663366"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:lander maeyaert",
+      "club_id": "roeselare",
+      "name": "Lander Maeyaert",
+      "identity_method": "club_name",
+      "teams": {
+        "360199": {
+          "listed": 7,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7663348",
+            "https://www.rbfa.be/nl/wedstrijd/7663359",
+            "https://www.rbfa.be/nl/wedstrijd/7663334",
+            "https://www.rbfa.be/nl/wedstrijd/7663350",
+            "https://www.rbfa.be/nl/wedstrijd/7663342",
+            "https://www.rbfa.be/nl/wedstrijd/7663366",
+            "https://www.rbfa.be/nl/wedstrijd/7663354"
           ]
         }
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:364284:mathieu johny vervaecke",
-      "club_id": "torhout",
-      "name": "Mathieu Johny Vervaecke",
-      "identity_verified": false,
+      "id": "name:lucas heyman",
+      "club_id": "roeselare",
+      "name": "Lucas Heyman",
+      "identity_method": "club_name",
       "teams": {
-        "364284": {
+        "360199": {
+          "listed": 7,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7663348",
+            "https://www.rbfa.be/nl/wedstrijd/7663359",
+            "https://www.rbfa.be/nl/wedstrijd/7663334",
+            "https://www.rbfa.be/nl/wedstrijd/7663350",
+            "https://www.rbfa.be/nl/wedstrijd/7663342",
+            "https://www.rbfa.be/nl/wedstrijd/7663366",
+            "https://www.rbfa.be/nl/wedstrijd/7663354"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:liam dupont",
+      "club_id": "torhout",
+      "name": "Liam Dupont",
+      "identity_method": "club_name",
+      "teams": {
+        "364285": {
           "listed": 5,
           "known_minutes": 0,
           "minutes_known_matches": 0,
           "known_starts": 0,
           "known_bench_only": 0,
           "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7514415",
-            "https://www.rbfa.be/nl/wedstrijd/7514421",
-            "https://www.rbfa.be/nl/wedstrijd/7514431",
-            "https://www.rbfa.be/nl/wedstrijd/7514447",
-            "https://www.rbfa.be/nl/wedstrijd/7514439"
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544587",
+            "https://www.rbfa.be/nl/wedstrijd/7544588",
+            "https://www.rbfa.be/nl/wedstrijd/7544578"
+          ]
+        },
+        "381025": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7662065",
+            "https://www.rbfa.be/nl/wedstrijd/7662056"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:gerard maréchal",
+      "club_id": "torhout",
+      "name": "Gerard Maréchal",
+      "identity_method": "club_name",
+      "teams": {
+        "364285": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544574",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544571",
+            "https://www.rbfa.be/nl/wedstrijd/7544588",
+            "https://www.rbfa.be/nl/wedstrijd/7544578"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:wout vansteene",
+      "club_id": "torhout",
+      "name": "Wout Vansteene",
+      "identity_method": "club_name",
+      "teams": {
+        "364285": {
+          "listed": 5,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544587",
+            "https://www.rbfa.be/nl/wedstrijd/7544588",
+            "https://www.rbfa.be/nl/wedstrijd/7544578"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:lowie vergote",
+      "club_id": "torhout",
+      "name": "Lowie Vergote",
+      "identity_method": "club_name",
+      "teams": {
+        "364285": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544599"
           ]
         }
       },
@@ -4401,10 +3645,748 @@
       "signals": []
     },
     {
-      "id": "unverified:364282:miel pieters",
+      "id": "name:kobe jolyt",
+      "club_id": "torhout",
+      "name": "Kobe Jolyt",
+      "identity_method": "club_name",
+      "teams": {
+        "364285": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544599",
+            "https://www.rbfa.be/nl/wedstrijd/7544574",
+            "https://www.rbfa.be/nl/wedstrijd/7544594",
+            "https://www.rbfa.be/nl/wedstrijd/7544571",
+            "https://www.rbfa.be/nl/wedstrijd/7544587",
+            "https://www.rbfa.be/nl/wedstrijd/7544578"
+          ]
+        },
+        "364284": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7514373"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:dylan bauwens",
+      "club_id": "torhout",
+      "name": "Dylan Bauwens",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:matteo vanmaele",
+      "club_id": "torhout",
+      "name": "Matteo Vanmaele",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 10,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:brent sintubin",
+      "club_id": "torhout",
+      "name": "Brent Sintubin",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 9,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:thibault segers",
+      "club_id": "torhout",
+      "name": "Thibault Segers",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 9,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:henri denys",
+      "club_id": "torhout",
+      "name": "Henri Denys",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510011"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:iony sabbe",
+      "club_id": "torhout",
+      "name": "Iony Sabbe",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 10,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:sebastiaan cordie",
+      "club_id": "torhout",
+      "name": "Sebastiaan Cordie",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 8,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:milan denolf",
+      "club_id": "torhout",
+      "name": "Milan Denolf",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:jente sintubin",
+      "club_id": "torhout",
+      "name": "Jente Sintubin",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 10,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:joran debou",
+      "club_id": "torhout",
+      "name": "Joran Debou",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 9,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:obed apprey",
+      "club_id": "torhout",
+      "name": "Obed Apprey",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 10,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:lars vanhoutte",
+      "club_id": "torhout",
+      "name": "Lars Vanhoutte",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510011"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": []
+    },
+    {
+      "id": "name:sem albrecht",
+      "club_id": "torhout",
+      "name": "Sem Albrecht",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": []
+    },
+    {
+      "id": "name:sebbe cappelle",
+      "club_id": "torhout",
+      "name": "Sebbe Cappelle",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 10,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:kobe blomme",
+      "club_id": "torhout",
+      "name": "Kobe Blomme",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 4,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510002",
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510011"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:wout derycke",
+      "club_id": "roeselare",
+      "name": "Wout Derycke",
+      "identity_method": "club_name",
+      "teams": {
+        "360199": {
+          "listed": 4,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7663359",
+            "https://www.rbfa.be/nl/wedstrijd/7663342",
+            "https://www.rbfa.be/nl/wedstrijd/7663366",
+            "https://www.rbfa.be/nl/wedstrijd/7663354"
+          ]
+        },
+        "360198": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544576",
+            "https://www.rbfa.be/nl/wedstrijd/7544590"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:arne bryon",
+      "club_id": "torhout",
+      "name": "Arne Bryon",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 8,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:mauritz decleire",
+      "club_id": "torhout",
+      "name": "Mauritz Decleire",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 7,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510011",
+            "https://www.rbfa.be/nl/wedstrijd/7510070"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:rens goethals",
+      "club_id": "torhout",
+      "name": "Rens Goethals",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 8,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510021",
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:colin balcaen",
+      "club_id": "torhout",
+      "name": "Colin Balcaen",
+      "identity_method": "club_name",
+      "teams": {
+        "381025": {
+          "listed": 1,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7662058"
+          ]
+        },
+        "364285": {
+          "listed": 4,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7544574",
+            "https://www.rbfa.be/nl/wedstrijd/7544571",
+            "https://www.rbfa.be/nl/wedstrijd/7544587",
+            "https://www.rbfa.be/nl/wedstrijd/7544588"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": true,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking.",
+        "Op wedstrijdbladen van meerdere ploegen"
+      ]
+    },
+    {
+      "id": "name:robbe decoster",
+      "club_id": "torhout",
+      "name": "Robbe Decoster",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510077",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:cis vanbrabant",
+      "club_id": "torhout",
+      "name": "Cis Vanbrabant",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 6,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510034",
+            "https://www.rbfa.be/nl/wedstrijd/7510055",
+            "https://www.rbfa.be/nl/wedstrijd/7510060",
+            "https://www.rbfa.be/nl/wedstrijd/7510070",
+            "https://www.rbfa.be/nl/wedstrijd/7510043"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
+    },
+    {
+      "id": "name:miel gevaert",
+      "club_id": "torhout",
+      "name": "Miel Gevaert",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510011"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": []
+    },
+    {
+      "id": "name:lowiek vyncke",
+      "club_id": "torhout",
+      "name": "Lowiek Vyncke",
+      "identity_method": "club_name",
+      "teams": {
+        "364282": {
+          "listed": 2,
+          "known_minutes": 0,
+          "minutes_known_matches": 0,
+          "known_starts": 0,
+          "known_bench_only": 0,
+          "matches": [
+            "https://www.rbfa.be/nl/wedstrijd/7510025",
+            "https://www.rbfa.be/nl/wedstrijd/7510077"
+          ]
+        }
+      },
+      "birth_year": null,
+      "multiple_teams": false,
+      "signals": []
+    },
+    {
+      "id": "name:miel pieters",
       "club_id": "torhout",
       "name": "Miel Pieters",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364282": {
           "listed": 5,
@@ -4423,36 +4405,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:dex verduyn",
-      "club_id": "roeselare",
-      "name": "Dex Verduyn",
-      "identity_verified": false,
-      "teams": {
-        "360199": {
-          "listed": 3,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7663334",
-            "https://www.rbfa.be/nl/wedstrijd/7663342",
-            "https://www.rbfa.be/nl/wedstrijd/7663354"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360199:jeremaya lubamba",
+      "id": "name:jeremaya lubamba",
       "club_id": "roeselare",
       "name": "Jeremaya Lubamba",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 3,
@@ -4469,13 +4430,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:léon jeroom vanheerswynghels",
+      "id": "name:léon jeroom vanheerswynghels",
       "club_id": "roeselare",
       "name": "Léon Jeroom Vanheerswynghels",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 3,
@@ -4492,13 +4455,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:360199:jaro bouw",
+      "id": "name:jaro bouw",
       "club_id": "roeselare",
       "name": "Jaro Bouw",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "360199": {
           "listed": 1,
@@ -4516,10 +4481,10 @@
       "signals": []
     },
     {
-      "id": "unverified:364282:thomas demaré",
+      "id": "name:thomas demaré",
       "club_id": "torhout",
       "name": "Thomas Demaré",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364282": {
           "listed": 4,
@@ -4537,124 +4502,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:364284:timo de laender",
-      "club_id": "torhout",
-      "name": "Timo De Laender",
-      "identity_verified": false,
-      "teams": {
-        "364284": {
-          "listed": 4,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7514373",
-            "https://www.rbfa.be/nl/wedstrijd/7514404",
-            "https://www.rbfa.be/nl/wedstrijd/7514447",
-            "https://www.rbfa.be/nl/wedstrijd/7514439"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364284:kobe jolyt",
-      "club_id": "torhout",
-      "name": "Kobe Jolyt",
-      "identity_verified": false,
-      "teams": {
-        "364284": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7514373"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360199:marlon rachidi",
-      "club_id": "roeselare",
-      "name": "Marlon Rachidi",
-      "identity_verified": false,
-      "teams": {
-        "360199": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7663366"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:colin balcaen",
-      "club_id": "torhout",
-      "name": "Colin Balcaen",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 4,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544574",
-            "https://www.rbfa.be/nl/wedstrijd/7544571",
-            "https://www.rbfa.be/nl/wedstrijd/7544587",
-            "https://www.rbfa.be/nl/wedstrijd/7544588"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:360198:joão domingos costa correia",
-      "club_id": "roeselare",
-      "name": "João Domingos Costa Correia",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544594"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:figo suffys",
+      "id": "name:figo suffys",
       "club_id": "torhout",
       "name": "Figo Suffys",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364285": {
           "listed": 1,
@@ -4672,99 +4528,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360198:axl reynaert",
-      "club_id": "roeselare",
-      "name": "Axl Reynaert",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 3,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544573",
-            "https://www.rbfa.be/nl/wedstrijd/7544576",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364284:loïc achiel vergote",
-      "club_id": "torhout",
-      "name": "Loïc Achiel Vergote",
-      "identity_verified": false,
-      "teams": {
-        "364284": {
-          "listed": 3,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7514421",
-            "https://www.rbfa.be/nl/wedstrijd/7514431",
-            "https://www.rbfa.be/nl/wedstrijd/7514447"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:rune vandeginste",
-      "club_id": "torhout",
-      "name": "Rune Vandeginste",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544587",
-            "https://www.rbfa.be/nl/wedstrijd/7544588"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364285:sam vermeire",
-      "club_id": "torhout",
-      "name": "Sam Vermeire",
-      "identity_verified": false,
-      "teams": {
-        "364285": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544588"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:381025:iben busschaert",
+      "id": "name:iben busschaert",
       "club_id": "torhout",
       "name": "Iben Busschaert",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 2,
@@ -4783,10 +4550,10 @@
       "signals": []
     },
     {
-      "id": "unverified:381025:louïc carl de ruddere",
+      "id": "name:louïc carl de ruddere",
       "club_id": "torhout",
       "name": "Louïc Carl De Ruddere",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 2,
@@ -4805,10 +4572,10 @@
       "signals": []
     },
     {
-      "id": "unverified:381025:ciel symoen",
+      "id": "name:ciel symoen",
       "club_id": "torhout",
       "name": "Ciel Symoen",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 3,
@@ -4825,56 +4592,15 @@
       },
       "birth_year": null,
       "multiple_teams": false,
-      "signals": []
+      "signals": [
+        "Minstens 3 selecties elders; geen A-selectie in ingelezen data. Controleer A-dekking."
+      ]
     },
     {
-      "id": "unverified:364284:gianni lingier",
-      "club_id": "torhout",
-      "name": "Gianni Lingier",
-      "identity_verified": false,
-      "teams": {
-        "364284": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7514431",
-            "https://www.rbfa.be/nl/wedstrijd/7514447"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364284:ferre roegiest",
-      "club_id": "torhout",
-      "name": "Ferre Roegiest",
-      "identity_verified": false,
-      "teams": {
-        "364284": {
-          "listed": 1,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7514447"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:364282:kinzy taelman",
+      "id": "name:kinzy taelman",
       "club_id": "torhout",
       "name": "Kinzy Taelman",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "364282": {
           "listed": 1,
@@ -4892,32 +4618,10 @@
       "signals": []
     },
     {
-      "id": "unverified:360198:wout derycke",
-      "club_id": "roeselare",
-      "name": "Wout Derycke",
-      "identity_verified": false,
-      "teams": {
-        "360198": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7544576",
-            "https://www.rbfa.be/nl/wedstrijd/7544590"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
-    },
-    {
-      "id": "unverified:381025:rafael deldaele",
+      "id": "name:rafael deldaele",
       "club_id": "torhout",
       "name": "Rafael Deldaele",
-      "identity_verified": false,
+      "identity_method": "club_name",
       "teams": {
         "381025": {
           "listed": 1,
@@ -4933,38 +4637,16 @@
       "birth_year": null,
       "multiple_teams": false,
       "signals": []
-    },
-    {
-      "id": "unverified:381025:liam dupont",
-      "club_id": "torhout",
-      "name": "Liam Dupont",
-      "identity_verified": false,
-      "teams": {
-        "381025": {
-          "listed": 2,
-          "known_minutes": 0,
-          "minutes_known_matches": 0,
-          "known_starts": 0,
-          "known_bench_only": 0,
-          "matches": [
-            "https://www.rbfa.be/nl/wedstrijd/7662065",
-            "https://www.rbfa.be/nl/wedstrijd/7662056"
-          ]
-        }
-      },
-      "birth_year": null,
-      "multiple_teams": false,
-      "signals": []
     }
   ],
   "matchScope": "league_only",
   "calendarCoverage": {
-    "364285": {
-      "observed": 14,
-      "played": 9,
-      "excluded": 4,
-      "imported": 9,
-      "fetched_at": "2026-11-04T14:58:24.345Z",
+    "381025": {
+      "observed": 12,
+      "played": 7,
+      "excluded": 7,
+      "imported": 7,
+      "fetched_at": "2026-11-04T14:49:33.705Z",
       "completeness": "unverified",
       "preserved": 0
     },
@@ -4973,25 +4655,7 @@
       "played": 9,
       "excluded": 8,
       "imported": 9,
-      "fetched_at": "2026-11-04T14:58:03.998Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "364284": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 10,
-      "imported": 10,
-      "fetched_at": "2026-11-04T14:58:14.144Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "381025": {
-      "observed": 12,
-      "played": 7,
-      "excluded": 7,
-      "imported": 7,
-      "fetched_at": "2026-11-04T14:58:29.270Z",
+      "fetched_at": "2026-11-04T14:49:06.814Z",
       "completeness": "unverified",
       "preserved": 0
     },
@@ -5000,16 +4664,25 @@
       "played": 10,
       "excluded": 7,
       "imported": 10,
-      "fetched_at": "2026-11-04T14:58:19.353Z",
+      "fetched_at": "2026-11-04T14:49:23.355Z",
       "completeness": "unverified",
       "preserved": 0
     },
-    "360196": {
+    "364285": {
+      "observed": 14,
+      "played": 9,
+      "excluded": 4,
+      "imported": 9,
+      "fetched_at": "2026-11-04T14:49:28.532Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "364284": {
       "observed": 30,
       "played": 10,
-      "excluded": 12,
+      "excluded": 10,
       "imported": 10,
-      "fetched_at": "2026-11-04T14:57:58.945Z",
+      "fetched_at": "2026-11-04T14:49:17.183Z",
       "completeness": "unverified",
       "preserved": 0
     },
@@ -5018,7 +4691,16 @@
       "played": 8,
       "excluded": 4,
       "imported": 8,
-      "fetched_at": "2026-11-04T14:58:09.035Z",
+      "fetched_at": "2026-11-04T14:49:12.072Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "360196": {
+      "observed": 30,
+      "played": 10,
+      "excluded": 12,
+      "imported": 10,
+      "fetched_at": "2026-11-04T14:49:01.397Z",
       "completeness": "unverified",
       "preserved": 0
     }
@@ -5032,5 +4714,5 @@
     "360198": 9,
     "364282": 10
   },
-  "notice": "Alleen competitiewedstrijden. Selecties zijn geen gespeelde wedstrijden. Ontbrekende speelgegevens blijven onbekend. Een onbevestigde spelerkoppeling betekent dat nog niet bevestigd is dat dezelfde naam bij verschillende ploegen dezelfde persoon is."
+  "notice": "Alleen competitiewedstrijden. Selecties zijn geen gespeelde wedstrijden. Ontbrekende speelgegevens blijven onbekend. Spelers met dezelfde volledige naam binnen dezelfde club worden automatisch gekoppeld over de ploegen heen."
 }

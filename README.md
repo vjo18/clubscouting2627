@@ -47,7 +47,7 @@ python3 -m http.server 8000 --directory public
 
 Open http://localhost:8000. Na een Actions-run kun je ook het artifact **clubscout-dashboard** downloaden, uitpakken en die map met `python3 -m http.server 8000` openen. Een rechtstreekse `file://`-opening werkt niet betrouwbaar vanwege het laden van JSON.
 
-Voor een vaste weblink staat de workflow **Publiceer dashboard** klaar. Stel eenmalig bij **Settings → Pages → Build and deployment → Source** de optie **GitHub Actions** in. Open daarna **Actions → Publiceer dashboard → Run workflow** op `main`. Na een geslaagde deployment staat de link in het environment `github-pages`; de verwachte URL is https://vjo18.github.io/clubscouting2627/. Het dashboard is pas gepubliceerd zodra die deployment slaagt. Daarna publiceert een geslaagde **Update clubdata**-run het dashboard opnieuw. Het dashboard bevat zoeken, clubkeuze, selecties per ploeg, filters op meerdere ploegen/scoutsignalen/ongekoppelde identiteit, spelersfiches en CSV-export. Het dashboard gebruikt de ingelezen competitiewedstrijden van de zeven gevolgde ploegen.
+Voor een vaste weblink staat de workflow **Publiceer dashboard** klaar. Stel eenmalig bij **Settings → Pages → Build and deployment → Source** de optie **GitHub Actions** in. Open daarna **Actions → Publiceer dashboard → Run workflow** op `main`. Na een geslaagde deployment staat de link in het environment `github-pages`; de verwachte URL is https://vjo18.github.io/clubscouting2627/. Het dashboard is pas gepubliceerd zodra die deployment slaagt. Daarna publiceert een geslaagde **Update clubdata**-run het dashboard opnieuw. Het dashboard bevat zoeken, clubkeuze, selecties per ploeg, filters op meerdere ploegen en scoutsignalen, spelersfiches en CSV-export. Het dashboard gebruikt de ingelezen competitiewedstrijden van de zeven gevolgde ploegen.
 
 ## Selectie is niet hetzelfde als spelen
 
@@ -69,31 +69,25 @@ De parser gebruikt voorlopig bij **alle** bladen deze veilige modus. Voor de ana
 
 ## Dezelfde speler bij meerdere ploegen
 
-**Spelerkoppeling onbevestigd** betekent dat nog niet bevestigd is dat dezelfde naam bij verschillende ploegen dezelfde persoon is. Het gaat niet over een ontbrekende naam of geboortejaar. Daardoor kan dezelfde speler voorlopig op meerdere rijen staan en is het overzicht van spelers bij meerdere ploegen nog onvolledig.
+Spelers met dezelfde volledige naam binnen dezelfde club worden **automatisch als dezelfde speler behandeld**, ongeacht bij welke gevolgde ploeg ze op het wedstrijdblad staan. Hoofdletters, extra spaties en Unicode-opmaak worden gelijkgetrokken; accenten en verschillende spellingen blijven onderscheiden. Dezelfde naam bij verschillende clubs blijft apart.
 
-De beschikbare HTML bevat geen betrouwbare unieke speler-ID. De tool houdt ongekoppelde namen daarom voorlopig per ploeg apart. Bevestig dat het dezelfde persoon is en voeg dan regels toe in `config/player_identity.csv`:
+Je hoeft geen spelers handmatig te koppelen. Eén speler krijgt één rij met selecties per A-, B-, reserve- en U19-ploeg en een gezamenlijke spelersfiche. De filter **Bij meerdere ploegen** gebruikt deze automatische naamkoppeling. Ook geboortejaren zijn hiervoor niet verplicht. Dit is de gekozen koppelregel; de bron levert geen unieke speler-ID.
 
-```csv
-club_id;team_id;name;person_id
-torhout;364284;Voorbeeld Naam;persoon-001
-torhout;364285;Voorbeeld Naam;persoon-001
-```
-
-Dezelfde `person_id` koppelt de speler tussen ploegen binnen dezelfde club. Namen worden hoofdletterongevoelig vergeleken; accenten blijven behouden. Twee verschillende personen met exact dezelfde naam binnen één ploeg vereisen een echte bron-ID en zijn met dit formaat nog niet te onderscheiden.
+De interne speler-ID is `name:` gevolgd door de genormaliseerde volledige naam, bijvoorbeeld `name:jan janssens`. Bestaande handmatige IDs blijven alleen als alias bruikbaar voor eerder ingevulde geboortejaren. Tegenstrijdige geboortejaren worden niet overschreven.
 
 Geboortejaren vul je in `data_raw/birthyears.csv` aan:
 
 ```csv
 club_id;person_id;birth_year
-torhout;persoon-001;2006
+torhout;name:jan janssens;2006
 ```
 
 Onbekende en conflicterende geboortejaren blijven leeg. Er wordt geen exacte leeftijd verzonnen uit alleen een geboortejaar.
 
 Scoutsignalen zijn beschrijvend:
 
-- **Bij meerdere ploegen:** dezelfde bevestigde identiteit staat op bladen van meerdere gevolgde ploegen.
-- **Minstens 3 selecties elders en geen A-selectie in ingelezen data:** alleen bij een bevestigde identiteit, altijd met waarschuwing de A-dekking te controleren.
+- **Bij meerdere ploegen:** dezelfde speler op basis van club en naam staat op bladen van meerdere gevolgde ploegen.
+- **Minstens 3 selecties elders en geen A-selectie in ingelezen data:** met waarschuwing de A-dekking te controleren.
 
 Dit bewijst geen transferinteresse, blessure, officiële speelgerechtigdheid of structurele uitsluiting door de trainer.
 
@@ -126,7 +120,7 @@ Gebruik gerenderde HTML zoals het meegestuurde bestand, niet de lege Angular-pag
 ## Bestanden
 
 - `config/clubs.json`: de clubs, ploeg-IDs en kalenderlinks.
-- `config/player_identity.csv`: bevestigde koppelingen tussen ploegen.
+- `config/player_identity.csv`: optionele oudere IDs voor geboortejaarcompatibiliteit; niet nodig om spelers te koppelen.
 - `clubscout/parser.py`: conservatieve HTML-parser.
 - `clubscout/build.py`: cluboverzicht, identiteiten en dekking.
 - `scripts/capture.mjs`: ploegkalenders en wedstrijdbladen ophalen.
@@ -134,4 +128,5 @@ Gebruik gerenderde HTML zoals het meegestuurde bestand, niet de lege Angular-pag
 - `public/`: dashboard en afgeleide JSON.
 - `tests/`: tests en uitgeknipte HTML van het echte reserveverslag.
 - `VALIDATIE.md`: uitgevoerde controles en beperkingen.
+
 

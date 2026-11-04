@@ -46,7 +46,8 @@ class BuildTest(unittest.TestCase):
             (root/'data_raw/birthyears.csv').write_text('club_id;person_id;birth_year\n')
             report={'source':'fixture','players':[{'team_rbfa_id':t,'club_rbfa_id':'1','name':'Jan Janssens','started':None,'bench_only':None,'minutes':None} for t in ['a','r']]}
             (root/'data_raw/reports/one.json').write_text(json.dumps(report))
-            self.assertEqual(len(build(root)['players']),2)
+            self.assertEqual(len(build(root)['players']),1)
+            self.assertTrue(build(root)['players'][0]['multiple_teams'])
             (root/'config/player_identity.csv').write_text('club_id;team_id;name;person_id\nclub;a;Jan Janssens;p1\nclub;r;Jan Janssens;p1\n')
             result=build(root)
             self.assertEqual(len(result['players']),1)
@@ -59,3 +60,4 @@ class BuildTest(unittest.TestCase):
 
 
 if __name__=='__main__':unittest.main()
+
