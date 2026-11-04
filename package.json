@@ -1,0 +1,5 @@
+{
+  "name": "scouting-clubs", "private": true, "version": "0.1.0", "type": "module",
+  "scripts": {"scrape": "node scripts/capture.mjs", "build": "python3 -m clubscout.build", "test": "python3 -m unittest discover -s tests -v && node --test tests/calendar.test.mjs", "dev": "python3 -m http.server 8000 --directory public"},
+  "dependencies": {"puppeteer": "24.30.0"}
+}

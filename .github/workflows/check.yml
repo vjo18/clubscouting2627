@@ -1,0 +1,22 @@
+name: Controle en dashboard
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python3 -m unittest discover -s tests -v
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test tests/calendar.test.mjs
+      - run: python3 -m clubscout.build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: clubscout-dashboard
+          path: public/

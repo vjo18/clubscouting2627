@@ -1,0 +1,94 @@
+{
+  "season": "2026-2027",
+  "clubs": [
+    {
+      "id": "roeselare",
+      "name": "Sportkring Roeselare",
+      "registration": "08264",
+      "rbfa_club_id": "2656",
+      "teams": [
+        {
+          "label": "A",
+          "role": "A",
+          "competition": "1ste Afdeling VV — te bevestigen",
+          "rbfa_team_id": "360196",
+          "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360196/kalender",
+          "include": true,
+          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360196/overzicht"
+        },
+        {
+          "label": "Reserven",
+          "role": "reserves",
+          "competition": "Regionale Res.Voetb Vl B",
+          "rbfa_team_id": "360198",
+          "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/kalender",
+          "include": true,
+          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/overzicht"
+        },
+        {
+          "label": "U19",
+          "role": "U19",
+          "competition": "Te bevestigen",
+          "rbfa_team_id": "360199",
+          "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/kalender",
+          "include": true,
+          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/overzicht"
+        }
+      ],
+      "club_url": "https://www.rbfa.be/nl/club/2656/info"
+    },
+    {
+      "id": "torhout",
+      "name": "KM Torhout",
+      "registration": "00822",
+      "rbfa_club_id": "1185",
+      "teams": [
+        {
+          "label": "A",
+          "role": "A",
+          "competition": "2de afdeling — te bevestigen",
+          "rbfa_team_id": "364284",
+          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/kalender",
+          "include": true,
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/overzicht"
+        },
+        {
+          "label": "B",
+          "role": "B",
+          "competition": "2de provinciale — te bevestigen",
+          "rbfa_team_id": "364282",
+          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/kalender",
+          "include": true,
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/overzicht"
+        },
+        {
+          "label": "Res A",
+          "role": "reserves",
+          "competition": "Regionale Res.Voetb Vl B",
+          "rbfa_team_id": "364285",
+          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364285/kalender",
+          "include": true,
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364285/overzicht"
+        },
+        {
+          "label": "U19 IP",
+          "role": "U19",
+          "competition": "U19 interprovinciaal — te bevestigen",
+          "rbfa_team_id": "381025",
+          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/kalender",
+          "include": true,
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/overzicht"
+        },
+        {
+          "label": "U21",
+          "role": "U21",
+          "competition": "Gewestelijk — uitgesloten",
+          "rbfa_team_id": null,
+          "calendar_url": null,
+          "include": false
+        }
+      ],
+      "club_url": "https://www.rbfa.be/nl/club/1185/info"
+    }
+  ]
+}
