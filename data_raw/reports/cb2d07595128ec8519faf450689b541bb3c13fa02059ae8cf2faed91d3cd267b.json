@@ -1,0 +1,768 @@
+{
+  "source": "https://www.rbfa.be/nl/wedstrijd/7505679",
+  "score": [
+    0,
+    2
+  ],
+  "teams": [
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "K.R.C. MECHELEN"
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "SPORTKRING ROESELARE"
+    }
+  ],
+  "quality": "selection_only",
+  "players": [
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Mathis Stijn Van Gils",
+      "number": "1",
+      "goalkeeper": true,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Leandro Lieven Depaepe",
+      "number": "77",
+      "goalkeeper": true,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Nando Frans Nostlinger",
+      "number": "7",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "66‘"
+        },
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "75‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Rens Willy Verhooghe",
+      "number": "5",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Stefan Verbist",
+      "number": "8",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "55‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Jiri Struyf",
+      "number": "7",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "goal item ng-star-inserted",
+          "label": "Doelpunt",
+          "text": "44‘"
+        },
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "70‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Mohammed Bouzerda",
+      "number": "10",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Daan Debouver",
+      "number": "10",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "63‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Seppe Somers",
+      "number": "14",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Henri Hendrik Van Marcke",
+      "number": "14",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Len Vennekens",
+      "number": "17",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "55‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Sam Josip Valcke",
+      "number": "16",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "goal item ng-star-inserted",
+          "label": "Doelpunt",
+          "text": "17‘"
+        },
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "88‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Wout Kerckhofs",
+      "number": "19",
+      "goalkeeper": false,
+      "captain": true,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Fries Dirk Deschilder",
+      "number": "26",
+      "goalkeeper": false,
+      "captain": true,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "88‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Matteo Laenen",
+      "number": "21",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "55‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Arthur Victor Harinck",
+      "number": "28",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "88‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Louis Guerin",
+      "number": "42",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Arne Cassaert",
+      "number": "32",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "68‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Yasin Mrani",
+      "number": "77",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "75‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Arne De Schepper",
+      "number": "75",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Ibou Faye",
+      "number": "99",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Joey Edouard Dujardin",
+      "number": "96",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Keno Jacops",
+      "number": "76",
+      "goalkeeper": true,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Dominique Junior Youfeigane",
+      "number": "94",
+      "goalkeeper": true,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Arne Knollenburg",
+      "number": "4",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "75‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Gilles D'Hondt",
+      "number": "9",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Matthijs Boonen",
+      "number": "5",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "55‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Mathijs Maerten",
+      "number": "15",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Beat Zakaria Faeh",
+      "number": "9",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Jelco Schamp",
+      "number": "17",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Warre Desmet",
+      "number": "15",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "55‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Thibaud Sergeant",
+      "number": "19",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "63‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Ephraïm Franly Matuasilua Dinayaku",
+      "number": "22",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "55‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Justin Hallaert",
+      "number": "20",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "88‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Kenneth Bedie Boakye",
+      "number": "45",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "75‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Michiel Clyncke",
+      "number": "22",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "70‘"
+        },
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "74‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Yung Chun Jing",
+      "number": "67",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "Guillaume Laurent Cnudde",
+      "number": "27",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "88‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "979",
+      "team_rbfa_id": "360510",
+      "name": "Joran Van Den Branden",
+      "number": "78",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "2656",
+      "team_rbfa_id": "360196",
+      "name": "João Domingos Costa Correia",
+      "number": "29",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "88‘"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "team_id": "364285",
+  "url": "https://www.rbfa.be/nl/club/1185/ploeg/364285/kalender",
+  "fetched_at": "2026-11-04T14:06:49.211Z",
+  "completeness": "unverified",
+  "observed_now": 18,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544599",
+      "scoreText": "3 - 5",
+      "competition": "",
+      "text": "KM TORHOUT 3 - 5 R. Knokke FC",
+      "score": [
+        3,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544603",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "KVE Drongen A 20:00 KM TORHOUT",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7590115",
+      "scoreText": "8 - 0",
+      "competition": "",
+      "text": "KM TORHOUT 8 - 0 K. SV VEURNE",
+      "score": [
+        8,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7643634",
+      "scoreText": "2 - 8",
+      "competition": "",
+      "text": "K. SK GELUWE 2 - 8 KM TORHOUT",
+      "score": [
+        2,
+        8
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7577735",
+      "scoreText": "4 - 2",
+      "competition": "",
+      "text": "VK ZERKEGEM 4 - 2 KM TORHOUT",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7735816",
+      "scoreText": "",
+      "competition": "",
+      "text": "KM TORHOUTKSC LOKEREN U21",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544567",
+      "scoreText": "3 - 1",
+      "competition": "",
+      "text": "KM TORHOUT 3 - 1 Sportkring Roeselare",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544571",
+      "scoreText": "1 - 3",
+      "competition": "",
+      "text": "R. Knokke FC 1 - 3 KM TORHOUT",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544574",
+      "scoreText": "4 - 2",
+      "competition": "",
+      "text": "KM TORHOUT 4 - 2 KVE Drongen A",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544578",
+      "scoreText": "2 - 1",
+      "competition": "",
+      "text": "K.S.V. Oostkamp 2 - 1 KM TORHOUT",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544582",
+      "scoreText": "14 - 1",
+      "competition": "",
+      "text": "KM TORHOUT 14 - 1 K. Sp. Club Blankenberge",
+      "score": [
+        14,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544587",
+      "scoreText": "9 - 0",
+      "competition": "",
+      "text": "KM TORHOUT 9 - 0 K. SV Rumbeke A",
+      "score": [
+        9,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544588",
+      "scoreText": "0 - 2",
+      "competition": "",
+      "text": "KSKDJ Lovendegem 0 - 2 KM TORHOUT",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544594",
+      "scoreText": "5 - 1",
+      "competition": "",
+      "text": "Sportkring Roeselare 5 - 1 KM TORHOUT",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544606",
+      "scoreText": "20:15",
+      "competition": "",
+      "text": "KM TORHOUT 20:15 K.S.V. Oostkamp",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544611",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "K. Sp. Club Blankenberge 20:00 KM TORHOUT",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544614",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "K. SV Rumbeke A 20:00 KM TORHOUT",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544619",
+      "scoreText": "20:15",
+      "competition": "",
+      "text": "KM TORHOUT 20:15 KSKDJ Lovendegem",
+      "score": null
+    }
+  ]
+}

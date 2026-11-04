@@ -1,0 +1,320 @@
+{
+  "team_id": "364282",
+  "url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/kalender",
+  "fetched_at": "2026-11-04T14:06:44.068Z",
+  "completeness": "unverified",
+  "observed_now": 37,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510077",
+      "scoreText": "2 - 1",
+      "competition": "",
+      "text": "K.F.C. Eendracht Hooglede 2 - 1 KM Torhout B",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510086",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "KM Torhout B 15:00 VK Zerkegem A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7502540",
+      "scoreText": "2 - 3",
+      "competition": "",
+      "text": "SV LOPPEM 2 - 3 KM Torhout B",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567865",
+      "scoreText": "7 - 2",
+      "competition": "",
+      "text": "KM Torhout B 7 - 2 5 - 2 Strafschoppen K. FC Heist A",
+      "score": [
+        7,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7621219",
+      "scoreText": "4 - 0",
+      "competition": "",
+      "text": "KM Torhout B 4 - 0 SV INGELMUNSTER",
+      "score": [
+        4,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567869",
+      "scoreText": "3 - 2",
+      "competition": "",
+      "text": "K. SV Veurne A 3 - 2 5 - 2 Strafschoppen KM Torhout B",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567873",
+      "scoreText": "1 - 3",
+      "competition": "",
+      "text": "KM Torhout B 1 - 3 4 - 4 Strafschoppen K. VC Ardooie A",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567877",
+      "scoreText": "2 - 5",
+      "competition": "",
+      "text": "K. SK Geluwe 2 - 5 3 - 3 Strafschoppen KM Torhout B",
+      "score": [
+        2,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7621217",
+      "scoreText": "3 - 4",
+      "competition": "",
+      "text": "KM Torhout B 3 - 4 SK NIEUWKERKE",
+      "score": [
+        3,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510002",
+      "scoreText": "2 - 1",
+      "competition": "",
+      "text": "K.V. Diksmuide Oostende B 2 - 1 KM Torhout B",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510011",
+      "scoreText": "3 - 2",
+      "competition": "",
+      "text": "KM Torhout B 3 - 2 K. E. De Haan",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510021",
+      "scoreText": "1 - 5",
+      "competition": "",
+      "text": "Dar. Brugge 1 - 5 KM Torhout B",
+      "score": [
+        1,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510025",
+      "scoreText": "1 - 2",
+      "competition": "",
+      "text": "KM Torhout B 1 - 2 K. WS Oudenburg",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510034",
+      "scoreText": "2 - 0",
+      "competition": "",
+      "text": "K. VC Wingene A 2 - 0 KM Torhout B",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510043",
+      "scoreText": "0 - 2",
+      "competition": "",
+      "text": "KM Torhout B 0 - 2 K. WS Houthulst A",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510055",
+      "scoreText": "0 - 4",
+      "competition": "",
+      "text": "K. SV Bredene A 0 - 4 KM Torhout B",
+      "score": [
+        0,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510060",
+      "scoreText": "3 - 0",
+      "competition": "",
+      "text": "KM Torhout B 3 - 0 K. Dar. Ruddervoorde A",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510070",
+      "scoreText": "1 - 6",
+      "competition": "",
+      "text": "KM Torhout B 1 - 6 Jong Male K.V.V.",
+      "score": [
+        1,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510096",
+      "scoreText": "14:30",
+      "competition": "",
+      "text": "K. Dosko Sint-Kruis 14:30 KM Torhout B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510104",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "KM Torhout B 15:00 K. Exc. Zedelgem A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510107",
+      "scoreText": "18:00",
+      "competition": "",
+      "text": "VV Koekelare A 18:00 KM Torhout B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510121",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "KM Torhout B 15:00 K. SV Jabbeke A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510126",
+      "scoreText": "19:30",
+      "competition": "",
+      "text": "K. Dar. Ruddervoorde A 19:30 KM Torhout B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510139",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "KM Torhout B 15:00 Dar. Brugge",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510143",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "K. E. De Haan 15:00 KM Torhout B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510151",
+      "scoreText": "19:00",
+      "competition": "",
+      "text": "K. WS Houthulst A 19:00 KM Torhout B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510161",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "KM Torhout B 20:00 VV Koekelare A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510173",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "K. WS Oudenburg 15:00 KM Torhout B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510178",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "KM Torhout B 15:00 K.V. Diksmuide Oostende B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510184",
+      "scoreText": "20:15",
+      "competition": "",
+      "text": "VK Zerkegem A 20:15 KM Torhout B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510195",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "KM Torhout B 15:00 K. SV Bredene A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510201",
+      "scoreText": "14:30",
+      "competition": "",
+      "text": "K. SV Jabbeke A 14:30 KM Torhout B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510211",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "KM Torhout B 15:00 K. VC Wingene A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510215",
+      "scoreText": "19:00",
+      "competition": "",
+      "text": "K. Exc. Zedelgem A 19:00 KM Torhout B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510229",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "KM Torhout B 15:00 K.F.C. Eendracht Hooglede",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510235",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "Jong Male K.V.V. 15:00 KM Torhout B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510240",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "KM Torhout B 15:00 K. Dosko Sint-Kruis",
+      "score": null
+    }
+  ]
+}

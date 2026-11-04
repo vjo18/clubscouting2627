@@ -1,0 +1,169 @@
+{
+  "team_id": "360199",
+  "url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/kalender",
+  "fetched_at": "2026-11-04T14:06:33.777Z",
+  "completeness": "unverified",
+  "observed_now": 18,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7735342",
+      "scoreText": "19:45",
+      "competition": "",
+      "text": "R.F.C. LUINGNOIS 19:45 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663371",
+      "scoreText": "16:15",
+      "competition": "",
+      "text": "K.V.K. Ieper 3 16:15 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617467",
+      "scoreText": "1 - 1",
+      "competition": "",
+      "text": "SPARTA PETEGEM DEINZE 1 - 1 SPORTKRING ROESELARE",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628147",
+      "scoreText": "5 - 2",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 5 - 2 KSC DIKKELVENNE",
+      "score": [
+        5,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663334",
+      "scoreText": "4 - 3",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 4 - 3 Racing Club Harelbeke 3",
+      "score": [
+        4,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663341",
+      "scoreText": "2 - 5",
+      "competition": "",
+      "text": "KSV Oudenaarde 3 2 - 5 SPORTKRING ROESELARE",
+      "score": [
+        2,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663342",
+      "scoreText": "1 - 0",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 1 - 0 K.V.K. Ieper 3",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7734941",
+      "scoreText": "3 - 2",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 3 - 2 KVV ZELZATE",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663348",
+      "scoreText": "5 - 1",
+      "competition": "",
+      "text": "F.C. Gullegem 3 5 - 1 SPORTKRING ROESELARE",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663350",
+      "scoreText": "0 - 3",
+      "competition": "",
+      "text": "S.V. Wevelgem City 3-2 0 - 3 SPORTKRING ROESELARE",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663354",
+      "scoreText": "4 - 2",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 4 - 2 Olsa Brakel 3",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663359",
+      "scoreText": "1 - 4",
+      "competition": "",
+      "text": "FC Mandel United Izegem 3 1 - 4 SPORTKRING ROESELARE",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663366",
+      "scoreText": "4 - 2",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 4 - 2 KSV Oudenaarde 3",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663374",
+      "scoreText": "13:30",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 13:30 F.C. Gullegem 3",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663362",
+      "scoreText": "19:00",
+      "competition": "",
+      "text": "Racing Club Harelbeke 3 19:00 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663378",
+      "scoreText": "10:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 10:00 S.V. Wevelgem City 3-2",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663384",
+      "scoreText": "14:15",
+      "competition": "",
+      "text": "Olsa Brakel 3 14:15 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663386",
+      "scoreText": "13:30",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 13:30 FC Mandel United Izegem 3",
+      "score": null
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "team_id": "360196",
+  "url": "https://www.rbfa.be/nl/club/2656/ploeg/360196/kalender",
+  "fetched_at": "2026-11-04T14:06:22.403Z",
+  "completeness": "unverified",
+  "observed_now": 42,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565360",
+      "scoreText": "0 - 4",
+      "competition": "",
+      "text": "KFC Merelbeke 0 - 4 SPORTKRING ROESELARE",
+      "score": [
+        0,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565369",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 20:00 Oud-Heverlee Leuven B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7496612",
+      "scoreText": "1 - 6",
+      "competition": "",
+      "text": "K.F.C. EENDRACHT HOOGLEDE 1 - 6 SPORTKRING ROESELARE",
+      "score": [
+        1,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497933",
+      "scoreText": "1 - 3",
+      "competition": "",
+      "text": "K.W.S. Club Lauwe A 1 - 3 SPORTKRING ROESELARE",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7546425",
+      "scoreText": "",
+      "competition": "",
+      "text": "SPORTKRING ROESELARER. OLYMPIC CLUB CHARLEROI",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497953",
+      "scoreText": "0 - 4",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 0 - 4 Zwevegem Sport",
+      "score": [
+        0,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628382",
+      "scoreText": "",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE TRUST FC",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497967",
+      "scoreText": "1 - 2",
+      "competition": "",
+      "text": "K. Sp. Club Blankenberge A 1 - 2 SPORTKRING ROESELARE",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640547",
+      "scoreText": "2 - 0",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 2 - 0 K.AA.GENT",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7546423",
+      "scoreText": "4 - 2",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 4 - 2 R.UNION ST.-GILLOISE",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497969",
+      "scoreText": "4 - 2",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 4 - 2 K. SV Rumbeke",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505679",
+      "scoreText": "0 - 2",
+      "competition": "",
+      "text": "K.R.C. MECHELEN 0 - 2 SPORTKRING ROESELARE",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505681",
+      "scoreText": "0 - 3",
+      "competition": "",
+      "text": "KFC DE KEMPEN TIELEN-LICHTAART A 0 - 3 SPORTKRING ROESELARE",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565306",
+      "scoreText": "1 - 1",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 1 - 1 Belisia Bilzen SV A",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565315",
+      "scoreText": "0 - 3",
+      "competition": "",
+      "text": "KVV Zelzate 0 - 3 SPORTKRING ROESELARE",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565269",
+      "scoreText": "1 - 0",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 1 - 0 FC Mandel United Izegem",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565276",
+      "scoreText": "1 - 1",
+      "competition": "",
+      "text": "KVK.Tienen 1 - 1 SPORTKRING ROESELARE",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505704",
+      "scoreText": "1 - 2",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 1 - 2 K. PATRO EISDEN MAASMECHELEN",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565284",
+      "scoreText": "0 - 1",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 0 - 1 Thes Sport Tessenderlo A",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565290",
+      "scoreText": "0 - 3",
+      "competition": "",
+      "text": "Koninklijke Lyra-Lierse 0 - 3 SPORTKRING ROESELARE",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565318",
+      "scoreText": "2 - 0",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 2 - 0 KFC Dessel Sp. A",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565322",
+      "scoreText": "1 - 1",
+      "competition": "",
+      "text": "Hoogstraten VV 1 - 1 SPORTKRING ROESELARE",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565352",
+      "scoreText": "2 - 1",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 2 - 1 R. Knokke FC",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565376",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 15:00 Racing Club Harelbeke",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565330",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "K.F.C. Houtvenne A 20:00 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565336",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "KSK Heist A 20:00 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565382",
+      "scoreText": "18:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 18:00 Cercle Brugge K.S.V. B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565390",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "Thes Sport Tessenderlo A 20:00 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565398",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 15:00 Koninklijke Lyra-Lierse",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565400",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "Belisia Bilzen SV A 15:00 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565413",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 15:00 KVV Zelzate",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565416",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "Racing Club Harelbeke 15:00 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565425",
+      "scoreText": "19:30",
+      "competition": "",
+      "text": "KFC Dessel Sp. A 19:30 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565436",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 15:00 KSK Heist A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565440",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "Cercle Brugge K.S.V. B 15:00 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565465",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 15:00 K.F.C. Houtvenne A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565474",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "Oud-Heverlee Leuven B 15:00 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565483",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 15:00 KFC Merelbeke",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565488",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "R. Knokke FC 20:00 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565447",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 20:00 Hoogstraten VV",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565451",
+      "scoreText": "20:00",
+      "competition": "",
+      "text": "FC Mandel United Izegem 20:00 SPORTKRING ROESELARE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565503",
+      "scoreText": "15:00",
+      "competition": "",
+      "text": "SPORTKRING ROESELARE 15:00 KVK.Tienen",
+      "score": null
+    }
+  ]
+}
