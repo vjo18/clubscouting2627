@@ -1,7 +1,7 @@
 {
   "team_id": "381025",
   "url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/kalender",
-  "fetched_at": "2026-11-04T14:06:54.727Z",
+  "fetched_at": "2026-11-04T14:49:33.705Z",
   "completeness": "unverified",
   "observed_now": 19,
   "preserved": 0,
@@ -9,8 +9,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7770836",
       "scoreText": "0 - 7",
-      "competition": "",
-      "text": "VV WESTKAPELLE 0 - 7 KM TORHOUT",
+      "competition": "1e Ploegen 3-4 Prov",
+      "text": "dinsdag 03 november - 20:00 1e Ploegen 3-4 Prov VV WESTKAPELLE 0 - 7 KM TORHOUT",
       "score": [
         0,
         7
@@ -19,22 +19,22 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662083",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "K. FC Varsenare 3-2 20:00 KM TORHOUT",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "vrijdag 06 november - 20:00 U19 Interprov Voetb V A K. FC Varsenare 3-2 20:00 KM TORHOUT(Ref. : Bentein David)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7590642",
       "scoreText": "",
-      "competition": "",
-      "text": "K.AA.GENT U18KM TORHOUT",
+      "competition": "-19",
+      "text": "vrijdag 07 augustus - 15:30 -19 K.AA.GENT U18KM TORHOUT",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7590086",
       "scoreText": "3 - 0",
-      "competition": "",
-      "text": "KM TORHOUT 3 - 0 OLSA BRAKEL",
+      "competition": "U19",
+      "text": "zondag 09 augustus - 10:00 U19 KM TORHOUT 3 - 0 OLSA BRAKEL",
       "score": [
         3,
         0
@@ -43,8 +43,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7613414",
       "scoreText": "4 - 2",
-      "competition": "",
-      "text": "KM TORHOUT 4 - 2 Racing Club Gent 3",
+      "competition": "U19",
+      "text": "zaterdag 15 augustus - 17:15 U19 KM TORHOUT 4 - 2 Racing Club Gent 3",
       "score": [
         4,
         2
@@ -53,8 +53,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7619980",
       "scoreText": "6 - 5",
-      "competition": "",
-      "text": "KSV OUDENAARDE 6 - 5 KM TORHOUT",
+      "competition": "U19",
+      "text": "dinsdag 25 augustus - 20:00 U19 KSV OUDENAARDE 6 - 5 KM TORHOUT",
       "score": [
         6,
         5
@@ -63,8 +63,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7590131",
       "scoreText": "3 - 5",
-      "competition": "",
-      "text": "KM TORHOUT 3 - 5 CERCLE BRUGGE K.S.V.",
+      "competition": "U19",
+      "text": "zaterdag 29 augustus - 15:30 U19 KM TORHOUT 3 - 5 CERCLE BRUGGE K.S.V.",
       "score": [
         3,
         5
@@ -73,8 +73,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7735281",
       "scoreText": "3 - 3",
-      "competition": "",
-      "text": "KM TORHOUT 3 - 3 KSC LOKEREN",
+      "competition": "U19",
+      "text": "zaterdag 29 augustus - 17:45 U19 KM TORHOUT 3 - 3 KSC LOKEREN",
       "score": [
         3,
         3
@@ -83,8 +83,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662052",
       "scoreText": "7 - 4",
-      "competition": "",
-      "text": "KM TORHOUT 7 - 4 K.V. Diksmuide Oostende 3",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "zaterdag 12 september - 15:30 U19 Interprov Voetb V A KM TORHOUT 7 - 4 K.V. Diksmuide Oostende 3",
       "score": [
         7,
         4
@@ -93,8 +93,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662056",
       "scoreText": "7 - 0",
-      "competition": "",
-      "text": "KM TORHOUT 7 - 0 K. FC Varsenare 3-2",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "zaterdag 19 september - 15:30 U19 Interprov Voetb V A KM TORHOUT 7 - 0 K. FC Varsenare 3-2",
       "score": [
         7,
         0
@@ -103,8 +103,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662058",
       "scoreText": "5 - 5",
-      "competition": "",
-      "text": "R. Knokke FC 3 5 - 5 KM TORHOUT",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "vrijdag 25 september - 19:30 U19 Interprov Voetb V A R. Knokke FC 3 5 - 5 KM TORHOUT",
       "score": [
         5,
         5
@@ -113,8 +113,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662065",
       "scoreText": "3 - 0",
-      "competition": "",
-      "text": "KM TORHOUT 3 - 0 Racing Club Gent 3",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "zaterdag 03 oktober - 15:30 U19 Interprov Voetb V A KM TORHOUT 3 - 0 Racing Club Gent 3",
       "score": [
         3,
         0
@@ -123,8 +123,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662067",
       "scoreText": "3 - 1",
-      "competition": "",
-      "text": "KVE Drongen 3-2 3 - 1 KM TORHOUT",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "zaterdag 10 oktober - 16:00 U19 Interprov Voetb V A KVE Drongen 3-2 3 - 1 KM TORHOUT",
       "score": [
         3,
         1
@@ -133,8 +133,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662073",
       "scoreText": "7 - 3",
-      "competition": "",
-      "text": "KM TORHOUT 7 - 3 KVV Zelzate 3",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "zaterdag 17 oktober - 15:30 U19 Interprov Voetb V A KM TORHOUT 7 - 3 KVV Zelzate 3",
       "score": [
         7,
         3
@@ -143,8 +143,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662079",
       "scoreText": "2 - 1",
-      "competition": "",
-      "text": "K.V. Diksmuide Oostende 3 2 - 1 KM TORHOUT",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "zaterdag 31 oktober - 16:00 U19 Interprov Voetb V A K.V. Diksmuide Oostende 3 2 - 1 KM TORHOUT",
       "score": [
         2,
         1
@@ -153,29 +153,29 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662088",
       "scoreText": "15:30",
-      "competition": "",
-      "text": "KM TORHOUT 15:30 R. Knokke FC 3",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "zaterdag 14 november - 15:30 U19 Interprov Voetb V A KM TORHOUT 15:30 R. Knokke FC 3(Ref. : Mens Willem)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662092",
       "scoreText": "16:15",
-      "competition": "",
-      "text": "Racing Club Gent 3 16:15 KM TORHOUT",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "zaterdag 21 november - 16:15 U19 Interprov Voetb V A Racing Club Gent 3 16:15 KM TORHOUT(Ref. : Nog aan te duiden)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662097",
       "scoreText": "15:30",
-      "competition": "",
-      "text": "KM TORHOUT 15:30 KVE Drongen 3-2",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "zaterdag 28 november - 15:30 U19 Interprov Voetb V A KM TORHOUT 15:30 KVE Drongen 3-2(Ref. : Nog aan te duiden)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662101",
       "scoreText": "17:00",
-      "competition": "",
-      "text": "KVV Zelzate 3 17:00 KM TORHOUT",
+      "competition": "U19 Interprov Voetb V A",
+      "text": "zaterdag 05 december - 17:00 U19 Interprov Voetb V A KVV Zelzate 3 17:00 KM TORHOUT(Ref. : Nog aan te duiden)",
       "score": null
     }
   ]

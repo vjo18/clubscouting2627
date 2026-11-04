@@ -1,7 +1,7 @@
 {
   "team_id": "364284",
   "url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/kalender",
-  "fetched_at": "2026-11-04T14:06:38.814Z",
+  "fetched_at": "2026-11-04T14:49:17.183Z",
   "completeness": "unverified",
   "observed_now": 40,
   "preserved": 0,
@@ -9,8 +9,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514447",
       "scoreText": "3 - 1",
-      "competition": "",
-      "text": "KM Torhout A 3 - 1 Koninklijke Eendracht Aalst Lede",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 01 november - 15:00 2de Afdeling Voetb Vl A KM Torhout A 3 - 1 Koninklijke Eendracht Aalst Lede",
       "score": [
         3,
         1
@@ -19,15 +19,15 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514448",
       "scoreText": "18:30",
-      "competition": "",
-      "text": "SV Zulte-Waregem B 18:30 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 07 november - 18:30 2de Afdeling Voetb Vl A SV Zulte-Waregem B 18:30 KM Torhout A(Ref. : Verslycken Yves - Vercamer Joachim - De Stoop Helmut)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7497938",
       "scoreText": "2 - 0",
-      "competition": "",
-      "text": "Sparta Petegem Deinze A 2 - 0 KM Torhout A",
+      "competition": "Beker van Vlaanderen A",
+      "text": "zaterdag 25 juli - 20:00 Beker van Vlaanderen A Sparta Petegem Deinze A 2 - 0 KM Torhout A",
       "score": [
         2,
         0
@@ -36,8 +36,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7497949",
       "scoreText": "0 - 3",
-      "competition": "",
-      "text": "KM Torhout A 0 - 3 KVV Zelzate",
+      "competition": "Beker van Vlaanderen A",
+      "text": "woensdag 29 juli - 20:00 Beker van Vlaanderen A KM Torhout A 0 - 3 KVV Zelzate",
       "score": [
         0,
         3
@@ -46,8 +46,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7497962",
       "scoreText": "3 - 1",
-      "competition": "",
-      "text": "K.S.V. Oostkamp A 3 - 1 KM Torhout A",
+      "competition": "Beker van Vlaanderen A",
+      "text": "woensdag 05 augustus - 20:00 Beker van Vlaanderen A K.S.V. Oostkamp A 3 - 1 KM Torhout A",
       "score": [
         3,
         1
@@ -56,8 +56,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7505633",
       "scoreText": "1 - 3",
-      "competition": "",
-      "text": "R.R.C. MORMONT A 1 - 3 KM Torhout A",
+      "competition": "Croky Cup",
+      "text": "zondag 09 augustus - 16:00 Croky Cup R.R.C. MORMONT A 1 - 3 KM Torhout A",
       "score": [
         1,
         3
@@ -66,8 +66,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7497976",
       "scoreText": "1 - 0",
-      "competition": "",
-      "text": "KM Torhout A 1 - 0 Racing Club Gent",
+      "competition": "Beker van Vlaanderen A",
+      "text": "woensdag 12 augustus - 20:00 Beker van Vlaanderen A KM Torhout A 1 - 0 Racing Club Gent",
       "score": [
         1,
         0
@@ -76,15 +76,15 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7493283",
       "scoreText": "",
-      "competition": "",
-      "text": "K. SV VEURNEKM Torhout A",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "text": "donderdag 13 augustus - 19:30 2e3e Afdeling Voetb Vl K. SV VEURNEKM Torhout A",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7573182",
       "scoreText": "2 - 2",
-      "competition": "",
-      "text": "CLUB ROESELARE 2 - 2 KM Torhout A",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "text": "donderdag 13 augustus - 20:00 2e3e Afdeling Voetb Vl CLUB ROESELARE 2 - 2 KM Torhout A",
       "score": [
         2,
         2
@@ -93,8 +93,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7505671",
       "scoreText": "0 - 1",
-      "competition": "",
-      "text": "KM Torhout A 0 - 1 R. KNOKKE F.C.",
+      "competition": "Croky Cup",
+      "text": "zondag 16 augustus - 16:00 Croky Cup KM Torhout A 0 - 1 R. KNOKKE F.C.",
       "score": [
         0,
         1
@@ -103,8 +103,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7727326",
       "scoreText": "4 - 3",
-      "competition": "",
-      "text": "F.C. GULLEGEM 4 - 3 KM Torhout A",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "text": "zaterdag 22 augustus - 19:30 2e3e Afdeling Voetb Vl F.C. GULLEGEM 4 - 3 KM Torhout A",
       "score": [
         4,
         3
@@ -113,8 +113,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7617549",
       "scoreText": "0 - 3",
-      "competition": "",
-      "text": "K. E. DE HAAN 0 - 3 KM Torhout A",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "text": "dinsdag 25 augustus - 19:30 2e3e Afdeling Voetb Vl K. E. DE HAAN 0 - 3 KM Torhout A",
       "score": [
         0,
         3
@@ -123,8 +123,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514373",
       "scoreText": "3 - 2",
-      "competition": "",
-      "text": "KM Torhout A 3 - 2 K.V. Diksmuide Oostende A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 30 augustus - 16:00 2de Afdeling Voetb Vl A KM Torhout A 3 - 2 K.V. Diksmuide Oostende A",
       "score": [
         3,
         2
@@ -133,8 +133,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514382",
       "scoreText": "1 - 1",
-      "competition": "",
-      "text": "KFCVW Hamme 1 - 1 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 06 september - 15:00 2de Afdeling Voetb Vl A KFCVW Hamme 1 - 1 KM Torhout A",
       "score": [
         1,
         1
@@ -143,8 +143,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514388",
       "scoreText": "0 - 0",
-      "competition": "",
-      "text": "KM Torhout A 0 - 0 KSK.Londerzeel",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 13 september - 15:00 2de Afdeling Voetb Vl A KM Torhout A 0 - 0 KSK.Londerzeel",
       "score": [
         0,
         0
@@ -153,8 +153,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514396",
       "scoreText": "2 - 1",
-      "competition": "",
-      "text": "YRKV Mechelen B 2 - 1 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 19 september - 20:00 2de Afdeling Voetb Vl A YRKV Mechelen B 2 - 1 KM Torhout A",
       "score": [
         2,
         1
@@ -163,8 +163,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514404",
       "scoreText": "1 - 0",
-      "competition": "",
-      "text": "KM Torhout A 1 - 0 Sparta Petegem Deinze A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 26 september - 19:30 2de Afdeling Voetb Vl A KM Torhout A 1 - 0 Sparta Petegem Deinze A",
       "score": [
         1,
         0
@@ -173,8 +173,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514415",
       "scoreText": "2 - 0",
-      "competition": "",
-      "text": "KFC Voorde-Appelterre A 2 - 0 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 04 oktober - 16:00 2de Afdeling Voetb Vl A KFC Voorde-Appelterre A 2 - 0 KM Torhout A",
       "score": [
         2,
         0
@@ -183,8 +183,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514421",
       "scoreText": "4 - 1",
-      "competition": "",
-      "text": "KM Torhout A 4 - 1 Racing Club Gent",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 10 oktober - 19:30 2de Afdeling Voetb Vl A KM Torhout A 4 - 1 Racing Club Gent",
       "score": [
         4,
         1
@@ -193,8 +193,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514431",
       "scoreText": "3 - 1",
-      "competition": "",
-      "text": "KFCHO Kalken A 3 - 1 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 18 oktober - 15:00 2de Afdeling Voetb Vl A KFCHO Kalken A 3 - 1 KM Torhout A",
       "score": [
         3,
         1
@@ -203,8 +203,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514439",
       "scoreText": "1 - 0",
-      "competition": "",
-      "text": "RFC Wetteren 1 - 0 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 25 oktober - 16:00 2de Afdeling Voetb Vl A RFC Wetteren 1 - 0 KM Torhout A",
       "score": [
         1,
         0
@@ -213,134 +213,134 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514461",
       "scoreText": "15:00",
-      "competition": "",
-      "text": "KM Torhout A 15:00 FC Lebbeke",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 15 november - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 FC Lebbeke(Ref. : Grzybowski Patryk - Roose Jarne - Demoen Simon)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514465",
       "scoreText": "19:30",
-      "competition": "",
-      "text": "VK Ninove A 19:30 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 21 november - 19:30 2de Afdeling Voetb Vl A VK Ninove A 19:30 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514477",
       "scoreText": "19:30",
-      "competition": "",
-      "text": "KM Torhout A 19:30 K.S.V. Oostkamp A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 28 november - 19:30 2de Afdeling Voetb Vl A KM Torhout A 19:30 K.S.V. Oostkamp A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514482",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "KSV Oudenaarde 20:00 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "vrijdag 04 december - 20:00 2de Afdeling Voetb Vl A KSV Oudenaarde 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514494",
       "scoreText": "15:00",
-      "competition": "",
-      "text": "KM Torhout A 15:00 KFCHO Kalken A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 13 december - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 KFCHO Kalken A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514499",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "Sparta Petegem Deinze A 20:00 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 09 januari - 20:00 2de Afdeling Voetb Vl A Sparta Petegem Deinze A 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514511",
       "scoreText": "15:00",
-      "competition": "",
-      "text": "KM Torhout A 15:00 SV Zulte-Waregem B",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 17 januari - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 SV Zulte-Waregem B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514517",
       "scoreText": "15:00",
-      "competition": "",
-      "text": "KM Torhout A 15:00 VK Ninove A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 24 januari - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 VK Ninove A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514527",
       "scoreText": "15:00",
-      "competition": "",
-      "text": "KSK.Londerzeel 15:00 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 31 januari - 15:00 2de Afdeling Voetb Vl A KSK.Londerzeel 15:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514532",
       "scoreText": "15:00",
-      "competition": "",
-      "text": "KM Torhout A 15:00 YRKV Mechelen B",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 14 februari - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 YRKV Mechelen B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514538",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "FC Lebbeke 20:00 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 20 februari - 20:00 2de Afdeling Voetb Vl A FC Lebbeke 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514548",
       "scoreText": "15:00",
-      "competition": "",
-      "text": "KM Torhout A 15:00 KFC Voorde-Appelterre A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 28 februari - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 KFC Voorde-Appelterre A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514555",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "Racing Club Gent 20:00 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 06 maart - 20:00 2de Afdeling Voetb Vl A Racing Club Gent 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514565",
       "scoreText": "15:00",
-      "competition": "",
-      "text": "KM Torhout A 15:00 KFCVW Hamme",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 14 maart - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 KFCVW Hamme(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514569",
       "scoreText": "19:30",
-      "competition": "",
-      "text": "K.S.V. Oostkamp A 19:30 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 20 maart - 19:30 2de Afdeling Voetb Vl A K.S.V. Oostkamp A 19:30 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514581",
       "scoreText": "19:30",
-      "competition": "",
-      "text": "KM Torhout A 19:30 KSV Oudenaarde",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 03 april - 19:30 2de Afdeling Voetb Vl A KM Torhout A 19:30 KSV Oudenaarde(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514588",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "K.V. Diksmuide Oostende A 20:00 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zaterdag 10 april - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514597",
       "scoreText": "15:00",
-      "competition": "",
-      "text": "KM Torhout A 15:00 RFC Wetteren",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 18 april - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 RFC Wetteren(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514601",
       "scoreText": "15:00",
-      "competition": "",
-      "text": "Koninklijke Eendracht Aalst Lede 15:00 KM Torhout A",
+      "competition": "2de Afdeling Voetb Vl A",
+      "text": "zondag 25 april - 15:00 2de Afdeling Voetb Vl A Koninklijke Eendracht Aalst Lede 15:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
       "score": null
     }
   ]

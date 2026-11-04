@@ -1,7 +1,7 @@
 {
   "team_id": "360199",
   "url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/kalender",
-  "fetched_at": "2026-11-04T14:06:33.777Z",
+  "fetched_at": "2026-11-04T14:49:12.072Z",
   "completeness": "unverified",
   "observed_now": 18,
   "preserved": 0,
@@ -9,22 +9,22 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7735342",
       "scoreText": "19:45",
-      "competition": "",
-      "text": "R.F.C. LUINGNOIS 19:45 SPORTKRING ROESELARE",
+      "competition": "U19",
+      "text": "woensdag 04 november - 19:45 U19 R.F.C. LUINGNOIS 19:45 SPORTKRING ROESELARE(Ref. : Hourez Vincent)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663371",
       "scoreText": "16:15",
-      "competition": "",
-      "text": "K.V.K. Ieper 3 16:15 SPORTKRING ROESELARE",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 07 november - 16:15 U19 Interprov Voetb V B K.V.K. Ieper 3 16:15 SPORTKRING ROESELARE(Ref. : Roegiers Davy)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7617467",
       "scoreText": "1 - 1",
-      "competition": "",
-      "text": "SPARTA PETEGEM DEINZE 1 - 1 SPORTKRING ROESELARE",
+      "competition": "U19",
+      "text": "woensdag 19 augustus - 20:00 U19 SPARTA PETEGEM DEINZE 1 - 1 SPORTKRING ROESELARE",
       "score": [
         1,
         1
@@ -33,8 +33,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7628147",
       "scoreText": "5 - 2",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 5 - 2 KSC DIKKELVENNE",
+      "competition": "U19",
+      "text": "zaterdag 29 augustus - 14:00 U19 SPORTKRING ROESELARE 5 - 2 KSC DIKKELVENNE",
       "score": [
         5,
         2
@@ -43,8 +43,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663334",
       "scoreText": "4 - 3",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 4 - 3 Racing Club Harelbeke 3",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 05 september - 14:00 U19 Interprov Voetb V B SPORTKRING ROESELARE 4 - 3 Racing Club Harelbeke 3",
       "score": [
         4,
         3
@@ -53,8 +53,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663341",
       "scoreText": "2 - 5",
-      "competition": "",
-      "text": "KSV Oudenaarde 3 2 - 5 SPORTKRING ROESELARE",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 12 september - 13:30 U19 Interprov Voetb V B KSV Oudenaarde 3 2 - 5 SPORTKRING ROESELARE",
       "score": [
         2,
         5
@@ -63,8 +63,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663342",
       "scoreText": "1 - 0",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 1 - 0 K.V.K. Ieper 3",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 19 september - 14:00 U19 Interprov Voetb V B SPORTKRING ROESELARE 1 - 0 K.V.K. Ieper 3",
       "score": [
         1,
         0
@@ -73,8 +73,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7734941",
       "scoreText": "3 - 2",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 3 - 2 KVV ZELZATE",
+      "competition": "U19",
+      "text": "woensdag 23 september - 20:00 U19 SPORTKRING ROESELARE 3 - 2 KVV ZELZATE",
       "score": [
         3,
         2
@@ -83,8 +83,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663348",
       "scoreText": "5 - 1",
-      "competition": "",
-      "text": "F.C. Gullegem 3 5 - 1 SPORTKRING ROESELARE",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 26 september - 17:00 U19 Interprov Voetb V B F.C. Gullegem 3 5 - 1 SPORTKRING ROESELARE",
       "score": [
         5,
         1
@@ -93,8 +93,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663350",
       "scoreText": "0 - 3",
-      "competition": "",
-      "text": "S.V. Wevelgem City 3-2 0 - 3 SPORTKRING ROESELARE",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 03 oktober - 14:30 U19 Interprov Voetb V B S.V. Wevelgem City 3-2 0 - 3 SPORTKRING ROESELARE",
       "score": [
         0,
         3
@@ -103,8 +103,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663354",
       "scoreText": "4 - 2",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 4 - 2 Olsa Brakel 3",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 10 oktober - 14:00 U19 Interprov Voetb V B SPORTKRING ROESELARE 4 - 2 Olsa Brakel 3",
       "score": [
         4,
         2
@@ -113,8 +113,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663359",
       "scoreText": "1 - 4",
-      "competition": "",
-      "text": "FC Mandel United Izegem 3 1 - 4 SPORTKRING ROESELARE",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 17 oktober - 16:00 U19 Interprov Voetb V B FC Mandel United Izegem 3 1 - 4 SPORTKRING ROESELARE",
       "score": [
         1,
         4
@@ -123,8 +123,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663366",
       "scoreText": "4 - 2",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 4 - 2 KSV Oudenaarde 3",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 31 oktober - 16:00 U19 Interprov Voetb V B SPORTKRING ROESELARE 4 - 2 KSV Oudenaarde 3",
       "score": [
         4,
         2
@@ -133,36 +133,36 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663374",
       "scoreText": "13:30",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 13:30 F.C. Gullegem 3",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 14 november - 13:30 U19 Interprov Voetb V B SPORTKRING ROESELARE 13:30 F.C. Gullegem 3(Ref. : Van Daele Lorenzo)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663362",
       "scoreText": "19:00",
-      "competition": "",
-      "text": "Racing Club Harelbeke 3 19:00 SPORTKRING ROESELARE",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "dinsdag 17 november - 19:00 U19 Interprov Voetb V B Racing Club Harelbeke 3 19:00 SPORTKRING ROESELARE(Ref. : Henry Louis)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663378",
       "scoreText": "10:00",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 10:00 S.V. Wevelgem City 3-2",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zondag 22 november - 10:00 U19 Interprov Voetb V B SPORTKRING ROESELARE 10:00 S.V. Wevelgem City 3-2(Ref. : Nog aan te duiden)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663384",
       "scoreText": "14:15",
-      "competition": "",
-      "text": "Olsa Brakel 3 14:15 SPORTKRING ROESELARE",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 28 november - 14:15 U19 Interprov Voetb V B Olsa Brakel 3 14:15 SPORTKRING ROESELARE(Ref. : Nog aan te duiden)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663386",
       "scoreText": "13:30",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 13:30 FC Mandel United Izegem 3",
+      "competition": "U19 Interprov Voetb V B",
+      "text": "zaterdag 05 december - 13:30 U19 Interprov Voetb V B SPORTKRING ROESELARE 13:30 FC Mandel United Izegem 3(Ref. : Nog aan te duiden)",
       "score": null
     }
   ]

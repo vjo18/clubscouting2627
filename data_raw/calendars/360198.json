@@ -1,7 +1,7 @@
 {
   "team_id": "360198",
   "url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/kalender",
-  "fetched_at": "2026-11-04T14:06:28.093Z",
+  "fetched_at": "2026-11-04T14:49:06.814Z",
   "completeness": "unverified",
   "observed_now": 22,
   "preserved": 0,
@@ -9,8 +9,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544597",
       "scoreText": "1 - 4",
-      "competition": "",
-      "text": "KVE Drongen A 1 - 4 SPORTKRING ROESELARE",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 30 oktober - 20:00 Regionale Res.Voetb Vl B KVE Drongen A 1 - 4 SPORTKRING ROESELARE",
       "score": [
         1,
         4
@@ -19,15 +19,15 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544602",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 20:00 K. Sp. Club Blankenberge",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 06 november - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 20:00 K. Sp. Club Blankenberge(Ref. : Van Daele Lorenzo)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7499924",
       "scoreText": "1 - 1",
-      "competition": "",
-      "text": "JONG ANZEGEM 1 - 1 SPORTKRING ROESELARE",
+      "competition": "1e Ploegen 3-4 Prov",
+      "text": "donderdag 23 juli - 19:30 1e Ploegen 3-4 Prov JONG ANZEGEM 1 - 1 SPORTKRING ROESELARE",
       "score": [
         1,
         1
@@ -36,8 +36,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7578236",
       "scoreText": "4 - 0",
-      "competition": "",
-      "text": "K.V.K. IEPER 4 - 0 SPORTKRING ROESELARE",
+      "competition": "Reserven Provincie",
+      "text": "vrijdag 31 juli - 20:00 Reserven Provincie K.V.K. IEPER 4 - 0 SPORTKRING ROESELARE",
       "score": [
         4,
         0
@@ -46,8 +46,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7613342",
       "scoreText": "1 - 1",
-      "competition": "",
-      "text": "K. WS OUDENBURG 1 - 1 SPORTKRING ROESELARE",
+      "competition": "1e Ploegen 1-2 Prov",
+      "text": "donderdag 13 augustus - 19:30 1e Ploegen 1-2 Prov K. WS OUDENBURG 1 - 1 SPORTKRING ROESELARE",
       "score": [
         1,
         1
@@ -56,8 +56,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7578043",
       "scoreText": "2 - 3",
-      "competition": "",
-      "text": "K.V. DIKSMUIDE OOSTENDE 2 - 3 SPORTKRING ROESELARE",
+      "competition": "Reserven Provincie",
+      "text": "maandag 17 augustus - 19:30 Reserven Provincie K.V. DIKSMUIDE OOSTENDE 2 - 3 SPORTKRING ROESELARE",
       "score": [
         2,
         3
@@ -66,8 +66,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7497361",
       "scoreText": "1 - 2",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 1 - 2 K. DOSKO SINT-KRUIS",
+      "competition": "1e Ploegen 1-2 Prov",
+      "text": "dinsdag 25 augustus - 20:00 1e Ploegen 1-2 Prov SPORTKRING ROESELARE 1 - 2 K. DOSKO SINT-KRUIS",
       "score": [
         1,
         2
@@ -76,8 +76,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544567",
       "scoreText": "3 - 1",
-      "competition": "",
-      "text": "KM Torhout A 3 - 1 SPORTKRING ROESELARE",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 04 september - 20:15 Regionale Res.Voetb Vl B KM Torhout A 3 - 1 SPORTKRING ROESELARE",
       "score": [
         3,
         1
@@ -86,8 +86,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7644495",
       "scoreText": "1 - 0",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 1 - 0 RACING CLUB HARELBEKE",
+      "competition": "Reserven Provincie",
+      "text": "dinsdag 08 september - 20:00 Reserven Provincie SPORTKRING ROESELARE 1 - 0 RACING CLUB HARELBEKE",
       "score": [
         1,
         0
@@ -96,8 +96,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544568",
       "scoreText": "2 - 0",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 2 - 0 KVE Drongen A",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 11 september - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 2 - 0 KVE Drongen A",
       "score": [
         2,
         0
@@ -106,8 +106,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544573",
       "scoreText": "2 - 3",
-      "competition": "",
-      "text": "K. Sp. Club Blankenberge 2 - 3 SPORTKRING ROESELARE",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 18 september - 20:00 Regionale Res.Voetb Vl B K. Sp. Club Blankenberge 2 - 3 SPORTKRING ROESELARE",
       "score": [
         2,
         3
@@ -116,8 +116,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544576",
       "scoreText": "11 - 2",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 11 - 2 KSKDJ Lovendegem",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 25 september - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 11 - 2 KSKDJ Lovendegem",
       "score": [
         11,
         2
@@ -126,8 +126,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544583",
       "scoreText": "4 - 2",
-      "competition": "",
-      "text": "R. Knokke FC 4 - 2 SPORTKRING ROESELARE",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "maandag 05 oktober - 20:00 Regionale Res.Voetb Vl B R. Knokke FC 4 - 2 SPORTKRING ROESELARE",
       "score": [
         4,
         2
@@ -136,8 +136,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544584",
       "scoreText": "0 - 0",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 0 - 0 K.S.V. Oostkamp",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 09 oktober - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 0 - 0 K.S.V. Oostkamp",
       "score": [
         0,
         0
@@ -146,8 +146,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7738516",
       "scoreText": "2 - 1",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 2 - 1 F.C. GULLEGEM",
+      "competition": "Reserven Provincie",
+      "text": "dinsdag 13 oktober - 20:00 Reserven Provincie SPORTKRING ROESELARE 2 - 1 F.C. GULLEGEM",
       "score": [
         2,
         1
@@ -156,8 +156,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544590",
       "scoreText": "1 - 6",
-      "competition": "",
-      "text": "K. SV Rumbeke A 1 - 6 SPORTKRING ROESELARE",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 16 oktober - 20:00 Regionale Res.Voetb Vl B K. SV Rumbeke A 1 - 6 SPORTKRING ROESELARE",
       "score": [
         1,
         6
@@ -166,8 +166,8 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544594",
       "scoreText": "5 - 1",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 5 - 1 KM Torhout A",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "dinsdag 27 oktober - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 5 - 1 KM Torhout A",
       "score": [
         5,
         1
@@ -176,36 +176,36 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7743628",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 20:00 SPARTA PETEGEM DEINZE",
+      "competition": "Reserven Provincie",
+      "text": "dinsdag 10 november - 20:00 Reserven Provincie SPORTKRING ROESELARE 20:00 SPARTA PETEGEM DEINZE",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544604",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "KSKDJ Lovendegem 20:00 SPORTKRING ROESELARE",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 13 november - 20:00 Regionale Res.Voetb Vl B KSKDJ Lovendegem 20:00 SPORTKRING ROESELARE(Ref. : Akbulut Mesut)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544609",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 20:00 R. Knokke FC",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 20 november - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 20:00 R. Knokke FC(Ref. : Nog aan te duiden)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544613",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "K.S.V. Oostkamp 20:00 SPORTKRING ROESELARE",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 27 november - 20:00 Regionale Res.Voetb Vl B K.S.V. Oostkamp 20:00 SPORTKRING ROESELARE(Ref. : Nog aan te duiden)",
       "score": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544618",
       "scoreText": "20:00",
-      "competition": "",
-      "text": "SPORTKRING ROESELARE 20:00 K. SV Rumbeke A",
+      "competition": "Regionale Res.Voetb Vl B",
+      "text": "vrijdag 04 december - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 20:00 K. SV Rumbeke A(Ref. : Nog aan te duiden)",
       "score": null
     }
   ]
