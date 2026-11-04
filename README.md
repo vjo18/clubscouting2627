@@ -47,7 +47,7 @@ python3 -m http.server 8000 --directory public
 
 Open http://localhost:8000. Na een Actions-run kun je ook het artifact **clubscout-dashboard** downloaden, uitpakken en die map met `python3 -m http.server 8000` openen. Een rechtstreekse `file://`-opening werkt niet betrouwbaar vanwege het laden van JSON.
 
-De repo publiceert nog geen GitHub Pages-site. Het dashboard bevat zoeken, clubkeuze, selecties per ploeg, filters op meerdere ploegen/scoutsignalen/ongekoppelde identiteit, spelersfiches en CSV-export. Het startbestand bevat 15 Torhout-reserven uit het aangeleverde wedstrijdblad, niet een volledig seizoen.
+Voor een vaste weblink staat de workflow **Publiceer dashboard** klaar. Stel eenmalig bij **Settings → Pages → Build and deployment → Source** de optie **GitHub Actions** in. Open daarna **Actions → Publiceer dashboard → Run workflow** op `main`. Na een geslaagde deployment staat de link in het environment `github-pages`; de verwachte URL is https://vjo18.github.io/clubscouting2627/. Het dashboard is pas gepubliceerd zodra die deployment slaagt. Daarna publiceert een geslaagde **Update clubdata**-run het dashboard opnieuw. Het dashboard bevat zoeken, clubkeuze, selecties per ploeg, filters op meerdere ploegen/scoutsignalen/ongekoppelde identiteit, spelersfiches en CSV-export. Het startbestand bevat 15 Torhout-reserven uit het aangeleverde wedstrijdblad, niet een volledig seizoen.
 
 ## Selectie is niet hetzelfde als spelen
 
