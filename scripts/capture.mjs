@@ -20,9 +20,22 @@ for(const dir of ['data_raw/calendars','data_raw/reports','public/data'])fs.mkdi
 const diagnostics={startedAt:new Date().toISOString(),calendars:[],reports:[],status:'running'};
 const pause=ms=>new Promise(r=>setTimeout(r,ms));
 let browser;
+let page;
 
 function readCards(){
-  return Array.from(document.querySelectorAll('.game-item')).flatMap(el=>{
+  const cards=Array.from(document.querySelectorAll('.game-item'));
+  // Ploegpagina's kunnen een andere wrapper gebruiken dan reekspagina's.
+  if(!cards.length){
+    for(const link of document.querySelectorAll('a[href*="/nl/wedstrijd/"]')){
+      let el=link;
+      for(let i=0;el&&i<8;i++,el=el.parentElement){
+        const urls=new Set(Array.from(el.querySelectorAll('a[href*="/nl/wedstrijd/"]')).map(a=>a.pathname));
+        if(urls.size>1)break;
+        if(el.querySelectorAll('.score').length===1){cards.push(el);break;}
+      }
+    }
+  }
+  return cards.flatMap(el=>{
     const a=el.querySelector('a.team-score, .team-score a, a[href*="/nl/wedstrijd/"]');
     const url=a?.href || el.querySelector('.team-score')?.closest('a')?.href;
     if(!url)return [];
@@ -33,7 +46,7 @@ function readCards(){
 async function readCalendar(page,job){
   console.log(`Ploegkalender: ${job.club.name} / ${job.team.label} — ${job.url}`);
   await page.goto(job.url,{waitUntil:'networkidle2',timeout:60000});
-  await page.waitForSelector('.game-item',{timeout:45000});
+  await page.waitForSelector('.game-item, a[href*="/nl/wedstrijd/"]',{timeout:45000});
   const rows=[];
   const collect=async()=>{
     for(const row of await page.evaluate(readCards))rows.push({...row,url:matchURL(row.url),score:score(row.scoreText)});
@@ -55,7 +68,7 @@ async function readCalendar(page,job){
         select.value=value;select.dispatchEvent(new Event('change',{bubbles:true}));
       },{index:s.index,value:option.value});
       await page.waitForNetworkIdle({idleTime:800,timeout:20000});
-      await page.waitForSelector('.game-item',{timeout:20000});await collect();
+      await page.waitForSelector('.game-item, a[href*="/nl/wedstrijd/"]',{timeout:20000});await collect();
     }
   }
   for(let i=0;i<100;i++){
@@ -78,7 +91,10 @@ async function readCalendar(page,job){
 
 try{
   browser=await puppeteer.launch({headless:false,args:['--no-sandbox','--disable-setuid-sandbox']});
-  const page=await browser.newPage();page.setDefaultNavigationTimeout(60000);
+  page=await browser.newPage();page.setDefaultNavigationTimeout(60000);
+  page.on('response',response=>{
+    if(response.url().toLowerCase().includes('graphql'))console.log('RBFA GraphQL HTTP '+response.status());
+  });
   const fixtures=new Map();
   for(const job of jobs){
     const fetched=await readCalendar(page,job),file=path.join(temp,'data_raw/calendars',job.team.rbfa_team_id+'.json');
@@ -114,7 +130,17 @@ try{
   const r=spawnSync('python3',[path.join(root,'scripts/commit_capture.py'),temp],{stdio:'inherit',cwd:root});
   if(r.status!==0)throw Error('Validatie van stagedataset mislukt; dashboard behouden');
   diagnostics.status='success';
-}catch(e){diagnostics.status='failed';diagnostics.error=e.message;process.exitCode=1;console.error(e.stack);
+}catch(e){
+  diagnostics.status='failed';diagnostics.error=e.message;process.exitCode=1;console.error(e.stack);
+  if(page){
+    try{
+      diagnostics.page=await page.evaluate(()=>({url:location.href,title:document.title,
+        text:document.body.innerText.slice(-18000),
+        links:Array.from(document.querySelectorAll('a[href*="wedstrijd"],a[href*="kalender"]')).slice(0,12).map(a=>({href:a.href,html:a.outerHTML.slice(0,1500)})),
+        classes:[...new Set(Array.from(document.querySelectorAll('[class]')).map(n=>n.getAttribute('class')).filter(c=>/game|match|calendar|kalender|score|event/i.test(c)))].slice(0,60)}));
+      console.error('RBFA-paginadiagnostiek: '+JSON.stringify(diagnostics.page));
+    }catch(error){console.error('Paginadiagnostiek niet beschikbaar: '+error.message);}
+  }
 }finally{
   diagnostics.finishedAt=new Date().toISOString();fs.mkdirSync('diagnostics',{recursive:true});
   fs.writeFileSync('diagnostics/last-capture.json',JSON.stringify(diagnostics,null,2));

@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['config/clubs.json']
+    paths: ['config/clubs.json', 'scripts/**', '.github/workflows/update.yml']
 permissions:
   contents: write
 concurrency:
