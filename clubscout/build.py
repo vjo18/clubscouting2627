@@ -3,6 +3,7 @@ import json
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
+from .scope import load_calendars
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -15,6 +16,10 @@ def build(root=ROOT):
     config = json.loads((root/'config/clubs.json').read_text())
     # Team-ID is verplicht: 'KM Torhout A' is ook de naam van Res A.
     teams = {t['rbfa_team_id']: (c,t) for c in config['clubs'] for t in c['teams'] if t['include'] and t.get('rbfa_team_id')}
+    source_calendars, scoped_calendars = load_calendars(root, config, teams)
+    league_only = config.get('match_scope') == 'league_only'
+    allowed = {tid: {m['url'] for m in matches if m.get('score') is not None}
+               for tid, matches in scoped_calendars.items()}
     overrides = {}
     with (root/'config/player_identity.csv').open(encoding='utf-8-sig') as f:
         for r in csv.DictReader(f, delimiter=';'):
@@ -36,6 +41,8 @@ def build(root=ROOT):
         for r in report['players']:
             tid = r['team_rbfa_id']
             if tid not in teams:
+                continue
+            if league_only and report['source'] not in allowed.get(tid, set()):
                 continue
             c,t = teams[tid]
             if r['club_rbfa_id'] != c['rbfa_club_id']:
@@ -72,20 +79,19 @@ def build(root=ROOT):
         if p['multiple_teams']:
             p['signals'].append('Op wedstrijdbladen van meerdere ploegen')
     calendars = {}
-    for path in (root/'data_raw/calendars').glob('*.json'):
-        calendar = json.loads(path.read_text())
-        tid = calendar['team_id']
-        if tid not in teams:
-            continue
-        played = {m['url'] for m in calendar['matches'] if m.get('score') is not None}
-        calendars[tid] = {'observed':len(calendar['matches']), 'played':len(played),
+    for tid, calendar in source_calendars.items():
+        matches = scoped_calendars[tid]
+        played = {m['url'] for m in matches if m.get('score') is not None}
+        calendars[tid] = {'observed':len(matches), 'played':len(played),
+                          'excluded':len(calendar['matches'])-len(matches),
                           'imported':len(played & coverage[tid]), 'fetched_at':calendar['fetched_at'],
                           'completeness':calendar.get('completeness','unverified'),
                           'preserved':calendar.get('preserved',0)}
     result = {'clubs':config['clubs'],'season':config['season'],'players':list(players.values()),
+              'matchScope':config.get('match_scope','all'),
               'calendarCoverage':calendars,
               'coverage':{tid:len(urls) for tid,urls in coverage.items()},
-              'notice':'Selecties zijn geen gespeelde wedstrijden. Ontbrekende gegevens blijven onbekend. Ongekoppelde spelers worden per ploeg getoond.'}
+              'notice':('Alleen competitiewedstrijden. ' if league_only else '')+'Selecties zijn geen gespeelde wedstrijden. Ontbrekende speelgegevens blijven onbekend. Een onbevestigde spelerkoppeling betekent dat nog niet bevestigd is dat dezelfde naam bij verschillende ploegen dezelfde persoon is.'}
     dest = root/'public/data/players.json'
     temp = dest.with_suffix('.tmp')
     temp.write_text(json.dumps(result,ensure_ascii=False,indent=2))
@@ -95,3 +101,4 @@ def build(root=ROOT):
 
 if __name__ == '__main__':
     print(f"{len(build()['players'])} spelers opgeslagen")
+

@@ -10,11 +10,14 @@
         {
           "label": "A",
           "role": "A",
-          "competition": "1ste Afdeling VV — te bevestigen",
+          "competition": "1e Afdeling Voetb Vl",
           "rbfa_team_id": "360196",
           "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360196/kalender",
           "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360196/overzicht"
+          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360196/overzicht",
+          "league_competitions": [
+            "1e Afdeling Voetb Vl"
+          ]
         },
         {
           "label": "Reserven",
@@ -23,16 +26,22 @@
           "rbfa_team_id": "360198",
           "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/kalender",
           "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/overzicht"
+          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/overzicht",
+          "league_competitions": [
+            "Regionale Res.Voetb Vl B"
+          ]
         },
         {
           "label": "U19",
           "role": "U19",
-          "competition": "Te bevestigen",
+          "competition": "U19 Interprov Voetb V B",
           "rbfa_team_id": "360199",
           "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/kalender",
           "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/overzicht"
+          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/overzicht",
+          "league_competitions": [
+            "U19 Interprov Voetb V B"
+          ]
         }
       ],
       "club_url": "https://www.rbfa.be/nl/club/2656/info"
@@ -46,20 +55,26 @@
         {
           "label": "A",
           "role": "A",
-          "competition": "2de afdeling — te bevestigen",
+          "competition": "2de Afdeling Voetb Vl A",
           "rbfa_team_id": "364284",
           "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/kalender",
           "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/overzicht"
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/overzicht",
+          "league_competitions": [
+            "2de Afdeling Voetb Vl A"
+          ]
         },
         {
           "label": "B",
           "role": "B",
-          "competition": "2de provinciale — te bevestigen",
+          "competition": "2 Provinciaal Wvl A",
           "rbfa_team_id": "364282",
           "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/kalender",
           "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/overzicht"
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/overzicht",
+          "league_competitions": [
+            "2 Provinciaal Wvl A"
+          ]
         },
         {
           "label": "Res A",
@@ -68,16 +83,22 @@
           "rbfa_team_id": "364285",
           "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364285/kalender",
           "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364285/overzicht"
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364285/overzicht",
+          "league_competitions": [
+            "Regionale Res.Voetb Vl B"
+          ]
         },
         {
           "label": "U19 IP",
           "role": "U19",
-          "competition": "U19 interprovinciaal — te bevestigen",
+          "competition": "U19 Interprov Voetb V A",
           "rbfa_team_id": "381025",
           "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/kalender",
           "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/overzicht"
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/overzicht",
+          "league_competitions": [
+            "U19 Interprov Voetb V A"
+          ]
         },
         {
           "label": "U21",
@@ -90,5 +111,7 @@
       ],
       "club_url": "https://www.rbfa.be/nl/club/1185/info"
     }
-  ]
+  ],
+  "match_scope": "league_only"
 }
+

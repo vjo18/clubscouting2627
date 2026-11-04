@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {calendarJobs,teamCalendar,matchURL,score,mergeFixtures} from '../scripts/calendar_helpers.mjs';
+import {calendarJobs,teamCalendar,matchURL,score,mergeFixtures,isLeagueFixture} from '../scripts/calendar_helpers.mjs';
 
 test('De zeven opgegeven ploegen gebruiken uitsluitend hun eigen kalender',()=>{
   const c=JSON.parse(fs.readFileSync(new URL('../config/clubs.json',import.meta.url)));
@@ -34,4 +34,11 @@ test('Geen score afleiden uit aftrapuur, uitstel of een leeg veld',()=>{
   assert.deepEqual(score('3 - 5'),[3,5]);assert.deepEqual(score('0–0'),[0,0]);
   for(const value of ['20:15','uitgesteld','-','',null])assert.equal(score(value),null);
   assert.throws(()=>matchURL('https://example.com/nl/wedstrijd/1'));
+});
+
+
+test('Competitiefilter weigert beker, oefenwedstrijden en onbekende labels',()=>{
+  const t={league_competitions:['2 Provinciaal Wvl A']};
+  assert.equal(isLeagueFixture(t,{competition:'2 Provinciaal Wvl A'}),true);
+  for(const name of ['',null,'BvW Heren Groep 3 P1/P2','1e Ploegen 1-2 Prov','Croky Cup'])assert.equal(isLeagueFixture(t,{competition:name}),false);
 });

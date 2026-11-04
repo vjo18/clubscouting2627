@@ -5,11 +5,11 @@ import {fileURLToPath} from 'node:url';
 import {spawnSync} from 'node:child_process';
 import {createHash} from 'node:crypto';
 import puppeteer from 'puppeteer';
-import {calendarJobs,matchURL,mergeFixtures,score} from './calendar_helpers.mjs';
+import {calendarJobs,matchURL,mergeFixtures,score,isLeagueFixture} from './calendar_helpers.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 process.chdir(root);
 if(process.platform==='linux' && !process.env.DISPLAY && !process.env.CLUBSCOUT_XVFB){
-  const r=spawnSync('xvfb-run',['-a',process.execPath,process.argv[1]],{stdio:'inherit',env:{...process.env,CLUBSCOUT_XVFB:'1'}});
+  const r=spawnSync('xvfb-run',['-a',process.execPath,process.argv[1],...process.argv.slice(2)],{stdio:'inherit',env:{...process.env,CLUBSCOUT_XVFB:'1'}});
   if(r.error)console.error('Installeer xvfb of start vanuit een desktopomgeving.',r.error.message);
   process.exit(r.status??1);
 }
@@ -96,11 +96,13 @@ try{
     const old=fs.existsSync(file)?JSON.parse(fs.readFileSync(file,'utf8')):null;
     const merged=mergeFixtures(old?.matches??[],fetched);
     console.log('Kalenderreeksen '+job.team.rbfa_team_id+': '+JSON.stringify([...new Set(fetched.map(m=>m.competition))]));
+    if(!merged.some(m=>isLeagueFixture(job.team,m)))throw Error('Geen wedstrijden met goedgekeurde competitienaam voor '+job.team.rbfa_team_id);
     const calendar={team_id:job.team.rbfa_team_id,url:job.url,fetched_at:new Date().toISOString(),
       completeness:'unverified',observed_now:fetched.length,preserved:merged.length-fetched.length,matches:merged};
     fs.writeFileSync(file,JSON.stringify(calendar,null,2));
     diagnostics.calendars.push({team:job.team.rbfa_team_id,observed:fetched.length,preserved:calendar.preserved});
     for(const match of merged){
+      if(!isLeagueFixture(job.team,match))continue;
       if(!match.score)continue;
       const fixture=fixtures.get(match.url)??{teams:new Set(),score:match.score};
       if(fixture.score.join('-')!==match.score.join('-'))throw Error('Tegenstrijdige score tussen ploegkalenders');
@@ -158,3 +160,4 @@ try{
   fs.writeFileSync('diagnostics/last-capture.json',JSON.stringify(diagnostics,null,2));
   if(browser)await browser.close();fs.rmSync(temp,{recursive:true,force:true});
 }
+

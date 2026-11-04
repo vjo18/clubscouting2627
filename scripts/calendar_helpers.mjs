@@ -1,4 +1,10 @@
 // Pure functies; ook zonder browser te testen.
+export function isLeagueFixture(team, match) {
+  const normalize=value=>String(value??'').trim().toLocaleLowerCase('nl').replace(/\s+/g,' ');
+  const name=normalize(match.competition);
+  return Boolean(name) && (team.league_competitions??[]).some(c=>normalize(c)===name);
+}
+
 export function teamCalendar(url, clubId, teamId) {
   const u=new URL(url);
   if(u.protocol!=='https:' || !['rbfa.be','www.rbfa.be'].includes(u.hostname) ||
@@ -44,3 +50,4 @@ export function calendarJobs(config) {
   if(!jobs.length)throw Error('Geen gevolgde ploegen');
   return jobs;
 }
+

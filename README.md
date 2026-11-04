@@ -18,7 +18,7 @@ Clubgerichte scouting voor Ardooie, seizoen 2026–2027. Structuur: **club → p
 
 U21 is uitgesloten. Stamnummer, RBFA-club-ID en ploeg-ID zijn aparte gegevens: Torhout heeft stamnummer 00822, club-ID 1185 en meerdere ploeg-IDs. In het reserveverslag heet Res A ook **KM Torhout A**; ploeg-ID 364285 voorkomt verwarring met het eerste elftal.
 
-De ploegkalender kan meerdere soorten wedstrijden bevatten. Deze versie leest de wedstrijden met een numerieke score uit de opgegeven kalender; hij filtert nog niet apart op competitie, beker of oefenwedstrijd. De reekstitels in de configuratie zijn beschrijvende labels, geen gevalideerde competitie-IDs.
+De ploegkalender bevat ook beker- en oefenwedstrijden. **Alleen competitiewedstrijden tellen mee.** Per ploeg staat in `league_competitions` de exact goedgekeurde RBFA-reeksnaam. Onbekende of lege labels worden niet meegeteld. Deze filter geldt voor selecties, minuten, scoutsignalen, dekking, spelersfiches en CSV-export, ook voor eerder ingelezen verslagen. De overige ruwe verslagen blijven als bronarchief bewaard, maar beïnvloeden het dashboard niet.
 
 ## Eerste gegevens ophalen
 
@@ -34,7 +34,7 @@ De workflow:
 
 Een wijziging aan `config/clubs.json` op `main` start ook een update. Er is nog geen wekelijkse planning. Bij een ontbrekend spelersblad, geblokkeerde pagina of tegenstrijdige score stopt de run en blijft de vorige opgeslagen dataset behouden. Bij een gelijktijdige wijziging aan `main` kan de niet-geforceerde push worden geweigerd; start de run dan opnieuw.
 
-**De live collector is nog niet op RBFA gevalideerd.** De kalenderpagina's waren in de ontwikkelomgeving niet bereikbaar. De eerste Actions-run moet bevestigen dat de selectors en kalenderfilters op deze ploegpagina's werken. De workflow **Controle en dashboard** heeft geen browser of live RBFA nodig.
+De ploegkalenders en wedstrijdbladen zijn via GitHub Actions ingelezen. Volledige seizoensdekking blijft afzonderlijk te controleren. De workflow **Controle en dashboard** heeft geen browser of live RBFA nodig.
 
 ## Dashboard openen
 
@@ -47,7 +47,7 @@ python3 -m http.server 8000 --directory public
 
 Open http://localhost:8000. Na een Actions-run kun je ook het artifact **clubscout-dashboard** downloaden, uitpakken en die map met `python3 -m http.server 8000` openen. Een rechtstreekse `file://`-opening werkt niet betrouwbaar vanwege het laden van JSON.
 
-Voor een vaste weblink staat de workflow **Publiceer dashboard** klaar. Stel eenmalig bij **Settings → Pages → Build and deployment → Source** de optie **GitHub Actions** in. Open daarna **Actions → Publiceer dashboard → Run workflow** op `main`. Na een geslaagde deployment staat de link in het environment `github-pages`; de verwachte URL is https://vjo18.github.io/clubscouting2627/. Het dashboard is pas gepubliceerd zodra die deployment slaagt. Daarna publiceert een geslaagde **Update clubdata**-run het dashboard opnieuw. Het dashboard bevat zoeken, clubkeuze, selecties per ploeg, filters op meerdere ploegen/scoutsignalen/ongekoppelde identiteit, spelersfiches en CSV-export. Het startbestand bevat 15 Torhout-reserven uit het aangeleverde wedstrijdblad, niet een volledig seizoen.
+Voor een vaste weblink staat de workflow **Publiceer dashboard** klaar. Stel eenmalig bij **Settings → Pages → Build and deployment → Source** de optie **GitHub Actions** in. Open daarna **Actions → Publiceer dashboard → Run workflow** op `main`. Na een geslaagde deployment staat de link in het environment `github-pages`; de verwachte URL is https://vjo18.github.io/clubscouting2627/. Het dashboard is pas gepubliceerd zodra die deployment slaagt. Daarna publiceert een geslaagde **Update clubdata**-run het dashboard opnieuw. Het dashboard bevat zoeken, clubkeuze, selecties per ploeg, filters op meerdere ploegen/scoutsignalen/ongekoppelde identiteit, spelersfiches en CSV-export. Het dashboard gebruikt de ingelezen competitiewedstrijden van de zeven gevolgde ploegen.
 
 ## Selectie is niet hetzelfde als spelen
 
@@ -68,6 +68,8 @@ Deze versie leest daarom conservatief:
 De parser gebruikt voorlopig bij **alle** bladen deze veilige modus. Voor de analyse “reserve zit geregeld ongebruikt op de A-bank” is nog een betrouwbare volledige-verslagmodus nodig. Hiervoor is een representatieve A-/B-HTML met herkenbare scheiding tussen basis/bank en wissels nodig. Oude afgeleide minuten worden niet geïmporteerd.
 
 ## Dezelfde speler bij meerdere ploegen
+
+**Spelerkoppeling onbevestigd** betekent dat nog niet bevestigd is dat dezelfde naam bij verschillende ploegen dezelfde persoon is. Het gaat niet over een ontbrekende naam of geboortejaar. Daardoor kan dezelfde speler voorlopig op meerdere rijen staan en is het overzicht van spelers bij meerdere ploegen nog onvolledig.
 
 De beschikbare HTML bevat geen betrouwbare unieke speler-ID. De tool houdt ongekoppelde namen daarom voorlopig per ploeg apart. Bevestig dat het dezelfde persoon is en voeg dan regels toe in `config/player_identity.csv`:
 
@@ -99,7 +101,7 @@ Dit bewijst geen transferinteresse, blessure, officiële speelgerechtigdheid of 
 
 De interface toont per ploeg het aantal geïmporteerde bladen en, na een scrape, het aantal verwerkte gevonden uitslagen. Dat bewijst nog geen volledige seizoensdekking: onbekende filters, client-side laadproblemen of RBFA-beperkingen kunnen wedstrijden verbergen. De collector bewaart daarom eerder gevonden wedstrijden en markeert volledigheid als `unverified`.
 
-De collector probeert zichtbare kalenderfilters en meer-laden/volgende-knoppen. Seizoenfilters worden niet doorlopen. Geen herkenbare wedstrijden of spelers betekent een fout. Scorewijzigingen vereisen controle; de collector overschrijft ze niet stilzwijgend. Alle wedstrijdbladen worden bij een nieuwe run opnieuw bekeken zodat correcties en later beschikbare informatie niet permanent worden overgeslagen.
+De collector probeert zichtbare kalenderfilters en meer-laden/volgende-knoppen. Seizoenfilters worden niet doorlopen. Geen herkenbare wedstrijden of spelers betekent een fout. Scorewijzigingen vereisen controle; de collector overschrijft ze niet stilzwijgend. Bestaande verslagen worden hergebruikt na controle van ploeg-ID en kalenderscore. Met `npm run scrape -- --refresh-reports` kun je ze volledig opnieuw ophalen, bijvoorbeeld na een parserverbetering.
 
 ## Lokaal scrapen en testen
 
@@ -132,3 +134,4 @@ Gebruik gerenderde HTML zoals het meegestuurde bestand, niet de lege Angular-pag
 - `public/`: dashboard en afgeleide JSON.
 - `tests/`: tests en uitgeknipte HTML van het echte reserveverslag.
 - `VALIDATIE.md`: uitgevoerde controles en beperkingen.
+
