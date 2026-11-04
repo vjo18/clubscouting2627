@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {spawnSync} from 'node:child_process';
+import {createHash} from 'node:crypto';
 import puppeteer from 'puppeteer';
 import {calendarJobs,matchURL,mergeFixtures,score} from './calendar_helpers.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
@@ -25,7 +26,12 @@ let page;
 function readCards(){
   // Werkelijk waargenomen ploegpagina: game-container met a.team-score.
   return Array.from(document.querySelectorAll('a.team-score[href*="/nl/wedstrijd/"]')).map(a=>{
-    const el=a.closest('.game-container, .game-item')||a.parentElement;
+    let el=a.closest('.game-container, .game-item')||a.parentElement;
+    for(let parent=el;parent;parent=parent.parentElement){
+      const urls=new Set(Array.from(parent.querySelectorAll('a.team-score[href*="/nl/wedstrijd/"]')).map(n=>n.pathname));
+      if(urls.size>1)break;
+      if(parent.querySelector('.game-type-name')){el=parent;break;}
+    }
     return {url:a.href,scoreText:a.querySelector('.score')?.textContent.trim()??'',
       competition:el.querySelector('.game-type-name')?.textContent.trim()??'',
       text:el.textContent.replace(/\s+/g,' ').trim()};
@@ -89,6 +95,7 @@ try{
     const fetched=await readCalendar(page,job),file=path.join(temp,'data_raw/calendars',job.team.rbfa_team_id+'.json');
     const old=fs.existsSync(file)?JSON.parse(fs.readFileSync(file,'utf8')):null;
     const merged=mergeFixtures(old?.matches??[],fetched);
+    console.log('Kalenderreeksen '+job.team.rbfa_team_id+': '+JSON.stringify([...new Set(fetched.map(m=>m.competition))]));
     const calendar={team_id:job.team.rbfa_team_id,url:job.url,fetched_at:new Date().toISOString(),
       completeness:'unverified',observed_now:fetched.length,preserved:merged.length-fetched.length,matches:merged};
     fs.writeFileSync(file,JSON.stringify(calendar,null,2));
@@ -103,6 +110,14 @@ try{
   const errors=[];
   for(const [url,fixture] of fixtures){
     try{
+      const cachedFile=path.join(temp,'data_raw/reports',createHash('sha256').update(url).digest('hex')+'.json');
+      if(fs.existsSync(cachedFile) && !process.argv.includes('--refresh-reports')){
+        const cached=JSON.parse(fs.readFileSync(cachedFile,'utf8'));
+        if(cached.score?.join('-')!==fixture.score.join('-'))throw Error('Bewaarde score verschilt van kalender');
+        const cachedIds=cached.teams.map(t=>t.team_rbfa_id);
+        if([...fixture.teams].some(id=>!cachedIds.includes(id)))throw Error('Verkeerde ploeg-ID in bewaard verslag');
+        diagnostics.reports.push({url,status:'cached'});continue;
+      }
       console.log('Wedstrijdblad: '+url);
       await page.goto(url,{waitUntil:'networkidle2',timeout:60000});
       await page.waitForSelector('.event-summary',{timeout:30000});
