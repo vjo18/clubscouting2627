@@ -61,7 +61,8 @@ def build(root=ROOT):
             pid = f'name:{name_key}'
             key = (c['id'],pid)
             p = players.setdefault(key, {'id':pid,'club_id':c['id'],'name':r['name'],
-                                        'identity_method':'club_name', 'teams':{},'birth_year':None, '_birth_years':set()})
+                                        'identity_method':'club_name', 'teams':{},'birth_year':None, '_birth_years':set(),
+                                        '_goalkeeper_seen':False, '_outfield_seen':False}})
             aliases = [pid, explicit, f'unverified:{tid}:{name_key}']
             for alias in aliases:
                 if alias:
@@ -72,6 +73,10 @@ def build(root=ROOT):
                                               'number_counts':{},'selection_details':[]})
             if report['source'] in stats['matches']:
                 raise ValueError('Speler dubbel op hetzelfde wedstrijdblad: '+r['name'])
+            if r.get('goalkeeper') is True:
+                p['_goalkeeper_seen'] = True
+            elif r.get('goalkeeper') is False:
+                p['_outfield_seen'] = True
             stats['listed'] += 1
             stats['known_starts'] += int(r['started'] is True)
             stats['known_bench_only'] += int(r['bench_only'] is True)
@@ -88,6 +93,9 @@ def build(root=ROOT):
             stats['matches'].append(report['source'])
     for p in players.values():
         years = p.pop('_birth_years')
+        goalkeeper_seen = p.pop('_goalkeeper_seen')
+        outfield_seen = p.pop('_outfield_seen')
+        p['player_type'] = 'goalkeeper' if goalkeeper_seen else ('outfield' if outfield_seen else 'unknown')
         p['birth_year'] = next(iter(years)) if len(years)==1 else None
         p['age']=age_year-p['birth_year'] if p['birth_year'] is not None else None
         for stats in p['teams'].values():
