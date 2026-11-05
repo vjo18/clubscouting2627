@@ -62,7 +62,7 @@ def build(root=ROOT):
             key = (c['id'],pid)
             p = players.setdefault(key, {'id':pid,'club_id':c['id'],'name':r['name'],
                                         'identity_method':'club_name', 'teams':{},'birth_year':None, '_birth_years':set(),
-                                        '_goalkeeper_seen':False, '_outfield_seen':False}})
+                                        '_goalkeeper_seen':False, '_outfield_seen':False})
             aliases = [pid, explicit, f'unverified:{tid}:{name_key}']
             for alias in aliases:
                 if alias:
