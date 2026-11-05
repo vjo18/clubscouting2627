@@ -53,7 +53,9 @@ De collector gebruikt drie browserpagina's tegelijk. Oude, gecontroleerde versla
 
 De verwerking gebeurt eerst in een tijdelijke dataset. De gespeelde competitie, ploeg-IDs en score worden gecontroleerd. Bij een onbereikbare kalender of ontbrekend verslag blijven eerdere gegevens behouden. Andere succesvol verwerkte ploegen kunnen worden bijgewerkt; bronwaarschuwingen en ontbrekende eerste kalenders zijn zichtbaar in het dashboard. De dekking per ploeg toont hoeveel gevonden uitslagen daadwerkelijk verwerkt zijn. Dat bewijst nog geen volledige seizoensdekking.
 
-Een geslaagde data- of geboortejarenworkflow publiceert automatisch via GitHub Pages. Een gelijktijdige handmatige wijziging kan een niet-geforceerde push laten mislukken; de logs melden dat en je kunt de workflow opnieuw starten.
+Een geslaagde data- of geboortejarenworkflow publiceert automatisch via GitHub Pages. De publicatie haalt eerst de actuele main op, voegt de nieuwe brongegevens toe en berekent het dashboard opnieuw met de nieuwste code en geboortejaren. Wijzigt main tijdens het opslaan, dan wordt dit maximaal vier keer opnieuw geprobeerd zonder geforceerde push. Gegenereerde spelers-JSON wordt niet gerebased.
+
+Vóór publicatie bewaart Update clubdata de brongegevens als het artifact **clubscout-brongegevens** (14 dagen), zodat een eventuele opslagfout geen volledige herscrape vereist. Een tijdelijk onvolledig geladen kalender met minder dan twee verschillende wedstrijden wordt geweigerd; eerdere gegevens blijven bewaard.
 
 ## Lokaal
 
