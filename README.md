@@ -1,105 +1,63 @@
-# clubscouting2627
+# Clubscouting 2026–2027 · Ardooie
 
-Clubgerichte scouting voor Ardooie, seizoen 2026–2027. Structuur: **club → ploegen → speler → wedstrijdbladen**. Een aparte repo naast [scouting2627](https://github.com/vjo18/scouting2627).
+[Open het dashboard](https://vjo18.github.io/clubscouting2627/)
 
-## Welke kalenders gebruiken we?
+Het dashboard volgt de 13 clubs en 49 ploegen uit het aangeleverde overzicht. Ploegkalenders worden afgeleid van de ploeglink door `/overzicht` te vervangen door `/kalender`. De nieuw opgegeven U21-ploegen zijn inbegrepen. De configuratie staat in `config/clubs.json`.
 
-**Alleen de kalender van elke gevolgde ploeg.** De collector haalt geen volledige reekskalenders op. Een wedstrijd die bij twee gevolgde ploegen terugkomt, krijgt één genormaliseerde wedstrijd-URL en wordt één keer per run opgehaald. Alleen spelers van de geconfigureerde clubs en ploegen verschijnen in het dashboard.
+## Alleen competitie
 
-| Club | Ploeg | RBFA-ploeg-ID | Kalender |
-|---|---|---|---|
-| Sportkring Roeselare | A | 360196 | [Ploegkalender](https://www.rbfa.be/nl/club/2656/ploeg/360196/kalender) |
-| Sportkring Roeselare | Reserven | 360198 | [Ploegkalender](https://www.rbfa.be/nl/club/2656/ploeg/360198/kalender) |
-| Sportkring Roeselare | U19 | 360199 | [Ploegkalender](https://www.rbfa.be/nl/club/2656/ploeg/360199/kalender) |
-| KM Torhout | A | 364284 | [Ploegkalender](https://www.rbfa.be/nl/club/1185/ploeg/364284/kalender) |
-| KM Torhout | B | 364282 | [Ploegkalender](https://www.rbfa.be/nl/club/1185/ploeg/364282/kalender) |
-| KM Torhout | Reserven A | 364285 | [Ploegkalender](https://www.rbfa.be/nl/club/1185/ploeg/364285/kalender) |
-| KM Torhout | U19 | 381025 | [Ploegkalender](https://www.rbfa.be/nl/club/1185/ploeg/381025/kalender) |
+Alleen de per ploeg opgegeven competitie telt mee. Beker-, oefenwedstrijden en onbekende reeksen beïnvloeden de statistieken niet. Bij een herkenbare competitie-ID heeft die voorrang; anders wordt de exact opgegeven reeksnaam gebruikt. De kalender van de ploeg is de bron, niet de hele reeks. Dezelfde wedstrijd wordt één keer ingelezen, ook wanneer twee gevolgde ploegen elkaar treffen.
 
-U21 is uitgesloten. Stamnummer, RBFA-club-ID en ploeg-ID zijn aparte gegevens: Torhout heeft stamnummer 00822, club-ID 1185 en meerdere ploeg-IDs. In het reserveverslag heet Res A ook **KM Torhout A**; ploeg-ID 364285 voorkomt verwarring met het eerste elftal.
+Dezelfde volledige naam binnen dezelfde club wordt automatisch als dezelfde speler behandeld. Hoofdletters, extra spaties en Unicode-opmaak worden gelijkgetrokken. Namen bij andere clubs blijven apart. Er is geen handmatige spelerkoppeling nodig.
 
-De ploegkalender bevat ook beker- en oefenwedstrijden. **Alleen competitiewedstrijden tellen mee.** Per ploeg staat in `league_competitions` de exact goedgekeurde RBFA-reeksnaam. Onbekende of lege labels worden niet meegeteld. Deze filter geldt voor selecties, minuten, scoutsignalen, dekking, spelersfiches en CSV-export, ook voor eerder ingelezen verslagen. De overige ruwe verslagen blijven als bronarchief bewaard, maar beïnvloeden het dashboard niet.
+## Selecties, minuten en rugnummers
 
-## Eerste gegevens ophalen
+Per ploeg toont het dashboard het aantal selecties en alle waargenomen rugnummers, met het aantal keer dat elk nummer voorkomt. In de spelersfiche vind je het rugnummer bij iedere selectie en een link naar het wedstrijdblad.
 
-Open [Actions → Update clubdata](https://github.com/vjo18/clubscouting2627/actions/workflows/update.yml) en klik **Run workflow** op `main`.
+Bij de 25 ploegen waarvoor **Speelminuten = Ja** staat, verschijnen ook de speelminuten en het minutenpercentage:
 
-De workflow:
+**gespeelde minuten ÷ mogelijke minuten binnen de selecties × 100**
 
-1. Controleert de code en ploegconfiguratie.
-2. Leest de zeven ploegkalenders met Chromium/Puppeteer en opent de gevonden wedstrijdbladen met score.
-3. Controleert ploeg-IDs en score; verwerkt de bladen eerst in een tijdelijke dataset.
-4. Bouwt het cluboverzicht. Pas als alle gevonden bladen succesvol verwerkt zijn, worden de gegevens naar `main` gecommit.
-5. Levert het downloadbare artifact **clubscout-dashboard** en diagnostiek.
+Voorbeeld: 4 selecties met 90, 30, 0 en 0 minuten geven 120 / 360 = 33,3%. Een ongebruikte bankplaats is dus één selectie met 0 minuten. Wedstrijden waarvoor de speler niet geselecteerd was, tellen niet mee in deze noemer.
 
-Een wijziging aan `config/clubs.json` op `main` start ook een update. Er is nog geen wekelijkse planning. Bij een ontbrekend spelersblad, geblokkeerde pagina of tegenstrijdige score stopt de run en blijft de vorige opgeslagen dataset behouden. Bij een gelijktijdige wijziging aan `main` kan de niet-geforceerde push worden geweigerd; start de run dan opnieuw.
+De parser gebruikt een expliciete scheiding tussen de basiself en **Wisselspelers**, wisselminuten en rode kaarten. Hij gebruikt niet de eerste elf rugnummers van een ongescheiden spelerslijst. Een echte volledige wedstrijd is als testfixture opgenomen: 990 teamminuten voor Roeselare en 945 voor Merelbeke na een rode kaart op minuut 45. Toegevoegde tijd wordt voor het percentage niet bij de standaard 90 minuten geteld.
 
-De ploegkalenders en wedstrijdbladen zijn via GitHub Actions ingelezen. Volledige seizoensdekking blijft afzonderlijk te controleren. De workflow **Controle en dashboard** heeft geen browser of live RBFA nodig.
+Als bij een ploeg met minutenregistratie niet alle selecties betrouwbaar berekenbaar zijn, verschijnt een minutencontrole in plaats van een misleidend percentage. Zo'n speler wordt niet als weinigspeler ingedeeld. Bij ploegen zonder minutenregistratie staan uitsluitend selecties en rugnummers; er is geen waarschuwing over ontbrekende minuten.
 
-## Dashboard openen
+## Scoutingfilters
 
-Het dashboard staat in `public/` en heeft geen frontend-build nodig:
+- **Jong: t.e.m. 20 jaar · weinig minuten**.
+- **Ervaren: 23+ · weinig minuten**.
+- De grens **minder dan x%** is aanpasbaar van 0 tot 100, standaard 25%.
+- Kies of je vergelijkt bij de A-ploeg, alle ploegen met minutenregistratie of één specifieke ploeg.
 
-```bash
-python3 -m clubscout.build
-python3 -m http.server 8000 --directory public
-```
+Een speler moet een gekend geboortejaar, minstens één selectie bij de gekozen ploeg en een volledig berekenbaar percentage hebben. Geen selecties of ontbrekende minuten betekenen niet automatisch 0%. Leeftijd is kalenderjaar min geboortejaar en wordt met ≈ getoond. Dit is een benadering zolang we geen volledige geboortedatum kennen.
 
-Open http://localhost:8000. Na een Actions-run kun je ook het artifact **clubscout-dashboard** downloaden, uitpakken en die map met `python3 -m http.server 8000` openen. Een rechtstreekse `file://`-opening werkt niet betrouwbaar vanwege het laden van JSON.
+## Geboortejaren toevoegen zoals in scouting2627
 
-Voor een vaste weblink staat de workflow **Publiceer dashboard** klaar. Stel eenmalig bij **Settings → Pages → Build and deployment → Source** de optie **GitHub Actions** in. Open daarna **Actions → Publiceer dashboard → Run workflow** op `main`. Na een geslaagde deployment staat de link in het environment `github-pages`; de verwachte URL is https://vjo18.github.io/clubscouting2627/. Het dashboard is pas gepubliceerd zodra die deployment slaagt. Daarna publiceert een geslaagde **Update clubdata**-run het dashboard opnieuw. Het dashboard bevat zoeken, clubkeuze, selecties per ploeg, filters op meerdere ploegen en scoutsignalen, spelersfiches en CSV-export. Het dashboard gebruikt de ingelezen competitiewedstrijden van de zeven gevolgde ploegen.
+1. Klik in het dashboard op **Ontbrekende geboortejaren**. Dit downloadt alle spelers zonder geboortejaar, over alle clubs, met `ClubRBFA;Naam;Geboortejaar`.
+2. Vul de viercijferige geboortejaren in. Laat club en naam staan. Bewaar als CSV.
+3. Open [de uploadmap](https://github.com/vjo18/clubscouting2627/tree/main/data_raw/birthyear_uploads), kies **Add file → Upload files** en gebruik telkens een nieuwe bestandsnaam. Commit op `main`.
+4. De workflow **Verwerk geboortejaren** importeert de CSV, werkt `data_raw/birthyears.csv` en de spelersdata bij en start daarna **Publiceer dashboard**.
+5. Vernieuw het dashboard na de groene publicatie. De ontbrekende lijst wordt korter en de leeftijdsfilters kunnen de toegevoegde spelers gebruiken.
 
-## Selectie is niet hetzelfde als spelen
+Ook MacroDroid-resultaten met `Ploeg;Naam;Geboortejaar;Gevonden` zijn toegestaan. De ploegkolom kan de clubnaam uit de export of een eenduidige bronploegnaam bevatten. `Gevonden=false`, ongeldige jaren, onbekende club/speler-combinaties en dubbelzinnige clubnamen worden overgeslagen. De import koppelt altijd binnen een club, nooit wereldwijd op alleen de spelersnaam.
 
-De oorspronkelijke scraper uit RBFA2627 bepaalt basisplaatsen met `homePlayerCount < 11` en `awayPlayerCount < 11`. Bij ontbrekende wissels kent hij die spelers 90 minuten toe. Dat is onjuist voor het aangeleverde reserveverslag: de spelers staan op rugnummer en zelfs de tweede Knokke-doelman staat tussen de eerste elf.
+Een herhaalde upload maakt geen dubbele geboortejaren. Bij een tegenstrijdig jaar stopt de import zonder bestaande geboortejaren te overschrijven. De oude resultatenbestanden blijven bewaard. De optionele oude `player_identity.csv` dient uitsluitend voor compatibiliteit met eerder ingevoerde geboortejaren.
 
-Deze versie leest daarom conservatief:
+## Gegevens bijwerken en broncontrole
 
-| Gegeven | Behandeling |
-|---|---|
-| Naam op wedstrijdblad | Selectie/vermelding |
-| Eindscore | Letterlijk uit wedstrijdheader, gecontroleerd tegen de kalender |
-| Ploeg | RBFA-club-ID en ploeg-ID uit bronlink |
-| Doelman en kapitein | Letterlijke GK/C-markering |
-| Kaarten | Geobserveerde markeringen met minuut; geen bewijs van speeltijd |
-| Basis, bank, invalbeurt en minuten | Onbekend (`null`) |
-| Goals per speler | Onbekend (`null`), geen nul door ontbrekende events |
+Open [Actions → Update clubdata](https://github.com/vjo18/clubscouting2627/actions/workflows/update.yml) en kies **Run workflow**. Configuratiewijzigingen starten ook een update; er is nog geen wekelijkse planning.
 
-De parser gebruikt voorlopig bij **alle** bladen deze veilige modus. Voor de analyse “reserve zit geregeld ongebruikt op de A-bank” is nog een betrouwbare volledige-verslagmodus nodig. Hiervoor is een representatieve A-/B-HTML met herkenbare scheiding tussen basis/bank en wissels nodig. Oude afgeleide minuten worden niet geïmporteerd.
+De collector gebruikt drie browserpagina's tegelijk. Oude, gecontroleerde verslagen worden hergebruikt; verslagen die nog geen volledige minutenparser hebben doorlopen, worden opnieuw opgehaald voor de ploegen met minutenregistratie. Met `npm run scrape -- --refresh-reports` kun je alle verslagen opnieuw bekijken.
 
-## Dezelfde speler bij meerdere ploegen
+De verwerking gebeurt eerst in een tijdelijke dataset. De gespeelde competitie, ploeg-IDs en score worden gecontroleerd. Bij een onbereikbare kalender of ontbrekend verslag blijven eerdere gegevens behouden. Andere succesvol verwerkte ploegen kunnen worden bijgewerkt; bronwaarschuwingen en ontbrekende eerste kalenders zijn zichtbaar in het dashboard. De dekking per ploeg toont hoeveel gevonden uitslagen daadwerkelijk verwerkt zijn. Dat bewijst nog geen volledige seizoensdekking.
 
-Spelers met dezelfde volledige naam binnen dezelfde club worden **automatisch als dezelfde speler behandeld**, ongeacht bij welke gevolgde ploeg ze op het wedstrijdblad staan. Hoofdletters, extra spaties en Unicode-opmaak worden gelijkgetrokken; accenten en verschillende spellingen blijven onderscheiden. Dezelfde naam bij verschillende clubs blijft apart.
+Een geslaagde data- of geboortejarenworkflow publiceert automatisch via GitHub Pages. Een gelijktijdige handmatige wijziging kan een niet-geforceerde push laten mislukken; de logs melden dat en je kunt de workflow opnieuw starten.
 
-Je hoeft geen spelers handmatig te koppelen. Eén speler krijgt één rij met selecties per A-, B-, reserve- en U19-ploeg en een gezamenlijke spelersfiche. De filter **Bij meerdere ploegen** gebruikt deze automatische naamkoppeling. Ook geboortejaren zijn hiervoor niet verplicht. Dit is de gekozen koppelregel; de bron levert geen unieke speler-ID.
+## Lokaal
 
-De interne speler-ID is `name:` gevolgd door de genormaliseerde volledige naam, bijvoorbeeld `name:jan janssens`. Bestaande handmatige IDs blijven alleen als alias bruikbaar voor eerder ingevulde geboortejaren. Tegenstrijdige geboortejaren worden niet overschreven.
-
-Geboortejaren vul je in `data_raw/birthyears.csv` aan:
-
-```csv
-club_id;person_id;birth_year
-torhout;name:jan janssens;2006
-```
-
-Onbekende en conflicterende geboortejaren blijven leeg. Er wordt geen exacte leeftijd verzonnen uit alleen een geboortejaar.
-
-Scoutsignalen zijn beschrijvend:
-
-- **Bij meerdere ploegen:** dezelfde speler op basis van club en naam staat op bladen van meerdere gevolgde ploegen.
-- **Minstens 3 selecties elders en geen A-selectie in ingelezen data:** met waarschuwing de A-dekking te controleren.
-
-Dit bewijst geen transferinteresse, blessure, officiële speelgerechtigdheid of structurele uitsluiting door de trainer.
-
-## Dekking en gegevensbehoud
-
-De interface toont per ploeg het aantal geïmporteerde bladen en, na een scrape, het aantal verwerkte gevonden uitslagen. Dat bewijst nog geen volledige seizoensdekking: onbekende filters, client-side laadproblemen of RBFA-beperkingen kunnen wedstrijden verbergen. De collector bewaart daarom eerder gevonden wedstrijden en markeert volledigheid als `unverified`.
-
-De collector probeert zichtbare kalenderfilters en meer-laden/volgende-knoppen. Seizoenfilters worden niet doorlopen. Geen herkenbare wedstrijden of spelers betekent een fout. Scorewijzigingen vereisen controle; de collector overschrijft ze niet stilzwijgend. Bestaande verslagen worden hergebruikt na controle van ploeg-ID en kalenderscore. Met `npm run scrape -- --refresh-reports` kun je ze volledig opnieuw ophalen, bijvoorbeeld na een parserverbetering.
-
-## Lokaal scrapen en testen
-
-Python 3.11+ voor verwerking; Node 22+ voor scraping en Node-tests. Op Linux zonder desktop ook Xvfb.
+Python 3.11+, Node 22+ en voor live scraping Chrome/Puppeteer; op Linux zonder desktop ook Xvfb.
 
 ```bash
 npm install
@@ -108,25 +66,13 @@ npm run scrape
 npm run dev
 ```
 
-Een HTML-bestand kun je ook handmatig importeren:
+Open http://localhost:8000. Alleen opnieuw berekenen: `python3 -m clubscout.build`. Geboortejaren importeren zonder scrapen: `python3 scripts/import_birthyears.py`.
+
+Een handmatig gerenderd HTML-bestand importeren:
 
 ```bash
 python3 scripts/import_report.py /pad/naar/wedstrijd.html --source https://www.rbfa.be/nl/wedstrijd/7544599
 python3 -m clubscout.build
 ```
 
-Gebruik gerenderde HTML zoals het meegestuurde bestand, niet de lege Angular-paginabron. Hetzelfde bronadres vervangt hetzelfde verslag en wordt niet dubbel geteld.
-
-## Bestanden
-
-- `config/clubs.json`: de clubs, ploeg-IDs en kalenderlinks.
-- `config/player_identity.csv`: optionele oudere IDs voor geboortejaarcompatibiliteit; niet nodig om spelers te koppelen.
-- `clubscout/parser.py`: conservatieve HTML-parser.
-- `clubscout/build.py`: cluboverzicht, identiteiten en dekking.
-- `scripts/capture.mjs`: ploegkalenders en wedstrijdbladen ophalen.
-- `data_raw/`: genormaliseerde brongegevens.
-- `public/`: dashboard en afgeleide JSON.
-- `tests/`: tests en uitgeknipte HTML van het echte reserveverslag.
-- `VALIDATIE.md`: uitgevoerde controles en beperkingen.
-
-
+Een scoutsignaal beschrijft de beschikbare gegevens. Het bewijst geen transferinteresse, blessure, officiële speelgerechtigdheid of reden voor niet-selectie.

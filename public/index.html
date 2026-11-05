@@ -2,38 +2,88 @@
 <html lang="nl"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Clubscout · Ardooie</title>
 <style>
-:root{font-family:system-ui,sans-serif;color:#18332c;background:#f2f5f0}body{margin:0}header{background:#173f34;color:white;padding:36px max(5vw,20px)}header small{color:#bdd3c0;letter-spacing:.15em}h1{font-size:38px;margin:10px 0}main{max-width:1300px;margin:25px auto;padding:0 20px}.note{background:#fff5d6;padding:16px;border-radius:10px;color:#635021;line-height:1.5}.controls{display:flex;flex-wrap:wrap;gap:12px;margin:24px 0}select,input,button{font:inherit;padding:12px;border:1px solid #cad8cb;border-radius:8px;background:white}button{cursor:pointer}button:hover{background:#e2eee2}.cards{display:flex;gap:14px;flex-wrap:wrap;margin:20px 0}.card{background:white;border-radius:12px;padding:18px;min-width:150px}.card strong{display:block;font-size:27px}.muted{color:#718175;font-size:13px}.tablewrap{overflow:auto;background:white;border-radius:12px}table{width:100%;border-collapse:collapse;font-size:14px}th{text-align:left;background:#e3ece2}th,td{padding:15px;border-bottom:1px solid #e5ebe3;vertical-align:top}td button{padding:0;border:0;text-align:left;color:#1b6652}td small{display:block;margin-top:5px;color:#7a816e}.badge{font-size:12px;background:#e6f1e5;padding:4px 7px;border-radius:5px}.coverage{padding:14px 0;line-height:1.8}.coverage span{display:inline-block;margin-right:15px}dialog{border:0;border-radius:14px;max-width:700px;width:85%;padding:24px}dialog::backdrop{background:#10291eaa}a{color:#266851}.empty{padding:30px}footer{padding:28px 0;color:#728070;font-size:13px}
+:root{font-family:system-ui,sans-serif;color:#18332c;background:#f2f5f0}body{margin:0}header{background:#173f34;color:white;padding:30px max(4vw,20px)}header small{color:#bdd3c0;letter-spacing:.15em}h1{font-size:36px;margin:8px 0}main{max-width:1500px;margin:24px auto;padding:0 20px}.note{background:#fff5d6;padding:14px;border-radius:10px;color:#635021;line-height:1.5}.controls,.actions,.pager{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:18px 0}label{display:flex;flex-direction:column;gap:5px;font-size:13px}select,input,button,.button{box-sizing:border-box;font:inherit;padding:10px;border:1px solid #cad8cb;border-radius:7px;background:white;color:#18332c;max-width:100%}button,.button{cursor:pointer}.button{text-decoration:none}button:hover,.button:hover{background:#e2eee2}input[type=number]{width:100px}.cards{display:flex;gap:12px;flex-wrap:wrap;margin:20px 0}.card{background:white;border-radius:12px;padding:16px;min-width:155px}.card strong{display:block;font-size:26px}.muted{color:#596f60;font-size:13px}.tablewrap{overflow:auto;background:white;border-radius:12px}table{width:100%;border-collapse:collapse;font-size:14px}th{text-align:left;background:#e3ece2}th,td{padding:14px;border-bottom:1px solid #e5ebe3;vertical-align:top}td small{display:block;margin-top:5px;color:#596f60}td button.name{padding:0;border:0;text-align:left;color:#1b6652;background:none;font-weight:600}.team-block+.team-block{margin-top:15px}.minutes{display:block;margin-top:5px;font-weight:500;color:#235a45}.coverage{padding:12px 0;line-height:1.8}.coverage span{display:inline-block;margin-right:18px}.empty{padding:30px}dialog{border:0;border-radius:14px;max-width:1000px;width:90%;padding:24px}dialog::backdrop{background:#10291eaa}dialog h3{margin-top:25px}a{color:#266851}footer{padding:24px 0;color:#596f60;font-size:13px}details{margin:12px 0;line-height:1.6}summary{cursor:pointer}.pager{justify-content:flex-end}.pager button:disabled{opacity:.45;cursor:default}.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}@media(max-width:700px){main{padding:0 10px}header{padding:24px 16px}h1{font-size:28px}.controls label{flex:1 1 180px}.card{min-width:100px;flex:1}th,td{padding:11px;min-width:100px}.actions>*{flex:1 1 180px}dialog{padding:15px}}
 </style>
-<header><small>ARDOOIE · SCOUTING 2026 / 2027</small><h1>De speler binnen zijn club.</h1><div>Competitieselecties over A, B, reserven en U19.</div></header>
-<main><div id="notice" class="note">Gegevens laden…</div>
-<div class="controls"><select id="club" aria-label="Club"></select><input id="search" placeholder="Zoek een speler…" aria-label="Speler zoeken"><select id="filter" aria-label="Selectiefilter"><option value="all">Alle spelers</option><option value="multi">Bij meerdere ploegen</option><option value="signal">Met scoutsignaal</option></select><button id="export">Exporteer selectie</button></div>
+<header><small>ARDOOIE · CLUBSCOUT</small><h1>De speler binnen zijn club.</h1><div>Selecties, rugnummers en speelminuten over de ploegen heen.</div></header>
+<main><div id="notice" class="note">Gegevens laden…</div><p id="updated" class="muted"></p>
+<div class="controls">
+<label>Club<select id="club"><option value="all">Alle clubs</option></select></label>
+<label>Speler zoeken<input id="search" placeholder="Naam van de speler"></label>
+<label>Scoutingfilter<select id="filter"><option value="all">Alle spelers</option><option value="multi">Bij meerdere ploegen</option><option value="young">Jong: t.e.m. 20 jaar · weinig minuten</option><option value="experienced">Ervaren: 23+ · weinig minuten</option></select></label>
+<label>Minder dan dit minutenpercentage<input id="threshold" type="number" min="0" max="100" step="1" value="25"></label>
+<label>Minuten vergelijken bij<select id="reference"><option value="A">A-ploeg van de club</option><option value="all">Alle ploegen met minutenregistratie</option></select></label>
+</div>
+<p class="muted" id="filter-help">De minutenfilters gebruiken alleen spelers met een gekend geboortejaar, minstens één selectie bij de gekozen ploeg en een volledig berekenbaar minutenpercentage.</p>
+<div class="actions"><button id="export">Exporteer selectie</button><button id="birthyears">Ontbrekende geboortejaren</button><a class="button" href="https://github.com/vjo18/clubscouting2627/tree/main/data_raw/birthyear_uploads" target="_blank" rel="noopener noreferrer">Upload aangevulde CSV op GitHub</a></div>
+<details><summary>Hoe voeg ik geboortejaren toe?</summary><ol><li>Download <b>Ontbrekende geboortejaren</b>: alle spelers zonder geboortejaar, over alle clubs.</li><li>Vul vier cijfers in bij <b>Geboortejaar</b>. Laat club en naam staan. Bewaar de CSV.</li><li>Open de uploadmap hierboven, kies <b>Add file → Upload files</b> en upload met een nieuwe bestandsnaam op <b>main</b>.</li><li>Na de groene workflows <b>Verwerk geboortejaren</b> en <b>Publiceer dashboard</b> vernieuw je deze pagina.</li></ol><p>Ook MacroDroid-resultaten met <code>Ploeg;Naam;Geboortejaar;Gevonden</code> worden verwerkt. Leeftijd is kalenderjaar min geboortejaar, dus bij benadering.</p></details>
 <div class="cards" id="cards"></div><h2>Ploegoverzicht</h2><div class="coverage" id="coverage"></div>
-<div class="tablewrap"><table><thead id="head"></thead><tbody id="body"></tbody></table></div><footer>Een scoutsignaal ondersteunt je beoordeling. Het zegt niets over transferinteresse of officiële speelgerechtigdheid.</footer></main>
+<div class="tablewrap"><table><thead id="head"></thead><tbody id="body"></tbody></table></div>
+<div class="pager"><span id="pageinfo" aria-live="polite"></span><button id="prev">Vorige</button><button id="next">Volgende</button></div>
+<footer>Alleen competitiewedstrijden. Dezelfde volledige naam binnen dezelfde club wordt automatisch samengevoegd. Minutenpercentage = gespeelde minuten ÷ mogelijke minuten binnen de selecties. Een ongebruikte bankplaats is één selectie en 0 minuten.</footer>
+</main>
 <dialog id="detail"><button id="close">Sluiten</button><div id="detailBody"></div></dialog>
 <script type="module">
-const $=id=>document.getElementById(id), esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let data,visible=[];
+import {matchesPreset,ageOf,numberSummary} from './filters.mjs';
+const $=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let data,visible=[],page=0;const PAGE=50;
+const clubOf=p=>data.clubs.find(c=>c.id===p.club_id);
+function reset(){page=0;render()}
+function references(){
+ const old=$('reference').value,clubs=data.clubs.filter(c=>$('club').value==='all'||c.id===$('club').value);
+ $('reference').innerHTML='<option value="A">A-ploeg van de club</option><option value="all">Alle ploegen met minutenregistratie</option>'+clubs.flatMap(c=>c.teams.filter(t=>t.include&&t.minutes_enabled).map(t=>`<option value="${esc(t.rbfa_team_id)}">${esc(c.name)} · ${esc(t.label)}</option>`)).join('');
+ if([...$('reference').options].some(o=>o.value===old))$('reference').value=old;
+}
+function statsHTML(t,s){
+ if(!s)return '—';
+ const numbers=numberSummary(s);
+ let html=`<b>${s.listed} ${s.listed===1?'selectie':'selecties'}</b>${numbers?`<small>Rugnummers: ${esc(numbers)}</small>`:''}`;
+ if(t.minutes_enabled){
+  html+=s.minutes_pct==null?`<small>Minutencontrole: ${s.minutes_known_matches}/${s.listed} selecties verwerkt</small>`:`<span class="minutes">${s.minutes} / ${s.possible_minutes} min · ${s.minutes_pct.toLocaleString('nl-BE')}%</span>`;
+ }
+ return html;
+}
 function render(){
- const c=data.clubs.find(c=>c.id===$('club').value),ts=c.teams.filter(t=>t.include),query=$('search').value.toLocaleLowerCase('nl'),filter=$('filter').value;
- visible=data.players.filter(p=>p.club_id===c.id && p.name.toLocaleLowerCase('nl').includes(query) && (filter==='all'||filter==='multi'&&p.multiple_teams||filter==='signal'&&p.signals.length)).sort((a,b)=>a.name.localeCompare(b.name,'nl'));
- $('cards').innerHTML=[['Spelers in selectie',visible.length],['Bij meerdere ploegen',visible.filter(p=>p.multiple_teams).length]].map(([label,n])=>`<div class="card"><strong>${n}</strong>${label}</div>`).join('');
- $('coverage').innerHTML=ts.map(t=>{const x=data.calendarCoverage?.[t.rbfa_team_id];return `<span><b>${esc(t.label)}</b>: ${t.rbfa_team_id?(data.coverage[t.rbfa_team_id]||0)+' bladen':'nog te configureren'}${x?` · ${x.imported}/${x.played} gevonden uitslagen verwerkt`:''}</span>`}).join('')+'<div class="muted">Alleen competitiewedstrijden. Volledige seizoensdekking is nog niet bevestigd.</div>';
- $('head').innerHTML=`<tr><th>Speler / geboortejaar</th>${ts.map(t=>`<th>${esc(t.label)}<small class="muted"> · selecties</small></th>`).join('')}<th>Scoutsignaal</th></tr>`;
- $('body').innerHTML=visible.map((p,i)=>`<tr><td><button data-player="${i}"><b>${esc(p.name)}</b></button><small>${p.birth_year||'Geboortejaar onbekend'}</small></td>${ts.map(t=>{const s=p.teams[t.rbfa_team_id];return `<td>${s?`<b>${s.listed}</b><small>${s.minutes_known_matches?`${s.known_minutes} bekende minuten (${s.minutes_known_matches} bladen)`:'Speelminuten onbekend'}</small>`:'—'}</td>`}).join('')}<td>${p.signals.map(s=>`<small>${esc(s)}</small>`).join('')||'—'}</td></tr>`).join('')||`<tr><td colspan="${ts.length+2}" class="empty">Geen spelers voor deze selectie. Configureer ploegen en importeer wedstrijdbladen.</td></tr>`;
- document.querySelectorAll('[data-player]').forEach(b=>b.onclick=()=>show(visible[Number(b.dataset.player)],c));
+ if(!data)return;
+ const cid=$('club').value,c=data.clubs.find(c=>c.id===cid),ts=c?.teams.filter(t=>t.include)||[],query=$('search').value.toLocaleLowerCase('nl'),mode=$('filter').value,threshold=Math.min(100,Math.max(0,Number($('threshold').value))),ref=$('reference').value;
+ const base=data.players.filter(p=>cid==='all'||p.club_id===cid);
+ visible=base.filter(p=>p.name.toLocaleLowerCase('nl').includes(query)&&matchesPreset(p,clubOf(p),mode,threshold,ref,data.ageYear)).sort((a,b)=>a.name.localeCompare(b.name,'nl')||clubOf(a).name.localeCompare(clubOf(b).name,'nl'));
+ $('threshold').disabled=!['young','experienced'].includes(mode);
+ $('cards').innerHTML=[['Spelers gevonden',visible.length],['Bij meerdere ploegen',visible.filter(p=>p.multiple_teams).length],['Zonder geboortejaar · clubselectie',base.filter(p=>p.birth_year==null).length]].map(([label,n])=>`<div class="card"><strong>${n}</strong>${label}</div>`).join('');
+ const missing=(data.pendingTeams||[]).length,warnings=(data.warnings||[]).length;
+ $('notice').textContent=data.notice+(missing?` ${missing} ploegkalenders wachten nog op een eerste geslaagde verwerking.`:'')+(warnings?` Broncontrole: ${warnings} kalenders of verslagen konden niet volledig worden bijgewerkt; bekijk de dekking per ploeg.`:'');
+ $('coverage').innerHTML=c?ts.map(t=>{const x=data.calendarCoverage?.[t.rbfa_team_id];return `<span><b>${esc(t.label)}</b>: ${data.coverage[t.rbfa_team_id]||0} bladen${x?` · ${x.imported}/${x.played} gevonden uitslagen verwerkt`:' · kalender nog niet verwerkt'}${t.minutes_enabled?' · met minuten':''}</span>`}).join(''):'Kies een club om de dekking en de afzonderlijke ploegkolommen te bekijken.';
+ $('head').innerHTML=`<tr><th>Speler / leeftijd bij benadering</th>${c?ts.map(t=>`<th>${esc(t.label)}</th>`).join(''):'<th>Club</th><th>Selecties per ploeg</th>'}<th>Scoutsignaal</th></tr>`;
+ const shown=visible.slice(page*PAGE,(page+1)*PAGE);
+ $('body').innerHTML=shown.map((p,i)=>{
+  const pc=clubOf(p),age=ageOf(p,data.ageYear);
+  return `<tr><td><button class="name" data-player="${i}">${esc(p.name)}</button><small>${age==null?'Geboortejaar onbekend':`≈ ${age} jaar · ${p.birth_year}`}</small></td>${c?ts.map(t=>`<td>${statsHTML(t,p.teams[t.rbfa_team_id])}</td>`).join(''):`<td>${esc(pc.name)}</td><td>${pc.teams.filter(t=>t.include&&p.teams[t.rbfa_team_id]).map(t=>`<div class="team-block"><small>${esc(t.label)}</small>${statsHTML(t,p.teams[t.rbfa_team_id])}</div>`).join('')}</td>`}<td>${p.signals.map(s=>`<small>${esc(s)}</small>`).join('')||'—'}</td></tr>`;
+ }).join('')||`<tr><td colspan="${c?ts.length+2:4}" class="empty">Geen spelers voor deze filter. Leeftijdsfilters vereisen een geboortejaar en een volledig berekenbaar minutenpercentage bij de gekozen ploeg.</td></tr>`;
+ document.querySelectorAll('[data-player]').forEach(b=>b.onclick=()=>show(shown[Number(b.dataset.player)]));
+ $('prev').disabled=page===0;$('next').disabled=(page+1)*PAGE>=visible.length;
+ $('pageinfo').textContent=visible.length?`${page*PAGE+1}–${Math.min((page+1)*PAGE,visible.length)} van ${visible.length}`:'0 resultaten';
 }
-function show(p,c){
- $('detailBody').innerHTML=`<h2>${esc(p.name)}</h2><p>${esc(c.name)} · ${p.birth_year||'Geboortejaar onbekend'}</p><p>Dezelfde volledige naam binnen deze club wordt automatisch samengevoegd over de ploegen heen.</p><p>Een vermelding bewijst alleen dat de speler op het wedstrijdblad staat. Basis, bank, minuten en goals blijven onbekend bij beperkte verslagen.</p>`+Object.entries(p.teams).map(([tid,s])=>`<h3>${esc(c.teams.find(t=>t.rbfa_team_id===tid)?.label||tid)} · ${s.listed} selecties</h3><ul>${s.matches.map(u=>{let safe=false;try{const x=new URL(u);safe=x.protocol==='https:'&&['rbfa.be','www.rbfa.be'].includes(x.hostname)}catch{}return `<li>${safe?`<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">Open wedstrijdblad</a>`:esc(u)}</li>`}).join('')}</ul>`).join('');$('detail').showModal();
+function show(p){
+ const c=clubOf(p),age=ageOf(p,data.ageYear);
+ $('detailBody').innerHTML=`<h2>${esc(p.name)}</h2><p>${esc(c.name)} · ${age==null?'Geboortejaar onbekend':`geboortejaar ${p.birth_year} · ≈ ${age} jaar`}</p>`+c.teams.filter(t=>t.include&&p.teams[t.rbfa_team_id]).map(t=>{
+  const s=p.teams[t.rbfa_team_id];
+  const details=s.selection_details??s.matches.map(url=>({url,number:null,minutes:null}));
+  return `<h3>${esc(t.label)}</h3><p>${statsHTML(t,s)}</p><div class="tablewrap"><table><thead><tr><th>Wedstrijdblad</th><th>Rugnummer</th>${t.minutes_enabled?'<th>Minuten</th>':''}</tr></thead><tbody>${details.map((r,i)=>{let safe=false;try{const u=new URL(r.url);safe=u.protocol==='https:'&&['rbfa.be','www.rbfa.be'].includes(u.hostname)}catch{}return `<tr><td>${safe?`<a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${esc(r.fixture||'Wedstrijdblad '+(i+1))}</a>`:esc(r.url)}</td><td>${esc(r.number||'—')}</td>${t.minutes_enabled?`<td>${r.minutes==null?'Nog niet berekenbaar':r.minutes}</td>`:''}</tr>`}).join('')}</tbody></table></div>`;
+ }).join('');$('detail').showModal();
 }
-$('close').onclick=()=>$('detail').close();
-for(const id of ['club','search','filter'])$(id).addEventListener('input',()=>data&&render());
+function download(rows,name){
+ const cell=v=>'"'+String(v??'').replace(/"/g,'""').replace(/^[=+@-]/,"'$&")+'"';
+ const blob=new Blob(['\ufeff'+rows.map(r=>r.map(cell).join(';')).join('\r\n')],{type:'text/csv;charset=utf-8'}),u=URL.createObjectURL(blob),a=document.createElement('a');a.href=u;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(u),1000);
+}
 $('export').onclick=()=>{
  if(!data)return;
- const cell=v=>'"'+String(v??'').replace(/"/g,'""').replace(/^[=+@-]/,"'$&")+'"';
- const rows=[['Club','Speler','Geboortejaar','Spelerkoppeling','Ploeg','Selecties','Bekende minuten','Bladen met bekende minuten'],...visible.flatMap(p=>Object.entries(p.teams).map(([tid,s])=>{const c=data.clubs.find(c=>c.id===p.club_id);return [c.name,p.name,p.birth_year,'Automatisch op club en naam',c.teams.find(t=>t.rbfa_team_id===tid)?.label,s.listed,s.minutes_known_matches?s.known_minutes:'',s.minutes_known_matches]}))];
- const blob=new Blob(['\ufeff'+rows.map(r=>r.map(cell).join(';')).join('\r\n')],{type:'text/csv;charset=utf-8'}),u=URL.createObjectURL(blob),a=document.createElement('a');a.href=u;a.download='clubscout-selectie.csv';a.click();setTimeout(()=>URL.revokeObjectURL(u),1000);
+ const rows=[['Club','Naam','Geboortejaar','Leeftijd bij benadering','Ploeg','Selecties','Rugnummers','Minuten','Mogelijke minuten binnen selecties','Minutenpercentage']];
+ for(const p of visible){const c=clubOf(p);for(const t of c.teams.filter(t=>t.include&&p.teams[t.rbfa_team_id])){const s=p.teams[t.rbfa_team_id];rows.push([c.name,p.name,p.birth_year,ageOf(p,data.ageYear),t.label,s.listed,numberSummary(s),t.minutes_enabled?s.minutes:'',t.minutes_enabled?s.possible_minutes:'',t.minutes_enabled?s.minutes_pct:'']);}}
+ download(rows,'clubscout-selectie.csv');
 };
-try{const r=await fetch('./data/players.json');if(!r.ok)throw Error('Databestand ontbreekt');data=await r.json();$('notice').textContent=data.notice;$('club').innerHTML=data.clubs.map(c=>`<option value="${esc(c.id)}">${esc(c.name)}</option>`).join('');$('club').value='torhout';render()}catch(e){$('notice').textContent='Laden mislukt: '+e.message+'. Voer python3 -m clubscout.build uit en open via de lokale server.'}
+$('birthyears').onclick=()=>{if(data)download([['ClubRBFA','Naam','Geboortejaar'],...data.players.filter(p=>p.birth_year==null).sort((a,b)=>clubOf(a).name.localeCompare(clubOf(b).name,'nl')||a.name.localeCompare(b.name,'nl')).map(p=>[clubOf(p).name,p.name,''])],'ontbrekende-geboortejaren.csv')};
+$('club').addEventListener('input',()=>{if(data){references();reset()}});
+for(const id of ['search','filter','threshold','reference'])$(id).addEventListener('input',reset);
+$('prev').onclick=()=>{if(page>0){page--;render()}};$('next').onclick=()=>{if((page+1)*PAGE<visible.length){page++;render()}};
+$('close').onclick=()=>$('detail').close();
+try{const r=await fetch('./data/players.json');if(!r.ok)throw Error('Databestand ontbreekt');data=await r.json();$('club').innerHTML='<option value="all">Alle clubs</option>'+data.clubs.map(c=>`<option value="${esc(c.id)}">${esc(c.name)}</option>`).join('');$('club').value='all';references();$('updated').textContent=`${data.season} · ${data.clubs.length} clubs · ${data.clubs.reduce((n,c)=>n+c.teams.filter(t=>t.include).length,0)} ploegen${data.updatedAt?' · bijgewerkt '+new Date(data.updatedAt).toLocaleString('nl-BE'):''}`;render()}catch(e){$('notice').textContent='Laden mislukt: '+e.message}
 </script></html>
-
-

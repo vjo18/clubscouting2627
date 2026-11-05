@@ -14,9 +14,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: node --test tests/calendar.test.mjs
+      - run: node --test tests/*.test.mjs
       - run: python3 -m clubscout.build
       - uses: actions/upload-artifact@v4
         with:
           name: clubscout-dashboard
           path: public/
+

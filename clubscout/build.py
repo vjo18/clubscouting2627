@@ -83,6 +83,7 @@ def build(root=ROOT):
             number=str(r.get('number') or '').strip()
             if number:stats['number_counts'][number]=stats['number_counts'].get(number,0)+1
             stats['selection_details'].append({'url':report['source'],'number':number or None,
+                'fixture':' — '.join(t.get('name','') for t in report.get('teams',[])),
                 'minutes':r['minutes'] if t.get('minutes_enabled') else None})
             stats['matches'].append(report['source'])
     for p in players.values():
