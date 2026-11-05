@@ -1,0 +1,258 @@
+{
+  "team_id": "364283",
+  "url": "https://www.rbfa.be/nl/club/1185/ploeg/364283/kalender",
+  "fetched_at": "2026-11-05T11:11:53.942Z",
+  "completeness": "unverified",
+  "observed_now": 28,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524068",
+      "scoreText": "4 - 2",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zaterdag 31 oktober - 17:30 Reserven Voetb Vl E KM Torhout B 3 4 - 2 K. Dar. Ruddervoorde 2",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524077",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 08 november - 10:00 Reserven Voetb Vl E KV Koksijde Oostduinkerke A 2 10:00 KM Torhout B 3(Ref. : Graulus Roland)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523994",
+      "scoreText": "4 - 1",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "vrijdag 28 augustus - 20:00 Reserven Voetb Vl E K.FC Lichtervelde 3 4 - 1 KM Torhout B 3",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524012",
+      "scoreText": "8 - 4",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 13 september - 10:00 Reserven Voetb Vl E KM Torhout B 3 8 - 4 VV Koekelare 2",
+      "score": [
+        8,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524016",
+      "scoreText": "2 - 2",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "vrijdag 18 september - 20:00 Reserven Voetb Vl E K.S.K. Snaaskerke A 3 2 - 2 KM Torhout B 3",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524028",
+      "scoreText": "6 - 0",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 27 september - 10:00 Reserven Voetb Vl E KM Torhout B 3 6 - 0 SK Nieuwkapelle 2",
+      "score": [
+        6,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524031",
+      "scoreText": "0 - 4",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "vrijdag 02 oktober - 20:00 Reserven Voetb Vl E Merkem Sp. A 2 0 - 4 KM Torhout B 3",
+      "score": [
+        0,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524044",
+      "scoreText": "2 - 0",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 11 oktober - 10:00 Reserven Voetb Vl E KM Torhout B 3 2 - 0 K. VP Gits A 2",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524052",
+      "scoreText": "0 - 8",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 18 oktober - 10:00 Reserven Voetb Vl E S.C. Middelkerke United 2 0 - 8 KM Torhout B 3",
+      "score": [
+        0,
+        8
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524054",
+      "scoreText": "",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "vrijdag 23 oktober - 19:30 Reserven Voetb Vl E FC Veldegem A 2UitgesteldKM Torhout B 3",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524084",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 15 november - 10:00 Reserven Voetb Vl E KM Torhout B 3 10:00 K. EG Gistel 2(Ref. : Agyekum Anthony)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524092",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 22 november - 10:00 Reserven Voetb Vl E KM Torhout B 3 10:00 K. SV Veurne A 2(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524094",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "vrijdag 27 november - 19:30 Reserven Voetb Vl E S.V.D. Kortemark 2 19:30 KM Torhout B 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524108",
+      "scoreText": "11:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 06 december - 11:00 Reserven Voetb Vl E KM Torhout B 3 11:00 SK Torhout A 2(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524112",
+      "scoreText": "20:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "vrijdag 11 december - 20:00 Reserven Voetb Vl E K. VP Gits A 2 20:00 KM Torhout B 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524123",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 10 januari - 10:00 Reserven Voetb Vl E KM Torhout B 3 10:00 K.S.K. Snaaskerke A 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524133",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 17 januari - 9:15 Reserven Voetb Vl E SK Nieuwkapelle 2 09:15 KM Torhout B 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524141",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 24 januari - 10:00 Reserven Voetb Vl E KM Torhout B 3 10:00 Merkem Sp. A 2(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524144",
+      "scoreText": "20:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "vrijdag 29 januari - 20:00 Reserven Voetb Vl E K. SV Veurne A 2 20:00 KM Torhout B 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524152",
+      "scoreText": "20:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "vrijdag 12 februari - 20:00 Reserven Voetb Vl E K. EG Gistel 2 20:00 KM Torhout B 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524164",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 21 februari - 10:00 Reserven Voetb Vl E KM Torhout B 3 10:00 KV Koksijde Oostduinkerke A 2(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524171",
+      "scoreText": "16:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zaterdag 27 februari - 16:00 Reserven Voetb Vl E K. Dar. Ruddervoorde 2 16:00 KM Torhout B 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524180",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 07 maart - 10:00 Reserven Voetb Vl E KM Torhout B 3 10:00 FC Veldegem A 2(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524187",
+      "scoreText": "15:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zaterdag 13 maart - 15:00 Reserven Voetb Vl E VV Koekelare 2 15:00 KM Torhout B 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524196",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 21 maart - 10:00 Reserven Voetb Vl E KM Torhout B 3 10:00 S.V.D. Kortemark 2(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524211",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 11 april - 10:00 Reserven Voetb Vl E KM Torhout B 3 10:00 K.FC Lichtervelde 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524217",
+      "scoreText": "20:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "vrijdag 16 april - 20:00 Reserven Voetb Vl E SK Torhout A 2 20:00 KM Torhout B 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524228",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl E",
+      "competition_id": "CHP_131108",
+      "text": "zondag 25 april - 10:00 Reserven Voetb Vl E KM Torhout B 3 10:00 S.C. Middelkerke United 2(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

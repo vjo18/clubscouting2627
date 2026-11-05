@@ -1,0 +1,384 @@
+{
+  "team_id": "362402",
+  "url": "https://www.rbfa.be/nl/club/1592/ploeg/362402/kalender",
+  "fetched_at": "2026-11-05T11:13:35.245Z",
+  "completeness": "unverified",
+  "observed_now": 40,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514925",
+      "scoreText": "4 - 1",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 01 november - 15:00 3de Afdeling Voetb Vl A K.V.K. Ieper 4 - 1 Zwevegem Sport",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514928",
+      "scoreText": "18:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 07 november - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 18:00 Eendr Elene-Grotenberge A(Ref. : Grzybowski Patryk - Clemmens Benny - Verhulst Philip)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7614485",
+      "scoreText": "",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "zaterdag 18 juli - 17:00 2e3e Afdeling Voetb Vl Zwevegem SportBL. OTEGEM",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497932",
+      "scoreText": "1 - 4",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "zaterdag 25 juli - 18:00 Beker van Vlaanderen A Zwevegem Sport 1 - 4 K.V. Diksmuide Oostende A",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497953",
+      "scoreText": "0 - 4",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 29 juli - 20:00 Beker van Vlaanderen A Sportkring Roeselare 0 - 4 Zwevegem Sport",
+      "score": [
+        0,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505551",
+      "scoreText": "2 - 1",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zondag 02 augustus - 16:00 Croky Cup F.C. WEZEL SPORT B 2 - 1 Zwevegem Sport",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497959",
+      "scoreText": "1 - 5",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 05 augustus - 20:00 Beker van Vlaanderen A Zwevegem Sport 1 - 5 SV Zulte-Waregem B",
+      "score": [
+        1,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497974",
+      "scoreText": "0 - 1",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 12 augustus - 20:30 Beker van Vlaanderen A Cercle Brugge K.S.V. B 0 - 1 Zwevegem Sport",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7643168",
+      "scoreText": "1 - 2",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "zondag 16 augustus - 15:00 2e3e Afdeling Voetb Vl Zwevegem Sport 1 - 2 KV KORTRIJK",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7621406",
+      "scoreText": "1 - 2",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "donderdag 20 augustus - 19:30 2e3e Afdeling Voetb Vl K. SASSP. BOEZINGE 1 - 2 Zwevegem Sport",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7726687",
+      "scoreText": "2 - 1",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "zondag 23 augustus - 15:00 2e3e Afdeling Voetb Vl Zwevegem Sport 2 - 1 K. FC VARSENARE",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514850",
+      "scoreText": "2 - 0",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 30 augustus - 16:00 3de Afdeling Voetb Vl A KVE Drongen A 2 - 0 Zwevegem Sport",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514856",
+      "scoreText": "0 - 2",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 05 september - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 0 - 2 Erpe-Mere United",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514865",
+      "scoreText": "2 - 0",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 13 september - 15:00 3de Afdeling Voetb Vl A Avanti Stekene 2 - 0 Zwevegem Sport",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514872",
+      "scoreText": "0 - 7",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 19 september - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 0 - 7 F.C. Gullegem",
+      "score": [
+        0,
+        7
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514887",
+      "scoreText": "0 - 2",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 27 september - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 0 - 2 Zwevegem Sport",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514888",
+      "scoreText": "3 - 3",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 03 oktober - 20:00 3de Afdeling Voetb Vl A Zwevegem Sport 3 - 3 Olsa Brakel A",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514896",
+      "scoreText": "2 - 1",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 10 oktober - 20:00 3de Afdeling Voetb Vl A K. SV Rumbeke 2 - 1 Zwevegem Sport",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514904",
+      "scoreText": "2 - 0",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 17 oktober - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 2 - 0 KFC Wambeek Ternat A",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514912",
+      "scoreText": "3 - 2",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 24 oktober - 19:30 3de Afdeling Voetb Vl A Zwevegem Sport 3 - 2 SC City Pirates Antwerpen A",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514937",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 15 november - 14:30 3de Afdeling Voetb Vl A KVV St-Denijs Sp A 14:30 Zwevegem Sport(Ref. : Cannaert Stijn - De Stoop Helmut - Horemans Tom)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514944",
+      "scoreText": "18:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 21 november - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 18:00 K. Berchem Sp. 2004 A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7746218",
+      "scoreText": "20:00",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "dinsdag 24 november - 20:00 2e3e Afdeling Voetb Vl Zwevegem Sport 20:00 TRUST FOOTBALL CLUB FC TRUST(Ref. : BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514959",
+      "scoreText": "20:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "vrijdag 27 november - 20:30 3de Afdeling Voetb Vl A K. Sp. Club Blankenberge A 20:30 Zwevegem Sport(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514960",
+      "scoreText": "18:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 05 december - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 18:00 KCVV.Elewijt A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514971",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 13 december - 14:30 3de Afdeling Voetb Vl A KFC Wambeek Ternat A 14:30 Zwevegem Sport(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514976",
+      "scoreText": "18:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 09 januari - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 18:00 Avanti Stekene(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514986",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 17 januari - 14:30 3de Afdeling Voetb Vl A Erpe-Mere United 14:30 Zwevegem Sport(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514998",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 24 januari - 15:00 3de Afdeling Voetb Vl A Olsa Brakel A 15:00 Zwevegem Sport(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515000",
+      "scoreText": "19:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 30 januari - 19:30 3de Afdeling Voetb Vl A Zwevegem Sport 19:30 K. Sp. Club Blankenberge A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515011",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 14 februari - 15:00 3de Afdeling Voetb Vl A F.C. Gullegem 15:00 Zwevegem Sport(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515016",
+      "scoreText": "18:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 20 februari - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 18:00 KVE Drongen A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515029",
+      "scoreText": "19:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 27 februari - 19:30 3de Afdeling Voetb Vl A Eendr Elene-Grotenberge A 19:30 Zwevegem Sport(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515032",
+      "scoreText": "20:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 06 maart - 20:00 3de Afdeling Voetb Vl A Zwevegem Sport 20:00 K. SV Rumbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515047",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 14 maart - 15:00 3de Afdeling Voetb Vl A KCVV.Elewijt A 15:00 Zwevegem Sport(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515048",
+      "scoreText": "18:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 20 maart - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 18:00 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515056",
+      "scoreText": "20:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 03 april - 20:00 3de Afdeling Voetb Vl A K. Berchem Sp. 2004 A 20:00 Zwevegem Sport(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515064",
+      "scoreText": "18:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 10 april - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 18:00 K.V.K. Ieper(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515072",
+      "scoreText": "20:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 17 april - 20:00 3de Afdeling Voetb Vl A SC City Pirates Antwerpen A 20:00 Zwevegem Sport(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515080",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 25 april - 15:00 3de Afdeling Voetb Vl A Zwevegem Sport 15:00 KVV St-Denijs Sp A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    }
+  ]
+}

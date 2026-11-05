@@ -1,10 +1,10 @@
 {
   "team_id": "364284",
   "url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/kalender",
-  "fetched_at": "2026-11-04T14:58:14.144Z",
+  "fetched_at": "2026-11-05T11:11:48.607Z",
   "completeness": "unverified",
-  "observed_now": 40,
-  "preserved": 0,
+  "observed_now": 2,
+  "preserved": 38,
   "matches": [
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514447",
@@ -14,14 +14,16 @@
       "score": [
         3,
         1
-      ]
+      ],
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514448",
       "scoreText": "18:30",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zaterdag 07 november - 18:30 2de Afdeling Voetb Vl A SV Zulte-Waregem B 18:30 KM Torhout A(Ref. : Verslycken Yves - Vercamer Joachim - De Stoop Helmut)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7497938",

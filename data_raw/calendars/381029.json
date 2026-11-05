@@ -1,0 +1,190 @@
+{
+  "team_id": "381029",
+  "url": "https://www.rbfa.be/nl/club/1185/ploeg/381029/kalender",
+  "fetched_at": "2026-11-05T11:11:56.267Z",
+  "completeness": "unverified",
+  "observed_now": 18,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703544",
+      "scoreText": "3 - 4",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "vrijdag 30 oktober - 20:00 Gewestelijk U21 D Club Roeselare 2 3 - 4 KM TORHOUT",
+      "score": [
+        3,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703550",
+      "scoreText": "14:30",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "zaterdag 07 november - 14:30 Gewestelijk U21 D KM TORHOUT 14:30 K. Sp. Club Blankenberge 3-2(Ref. : Verstraete Robin)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7619850",
+      "scoreText": "2 - 3",
+      "competition": "U21",
+      "competition_id": null,
+      "text": "zaterdag 15 augustus - 17:45 U21 KM TORHOUT 2 - 3 K.W.S. CLUB LAUWE",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7612598",
+      "scoreText": "0 - 1",
+      "competition": "U21",
+      "competition_id": null,
+      "text": "vrijdag 21 augustus - 20:00 U21 KM TORHOUT 0 - 1 ZWEVEGEM SPORT",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7733108",
+      "scoreText": "3 - 3",
+      "competition": "U21",
+      "competition_id": null,
+      "text": "woensdag 26 augustus - 19:30 U21 K. SV Jabbeke 3 3 - 3 KM TORHOUT",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703513",
+      "scoreText": "0 - 5",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "zaterdag 05 september - 16:00 Gewestelijk U21 D K. VC Ardooie 2 0 - 5 KM TORHOUT",
+      "score": [
+        0,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703517",
+      "scoreText": "3 - 0",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "zaterdag 12 september - 13:30 Gewestelijk U21 D KM TORHOUT 3 - 0 Club Roeselare 2",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703520",
+      "scoreText": "1 - 2",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "zaterdag 19 september - 15:00 Gewestelijk U21 D K. Sp. Club Blankenberge 3-2 1 - 2 KM TORHOUT",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703526",
+      "scoreText": "2 - 2",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "zaterdag 26 september - 13:15 Gewestelijk U21 D KM TORHOUT 2 - 2 K. Sint-Eloois-Winkel Sp. 3",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703528",
+      "scoreText": "3 - 2",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "zaterdag 03 oktober - 13:30 Gewestelijk U21 D KM TORHOUT 3 - 2 J.V.V.Sint-Andries/Brugge 2",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7744531",
+      "scoreText": "",
+      "competition": "U21",
+      "competition_id": null,
+      "text": "dinsdag 06 oktober - 19:30 U21 KV.KORTRIJKKM TORHOUT",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703531",
+      "scoreText": "3 - 4",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "vrijdag 09 oktober - 20:00 Gewestelijk U21 D K. SV Jabbeke 3 3 - 4 KM TORHOUT",
+      "score": [
+        3,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703537",
+      "scoreText": "2 - 6",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "zaterdag 17 oktober - 13:30 Gewestelijk U21 D KM TORHOUT 2 - 6 K. SK Steenbrugge 3-2",
+      "score": [
+        2,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703541",
+      "scoreText": "4 - 3",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "zondag 25 oktober - 11:15 Gewestelijk U21 D KM TORHOUT 4 - 3 K. VC Ardooie 2",
+      "score": [
+        4,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703554",
+      "scoreText": "09:15",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "zondag 15 november - 9:15 Gewestelijk U21 D K. Sint-Eloois-Winkel Sp. 3 09:15 KM TORHOUT(Ref. : Debackere Filip)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703557",
+      "scoreText": "20:00",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "vrijdag 20 november - 20:00 Gewestelijk U21 D J.V.V.Sint-Andries/Brugge 2 20:00 KM TORHOUT(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703561",
+      "scoreText": "17:30",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "zaterdag 28 november - 17:30 Gewestelijk U21 D KM TORHOUT 17:30 K. SV Jabbeke 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703563",
+      "scoreText": "20:00",
+      "competition": "Gewestelijk U21 D",
+      "competition_id": "CHP_135384",
+      "text": "vrijdag 04 december - 20:00 Gewestelijk U21 D K. SK Steenbrugge 3-2 20:00 KM TORHOUT(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

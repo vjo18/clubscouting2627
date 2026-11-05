@@ -1,0 +1,21 @@
+{
+  "team_id": "362182",
+  "url": "https://www.rbfa.be/nl/club/1931/ploeg/362182/kalender",
+  "fetched_at": "2026-11-05T11:12:23.105Z",
+  "completeness": "unverified",
+  "observed_now": 1,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617347",
+      "scoreText": "2 - 4",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "vrijdag 30 oktober - 20:45 Jupiler Pro League SV.Zulte Waregem A 2 - 4 Club Brugge KV. A",
+      "score": [
+        2,
+        4
+      ]
+    }
+  ]
+}

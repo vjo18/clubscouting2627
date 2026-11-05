@@ -1,0 +1,29 @@
+{
+  "team_id": "363639",
+  "url": "https://www.rbfa.be/nl/club/1156/ploeg/363639/kalender",
+  "fetched_at": "2026-11-05T11:13:38.876Z",
+  "completeness": "unverified",
+  "observed_now": 2,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544543",
+      "scoreText": "0 - 1",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 30 oktober - 20:15 Regionale Res.Voetb Vl A K.W.S. Club Lauwe A 0 - 1 S.V. Wevelgem City A",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544547",
+      "scoreText": "20:15",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 06 november - 20:15 Regionale Res.Voetb Vl A K.W.S. Club Lauwe A 20:15 Racing Club Harelbeke(Ref. : Declercq Geatan)",
+      "score": null
+    }
+  ]
+}

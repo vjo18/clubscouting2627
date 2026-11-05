@@ -1,0 +1,18 @@
+{
+  "team_id": "379548",
+  "url": "https://www.rbfa.be/nl/club/962/ploeg/379548/kalender",
+  "fetched_at": "2026-11-05T11:13:12.109Z",
+  "completeness": "unverified",
+  "observed_now": 1,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617721",
+      "scoreText": "16:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zaterdag 07 november - 16:00 Challenger Pro League R.SC.Anderlecht B 16:00 Club Brugge KV. B(Ref. : Jacoby Anaik - Jans Lennert - De Couvreur Hannes - Staessens Brent)",
+      "score": null
+    }
+  ]
+}

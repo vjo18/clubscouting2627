@@ -1,0 +1,368 @@
+{
+  "team_id": "364800",
+  "url": "https://www.rbfa.be/nl/club/1191/ploeg/364800/kalender",
+  "fetched_at": "2026-11-05T11:11:59.187Z",
+  "completeness": "unverified",
+  "observed_now": 38,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565359",
+      "scoreText": "4 - 3",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 31 oktober - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 4 - 3 KFC Dessel Sp. A",
+      "score": [
+        4,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565367",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 07 november - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 Cercle Brugge K.S.V. B(Ref. : Huyghe Isaak - Mertens Alex - Ares Emiel)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497936",
+      "scoreText": "2 - 0",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "zondag 26 juli - 15:00 Beker van Vlaanderen A FC Mandel United Izegem 2 - 0 KVV St-Denijs Sp A",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497947",
+      "scoreText": "2 - 2",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 29 juli - 20:00 Beker van Vlaanderen A K.V.K. Westhoek 2 - 2 FC Mandel United Izegem",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497968",
+      "scoreText": "0 - 0",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 05 augustus - 20:00 Beker van Vlaanderen A F.C. Gullegem 0 - 0 FC Mandel United Izegem",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7573178",
+      "scoreText": "3 - 2",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "donderdag 06 augustus - 20:00 2e3e Afdeling Voetb Vl CLUB ROESELARE 3 - 2 FC Mandel United Izegem",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497971",
+      "scoreText": "4 - 0",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 12 augustus - 20:00 Beker van Vlaanderen A FC Mandel United Izegem 4 - 0 Racing Club Harelbeke",
+      "score": [
+        4,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505663",
+      "scoreText": "7 - 0",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zondag 16 augustus - 16:00 Croky Cup FC Mandel United Izegem 7 - 0 R. STADE WAREMMIEN F.C. A",
+      "score": [
+        7,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505689",
+      "scoreText": "4 - 2",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zondag 23 augustus - 16:00 Croky Cup FC Mandel United Izegem 4 - 2 KONINKLIJKE EENDRACHT AALST LEDE",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565301",
+      "scoreText": "0 - 3",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 30 augustus - 15:00 1e Afdeling Voetb Vl Racing Club Harelbeke 0 - 3 FC Mandel United Izegem",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565311",
+      "scoreText": "1 - 1",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 05 september - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 1 - 1 Koninklijke Lyra-Lierse",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565269",
+      "scoreText": "1 - 0",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 13 september - 15:00 1e Afdeling Voetb Vl Sportkring Roeselare 1 - 0 FC Mandel United Izegem",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565273",
+      "scoreText": "2 - 1",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 19 september - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 2 - 1 Hoogstraten VV",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505715",
+      "scoreText": "1 - 3",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zaterdag 26 september - 20:00 Croky Cup FC Mandel United Izegem 1 - 3 SPORTING HASSELT",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565281",
+      "scoreText": "2 - 1",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "woensdag 30 september - 20:00 1e Afdeling Voetb Vl K.F.C. Houtvenne A 2 - 1 FC Mandel United Izegem",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565291",
+      "scoreText": "1 - 0",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 03 oktober - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 1 - 0 Belisia Bilzen SV A",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565298",
+      "scoreText": "0 - 2",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 11 oktober - 15:00 1e Afdeling Voetb Vl KFC Merelbeke 0 - 2 FC Mandel United Izegem",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565325",
+      "scoreText": "3 - 1",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 17 oktober - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 3 - 1 KVV Zelzate",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565353",
+      "scoreText": "0 - 2",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 25 oktober - 15:00 1e Afdeling Voetb Vl KVK.Tienen 0 - 2 FC Mandel United Izegem",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565377",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 14 november - 20:00 1e Afdeling Voetb Vl Thes Sport Tessenderlo A 20:00 FC Mandel United Izegem(Ref. : Schoenmaeckers Dirk - Wouters Yannick - Hermans Erwin)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565331",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 21 november - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 R. Knokke FC(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565339",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 29 november - 15:00 1e Afdeling Voetb Vl Oud-Heverlee Leuven B 15:00 FC Mandel United Izegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565380",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 05 december - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 KSK Heist A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565388",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 12 december - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 KVK.Tienen(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565393",
+      "scoreText": "19:30",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 09 januari - 19:30 1e Afdeling Voetb Vl KFC Dessel Sp. A 19:30 FC Mandel United Izegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565405",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 16 januari - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 K.F.C. Houtvenne A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565409",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 24 januari - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 FC Mandel United Izegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565420",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 30 januari - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 KFC Merelbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565428",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 13 februari - 20:00 1e Afdeling Voetb Vl R. Knokke FC 20:00 FC Mandel United Izegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565435",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 20 februari - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 Oud-Heverlee Leuven B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565455",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 27 februari - 20:00 1e Afdeling Voetb Vl KSK Heist A 20:00 FC Mandel United Izegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565464",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 06 maart - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 Racing Club Harelbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565476",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 13 maart - 20:00 1e Afdeling Voetb Vl KVV Zelzate 20:00 FC Mandel United Izegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565482",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 20 maart - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 Thes Sport Tessenderlo A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565487",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 03 april - 20:00 1e Afdeling Voetb Vl Hoogstraten VV 20:00 FC Mandel United Izegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565493",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 11 april - 15:00 1e Afdeling Voetb Vl Belisia Bilzen SV A 15:00 FC Mandel United Izegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565451",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 17 april - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 Sportkring Roeselare(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565501",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 25 april - 15:00 1e Afdeling Voetb Vl Koninklijke Lyra-Lierse 15:00 FC Mandel United Izegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    }
+  ]
+}

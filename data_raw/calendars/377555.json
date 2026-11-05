@@ -1,0 +1,165 @@
+{
+  "team_id": "377555",
+  "url": "https://www.rbfa.be/nl/club/5852/ploeg/377555/kalender",
+  "fetched_at": "2026-11-05T11:12:10.326Z",
+  "completeness": "unverified",
+  "observed_now": 16,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703422",
+      "scoreText": "0 - 10",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "woensdag 04 november - 19:30 Gewestelijk U21 B K. FC. Meulebeke 1 0 - 10 F.C. Gullegem 1",
+      "score": [
+        0,
+        10
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703437",
+      "scoreText": "19:30",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "vrijdag 06 november - 19:30 Gewestelijk U21 B VK Langemark-Poelkapelle 1 19:30 F.C. Gullegem 1(Ref. : Vandekerckhove Filip)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7639395",
+      "scoreText": "0 - 11",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 26 augustus - 19:30 Reserven Provincie S.C.T. MENEN 0 - 11 F.C. Gullegem 1",
+      "score": [
+        0,
+        11
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7622089",
+      "scoreText": "",
+      "competition": "U21",
+      "competition_id": null,
+      "text": "zaterdag 29 augustus - 17:30 U21 K. RC BISSEGEMF.C. Gullegem 1",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703402",
+      "scoreText": "9 - 0",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "woensdag 09 september - 20:00 Gewestelijk U21 B F.C. Gullegem 1 9 - 0 Sp. Dikkebus 1",
+      "score": [
+        9,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703404",
+      "scoreText": "4 - 6",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "zaterdag 12 september - 15:15 Gewestelijk U21 B K.S.K Vlamertinge 1 4 - 6 F.C. Gullegem 1",
+      "score": [
+        4,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703410",
+      "scoreText": "3 - 1",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "vrijdag 18 september - 20:00 Gewestelijk U21 B F.C. Gullegem 1 3 - 1 VK Langemark-Poelkapelle 1",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703411",
+      "scoreText": "5 - 0",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "zaterdag 26 september - 15:15 Gewestelijk U21 B Ol. Ledegem 2-1 5 - 0 ForfaitF.C. Gullegem 1",
+      "score": [
+        5,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703418",
+      "scoreText": "3 - 2",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "vrijdag 02 oktober - 20:00 Gewestelijk U21 B F.C. Gullegem 1 3 - 2 SV Moorslede 1",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703426",
+      "scoreText": "2 - 1",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "zaterdag 17 oktober - 20:00 Gewestelijk U21 B F.C. Gullegem 1 2 - 1 FC Dadizele Sport 1",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703430",
+      "scoreText": "",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "zaterdag 24 oktober - 17:00 Gewestelijk U21 B Sp. Dikkebus 1UitgesteldF.C. Gullegem 1",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703434",
+      "scoreText": "6 - 4",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "vrijdag 30 oktober - 20:00 Gewestelijk U21 B F.C. Gullegem 1 6 - 4 K.S.K Vlamertinge 1",
+      "score": [
+        6,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703442",
+      "scoreText": "20:00",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "vrijdag 13 november - 20:00 Gewestelijk U21 B F.C. Gullegem 1 20:00 Ol. Ledegem 2-1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703444",
+      "scoreText": "16:30",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "zaterdag 21 november - 16:30 Gewestelijk U21 B SV Moorslede 1 16:30 F.C. Gullegem 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703450",
+      "scoreText": "20:00",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "zaterdag 28 november - 20:00 Gewestelijk U21 B F.C. Gullegem 1 20:00 K. FC. Meulebeke 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7703451",
+      "scoreText": "20:00",
+      "competition": "Gewestelijk U21 B",
+      "competition_id": "CHP_135382",
+      "text": "vrijdag 04 december - 20:00 Gewestelijk U21 B FC Dadizele Sport 1 20:00 F.C. Gullegem 1(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

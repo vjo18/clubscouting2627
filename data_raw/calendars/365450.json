@@ -1,0 +1,29 @@
+{
+  "team_id": "365450",
+  "url": "https://www.rbfa.be/nl/club/2075/ploeg/365450/kalender",
+  "fetched_at": "2026-11-05T11:12:18.791Z",
+  "completeness": "unverified",
+  "observed_now": 2,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514440",
+      "scoreText": "3 - 6",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 31 oktober - 19:30 2de Afdeling Voetb Vl A K.S.V. Oostkamp A 3 - 6 SV Zulte-Waregem B",
+      "score": [
+        3,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514449",
+      "scoreText": "19:30",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 07 november - 19:30 2de Afdeling Voetb Vl A K.S.V. Oostkamp A 19:30 Racing Club Gent(Ref. : Lefever Robin - De Moor Diego - Verleysen Pieter)",
+      "score": null
+    }
+  ]
+}

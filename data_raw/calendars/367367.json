@@ -1,0 +1,326 @@
+{
+  "team_id": "367367",
+  "url": "https://www.rbfa.be/nl/club/976/ploeg/367367/kalender",
+  "fetched_at": "2026-11-05T11:13:34.229Z",
+  "completeness": "unverified",
+  "observed_now": 32,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7770973",
+      "scoreText": "4 - 1",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "woensdag 04 november - 14:15 -18 SV.ZULTE WAREGEM 4 - 1 KV.KORTRIJK",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640638",
+      "scoreText": "13:30",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 07 november - 13:30 U18 Elite 2 KV.KORTRIJK 13:30 Beerschot V.A.(Ref. : Dedecker Branco - Denhaerynck Tim - Van Wijmeersch Patrick)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628683",
+      "scoreText": "2 - 2",
+      "competition": "1e Ploegen 3-4 Prov",
+      "competition_id": null,
+      "text": "zondag 26 juli - 15:00 1e Ploegen 3-4 Prov K.S.K. SNAASKERKE 2 - 2 KV.KORTRIJK",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523212",
+      "scoreText": "3 - 4",
+      "competition": "-19",
+      "competition_id": null,
+      "text": "woensdag 29 juli - 19:00 -19 KV.KORTRIJK 3 - 4 CROSSING SCHAERBEEK",
+      "score": [
+        3,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7546438",
+      "scoreText": "",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "zaterdag 01 augustus - 13:30 -18 KV.KORTRIJKMAASTRICHT U19",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523197",
+      "scoreText": "1 - 4",
+      "competition": "-19",
+      "competition_id": null,
+      "text": "woensdag 05 augustus - 17:00 -19 R.A.E.C. MONS 1 - 4 KV.KORTRIJK",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523196",
+      "scoreText": "",
+      "competition": "Ra",
+      "competition_id": null,
+      "text": "zaterdag 08 augustus - 14:00 Ra KV.KORTRIJKK.VV.ZELZATE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617648",
+      "scoreText": "5 - 0",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "woensdag 12 augustus - 18:30 -18 KV.KORTRIJK 5 - 0 CERCLE BRUGGE K.SV.",
+      "score": [
+        5,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523170",
+      "scoreText": "8 - 1",
+      "competition": "-19",
+      "competition_id": null,
+      "text": "zaterdag 15 augustus - 13:30 -19 KV.KORTRIJK 8 - 1 F.C. GULLEGEM JONG FCG",
+      "score": [
+        8,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628286",
+      "scoreText": "0 - 3",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "dinsdag 18 augustus - 19:00 U19 SB STADE MOUSCRONNOIS 0 - 3 KV.KORTRIJK",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628522",
+      "scoreText": "1 - 2",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 19:00 Reserven Provincie KSK.LONDERZEEL 1 - 2 KV.KORTRIJK",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7546428",
+      "scoreText": "3 - 1",
+      "competition": "Iste Ploeg",
+      "competition_id": null,
+      "text": "donderdag 20 augustus - 19:30 Iste Ploeg KV.KORTRIJK 3 - 1 K.FC.POPERINGE",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7629033",
+      "scoreText": "3 - 2",
+      "competition": "-19",
+      "competition_id": null,
+      "text": "zaterdag 22 augustus - 13:30 -19 KV.KORTRIJK 3 - 2 KSC LOKEREN",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617632",
+      "scoreText": "3 - 1",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "zaterdag 29 augustus - 13:30 -18 KV.KORTRIJK 3 - 1 RAAL LA LOUVIERE",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640586",
+      "scoreText": "0 - 2",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 05 september - 14:30 U18 Elite 2 R.W.D.M. Brussels 0 - 2 KV.KORTRIJK",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640593",
+      "scoreText": "4 - 1",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 12 september - 13:30 U18 Elite 2 KV.KORTRIJK 4 - 1 RAAL LA LOUVIERE",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7734948",
+      "scoreText": "",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "dinsdag 15 september - 19:00 U19 KV.KORTRIJKFC MANDEL UNITED IZEGEM",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640597",
+      "scoreText": "0 - 8",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 26 september - 13:00 U18 Elite 2 Sporting Hasselt 0 - 8 KV.KORTRIJK",
+      "score": [
+        0,
+        8
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7742499",
+      "scoreText": "10 - 0",
+      "competition": "Ra",
+      "competition_id": null,
+      "text": "dinsdag 29 september - 19:45 Ra KV.KORTRIJK 10 - 0 K. SV RUMBEKE",
+      "score": [
+        10,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7744531",
+      "scoreText": "",
+      "competition": "U21",
+      "competition_id": null,
+      "text": "dinsdag 06 oktober - 19:30 U21 KV.KORTRIJKKM TORHOUT",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640607",
+      "scoreText": "1 - 1",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 10 oktober - 13:30 U18 Elite 2 KV.KORTRIJK 1 - 1 R.Union St.-Gilloise",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7739242",
+      "scoreText": "3 - 3",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "woensdag 14 oktober - 20:00 U19 F.C. GULLEGEM JONG FCG 3 - 3 KV.KORTRIJK",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640616",
+      "scoreText": "1 - 3",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 17 oktober - 14:30 U18 Elite 2 R.Excelsior Virton 1 - 3 KV.KORTRIJK",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640623",
+      "scoreText": "3 - 0",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 24 oktober - 13:30 U18 Elite 2 KV.KORTRIJK 3 - 0 Lommel SK",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640632",
+      "scoreText": "3 - 2",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 31 oktober - 14:15 U18 Elite 2 KV.RS.Waasland-SK.Beveren 3 - 2 KV.KORTRIJK",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7771450",
+      "scoreText": "",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "woensdag 04 november - 14:15 -18 SV.ZULTE WAREGEMKV.KORTRIJK",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640646",
+      "scoreText": "13:30",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 21 november - 13:30 U18 Elite 2 KV.KORTRIJK 13:30 KONINKLIJKE LIERSE SPORTKRING(Ref. : RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640654",
+      "scoreText": "14:30",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 28 november - 14:30 U18 Elite 2 F.C. Seraing 14:30 KV.KORTRIJK(Ref. : RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640660",
+      "scoreText": "13:30",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 09 januari - 13:30 U18 Elite 2 KV.KORTRIJK 13:30 CERCLE BRUGGE K.SV.(Ref. : RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640663",
+      "scoreText": "14:30",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 16 januari - 14:30 U18 Elite 2 R.FC.de Liège 14:30 KV.KORTRIJK(Ref. : RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640675",
+      "scoreText": "13:30",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 23 januari - 13:30 U18 Elite 2 KV.KORTRIJK 13:30 Francs Borains(Ref. : RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640678",
+      "scoreText": "14:30",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 30 januari - 14:30 U18 Elite 2 K.AS.Eupen 14:30 KV.KORTRIJK(Ref. : RBA)",
+      "score": null
+    }
+  ]
+}

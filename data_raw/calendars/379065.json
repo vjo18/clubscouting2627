@@ -1,0 +1,29 @@
+{
+  "team_id": "379065",
+  "url": "https://www.rbfa.be/nl/club/962/ploeg/379065/kalender",
+  "fetched_at": "2026-11-05T11:13:13.822Z",
+  "completeness": "unverified",
+  "observed_now": 2,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637482",
+      "scoreText": "2 - 4",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 31 oktober - 13:30 U18 Elite K.RC.Genk 2 - 4 Club Brugge KV.",
+      "score": [
+        2,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637499",
+      "scoreText": "14:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 07 november - 14:30 U18 Elite Club Brugge KV. 14:30 K.AA.Gent(Ref. : Cappelle Thomas - Devos Dieter - Hanssens Frederik)",
+      "score": null
+    }
+  ]
+}

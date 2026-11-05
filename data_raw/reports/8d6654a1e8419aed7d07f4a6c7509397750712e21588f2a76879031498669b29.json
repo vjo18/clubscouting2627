@@ -1,0 +1,528 @@
+{
+  "source": "https://www.rbfa.be/nl/wedstrijd/7524997",
+  "score": [
+    1,
+    6
+  ],
+  "teams": [
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "KV Kortrijk 1"
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Jong Vijve A 1"
+    }
+  ],
+  "parser_version": 2,
+  "duration": 90,
+  "quality": "selection_only",
+  "players": [
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Matthias Coreelman",
+      "number": "1",
+      "goalkeeper": true,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Milan Van Coppernolle",
+      "number": "17",
+      "goalkeeper": true,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Jenne Verledens",
+      "number": "2",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Jari Seeuws",
+      "number": "2",
+      "goalkeeper": false,
+      "captain": true,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Mathias Timmerman",
+      "number": "3",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Gilles Devolder",
+      "number": "3",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Rocky Vandevelde",
+      "number": "4",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Joran Van Coppernolle",
+      "number": "4",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "66‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Yakhouba Camara",
+      "number": "5",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "80‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Yorben Coussens",
+      "number": "5",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Quinten Goethals",
+      "number": "7",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "80‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Zico Mestdag",
+      "number": "6",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Fabrice Staelens",
+      "number": "8",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Quincy Bossy",
+      "number": "7",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "37‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Brice Ngah Noah",
+      "number": "9",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Jasper Nuyttens",
+      "number": "8",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "87‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Bruno Vanterwyngen",
+      "number": "11",
+      "goalkeeper": false,
+      "captain": true,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "35‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Rémi Norbert Derijcke",
+      "number": "9",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "78‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Mathieu Decancq",
+      "number": "12",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Ilias Wahsine",
+      "number": "10",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Nico Vandenbroucke",
+      "number": "14",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "75‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Remi Rogge",
+      "number": "11",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Immanuel Degryse",
+      "number": "16",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Yorben Ragolle",
+      "number": "12",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Jeroen Vandewynckele",
+      "number": "17",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "60‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Milan Lavent",
+      "number": "13",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Bram Van Dessel",
+      "number": "18",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "5038",
+      "team_rbfa_id": "364263",
+      "name": "Cedric Roobroeck",
+      "number": "14",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Nicolas Gezelle",
+      "number": "19",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "976",
+      "team_rbfa_id": "367365",
+      "name": "Galid El Mouhaddab",
+      "number": "20",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": null,
+      "subbed_in": null,
+      "bench_only": null,
+      "minutes": null,
+      "goals": null,
+      "events_observed": []
+    }
+  ]
+}

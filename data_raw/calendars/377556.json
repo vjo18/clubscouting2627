@@ -1,0 +1,209 @@
+{
+  "team_id": "377556",
+  "url": "https://www.rbfa.be/nl/club/5852/ploeg/377556/kalender",
+  "fetched_at": "2026-11-05T11:12:13.205Z",
+  "completeness": "unverified",
+  "observed_now": 20,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663369",
+      "scoreText": "2 - 0",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 31 oktober - 17:00 U19 Interprov Voetb V B F.C. GULLEGEM 2 - 0 K.V.K. Ieper 3",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663373",
+      "scoreText": "17:00",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 07 november - 17:00 U19 Interprov Voetb V B F.C. GULLEGEM 17:00 S.V. Wevelgem City 3-2(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628300",
+      "scoreText": "",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "dinsdag 11 augustus - 19:00 U19 SB STADE MOUSCRONNOISF.C. GULLEGEM",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523170",
+      "scoreText": "8 - 1",
+      "competition": "-19",
+      "competition_id": null,
+      "text": "zaterdag 15 augustus - 13:30 -19 KV KORTRIJK KVK U17 8 - 1 F.C. GULLEGEM",
+      "score": [
+        8,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7502518",
+      "scoreText": "0 - 6",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 20:15 U19 S.V. Wevelgem City 3-2 0 - 6 F.C. GULLEGEM",
+      "score": [
+        0,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7546225",
+      "scoreText": "1 - 4",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "zaterdag 29 augustus - 17:00 U19 F.C. GULLEGEM 1 - 4 KSV Oudenaarde 3",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663337",
+      "scoreText": "1 - 1",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 05 september - 17:00 U19 Interprov Voetb V B F.C. GULLEGEM 1 - 1 KSV Oudenaarde 3",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663340",
+      "scoreText": "2 - 0",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 12 september - 16:15 U19 Interprov Voetb V B K.V.K. Ieper 3 2 - 0 F.C. GULLEGEM",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663343",
+      "scoreText": "2 - 13",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 19 september - 14:30 U19 Interprov Voetb V B S.V. Wevelgem City 3-2 2 - 13 F.C. GULLEGEM",
+      "score": [
+        2,
+        13
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663348",
+      "scoreText": "5 - 1",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 26 september - 17:00 U19 Interprov Voetb V B F.C. GULLEGEM 5 - 1 Sportkring Roeselare 3",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663353",
+      "scoreText": "0 - 1",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 03 oktober - 16:45 U19 Interprov Voetb V B Olsa Brakel 3 0 - 1 F.C. GULLEGEM",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663357",
+      "scoreText": "3 - 0",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 10 oktober - 17:00 U19 Interprov Voetb V B F.C. GULLEGEM 3 - 0 FC Mandel United Izegem 3",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7739242",
+      "scoreText": "3 - 3",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "woensdag 14 oktober - 20:00 U19 F.C. GULLEGEM 3 - 3 KV KORTRIJK KVK U17",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663358",
+      "scoreText": "0 - 5",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 17 oktober - 15:30 U19 Interprov Voetb V B Racing Club Harelbeke 3 0 - 5 F.C. GULLEGEM",
+      "score": [
+        0,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663365",
+      "scoreText": "1 - 4",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 24 oktober - 13:30 U19 Interprov Voetb V B KSV Oudenaarde 3 1 - 4 F.C. GULLEGEM",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663374",
+      "scoreText": "13:30",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 14 november - 13:30 U19 Interprov Voetb V B Sportkring Roeselare 3 13:30 F.C. GULLEGEM(Ref. : Van Daele Lorenzo)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663380",
+      "scoreText": "17:00",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 21 november - 17:00 U19 Interprov Voetb V B F.C. GULLEGEM 17:00 Olsa Brakel 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663383",
+      "scoreText": "16:00",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 28 november - 16:00 U19 Interprov Voetb V B FC Mandel United Izegem 3 16:00 F.C. GULLEGEM(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7770784",
+      "scoreText": "20:00",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "woensdag 02 december - 20:00 U19 FC Mandel United Izegem 3 20:00 F.C. GULLEGEM(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663389",
+      "scoreText": "17:00",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 05 december - 17:00 U19 Interprov Voetb V B F.C. GULLEGEM 17:00 Racing Club Harelbeke 3(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

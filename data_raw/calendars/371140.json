@@ -1,0 +1,275 @@
+{
+  "team_id": "371140",
+  "url": "https://www.rbfa.be/nl/club/1191/ploeg/371140/kalender",
+  "fetched_at": "2026-11-05T11:12:03.631Z",
+  "completeness": "unverified",
+  "observed_now": 29,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524306",
+      "scoreText": "2 - 6",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 01 november - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 2 - 6 FC Mandel United Izegem B 1",
+      "score": [
+        2,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524317",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 08 november - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 09:15 NSVD Handzame B 1(Ref. : Van Pottelberghe Luc)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7620945",
+      "scoreText": "2 - 2",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "vrijdag 21 augustus - 20:00 Reserven Provincie V.V. EMELGEM-KACHTEM 2 - 2 FC Mandel United Izegem B 1",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524237",
+      "scoreText": "1 - 5",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 30 augustus - 9:15 Reserven Voetb Vl F VK Langemark-Poelkapelle B 1 1 - 5 FC Mandel United Izegem B 1",
+      "score": [
+        1,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524244",
+      "scoreText": "3 - 2",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 06 september - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 3 - 2 K. Sint-Eloois-Winkel Sp. B 1",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524251",
+      "scoreText": "8 - 0",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 13 september - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 8 - 0 V.V. Emelgem-Kachtem B 1",
+      "score": [
+        8,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524259",
+      "scoreText": "0 - 4",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 20 september - 9:15 Reserven Voetb Vl F SV Moorslede B 1 0 - 4 FC Mandel United Izegem B 1",
+      "score": [
+        0,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524269",
+      "scoreText": "9 - 0",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 27 september - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 9 - 0 Merkem Sp. B 1",
+      "score": [
+        9,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524277",
+      "scoreText": "2 - 5",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 04 oktober - 9:15 Reserven Voetb Vl F SK Westrozebeke 1 2 - 5 FC Mandel United Izegem B 1",
+      "score": [
+        2,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524285",
+      "scoreText": "1 - 1",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 11 oktober - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 1 - 1 F.C. Passendale A 1",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524287",
+      "scoreText": "7 - 4",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "vrijdag 16 oktober - 19:30 Reserven Voetb Vl F SK Elverdinge A 1 7 - 4 FC Mandel United Izegem B 1",
+      "score": [
+        7,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524301",
+      "scoreText": "1 - 2",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 25 oktober - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 1 - 2 SK Staden B 1",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524322",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zaterdag 14 november - 14:00 Reserven Voetb Vl F K. VP Gits B 1 14:00 FC Mandel United Izegem B 1(Ref. : Platteeuw Alex)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524332",
+      "scoreText": "-",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 22 november - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 - Algemeen niet-opkomenFC Dadizele Sport 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524334",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "vrijdag 27 november - 19:30 Reserven Voetb Vl F K. WS Houthulst 1 19:30 FC Mandel United Izegem B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524356",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 13 december - 9:15 Reserven Voetb Vl F K. Sint-Eloois-Winkel Sp. B 1 09:15 FC Mandel United Izegem B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524365",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 10 januari - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 09:15 VK Langemark-Poelkapelle B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524372",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 17 januari - 9:15 Reserven Voetb Vl F V.V. Emelgem-Kachtem B 1 09:15 FC Mandel United Izegem B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524375",
+      "scoreText": "-",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "vrijdag 22 januari - 20:00 Reserven Voetb Vl F FC Dadizele Sport 1 - Algemeen niet-opkomenFC Mandel United Izegem B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524389",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 31 januari - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 09:15 K. VP Gits B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524396",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 14 februari - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 09:15 SV Moorslede B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524405",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 21 februari - 9:15 Reserven Voetb Vl F NSVD Handzame B 1 09:15 FC Mandel United Izegem B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524412",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 28 februari - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 09:15 K. SV Rumbeke B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524415",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "vrijdag 05 maart - 19:30 Reserven Voetb Vl F F.C. Passendale A 1 19:30 FC Mandel United Izegem B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524428",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 14 maart - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 09:15 SK Westrozebeke 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524434",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 21 maart - 9:15 Reserven Voetb Vl F Merkem Sp. B 1 09:15 FC Mandel United Izegem B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524453",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 11 april - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 09:15 K. WS Houthulst 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524458",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 18 april - 9:15 Reserven Voetb Vl F SK Staden B 1 09:15 FC Mandel United Izegem B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524469",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 25 april - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 09:15 SK Elverdinge A 1(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

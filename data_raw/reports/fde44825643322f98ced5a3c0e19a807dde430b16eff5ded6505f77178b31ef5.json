@@ -1,0 +1,727 @@
+{
+  "source": "https://www.rbfa.be/nl/wedstrijd/7565281",
+  "score": [
+    2,
+    1
+  ],
+  "teams": [
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "K.F.C. Houtvenne A"
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "FC Mandel United Izegem"
+    }
+  ],
+  "parser_version": 2,
+  "duration": 90,
+  "quality": "full_lineup",
+  "players": [
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Oskar Robert Annell",
+      "number": "31",
+      "goalkeeper": true,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Martijn Beernaert",
+      "number": "33",
+      "goalkeeper": true,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Zyon Junior Vandekerkhove",
+      "number": "3",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "44‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Mathias Desmet",
+      "number": "4",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Mats Van De Velde",
+      "number": "4",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Brice Verkerken",
+      "number": "5",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Sander Jos Rau",
+      "number": "6",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "goal item ng-star-inserted",
+          "label": "Doelpunt",
+          "text": "57‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Milan Vanacker",
+      "number": "6",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 77,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "77‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Nelson Felix Balongo-Lissondja-Vha",
+      "number": "10",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 81,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "81‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Dennis Van Vaerenbergh",
+      "number": "9",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Lucas Witters",
+      "number": "17",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 68,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "68‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Jules Desot",
+      "number": "10",
+      "goalkeeper": false,
+      "captain": true,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "goal item ng-star-inserted",
+          "label": "Doelpunt",
+          "text": "42‘"
+        },
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "44‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Jo Gilis",
+      "number": "18",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Aaron Dhondt",
+      "number": "11",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 82,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "82‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Raf Smekens",
+      "number": "21",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 81,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "81‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Jarric Buysse",
+      "number": "20",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 82,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "51‘"
+        },
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "82‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Joeri Poelmans",
+      "number": "44",
+      "goalkeeper": false,
+      "captain": true,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Jef Vandemaele",
+      "number": "26",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Mohamed Berzoimi Babtich",
+      "number": "67",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "goal item ng-star-inserted",
+          "label": "Doelpunt",
+          "text": "20‘"
+        },
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "90‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Xander Robert Martlé",
+      "number": "27",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 77,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "77‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Olivier Janezic",
+      "number": "70",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 81,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "81‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Jorn Jan Braekeveld",
+      "number": "80",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": true,
+      "subbed_in": false,
+      "bench_only": false,
+      "minutes": 90,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "item yellow ng-star-inserted",
+          "label": "Gele kaart",
+          "text": "60‘"
+        },
+        {
+          "type": "item yellowred ng-star-inserted",
+          "label": "Uitsluiting na twee gele kaarten",
+          "text": "93‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Ben Thys",
+      "number": "1",
+      "goalkeeper": true,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": false,
+      "bench_only": true,
+      "minutes": 0,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Xander Vandermeirsch",
+      "number": "1",
+      "goalkeeper": true,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": false,
+      "bench_only": true,
+      "minutes": 0,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Ayoub Aoragh",
+      "number": "7",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": true,
+      "bench_only": false,
+      "minutes": 22,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "68‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Elias Vanglabeke",
+      "number": "3",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": true,
+      "bench_only": false,
+      "minutes": 0,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "90‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Saïfedin Haj Abdallah",
+      "number": "11",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": true,
+      "bench_only": false,
+      "minutes": 9,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "81‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Donovan Habbas",
+      "number": "7",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": true,
+      "bench_only": false,
+      "minutes": 13,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "77‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Andreas Mele",
+      "number": "56",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": false,
+      "bench_only": true,
+      "minutes": 0,
+      "goals": null,
+      "events_observed": []
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Yanis Astitou",
+      "number": "17",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": true,
+      "bench_only": false,
+      "minutes": 8,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "82‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Kyano Delaporte",
+      "number": "64",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": true,
+      "bench_only": false,
+      "minutes": 9,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "81‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Lukas Rommens",
+      "number": "21",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": true,
+      "bench_only": false,
+      "minutes": 8,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "82‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Robbe Van Diest",
+      "number": "76",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": true,
+      "bench_only": false,
+      "minutes": 0,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "90‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Gillis Verhelst",
+      "number": "24",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": true,
+      "bench_only": false,
+      "minutes": 13,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "77‘"
+        },
+        {
+          "type": "item out ng-star-inserted",
+          "label": "Speler gewisseld",
+          "text": "90‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1808",
+      "team_rbfa_id": "363848",
+      "name": "Doudou Aliou Ndiaye",
+      "number": "77",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": true,
+      "bench_only": false,
+      "minutes": 9,
+      "goals": null,
+      "events_observed": [
+        {
+          "type": "in item ng-star-inserted",
+          "label": "Speler ingebracht",
+          "text": "81‘"
+        }
+      ]
+    },
+    {
+      "club_rbfa_id": "1191",
+      "team_rbfa_id": "364800",
+      "name": "Arthur Desot",
+      "number": "90",
+      "goalkeeper": false,
+      "captain": false,
+      "listed": true,
+      "started": false,
+      "subbed_in": false,
+      "bench_only": true,
+      "minutes": 0,
+      "goals": null,
+      "events_observed": []
+    }
+  ]
+}

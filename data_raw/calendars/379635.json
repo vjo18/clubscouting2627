@@ -1,0 +1,228 @@
+{
+  "team_id": "379635",
+  "url": "https://www.rbfa.be/nl/club/971/ploeg/379635/kalender",
+  "fetched_at": "2026-11-05T11:13:19.069Z",
+  "completeness": "unverified",
+  "observed_now": 22,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640628",
+      "scoreText": "1 - 0",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 31 oktober - 14:00 U18 Elite 2 R.W.D.M. Brussels 1 - 0 CERCLE BRUGGE K.S.V.",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640637",
+      "scoreText": "14:00",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 07 november - 14:00 U18 Elite 2 CERCLE BRUGGE K.S.V. 14:00 Francs Borains(Ref. : Ouvrein Patrick - Kowalczyk Danny - Laforce Lorenzo)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7578359",
+      "scoreText": "1 - 2",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "zaterdag 25 juli - 13:00 U19 K. BERCHEM SP. 2004 1 - 2 CERCLE BRUGGE K.S.V.",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567797",
+      "scoreText": "2 - 3",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "zaterdag 01 augustus - 13:30 -18 YELLOW-RED KV.MECHELEN 2 - 3 CERCLE BRUGGE K.S.V.",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7639354",
+      "scoreText": "2 - 1",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "zaterdag 08 augustus - 14:00 -18 OUD-HEVERLEE LEUVEN 2 - 1 CERCLE BRUGGE K.S.V.",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617648",
+      "scoreText": "5 - 0",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "woensdag 12 augustus - 18:30 -18 KV.KORTRIJK 5 - 0 CERCLE BRUGGE K.S.V.",
+      "score": [
+        5,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7608288",
+      "scoreText": "1 - 2",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 19:00 U19 CERCLE BRUGGE K.S.V. 1 - 2 FCV DENDER EH",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7629868",
+      "scoreText": "2 - 2",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "woensdag 26 augustus - 13:30 -18 SV.ZULTE WAREGEM 2 - 2 CERCLE BRUGGE K.S.V.",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7590131",
+      "scoreText": "3 - 5",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "zaterdag 29 augustus - 15:30 U19 KM TORHOUT 3 - 5 CERCLE BRUGGE K.S.V.",
+      "score": [
+        3,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640584",
+      "scoreText": "0 - 5",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 05 september - 14:30 U18 Elite 2 R.FC.de Liège 0 - 5 CERCLE BRUGGE K.S.V.",
+      "score": [
+        0,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640590",
+      "scoreText": "2 - 3",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 12 september - 14:00 U18 Elite 2 CERCLE BRUGGE K.S.V. 2 - 3 R.Excelsior Virton",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640602",
+      "scoreText": "3 - 1",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 19 september - 13:00 U18 Elite 2 Lommel SK 3 - 1 CERCLE BRUGGE K.S.V.",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7739615",
+      "scoreText": "3 - 0",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "zaterdag 26 september - 14:00 -18 CERCLE BRUGGE K.S.V. 3 - 0 KV.RS.WAASLAND-SK.BEVEREN",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640613",
+      "scoreText": "1 - 1",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 17 oktober - 13:00 U18 Elite 2 R.Union St.-Gilloise 1 - 1 CERCLE BRUGGE K.S.V.",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640621",
+      "scoreText": "1 - 1",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 24 oktober - 14:00 U18 Elite 2 CERCLE BRUGGE K.S.V. 1 - 1 RAAL La Louviere A",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640604",
+      "scoreText": "14:00",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 14 november - 14:00 U18 Elite 2 CERCLE BRUGGE K.S.V. 14:00 K.AS.Eupen(Ref. : De Fraeye Marc - Hanssens Frederik - Thanghe Joel)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640641",
+      "scoreText": "13:00",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 21 november - 13:00 U18 Elite 2 Sporting Hasselt 13:00 CERCLE BRUGGE K.S.V.(Ref. : RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640660",
+      "scoreText": "13:30",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 09 januari - 13:30 U18 Elite 2 KV.KORTRIJK 13:30 CERCLE BRUGGE K.S.V.(Ref. : RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640667",
+      "scoreText": "14:00",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 16 januari - 14:00 U18 Elite 2 CERCLE BRUGGE K.S.V. 14:00 KV.RS.WAASLAND-SK.BEVEREN(Ref. : RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640674",
+      "scoreText": "14:00",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 23 januari - 14:00 U18 Elite 2 Beerschot V.A. 14:00 CERCLE BRUGGE K.S.V.(Ref. : RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640683",
+      "scoreText": "14:00",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 30 januari - 14:00 U18 Elite 2 CERCLE BRUGGE K.S.V. 14:00 KONINKLIJKE LIERSE SPORTKRING(Ref. : RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7640691",
+      "scoreText": "14:30",
+      "competition": "U18 Elite 2",
+      "competition_id": "CHP_132093",
+      "text": "zaterdag 06 februari - 14:30 U18 Elite 2 F.C. Seraing 14:30 CERCLE BRUGGE K.S.V.(Ref. : RBA)",
+      "score": null
+    }
+  ]
+}

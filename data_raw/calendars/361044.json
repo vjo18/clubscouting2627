@@ -1,0 +1,368 @@
+{
+  "team_id": "361044",
+  "url": "https://www.rbfa.be/nl/club/1901/ploeg/361044/kalender",
+  "fetched_at": "2026-11-05T11:12:15.243Z",
+  "completeness": "unverified",
+  "observed_now": 38,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514923",
+      "scoreText": "0 - 2",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 01 november - 14:30 3de Afdeling Voetb Vl A KVV St-Denijs Sp A 0 - 2 K. SV Rumbeke",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514929",
+      "scoreText": "19:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 07 november - 19:30 3de Afdeling Voetb Vl A K. SV Rumbeke 19:30 K. Sp. Club Blankenberge A(Ref. : Cannaert Stijn - Alexander Jeroen - Wydaeghe Björn Geert)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497935",
+      "scoreText": "1 - 4",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "zondag 26 juli - 18:00 Beker van Vlaanderen A K. Sp. Club Blankenberge A 1 - 4 K. SV Rumbeke",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497955",
+      "scoreText": "2 - 1",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 29 juli - 20:00 Beker van Vlaanderen A K. SV Rumbeke 2 - 1 F.C. Gullegem",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505546",
+      "scoreText": "2 - 1",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zondag 02 augustus - 16:00 Croky Cup K. SV Rumbeke 2 - 1 K.V.V. WEERSTAND KOERSEL A",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497966",
+      "scoreText": "2 - 3",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 05 augustus - 20:00 Beker van Vlaanderen A K. SV Rumbeke 2 - 3 K.V. Diksmuide Oostende A",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505595",
+      "scoreText": "0 - 1",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zondag 09 augustus - 16:00 Croky Cup R.F.C. MALMUNDARIA 1904 A 0 - 1 K. SV Rumbeke",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497969",
+      "scoreText": "4 - 2",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 12 augustus - 20:00 Beker van Vlaanderen A Sportkring Roeselare 4 - 2 K. SV Rumbeke",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505669",
+      "scoreText": "1 - 1",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zondag 16 augustus - 16:00 Croky Cup K. SV Rumbeke 1 - 1 5 - 4 Strafschoppen FENIXX BEIGEM HUMBEEK A",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505682",
+      "scoreText": "2 - 3",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zaterdag 22 augustus - 20:00 Croky Cup K. SV Rumbeke 2 - 3 K.F.C. HOUTVENNE A",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514852",
+      "scoreText": "3 - 1",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 30 augustus - 15:00 3de Afdeling Voetb Vl A Avanti Stekene 3 - 1 K. SV Rumbeke",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514857",
+      "scoreText": "5 - 1",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 05 september - 19:30 3de Afdeling Voetb Vl A K. SV Rumbeke 5 - 1 KCVV.Elewijt A",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514868",
+      "scoreText": "1 - 2",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 13 september - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 1 - 2 K. SV Rumbeke",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514873",
+      "scoreText": "2 - 0",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 20 september - 15:00 3de Afdeling Voetb Vl A K. SV Rumbeke 2 - 0 Eendr Elene-Grotenberge A",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514880",
+      "scoreText": "2 - 5",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 26 september - 19:30 3de Afdeling Voetb Vl A K. SV Rumbeke 2 - 5 K.V.K. Ieper",
+      "score": [
+        2,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514891",
+      "scoreText": "0 - 3",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 04 oktober - 15:00 3de Afdeling Voetb Vl A Erpe-Mere United 0 - 3 K. SV Rumbeke",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514896",
+      "scoreText": "2 - 1",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 10 oktober - 20:00 3de Afdeling Voetb Vl A K. SV Rumbeke 2 - 1 Zwevegem Sport",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514906",
+      "scoreText": "3 - 2",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 17 oktober - 20:00 3de Afdeling Voetb Vl A SC City Pirates Antwerpen A 3 - 2 K. SV Rumbeke",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514913",
+      "scoreText": "5 - 1",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 24 oktober - 19:30 3de Afdeling Voetb Vl A K. SV Rumbeke 5 - 1 K. Berchem Sp. 2004 A",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514942",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 15 november - 15:00 3de Afdeling Voetb Vl A Olsa Brakel A 15:00 K. SV Rumbeke(Ref. : Vandenbussche Bernd - Lemaire Kenny - Verhulst Philip)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514945",
+      "scoreText": "20:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 21 november - 20:00 3de Afdeling Voetb Vl A K. SV Rumbeke 20:00 F.C. Gullegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514953",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 29 november - 14:30 3de Afdeling Voetb Vl A KFC Wambeek Ternat A 14:30 K. SV Rumbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514961",
+      "scoreText": "19:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 05 december - 19:30 3de Afdeling Voetb Vl A K. SV Rumbeke 19:30 KVE Drongen A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514973",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 13 december - 15:00 3de Afdeling Voetb Vl A K.V.K. Ieper 15:00 K. SV Rumbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514982",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 10 januari - 14:30 3de Afdeling Voetb Vl A KCVV.Elewijt A 14:30 K. SV Rumbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514984",
+      "scoreText": "19:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 16 januari - 19:30 3de Afdeling Voetb Vl A K. SV Rumbeke 19:30 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514997",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 24 januari - 15:00 3de Afdeling Voetb Vl A F.C. Gullegem 15:00 K. SV Rumbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515001",
+      "scoreText": "20:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 30 januari - 20:00 3de Afdeling Voetb Vl A K. SV Rumbeke 20:00 Avanti Stekene(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515008",
+      "scoreText": "19:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 13 februari - 19:30 3de Afdeling Voetb Vl A K. SV Rumbeke 19:30 Olsa Brakel A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515017",
+      "scoreText": "20:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 20 februari - 20:00 3de Afdeling Voetb Vl A K. Berchem Sp. 2004 A 20:00 K. SV Rumbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515024",
+      "scoreText": "19:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 27 februari - 19:30 3de Afdeling Voetb Vl A K. SV Rumbeke 19:30 KFC Wambeek Ternat A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515032",
+      "scoreText": "20:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 06 maart - 20:00 3de Afdeling Voetb Vl A Zwevegem Sport 20:00 K. SV Rumbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515040",
+      "scoreText": "20:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 13 maart - 20:00 3de Afdeling Voetb Vl A K. SV Rumbeke 20:00 KVV St-Denijs Sp A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515055",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 21 maart - 15:00 3de Afdeling Voetb Vl A K. Sp. Club Blankenberge A 15:00 K. SV Rumbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515058",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 04 april - 15:00 3de Afdeling Voetb Vl A KVE Drongen A 15:00 K. SV Rumbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515065",
+      "scoreText": "19:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 10 april - 19:30 3de Afdeling Voetb Vl A K. SV Rumbeke 19:30 Erpe-Mere United(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515079",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 18 april - 15:00 3de Afdeling Voetb Vl A Eendr Elene-Grotenberge A 15:00 K. SV Rumbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515083",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 25 april - 15:00 3de Afdeling Voetb Vl A K. SV Rumbeke 15:00 SC City Pirates Antwerpen A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    }
+  ]
+}

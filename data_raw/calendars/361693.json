@@ -1,0 +1,198 @@
+{
+  "team_id": "361693",
+  "url": "https://www.rbfa.be/nl/club/5852/ploeg/361693/kalender",
+  "fetched_at": "2026-11-05T11:12:09.866Z",
+  "completeness": "unverified",
+  "observed_now": 19,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7745639",
+      "scoreText": "2 - 2",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "woensdag 04 november - 20:00 1e Ploegen 1-2 Prov K.R.C. WAREGEM 2 - 2 F.C. Gullegem",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544544",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 06 november - 20:00 Regionale Res.Voetb Vl A F.C. Gullegem 20:00 K.S.C. Wielsbeke(Ref. : Ballieu Pieter)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7622331",
+      "scoreText": "1 - 2",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "maandag 03 augustus - 19:30 1e Ploegen 1-2 Prov K.S.K VLAMERTINGE 1 - 2 F.C. Gullegem",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7613601",
+      "scoreText": "",
+      "competition": "1e Ploegen 3-4 Prov",
+      "competition_id": null,
+      "text": "donderdag 13 augustus - 19:30 1e Ploegen 3-4 Prov BS GELUVELDF.C. Gullegem",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7577120",
+      "scoreText": "0 - 3",
+      "competition": "1e Ploegen 3-4 Prov",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 19:30 1e Ploegen 3-4 Prov KSV KORTRIJK 0 - 3 F.C. Gullegem",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544511",
+      "scoreText": "0 - 6",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 04 september - 20:15 Regionale Res.Voetb Vl A K.W.S. Club Lauwe A 0 - 6 F.C. Gullegem",
+      "score": [
+        0,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544514",
+      "scoreText": "3 - 3",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 11 september - 20:00 Regionale Res.Voetb Vl A F.C. Gullegem 3 - 3 FC Mandel United Izegem A",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544516",
+      "scoreText": "0 - 6",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 18 september - 20:00 Regionale Res.Voetb Vl A K.S.C. Wielsbeke 0 - 6 F.C. Gullegem",
+      "score": [
+        0,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544521",
+      "scoreText": "1 - 2",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 25 september - 20:00 Regionale Res.Voetb Vl A F.C. Gullegem 1 - 2 K.V.K. Ieper",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544526",
+      "scoreText": "2 - 2",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 02 oktober - 20:00 Regionale Res.Voetb Vl A K.V. Diksmuide Oostende 2 - 2 F.C. Gullegem",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7738516",
+      "scoreText": "2 - 1",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "dinsdag 13 oktober - 20:00 Reserven Provincie SPORTKRING ROESELARE 2 - 1 F.C. Gullegem",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544535",
+      "scoreText": "8 - 1",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 16 oktober - 20:00 Regionale Res.Voetb Vl A F.C. Gullegem 8 - 1 S.V. Wevelgem City A",
+      "score": [
+        8,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544529",
+      "scoreText": "2 - 3",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "maandag 19 oktober - 20:00 Regionale Res.Voetb Vl A Racing Club Harelbeke 2 - 3 F.C. Gullegem",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544537",
+      "scoreText": "",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 23 oktober - 20:00 Regionale Res.Voetb Vl A F.C. GullegemUitgesteldK.W.S. Club Lauwe A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544542",
+      "scoreText": "1 - 1",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 30 oktober - 20:00 Regionale Res.Voetb Vl A FC Mandel United Izegem A 1 - 1 F.C. Gullegem",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544551",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 13 november - 20:00 Regionale Res.Voetb Vl A K.V.K. Ieper 20:00 F.C. Gullegem(Ref. : Raes Stijn)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544552",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 20 november - 20:00 Regionale Res.Voetb Vl A F.C. Gullegem 20:00 K.V. Diksmuide Oostende(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544559",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 27 november - 20:00 Regionale Res.Voetb Vl A F.C. Gullegem 20:00 Racing Club Harelbeke(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544563",
+      "scoreText": "20:15",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 04 december - 20:15 Regionale Res.Voetb Vl A S.V. Wevelgem City A 20:15 F.C. Gullegem(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

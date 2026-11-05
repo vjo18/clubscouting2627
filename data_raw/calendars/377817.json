@@ -1,0 +1,18 @@
+{
+  "team_id": "377817",
+  "url": "https://www.rbfa.be/nl/club/1592/ploeg/377817/kalender",
+  "fetched_at": "2026-11-05T11:13:36.924Z",
+  "completeness": "unverified",
+  "observed_now": 1,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663427",
+      "scoreText": "13:00",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zondag 08 november - 13:00 U19 Interprov Voetb V C Zwevegem Sport 1 13:00 SK Munkzwalm 1(Ref. : Verstraete Robin)",
+      "score": null
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "team_id": "367366",
+  "url": "https://www.rbfa.be/nl/club/976/ploeg/367366/kalender",
+  "fetched_at": "2026-11-05T11:13:31.173Z",
+  "completeness": "unverified",
+  "observed_now": 29,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631256",
+      "scoreText": "3 - 3",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 16 oktober - 20:30 U21 Pro League KV KORTRIJK 3 - 3 Francs Borains",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631273",
+      "scoreText": "20:00",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 06 november - 20:00 U21 Pro League R.W.D.M. Brussels 20:00 KV KORTRIJK(Ref. : Askali Karrouch Chafik - Presburgo Luciano - Tonye Bayiha Jules)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523172",
+      "scoreText": "2 - 0",
+      "competition": "Iste Ploeg",
+      "competition_id": null,
+      "text": "zondag 19 juli - 11:00 Iste Ploeg KV KORTRIJK 2 - 0 K.FC.MARKE",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7498318",
+      "scoreText": "1 - 3",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "woensdag 22 juli - 19:30 1e Ploegen 1-2 Prov K. VC ARDOOIE 1 - 3 KV KORTRIJK",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7621538",
+      "scoreText": "1 - 2",
+      "competition": "Equipes Premieres",
+      "competition_id": null,
+      "text": "vrijdag 24 juli - 19:30 Equipes Premieres BX.BRUSSELS 1 - 2 KV KORTRIJK",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7629421",
+      "scoreText": "3 - 1",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "woensdag 29 juli - 19:30 1e Ploegen 1-2 Prov K.R.C. WAREGEM 3 - 1 KV KORTRIJK",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567450",
+      "scoreText": "1 - 0",
+      "competition": "Iste Ploeg",
+      "competition_id": null,
+      "text": "dinsdag 04 augustus - 19:45 Iste Ploeg KV KORTRIJK 1 - 0 FC.KOSOVA SCHAERBEEK",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7502697",
+      "scoreText": "5 - 1",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "zaterdag 15 augustus - 18:30 2e3e Afdeling Voetb Vl SV ZULTE-WAREGEM JONG ESSEVEE 5 - 1 KV KORTRIJK",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7729968",
+      "scoreText": "",
+      "competition": "Ra",
+      "competition_id": null,
+      "text": "zaterdag 22 augustus - 16:00 Ra KV KORTRIJKSAINT-AMAND A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7731529",
+      "scoreText": "1 - 0",
+      "competition": "Ra",
+      "competition_id": null,
+      "text": "donderdag 27 augustus - 11:00 Ra CLUB BRUGGE KV 1 - 0 KV KORTRIJK",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631235",
+      "scoreText": "1 - 0",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 04 september - 20:30 U21 Pro League KV KORTRIJK 1 - 0 Beerschot V.A.",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631242",
+      "scoreText": "1 - 0",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 11 september - 20:00 U21 Pro League R.FC.de Liège 1 - 0 KV KORTRIJK",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631246",
+      "scoreText": "3 - 1",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 18 september - 20:30 U21 Pro League KV KORTRIJK 3 - 1 KONINKLIJKE LIERSE SPORTKRING",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7741008",
+      "scoreText": "",
+      "competition": "Ra",
+      "competition_id": null,
+      "text": "woensdag 23 september - 14:00 Ra KV KORTRIJKUSL DUNKERQUE U23",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631224",
+      "scoreText": "1 - 3",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 02 oktober - 20:30 U21 Pro League Sporting Hasselt 1 - 3 KV KORTRIJK",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631248",
+      "scoreText": "2 - 1",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 09 oktober - 20:30 U21 Pro League K.VC.Westerlo A 2 - 1 KV KORTRIJK",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631276",
+      "scoreText": "20:30",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 20 november - 20:30 U21 Pro League RAAL La Louviere A 20:30 KV KORTRIJK(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631281",
+      "scoreText": "20:30",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 27 november - 20:30 U21 Pro League KV KORTRIJK 20:30 F.C. Seraing(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631261",
+      "scoreText": "19:30",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 04 december - 19:30 U21 Pro League KV.RS.Waasland-SK.Beveren 19:30 KV KORTRIJK(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631286",
+      "scoreText": "20:30",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 05 februari - 20:30 U21 Pro League KV KORTRIJK 20:30 Sporting Hasselt(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631291",
+      "scoreText": "20:00",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 12 februari - 20:00 U21 Pro League Beerschot V.A. 20:00 KV KORTRIJK(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631302",
+      "scoreText": "20:00",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 19 februari - 20:00 U21 Pro League KONINKLIJKE LIERSE SPORTKRING 20:00 KV KORTRIJK(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631309",
+      "scoreText": "20:30",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 26 februari - 20:30 U21 Pro League KV KORTRIJK 20:30 K.VC.Westerlo A(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631320",
+      "scoreText": "20:30",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 12 maart - 20:30 U21 Pro League KV KORTRIJK 20:30 KV.RS.Waasland-SK.Beveren(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631324",
+      "scoreText": "20:30",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 19 maart - 20:30 U21 Pro League Francs Borains 20:30 KV KORTRIJK(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631297",
+      "scoreText": "20:30",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 26 maart - 20:30 U21 Pro League KV KORTRIJK 20:30 R.FC.de Liège(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631330",
+      "scoreText": "20:30",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 09 april - 20:30 U21 Pro League KV KORTRIJK 20:30 R.W.D.M. Brussels(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631333",
+      "scoreText": "20:30",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 23 april - 20:30 U21 Pro League KV KORTRIJK 20:30 RAAL La Louviere A(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631344",
+      "scoreText": "20:00",
+      "competition": "U21 Pro League",
+      "competition_id": "CHP_135012",
+      "text": "vrijdag 07 mei - 20:00 U21 Pro League F.C. Seraing 20:00 KV KORTRIJK(Ref. : Nog aan te duiden - RBA - RBA)",
+      "score": null
+    }
+  ]
+}

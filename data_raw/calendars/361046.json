@@ -1,0 +1,209 @@
+{
+  "team_id": "361046",
+  "url": "https://www.rbfa.be/nl/club/1901/ploeg/361046/kalender",
+  "fetched_at": "2026-11-05T11:12:16.039Z",
+  "completeness": "unverified",
+  "observed_now": 20,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544598",
+      "scoreText": "0 - 6",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 30 oktober - 20:00 Regionale Res.Voetb Vl B K. Sp. Club Blankenberge 0 - 6 K. SV RUMBEKE",
+      "score": [
+        0,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544600",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 06 november - 20:00 Regionale Res.Voetb Vl B K. SV RUMBEKE 20:00 KSKDJ Lovendegem(Ref. : Lievens Wouter)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7620944",
+      "scoreText": "4 - 5",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 05 augustus - 19:30 Reserven Provincie V.V. EMELGEM-KACHTEM 4 - 5 K. SV RUMBEKE",
+      "score": [
+        4,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7495499",
+      "scoreText": "1 - 2",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 12 augustus - 19:30 Reserven Provincie K. SV RUMBEKE 1 - 2 OL. LEDEGEM",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7590167",
+      "scoreText": "5 - 1",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "zondag 16 augustus - 16:00 Reserven Provincie R.T.S.C. PROVEN 5 - 1 K. SV RUMBEKE",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7578241",
+      "scoreText": "1 - 3",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 19:30 Reserven Provincie K. SINT-ELOOIS-WINKEL SP. 1 - 3 K. SV RUMBEKE",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7735428",
+      "scoreText": "0 - 12",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "zaterdag 29 augustus - 9:00 Reserven Provincie K.F.C. EENDRACHT HOOGLEDE 0 - 12 K. SV RUMBEKE",
+      "score": [
+        0,
+        12
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544565",
+      "scoreText": "6 - 0",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 04 september - 20:00 Regionale Res.Voetb Vl B KVE Drongen A 6 - 0 K. SV RUMBEKE",
+      "score": [
+        6,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544570",
+      "scoreText": "",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 11 september - 20:00 Regionale Res.Voetb Vl B K. SV RUMBEKEK. Sp. Club Blankenberge",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544572",
+      "scoreText": "3 - 3",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 18 september - 20:00 Regionale Res.Voetb Vl B KSKDJ Lovendegem 3 - 3 K. SV RUMBEKE",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544579",
+      "scoreText": "2 - 4",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 25 september - 20:00 Regionale Res.Voetb Vl B K. SV RUMBEKE 2 - 4 R. Knokke FC",
+      "score": [
+        2,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7742499",
+      "scoreText": "10 - 0",
+      "competition": "Ra",
+      "competition_id": null,
+      "text": "dinsdag 29 september - 19:45 Ra KV KORTRIJK 10 - 0 K. SV RUMBEKE",
+      "score": [
+        10,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544581",
+      "scoreText": "4 - 0",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 02 oktober - 20:00 Regionale Res.Voetb Vl B K.S.V. Oostkamp 4 - 0 K. SV RUMBEKE",
+      "score": [
+        4,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544587",
+      "scoreText": "9 - 0",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 09 oktober - 20:15 Regionale Res.Voetb Vl B KM Torhout A 9 - 0 K. SV RUMBEKE",
+      "score": [
+        9,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544590",
+      "scoreText": "1 - 6",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 16 oktober - 20:00 Regionale Res.Voetb Vl B K. SV RUMBEKE 1 - 6 Sportkring Roeselare",
+      "score": [
+        1,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544592",
+      "scoreText": "",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 23 oktober - 20:00 Regionale Res.Voetb Vl B K. SV RUMBEKEUitgesteldKVE Drongen A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544607",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "maandag 16 november - 20:00 Regionale Res.Voetb Vl B R. Knokke FC 20:00 K. SV RUMBEKE(Ref. : Bentein David)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544610",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 20 november - 20:00 Regionale Res.Voetb Vl B K. SV RUMBEKE 20:00 K.S.V. Oostkamp(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544614",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 27 november - 20:00 Regionale Res.Voetb Vl B K. SV RUMBEKE 20:00 KM Torhout A(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544618",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 04 december - 20:00 Regionale Res.Voetb Vl B Sportkring Roeselare 20:00 K. SV RUMBEKE(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

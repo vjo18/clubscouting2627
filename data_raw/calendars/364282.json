@@ -1,7 +1,7 @@
 {
   "team_id": "364282",
   "url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/kalender",
-  "fetched_at": "2026-11-04T14:58:19.353Z",
+  "fetched_at": "2026-11-05T11:11:51.330Z",
   "completeness": "unverified",
   "observed_now": 37,
   "preserved": 0,
@@ -14,14 +14,16 @@
       "score": [
         2,
         1
-      ]
+      ],
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510086",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 08 november - 15:00 2 Provinciaal Wvl A KM Torhout B 15:00 VK Zerkegem A(Ref. : Salembier Benoit - Simoens Geert - Van Severen Hans)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7502540",
@@ -31,7 +33,8 @@
       "score": [
         2,
         3
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7567865",
@@ -41,7 +44,8 @@
       "score": [
         7,
         2
-      ]
+      ],
+      "competition_id": "CHP_130350"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7621219",
@@ -51,7 +55,8 @@
       "score": [
         4,
         0
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7567869",
@@ -61,7 +66,8 @@
       "score": [
         3,
         2
-      ]
+      ],
+      "competition_id": "CHP_130350"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7567873",
@@ -71,7 +77,8 @@
       "score": [
         1,
         3
-      ]
+      ],
+      "competition_id": "CHP_130350"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7567877",
@@ -81,7 +88,8 @@
       "score": [
         2,
         5
-      ]
+      ],
+      "competition_id": "CHP_130350"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7621217",
@@ -91,7 +99,8 @@
       "score": [
         3,
         4
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510002",
@@ -101,7 +110,8 @@
       "score": [
         2,
         1
-      ]
+      ],
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510011",
@@ -111,7 +121,8 @@
       "score": [
         3,
         2
-      ]
+      ],
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510021",
@@ -121,7 +132,8 @@
       "score": [
         1,
         5
-      ]
+      ],
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510025",
@@ -131,7 +143,8 @@
       "score": [
         1,
         2
-      ]
+      ],
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510034",
@@ -141,7 +154,8 @@
       "score": [
         2,
         0
-      ]
+      ],
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510043",
@@ -151,7 +165,8 @@
       "score": [
         0,
         2
-      ]
+      ],
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510055",
@@ -161,7 +176,8 @@
       "score": [
         0,
         4
-      ]
+      ],
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510060",
@@ -171,7 +187,8 @@
       "score": [
         3,
         0
-      ]
+      ],
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510070",
@@ -181,140 +198,160 @@
       "score": [
         1,
         6
-      ]
+      ],
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510096",
       "scoreText": "14:30",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 15 november - 14:30 2 Provinciaal Wvl A K. Dosko Sint-Kruis 14:30 KM Torhout B(Ref. : Van Gool Thomas - De Metsenaere Bruno - De Clercq Patrick)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510104",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 22 november - 15:00 2 Provinciaal Wvl A KM Torhout B 15:00 K. Exc. Zedelgem A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510107",
       "scoreText": "18:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zaterdag 28 november - 18:00 2 Provinciaal Wvl A VV Koekelare A 18:00 KM Torhout B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510121",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 06 december - 15:00 2 Provinciaal Wvl A KM Torhout B 15:00 K. SV Jabbeke A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510126",
       "scoreText": "19:30",
       "competition": "2 Provinciaal Wvl A",
       "text": "zaterdag 12 december - 19:30 2 Provinciaal Wvl A K. Dar. Ruddervoorde A 19:30 KM Torhout B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510139",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 10 januari - 15:00 2 Provinciaal Wvl A KM Torhout B 15:00 Dar. Brugge(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510143",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 17 januari - 15:00 2 Provinciaal Wvl A K. E. De Haan 15:00 KM Torhout B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510151",
       "scoreText": "19:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zaterdag 23 januari - 19:00 2 Provinciaal Wvl A K. WS Houthulst A 19:00 KM Torhout B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510161",
       "scoreText": "20:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zaterdag 30 januari - 20:00 2 Provinciaal Wvl A KM Torhout B 20:00 VV Koekelare A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510173",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 14 februari - 15:00 2 Provinciaal Wvl A K. WS Oudenburg 15:00 KM Torhout B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510178",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 21 februari - 15:00 2 Provinciaal Wvl A KM Torhout B 15:00 K.V. Diksmuide Oostende B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510184",
       "scoreText": "20:15",
       "competition": "2 Provinciaal Wvl A",
       "text": "zaterdag 27 februari - 20:15 2 Provinciaal Wvl A VK Zerkegem A 20:15 KM Torhout B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510195",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 07 maart - 15:00 2 Provinciaal Wvl A KM Torhout B 15:00 K. SV Bredene A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510201",
       "scoreText": "14:30",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 14 maart - 14:30 2 Provinciaal Wvl A K. SV Jabbeke A 14:30 KM Torhout B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510211",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 21 maart - 15:00 2 Provinciaal Wvl A KM Torhout B 15:00 K. VC Wingene A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510215",
       "scoreText": "19:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zaterdag 03 april - 19:00 2 Provinciaal Wvl A K. Exc. Zedelgem A 19:00 KM Torhout B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510229",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 11 april - 15:00 2 Provinciaal Wvl A KM Torhout B 15:00 K.F.C. Eendracht Hooglede(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510235",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 18 april - 15:00 2 Provinciaal Wvl A Jong Male K.V.V. 15:00 KM Torhout B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7510240",
       "scoreText": "15:00",
       "competition": "2 Provinciaal Wvl A",
       "text": "zondag 25 april - 15:00 2 Provinciaal Wvl A KM Torhout B 15:00 K. Dosko Sint-Kruis(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_134096"
     }
   ]
 }

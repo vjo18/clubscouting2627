@@ -1,0 +1,176 @@
+{
+  "team_id": "365451",
+  "url": "https://www.rbfa.be/nl/club/2075/ploeg/365451/kalender",
+  "fetched_at": "2026-11-05T11:12:24.086Z",
+  "completeness": "unverified",
+  "observed_now": 17,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544596",
+      "scoreText": "1 - 3",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 30 oktober - 20:00 Regionale Res.Voetb Vl B KSKDJ Lovendegem 1 - 3 K.S.V. OOSTKAMP",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544601",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 06 november - 20:00 Regionale Res.Voetb Vl B K.S.V. OOSTKAMP 20:00 R. Knokke FC(Ref. : De Poortere Timber Mieke)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7675690",
+      "scoreText": "8 - 1",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "donderdag 20 augustus - 20:00 1e Ploegen 1-2 Prov LS MERENDREE 8 - 1 K.S.V. OOSTKAMP",
+      "score": [
+        8,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7577926",
+      "scoreText": "1 - 1",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "vrijdag 28 augustus - 20:00 Reserven Provincie K.S.V. OOSTKAMP 1 - 1 SPARTA PETEGEM DEINZE",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544566",
+      "scoreText": "0 - 7",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 04 september - 20:00 Regionale Res.Voetb Vl B K. Sp. Club Blankenberge 0 - 7 K.S.V. OOSTKAMP",
+      "score": [
+        0,
+        7
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544569",
+      "scoreText": "6 - 1",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 11 september - 20:00 Regionale Res.Voetb Vl B K.S.V. OOSTKAMP 6 - 1 KSKDJ Lovendegem",
+      "score": [
+        6,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544575",
+      "scoreText": "4 - 2",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "maandag 21 september - 20:00 Regionale Res.Voetb Vl B R. Knokke FC 4 - 2 K.S.V. OOSTKAMP",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544578",
+      "scoreText": "2 - 1",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 25 september - 20:00 Regionale Res.Voetb Vl B K.S.V. OOSTKAMP 2 - 1 KM Torhout A",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544581",
+      "scoreText": "4 - 0",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 02 oktober - 20:00 Regionale Res.Voetb Vl B K.S.V. OOSTKAMP 4 - 0 K. SV Rumbeke A",
+      "score": [
+        4,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544584",
+      "scoreText": "0 - 0",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 09 oktober - 20:00 Regionale Res.Voetb Vl B Sportkring Roeselare 0 - 0 K.S.V. OOSTKAMP",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544589",
+      "scoreText": "2 - 4",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 16 oktober - 20:00 Regionale Res.Voetb Vl B K.S.V. OOSTKAMP 2 - 4 KVE Drongen A",
+      "score": [
+        2,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544593",
+      "scoreText": "",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 23 oktober - 20:00 Regionale Res.Voetb Vl B K.S.V. OOSTKAMPUitgesteldK. Sp. Club Blankenberge",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544606",
+      "scoreText": "20:15",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 13 november - 20:15 Regionale Res.Voetb Vl B KM Torhout A 20:15 K.S.V. OOSTKAMP(Ref. : Claeys Jonas)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7741002",
+      "scoreText": "20:00",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "dinsdag 17 november - 20:00 Reserven Provincie KSVK MALDEGEM 20:00 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544610",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 20 november - 20:00 Regionale Res.Voetb Vl B K. SV Rumbeke A 20:00 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544613",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 27 november - 20:00 Regionale Res.Voetb Vl B K.S.V. OOSTKAMP 20:00 Sportkring Roeselare(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544617",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl B",
+      "competition_id": "CHP_136067",
+      "text": "vrijdag 04 december - 20:00 Regionale Res.Voetb Vl B KVE Drongen A 20:00 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

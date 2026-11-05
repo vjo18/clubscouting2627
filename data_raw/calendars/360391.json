@@ -1,0 +1,354 @@
+{
+  "team_id": "360391",
+  "url": "https://www.rbfa.be/nl/club/1295/ploeg/360391/kalender",
+  "fetched_at": "2026-11-05T11:13:23.580Z",
+  "completeness": "unverified",
+  "observed_now": 37,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510079",
+      "scoreText": "3 - 0",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 01 november - 15:00 2 Provinciaal Wvl A K. E. De Haan 3 - 0 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510088",
+      "scoreText": "15:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 08 november - 15:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 15:00 K. Dosko Sint-Kruis(Ref. : Declercq Kristof - Van Audenhove Andrew Doris - Colbrandt Michiel)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567884",
+      "scoreText": "3 - 3",
+      "competition": "BvW Heren Groep 4 P1/P2",
+      "competition_id": "CHP_130351",
+      "text": "zondag 26 juli - 17:00 BvW Heren Groep 4 P1/P2 R.J.H. Comines 3 - 3 3 - 5 Strafschoppen K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7629147",
+      "scoreText": "4 - 1",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "donderdag 30 juli - 19:30 1e Ploegen 1-2 Prov K.V. DIKSMUIDE OOSTENDE 4 - 1 VK LANGEMARK-POELKAPELLE",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567888",
+      "scoreText": "3 - 4",
+      "competition": "BvW Heren Groep 4 P1/P2",
+      "competition_id": "CHP_130351",
+      "text": "zondag 02 augustus - 17:00 BvW Heren Groep 4 P1/P2 K.V. DIKSMUIDE OOSTENDE 3 - 4 4 - 4 Strafschoppen SC Zonnebeke A",
+      "score": [
+        3,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567892",
+      "scoreText": "4 - 1",
+      "competition": "BvW Heren Groep 4 P1/P2",
+      "competition_id": "CHP_130351",
+      "text": "zondag 09 augustus - 17:00 BvW Heren Groep 4 P1/P2 K. FC Marke A 4 - 1 4 - 4 Strafschoppen K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7629149",
+      "scoreText": "",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "donderdag 13 augustus - 19:30 1e Ploegen 1-2 Prov K.V. DIKSMUIDE OOSTENDESK STADEN",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567896",
+      "scoreText": "2 - 1",
+      "competition": "BvW Heren Groep 4 P1/P2",
+      "competition_id": "CHP_130351",
+      "text": "zondag 16 augustus - 17:00 BvW Heren Groep 4 P1/P2 K.V. DIKSMUIDE OOSTENDE 2 - 1 5 - 3 Strafschoppen KFC Poperinge",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7645488",
+      "scoreText": "1 - 4",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "zondag 23 augustus - 17:00 1e Ploegen 1-2 Prov K. FC LENDELEDE SPORT 1 - 4 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510002",
+      "scoreText": "2 - 1",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 29 augustus - 19:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 2 - 1 KM Torhout B",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510012",
+      "scoreText": "2 - 0",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 05 september - 19:30 2 Provinciaal Wvl A Jong Male K.V.V. 2 - 0 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510022",
+      "scoreText": "2 - 0",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 13 september - 15:00 2 Provinciaal Wvl A K. WS Oudenburg 2 - 0 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510027",
+      "scoreText": "2 - 3",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 19 september - 19:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 2 - 3 K. Exc. Zedelgem A",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510036",
+      "scoreText": "0 - 2",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 27 september - 14:30 2 Provinciaal Wvl A K. SV Jabbeke A 0 - 2 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510045",
+      "scoreText": "1 - 2",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 04 oktober - 15:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 1 - 2 VV Koekelare A",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510050",
+      "scoreText": "2 - 1",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 10 oktober - 20:00 2 Provinciaal Wvl A K. Dar. Ruddervoorde A 2 - 1 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510062",
+      "scoreText": "2 - 5",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 17 oktober - 19:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 2 - 5 K. WS Houthulst A",
+      "score": [
+        2,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510072",
+      "scoreText": "4 - 2",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 25 oktober - 15:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 4 - 2 VK Zerkegem A",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510095",
+      "scoreText": "14:30",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 15 november - 14:30 2 Provinciaal Wvl A K.F.C. Eendracht Hooglede 14:30 K.V. DIKSMUIDE OOSTENDE(Ref. : Vanhoutte Koen - Claeys Geert - Declerck Jan)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510102",
+      "scoreText": "14:30",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 22 november - 14:30 2 Provinciaal Wvl A Dar. Brugge 14:30 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510114",
+      "scoreText": "15:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 29 november - 15:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 15:00 K. VC Wingene A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510123",
+      "scoreText": "15:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 06 december - 15:00 2 Provinciaal Wvl A K. SV Bredene A 15:00 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510130",
+      "scoreText": "15:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 13 december - 15:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 15:00 K. E. De Haan(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510136",
+      "scoreText": "14:30",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 10 januari - 14:30 2 Provinciaal Wvl A K. Dosko Sint-Kruis 14:30 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510145",
+      "scoreText": "15:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 17 januari - 15:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 15:00 K. SV Jabbeke A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510152",
+      "scoreText": "20:15",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 23 januari - 20:15 2 Provinciaal Wvl A VK Zerkegem A 20:15 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510163",
+      "scoreText": "19:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 30 januari - 19:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 19:00 K. WS Oudenburg(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510170",
+      "scoreText": "15:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 14 februari - 15:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 15:00 K. Dar. Ruddervoorde A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510178",
+      "scoreText": "15:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 21 februari - 15:00 2 Provinciaal Wvl A KM Torhout B 15:00 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510186",
+      "scoreText": "19:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 27 februari - 19:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 19:00 Jong Male K.V.V.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510190",
+      "scoreText": "18:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 06 maart - 18:00 2 Provinciaal Wvl A VV Koekelare A 18:00 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510203",
+      "scoreText": "19:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 13 maart - 19:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 19:00 K.F.C. Eendracht Hooglede(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510208",
+      "scoreText": "19:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 20 maart - 19:00 2 Provinciaal Wvl A K. Exc. Zedelgem A 19:00 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510219",
+      "scoreText": "19:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 03 april - 19:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 19:00 K. SV Bredene A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510227",
+      "scoreText": "19:30",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zaterdag 10 april - 19:30 2 Provinciaal Wvl A K. VC Wingene A 19:30 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510236",
+      "scoreText": "15:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 18 april - 15:00 2 Provinciaal Wvl A K.V. DIKSMUIDE OOSTENDE 15:00 Dar. Brugge(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7510244",
+      "scoreText": "15:00",
+      "competition": "2 Provinciaal Wvl A",
+      "competition_id": "CHP_134096",
+      "text": "zondag 25 april - 15:00 2 Provinciaal Wvl A K. WS Houthulst A 15:00 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

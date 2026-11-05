@@ -1,0 +1,310 @@
+{
+  "team_id": "362403",
+  "url": "https://www.rbfa.be/nl/club/1592/ploeg/362403/kalender",
+  "fetched_at": "2026-11-05T11:13:36.614Z",
+  "completeness": "unverified",
+  "observed_now": 33,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536062",
+      "scoreText": "1 - 7",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 30 oktober - 19:30 Reserven Voetb Vl A K. SK Beveren-Leie 3 1 - 7 Zwevegem Sport 3",
+      "score": [
+        1,
+        7
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536072",
+      "scoreText": "19:45",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 06 november - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 19:45 K. RC Bissegem A 3(Ref. : Hellem Ole)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7621203",
+      "scoreText": "1 - 2",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "zondag 02 augustus - 10:00 Reserven Provincie WS BELLEGEM 1 - 2 Zwevegem Sport 3",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7498334",
+      "scoreText": "2 - 0",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "vrijdag 14 augustus - 19:00 Reserven Provincie BL. OTEGEM 2 - 0 Zwevegem Sport 3",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7535991",
+      "scoreText": "4 - 2",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 28 augustus - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 4 - 2 K. SK Geluwe A 3",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536002",
+      "scoreText": "1 - 2",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 04 september - 20:00 Reserven Voetb Vl A K.R.C. Waregem 3 1 - 2 Zwevegem Sport 3",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536007",
+      "scoreText": "1 - 3",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 11 september - 20:00 Reserven Voetb Vl A KFC Poperinge A 3 1 - 3 Zwevegem Sport 3",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536016",
+      "scoreText": "5 - 0",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 18 september - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 5 - 0 K. FC. Meulebeke 3",
+      "score": [
+        5,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536026",
+      "scoreText": "1 - 2",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 25 september - 20:00 Reserven Voetb Vl A K. VK Avelgem 3 1 - 2 Zwevegem Sport 3",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536032",
+      "scoreText": "3 - 1",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 02 oktober - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 3 - 1 SK Staden A 3",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536039",
+      "scoreText": "7 - 3",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 09 oktober - 19:45 Reserven Voetb Vl A K.S.K Vlamertinge 3 7 - 3 Zwevegem Sport 3",
+      "score": [
+        7,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536048",
+      "scoreText": "5 - 1",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 16 oktober - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 5 - 1 K. Dosko Beveren 3",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536055",
+      "scoreText": "",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 23 oktober - 19:45 Reserven Voetb Vl A Zwevegem Sport 3UitgesteldVK Langemark-Poelkapelle A 3",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7747796",
+      "scoreText": "3 - 3",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "dinsdag 27 oktober - 19:45 Reserven Provincie Zwevegem Sport 3 3 - 3 KSV OUDENAARDE",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536078",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 13 november - 19:30 Reserven Voetb Vl A SV Moorslede A 3 19:30 Zwevegem Sport 3(Ref. : Seghers Lorenzo)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536090",
+      "scoreText": "20:00",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 20 november - 20:00 Reserven Voetb Vl A Club Roeselare 3 20:00 Zwevegem Sport 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536094",
+      "scoreText": "19:45",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 27 november - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 19:45 K.F.C. Eendracht Hooglede A 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536104",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 04 december - 19:30 Reserven Voetb Vl A FC Sp. Heestert 3 19:30 Zwevegem Sport 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536110",
+      "scoreText": "19:45",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 11 december - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 19:45 K. SK Beveren-Leie 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536120",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 08 januari - 19:30 Reserven Voetb Vl A K. RC Bissegem A 3 19:30 Zwevegem Sport 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536127",
+      "scoreText": "19:45",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 15 januari - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 19:45 K. VK Avelgem 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536138",
+      "scoreText": "20:00",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 22 januari - 20:00 Reserven Voetb Vl A VK Langemark-Poelkapelle A 3 20:00 Zwevegem Sport 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536144",
+      "scoreText": "19:45",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 29 januari - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 19:45 KFC Poperinge A 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536150",
+      "scoreText": "19:45",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 12 februari - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 19:45 K.S.K Vlamertinge 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536159",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 19 februari - 19:30 Reserven Voetb Vl A K. SK Geluwe A 3 19:30 Zwevegem Sport 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536166",
+      "scoreText": "19:45",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 26 februari - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 19:45 K.R.C. Waregem 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536181",
+      "scoreText": "14:30",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "zaterdag 06 maart - 14:30 Reserven Voetb Vl A SK Staden A 3 14:30 Zwevegem Sport 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536183",
+      "scoreText": "19:45",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 12 maart - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 19:45 SV Moorslede A 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536194",
+      "scoreText": "20:00",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 19 maart - 20:00 Reserven Voetb Vl A K. FC. Meulebeke 3 20:00 Zwevegem Sport 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536199",
+      "scoreText": "19:45",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 02 april - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 19:45 FC Sp. Heestert 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536210",
+      "scoreText": "20:00",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 09 april - 20:00 Reserven Voetb Vl A K.F.C. Eendracht Hooglede A 3 20:00 Zwevegem Sport 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536215",
+      "scoreText": "19:45",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 16 april - 19:45 Reserven Voetb Vl A Zwevegem Sport 3 19:45 Club Roeselare 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7536228",
+      "scoreText": "20:30",
+      "competition": "Reserven Voetb Vl A",
+      "competition_id": "CHP_134248",
+      "text": "vrijdag 23 april - 20:30 Reserven Voetb Vl A K. Dosko Beveren 3 20:30 Zwevegem Sport 3(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

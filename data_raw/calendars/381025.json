@@ -1,7 +1,7 @@
 {
   "team_id": "381025",
   "url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/kalender",
-  "fetched_at": "2026-11-04T14:58:29.270Z",
+  "fetched_at": "2026-11-05T11:11:57.779Z",
   "completeness": "unverified",
   "observed_now": 19,
   "preserved": 0,
@@ -14,21 +14,24 @@
       "score": [
         0,
         7
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662083",
       "scoreText": "20:00",
       "competition": "U19 Interprov Voetb V A",
       "text": "vrijdag 06 november - 20:00 U19 Interprov Voetb V A K. FC Varsenare 3-2 20:00 KM TORHOUT(Ref. : Bentein David)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7590642",
       "scoreText": "",
       "competition": "-19",
       "text": "vrijdag 07 augustus - 15:30 -19 K.AA.GENT U18KM TORHOUT",
-      "score": null
+      "score": null,
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7590086",
@@ -38,7 +41,8 @@
       "score": [
         3,
         0
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7613414",
@@ -48,7 +52,8 @@
       "score": [
         4,
         2
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7619980",
@@ -58,7 +63,8 @@
       "score": [
         6,
         5
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7590131",
@@ -68,7 +74,8 @@
       "score": [
         3,
         5
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7735281",
@@ -78,7 +85,8 @@
       "score": [
         3,
         3
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662052",
@@ -88,7 +96,8 @@
       "score": [
         7,
         4
-      ]
+      ],
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662056",
@@ -98,7 +107,8 @@
       "score": [
         7,
         0
-      ]
+      ],
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662058",
@@ -108,7 +118,8 @@
       "score": [
         5,
         5
-      ]
+      ],
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662065",
@@ -118,7 +129,8 @@
       "score": [
         3,
         0
-      ]
+      ],
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662067",
@@ -128,7 +140,8 @@
       "score": [
         3,
         1
-      ]
+      ],
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662073",
@@ -138,7 +151,8 @@
       "score": [
         7,
         3
-      ]
+      ],
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662079",
@@ -148,35 +162,40 @@
       "score": [
         2,
         1
-      ]
+      ],
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662088",
       "scoreText": "15:30",
       "competition": "U19 Interprov Voetb V A",
       "text": "zaterdag 14 november - 15:30 U19 Interprov Voetb V A KM TORHOUT 15:30 R. Knokke FC 3(Ref. : Mens Willem)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662092",
       "scoreText": "16:15",
       "competition": "U19 Interprov Voetb V A",
       "text": "zaterdag 21 november - 16:15 U19 Interprov Voetb V A Racing Club Gent 3 16:15 KM TORHOUT(Ref. : Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662097",
       "scoreText": "15:30",
       "competition": "U19 Interprov Voetb V A",
       "text": "zaterdag 28 november - 15:30 U19 Interprov Voetb V A KM TORHOUT 15:30 KVE Drongen 3-2(Ref. : Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_132947"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7662101",
       "scoreText": "17:00",
       "competition": "U19 Interprov Voetb V A",
       "text": "zaterdag 05 december - 17:00 U19 Interprov Voetb V A KVV Zelzate 3 17:00 KM TORHOUT(Ref. : Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_132947"
     }
   ]
 }

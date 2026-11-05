@@ -1,0 +1,29 @@
+{
+  "team_id": "363638",
+  "url": "https://www.rbfa.be/nl/club/1156/ploeg/363638/kalender",
+  "fetched_at": "2026-11-05T11:13:41.509Z",
+  "completeness": "unverified",
+  "observed_now": 2,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525028",
+      "scoreText": "1 - 0",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "vrijdag 30 oktober - 19:30 Reserven Voetb Vl I OG Stasegem A 1 1 - 0 K.W.S. Club Lauwe B 1",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525034",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 07 november - 14:00 Reserven Voetb Vl I K.W.S. Club Lauwe B 1 14:00 K. Rekkem Sport 1(Ref. : Lievens Wouter)",
+      "score": null
+    }
+  ]
+}

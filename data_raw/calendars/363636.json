@@ -1,0 +1,379 @@
+{
+  "team_id": "363636",
+  "url": "https://www.rbfa.be/nl/club/1156/ploeg/363636/kalender",
+  "fetched_at": "2026-11-05T11:13:40.768Z",
+  "completeness": "unverified",
+  "observed_now": 39,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514934",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 08 november - 14:30 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 14:30 Olsa Brakel A(Ref. : De Langhe Martijn - Bekaert Maarten - Van Den Saffele Florian)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7613716",
+      "scoreText": "2 - 1",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "zondag 19 juli - 14:30 2e3e Afdeling Voetb Vl K.W.S. Club Lauwe A 2 - 1 F.C. ETOILES D'ERE",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497933",
+      "scoreText": "1 - 3",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "zondag 26 juli - 15:00 Beker van Vlaanderen A K.W.S. Club Lauwe A 1 - 3 Sportkring Roeselare",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497952",
+      "scoreText": "4 - 2",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 29 juli - 20:00 Beker van Vlaanderen A SV Zulte-Waregem B 4 - 2 K.W.S. Club Lauwe A",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505552",
+      "scoreText": "2 - 1",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zondag 02 augustus - 16:00 Croky Cup K.W.S. Club Lauwe A 2 - 1 K. H.O. HEIDE HASSELT",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497960",
+      "scoreText": "0 - 5",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 05 augustus - 19:30 Beker van Vlaanderen A K.W.S. Club Lauwe A 0 - 5 Cercle Brugge K.S.V. B",
+      "score": [
+        0,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505615",
+      "scoreText": "0 - 1",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zondag 09 augustus - 16:00 Croky Cup K.W.S. Club Lauwe A 0 - 1 K.F.C. VIGOR WUITENS HAMME",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497975",
+      "scoreText": "2 - 0",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 12 augustus - 20:00 Beker van Vlaanderen A R. Knokke FC 2 - 0 K.W.S. Club Lauwe A",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628955",
+      "scoreText": "2 - 0",
+      "competition": "Equipe 1ère",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 20:00 Equipe 1ère SB STADE MOUSCRONNOIS 2 - 0 K.W.S. Club Lauwe A",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7727399",
+      "scoreText": "1 - 0",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "zondag 23 augustus - 15:00 2e3e Afdeling Voetb Vl K.W.S. Club Lauwe A 1 - 0 K. FC MARKE",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514854",
+      "scoreText": "3 - 3",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 30 augustus - 15:00 3de Afdeling Voetb Vl A Eendr Elene-Grotenberge A 3 - 3 K.W.S. Club Lauwe A",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514860",
+      "scoreText": "0 - 2",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 06 september - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 0 - 2 Avanti Stekene",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514868",
+      "scoreText": "1 - 2",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 13 september - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 1 - 2 K. SV Rumbeke",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514874",
+      "scoreText": "1 - 1",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 19 september - 20:00 3de Afdeling Voetb Vl A SC City Pirates Antwerpen A 1 - 1 K.W.S. Club Lauwe A",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514887",
+      "scoreText": "0 - 2",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 27 september - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 0 - 2 Zwevegem Sport",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514894",
+      "scoreText": "0 - 4",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 04 oktober - 15:00 3de Afdeling Voetb Vl A KFC Wambeek Ternat A 0 - 4 K.W.S. Club Lauwe A",
+      "score": [
+        0,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514901",
+      "scoreText": "1 - 0",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 11 oktober - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 1 - 0 KVV St-Denijs Sp A",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514909",
+      "scoreText": "1 - 1",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 18 oktober - 15:00 3de Afdeling Voetb Vl A K.V.K. Ieper 1 - 1 K.W.S. Club Lauwe A",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514916",
+      "scoreText": "2 - 1",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 25 oktober - 14:30 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 2 - 1 Erpe-Mere United",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514920",
+      "scoreText": "1 - 2",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 31 oktober - 20:00 3de Afdeling Voetb Vl A K. Berchem Sp. 2004 A 1 - 2 K.W.S. Club Lauwe A",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514939",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 15 november - 14:30 3de Afdeling Voetb Vl A KCVV.Elewijt A 14:30 K.W.S. Club Lauwe A(Ref. : Vermeesch Briek - Rooseleers Jordi - Willem Wesley)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514949",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 22 november - 14:30 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 14:30 K. Sp. Club Blankenberge A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514956",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 29 november - 15:00 3de Afdeling Voetb Vl A KVE Drongen A 15:00 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514965",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 06 december - 14:30 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 14:30 F.C. Gullegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514970",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 13 december - 15:00 3de Afdeling Voetb Vl A Avanti Stekene 15:00 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514980",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 10 januari - 14:30 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 14:30 Eendr Elene-Grotenberge A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514984",
+      "scoreText": "19:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 16 januari - 19:30 3de Afdeling Voetb Vl A K. SV Rumbeke 19:30 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514999",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 24 januari - 15:00 3de Afdeling Voetb Vl A K. Sp. Club Blankenberge A 15:00 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515005",
+      "scoreText": "14:30",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 31 januari - 14:30 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 14:30 KCVV.Elewijt A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515012",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 14 februari - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 15:00 SC City Pirates Antwerpen A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515022",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 21 februari - 15:00 3de Afdeling Voetb Vl A Olsa Brakel A 15:00 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515028",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 28 februari - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 15:00 K. Berchem Sp. 2004 A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515038",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 07 maart - 15:00 3de Afdeling Voetb Vl A KVV St-Denijs Sp A 15:00 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515045",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 14 maart - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 15:00 KFC Wambeek Ternat A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515048",
+      "scoreText": "18:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 20 maart - 18:00 3de Afdeling Voetb Vl A Zwevegem Sport 18:00 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515061",
+      "scoreText": "20:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zaterdag 03 april - 20:00 3de Afdeling Voetb Vl A F.C. Gullegem 20:00 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515068",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 11 april - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 15:00 KVE Drongen A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515074",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 18 april - 15:00 3de Afdeling Voetb Vl A Erpe-Mere United 15:00 K.W.S. Club Lauwe A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7515085",
+      "scoreText": "15:00",
+      "competition": "3de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136064",
+      "text": "zondag 25 april - 15:00 3de Afdeling Voetb Vl A K.W.S. Club Lauwe A 15:00 K.V.K. Ieper(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    }
+  ]
+}

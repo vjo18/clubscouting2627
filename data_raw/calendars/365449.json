@@ -1,0 +1,346 @@
+{
+  "team_id": "365449",
+  "url": "https://www.rbfa.be/nl/club/2075/ploeg/365449/kalender",
+  "fetched_at": "2026-11-05T11:12:24.229Z",
+  "completeness": "unverified",
+  "observed_now": 36,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518826",
+      "scoreText": "1 - 2",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 31 oktober - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 1 - 2 K.FC Lichtervelde",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518834",
+      "scoreText": "18:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 07 november - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 18:00 K. EG Gistel(Ref. : Toure Yadaly - Kowalczyk Danny - Laforce Lorenzo)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7568527",
+      "scoreText": "4 - 1",
+      "competition": "BvW Heren Groep 15 P3/P4",
+      "competition_id": "CHP_130427",
+      "text": "zondag 26 juli - 17:00 BvW Heren Groep 15 P3/P4 K.S.V. OOSTKAMP 4 - 1 4 - 4 Strafschoppen VV Koekelare B",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7577732",
+      "scoreText": "4 - 0",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "dinsdag 28 juli - 20:00 1e Ploegen 1-2 Prov VK ZERKEGEM 4 - 0 K.S.V. OOSTKAMP",
+      "score": [
+        4,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7568534",
+      "scoreText": "1 - 3",
+      "competition": "BvW Heren Groep 15 P3/P4",
+      "competition_id": "CHP_130427",
+      "text": "zondag 02 augustus - 17:00 BvW Heren Groep 15 P3/P4 KFC Aalbeke Sport B 1 - 3 3 - 3 Strafschoppen K.S.V. OOSTKAMP",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7568539",
+      "scoreText": "3 - 0",
+      "competition": "BvW Heren Groep 15 P3/P4",
+      "competition_id": "CHP_130427",
+      "text": "zondag 09 augustus - 17:00 BvW Heren Groep 15 P3/P4 K.S.V. OOSTKAMP 3 - 0 2 - 4 Strafschoppen Jong Anzegem",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7568545",
+      "scoreText": "2 - 1",
+      "competition": "BvW Heren Groep 15 P3/P4",
+      "competition_id": "CHP_130427",
+      "text": "zondag 16 augustus - 17:00 BvW Heren Groep 15 P3/P4 OG Stasegem 2 - 1 2 - 4 Strafschoppen K.S.V. OOSTKAMP",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7576979",
+      "scoreText": "2 - 1",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "zondag 23 augustus - 16:30 1e Ploegen 1-2 Prov K. FC. MEULEBEKE 2 - 1 K.S.V. OOSTKAMP",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518755",
+      "scoreText": "1 - 0",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 29 augustus - 20:00 3 Provinciaal Wvl A FA Nieuwpoort A 1 - 0 K.S.V. OOSTKAMP",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518762",
+      "scoreText": "5 - 1",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 05 september - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 5 - 1 K. VV Aartrijke",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518775",
+      "scoreText": "3 - 1",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zondag 13 september - 15:00 3 Provinciaal Wvl A VV Westkapelle A 3 - 1 K.S.V. OOSTKAMP",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518778",
+      "scoreText": "1 - 2",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 19 september - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 1 - 2 K.S.K. Snaaskerke",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518788",
+      "scoreText": "2 - 0",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zondag 27 september - 14:30 3 Provinciaal Wvl A K. Sp. Club Blankenberge B 2 - 0 K.S.V. OOSTKAMP",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518794",
+      "scoreText": "2 - 2",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 03 oktober - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 2 - 2 FC Veldegem",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518803",
+      "scoreText": "3 - 1",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 10 oktober - 20:30 3 Provinciaal Wvl A S.K. Eernegem A 3 - 1 K.S.V. OOSTKAMP",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518810",
+      "scoreText": "1 - 3",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 17 oktober - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 1 - 3 KV Koksijde Oostduinkerke A",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518818",
+      "scoreText": "1 - 4",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 24 oktober - 19:00 3 Provinciaal Wvl A Sp. Keiem 1 - 4 K.S.V. OOSTKAMP",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518846",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zondag 15 november - 15:00 3 Provinciaal Wvl A SV Loppem 15:00 K.S.V. OOSTKAMP(Ref. : Peereboom Thibe - De Graeve Yacine - Hanssens Frederik)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518850",
+      "scoreText": "18:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 21 november - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 18:00 K. SV Jabbeke B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518858",
+      "scoreText": "19:30",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 28 november - 19:30 3 Provinciaal Wvl A K. SK Wenduine 19:30 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518866",
+      "scoreText": "18:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 05 december - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 18:00 V.V. Cercle Beernem A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518874",
+      "scoreText": "18:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 12 december - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 18:00 S.K. Eernegem A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518886",
+      "scoreText": "14:30",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zondag 10 januari - 14:30 3 Provinciaal Wvl A K.FC Lichtervelde 14:30 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518890",
+      "scoreText": "18:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 16 januari - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 18:00 K. Sp. Club Blankenberge B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518903",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zondag 24 januari - 15:00 3 Provinciaal Wvl A K. EG Gistel 15:00 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518906",
+      "scoreText": "18:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 30 januari - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 18:00 SV Loppem(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518919",
+      "scoreText": "19:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 13 februari - 19:00 3 Provinciaal Wvl A K.S.K. Snaaskerke 19:00 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518922",
+      "scoreText": "18:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 20 februari - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 18:00 VV Westkapelle A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518932",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zondag 28 februari - 15:00 3 Provinciaal Wvl A K. VV Aartrijke 15:00 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518938",
+      "scoreText": "18:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 06 maart - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 18:00 FA Nieuwpoort A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518949",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zondag 14 maart - 15:00 3 Provinciaal Wvl A FC Veldegem 15:00 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518954",
+      "scoreText": "18:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 20 maart - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 18:00 K. SK Wenduine(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518969",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zondag 04 april - 15:00 3 Provinciaal Wvl A K. SV Jabbeke B 15:00 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518971",
+      "scoreText": "19:30",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 10 april - 19:30 3 Provinciaal Wvl A V.V. Cercle Beernem A 19:30 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518978",
+      "scoreText": "18:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zaterdag 17 april - 18:00 3 Provinciaal Wvl A K.S.V. OOSTKAMP 18:00 Sp. Keiem(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518989",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl A",
+      "competition_id": "CHP_136237",
+      "text": "zondag 25 april - 15:00 3 Provinciaal Wvl A KV Koksijde Oostduinkerke A 15:00 K.S.V. OOSTKAMP(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "team_id": "360394",
+  "url": "https://www.rbfa.be/nl/club/1295/ploeg/360394/kalender",
+  "fetched_at": "2026-11-05T11:13:26.123Z",
+  "completeness": "unverified",
+  "observed_now": 17,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662079",
+      "scoreText": "2 - 1",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "zaterdag 31 oktober - 16:00 U19 Interprov Voetb V A K.V. DIKSMUIDE OOSTENDE 2 - 1 KM Torhout 3",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662084",
+      "scoreText": "16:00",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "zaterdag 07 november - 16:00 U19 Interprov Voetb V A KVE Drongen 3-2 16:00 K.V. DIKSMUIDE OOSTENDE(Ref. : Meganck Sebastiaan)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7630577",
+      "scoreText": "1 - 1",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "zaterdag 15 augustus - 14:00 U19 K.V. DIKSMUIDE OOSTENDE 1 - 1 K. SV RUMBEKE",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7567706",
+      "scoreText": "1 - 3",
+      "competition": "1e Ploegen 3-4 Prov",
+      "competition_id": null,
+      "text": "vrijdag 21 augustus - 19:30 1e Ploegen 3-4 Prov KV KOKSIJDE OOSTDUINKERKE 1 - 3 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7612657",
+      "scoreText": "3 - 5",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "zaterdag 29 augustus - 16:00 U19 R. Knokke FC 3 3 - 5 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        3,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662047",
+      "scoreText": "2 - 3",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "zaterdag 05 september - 14:00 U19 Interprov Voetb V A K.V. DIKSMUIDE OOSTENDE 2 - 3 Racing Club Gent 3",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662052",
+      "scoreText": "7 - 4",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "zaterdag 12 september - 15:30 U19 Interprov Voetb V A KM Torhout 3 7 - 4 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        7,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662055",
+      "scoreText": "4 - 3",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "zaterdag 19 september - 16:00 U19 Interprov Voetb V A K.V. DIKSMUIDE OOSTENDE 4 - 3 KVE Drongen 3-2",
+      "score": [
+        4,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662059",
+      "scoreText": "1 - 4",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "vrijdag 25 september - 20:00 U19 Interprov Voetb V A K. FC Varsenare 3-2 1 - 4 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662064",
+      "scoreText": "5 - 4",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "zaterdag 03 oktober - 16:00 U19 Interprov Voetb V A K.V. DIKSMUIDE OOSTENDE 5 - 4 KVV Zelzate 3",
+      "score": [
+        5,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662066",
+      "scoreText": "2 - 3",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "vrijdag 09 oktober - 19:30 U19 Interprov Voetb V A K.V. DIKSMUIDE OOSTENDE 2 - 3 R. Knokke FC 3",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7745424",
+      "scoreText": "2 - 8",
+      "competition": "1e Ploegen 3-4 Prov",
+      "competition_id": null,
+      "text": "donderdag 15 oktober - 19:30 1e Ploegen 3-4 Prov FA NIEUWPOORT 2 - 8 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        2,
+        8
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662077",
+      "scoreText": "4 - 5",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "zaterdag 24 oktober - 16:15 U19 Interprov Voetb V A Racing Club Gent 3 4 - 5 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        4,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7746482",
+      "scoreText": "1 - 0",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 28 oktober - 20:00 Reserven Provincie K. WS OUDENBURG 1 - 0 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662087",
+      "scoreText": "14:00",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "zaterdag 14 november - 14:00 U19 Interprov Voetb V A K.V. DIKSMUIDE OOSTENDE 14:00 K. FC Varsenare 3-2(Ref. : Vandekerckhove Marnix)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662093",
+      "scoreText": "14:30",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "zaterdag 21 november - 14:30 U19 Interprov Voetb V A KVV Zelzate 3 14:30 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7662094",
+      "scoreText": "19:30",
+      "competition": "U19 Interprov Voetb V A",
+      "competition_id": "CHP_132947",
+      "text": "vrijdag 27 november - 19:30 U19 Interprov Voetb V A R. Knokke FC 3 19:30 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

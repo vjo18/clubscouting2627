@@ -1,0 +1,368 @@
+{
+  "team_id": "363635",
+  "url": "https://www.rbfa.be/nl/club/1156/ploeg/363635/kalender",
+  "fetched_at": "2026-11-05T11:13:42.833Z",
+  "completeness": "unverified",
+  "observed_now": 38,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519069",
+      "scoreText": "0 - 8",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 01 november - 14:30 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 0 - 8 Sp. Dikkebus",
+      "score": [
+        0,
+        8
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519079",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 08 november - 15:00 3 Provinciaal Wvl B Ol. Ledegem 15:00 K.W.S. CLUB LAUWE(Ref. : Debusschere Mathieu - Christiaens Marino - Welvaert Gilbert)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7568432",
+      "scoreText": "6 - 2",
+      "competition": "BvW Heren Groep 13 P3/P4",
+      "competition_id": "CHP_130425",
+      "text": "zondag 26 juli - 17:00 BvW Heren Groep 13 P3/P4 K.W.S. CLUB LAUWE 6 - 2 4 - 4 Strafschoppen K. VK Avelgem B",
+      "score": [
+        6,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617925",
+      "scoreText": "2 - 1",
+      "competition": "Equipes Premières",
+      "competition_id": null,
+      "text": "donderdag 30 juli - 19:30 Equipes Premières R.F.C. LUINGNOIS 2 - 1 K.W.S. CLUB LAUWE",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7568441",
+      "scoreText": "1 - 3",
+      "competition": "BvW Heren Groep 13 P3/P4",
+      "competition_id": "CHP_130425",
+      "text": "zaterdag 01 augustus - 16:00 BvW Heren Groep 13 P3/P4 K. Rekkem Sport 1 - 3 3 - 3 Strafschoppen K.W.S. CLUB LAUWE",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7622313",
+      "scoreText": "3 - 0",
+      "competition": "1e Ploegen 3-4 Prov",
+      "competition_id": null,
+      "text": "donderdag 06 augustus - 19:30 1e Ploegen 3-4 Prov FC Dadizele Sport A 3 - 0 K.W.S. CLUB LAUWE",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7568444",
+      "scoreText": "6 - 2",
+      "competition": "BvW Heren Groep 13 P3/P4",
+      "competition_id": "CHP_130425",
+      "text": "zondag 09 augustus - 17:00 BvW Heren Groep 13 P3/P4 K.W.S. CLUB LAUWE 6 - 2 4 - 5 Strafschoppen K.F.C. Moen",
+      "score": [
+        6,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7590183",
+      "scoreText": "3 - 1",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "donderdag 13 augustus - 19:30 1e Ploegen 1-2 Prov K. FC LENDELEDE SPORT 3 - 1 K.W.S. CLUB LAUWE",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7568450",
+      "scoreText": "1 - 5",
+      "competition": "BvW Heren Groep 13 P3/P4",
+      "competition_id": "CHP_130425",
+      "text": "zaterdag 15 augustus - 19:00 BvW Heren Groep 13 P3/P4 SK Westrozebeke 1 - 5 4 - 5 Strafschoppen K.W.S. CLUB LAUWE",
+      "score": [
+        1,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7728067",
+      "scoreText": "4 - 5",
+      "competition": "Beker van WVL Heren",
+      "competition_id": null,
+      "text": "zondag 23 augustus - 17:00 Beker van WVL Heren K.W.S. CLUB LAUWE 4 - 5 VK Langemark-Poelkapelle",
+      "score": [
+        4,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7518999",
+      "scoreText": "3 - 3",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 30 augustus - 15:00 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 3 - 3 VK Langemark-Poelkapelle",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519002",
+      "scoreText": "3 - 0",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zaterdag 05 september - 19:00 3 Provinciaal Wvl B R.T.S.C. Proven 3 - 0 K.W.S. CLUB LAUWE",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519017",
+      "scoreText": "5 - 0",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 13 september - 15:00 3 Provinciaal Wvl B K. SV De Ruiter Roes. A 5 - 0 K.W.S. CLUB LAUWE",
+      "score": [
+        5,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519024",
+      "scoreText": "0 - 2",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 20 september - 15:00 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 0 - 2 S.C.T. Menen",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519029",
+      "scoreText": "2 - 6",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 27 september - 15:00 3 Provinciaal Wvl B VKW Vleteren 2 - 6 K.W.S. CLUB LAUWE",
+      "score": [
+        2,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519041",
+      "scoreText": "1 - 4",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 04 oktober - 15:00 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 1 - 4 FC Dadizele Sport A",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519042",
+      "scoreText": "2 - 1",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zaterdag 10 oktober - 18:00 3 Provinciaal Wvl B K. Sint-Eloois-Winkel Sp. 2 - 1 K.W.S. CLUB LAUWE",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519056",
+      "scoreText": "2 - 2",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 18 oktober - 15:00 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 2 - 2 BS Geluveld",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519065",
+      "scoreText": "5 - 4",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 25 oktober - 15:00 3 Provinciaal Wvl B Sp. Kruiseke 5 - 4 K.W.S. CLUB LAUWE",
+      "score": [
+        5,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519086",
+      "scoreText": "14:30",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 15 november - 14:30 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 14:30 K. Sassp. Boezinge B(Ref. : Vanassche Jonas - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519093",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 22 november - 15:00 3 Provinciaal Wvl B SK Staden 15:00 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519104",
+      "scoreText": "14:30",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 29 november - 14:30 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 14:30 VV Alveringem(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519111",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 06 december - 15:00 3 Provinciaal Wvl B K. VP Gits 15:00 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519118",
+      "scoreText": "14:30",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 13 december - 14:30 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 14:30 VKW Vleteren(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519129",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 10 januari - 15:00 3 Provinciaal Wvl B S.C.T. Menen 15:00 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519133",
+      "scoreText": "14:30",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 17 januari - 14:30 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 14:30 K. SV De Ruiter Roes. A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519141",
+      "scoreText": "14:30",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 24 januari - 14:30 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 14:30 Ol. Ledegem(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519147",
+      "scoreText": "19:30",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zaterdag 30 januari - 19:30 3 Provinciaal Wvl B VK Langemark-Poelkapelle 19:30 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519160",
+      "scoreText": "19:30",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zaterdag 13 februari - 19:30 3 Provinciaal Wvl B VV Alveringem 19:30 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519168",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 21 februari - 15:00 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 15:00 K. VP Gits(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519171",
+      "scoreText": "19:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zaterdag 27 februari - 19:00 3 Provinciaal Wvl B FC Dadizele Sport A 19:00 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519182",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 07 maart - 15:00 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 15:00 K. Sint-Eloois-Winkel Sp.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519189",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 14 maart - 15:00 3 Provinciaal Wvl B K. Sassp. Boezinge B 15:00 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519199",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 21 maart - 15:00 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 15:00 SK Staden(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519207",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zaterdag 03 april - 15:00 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 15:00 R.T.S.C. Proven(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519213",
+      "scoreText": "19:30",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zaterdag 10 april - 19:30 3 Provinciaal Wvl B Sp. Dikkebus 19:30 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519223",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 18 april - 15:00 3 Provinciaal Wvl B K.W.S. CLUB LAUWE 15:00 Sp. Kruiseke(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7519231",
+      "scoreText": "15:00",
+      "competition": "3 Provinciaal Wvl B",
+      "competition_id": "CHP_136238",
+      "text": "zondag 25 april - 15:00 3 Provinciaal Wvl B BS Geluveld 15:00 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "team_id": "361083",
+  "url": "https://www.rbfa.be/nl/club/1901/ploeg/361083/kalender",
+  "fetched_at": "2026-11-05T11:12:17.956Z",
+  "completeness": "unverified",
+  "observed_now": 30,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524306",
+      "scoreText": "2 - 6",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 01 november - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 2 - 6 FC Mandel United Izegem B 1",
+      "score": [
+        2,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524311",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 08 november - 9:15 Reserven Voetb Vl F SK Staden B 1 09:15 K. SV Rumbeke B 1(Ref. : Van Der Plaetsen Geert)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7621416",
+      "scoreText": "7 - 3",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "zondag 16 augustus - 9:15 Reserven Provincie SV Moorslede B 1 7 - 3 K. SV Rumbeke B 1",
+      "score": [
+        7,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7629620",
+      "scoreText": "7 - 4",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "zondag 23 augustus - 10:00 Reserven Provincie S.V. WEVELGEM CITY 7 - 4 K. SV Rumbeke B 1",
+      "score": [
+        7,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524235",
+      "scoreText": "3 - 0",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 30 augustus - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 3 - 0 SK Westrozebeke 1",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524238",
+      "scoreText": "2 - 1",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "vrijdag 04 september - 19:30 Reserven Voetb Vl F F.C. Passendale A 1 2 - 1 K. SV Rumbeke B 1",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524253",
+      "scoreText": "2 - 3",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 13 september - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 2 - 3 SK Elverdinge A 1",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524254",
+      "scoreText": "1 - 5",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "vrijdag 18 september - 19:30 Reserven Voetb Vl F K. WS Houthulst 1 1 - 5 K. SV Rumbeke B 1",
+      "score": [
+        1,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524274",
+      "scoreText": "0 - 1",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 04 oktober - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 0 - 1 VK Langemark-Poelkapelle B 1",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524280",
+      "scoreText": "1 - 2",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zaterdag 10 oktober - 14:00 Reserven Voetb Vl F K. VP Gits B 1 1 - 2 K. SV Rumbeke B 1",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524290",
+      "scoreText": "-",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 18 oktober - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 - Algemeen niet-opkomenFC Dadizele Sport 1",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524300",
+      "scoreText": "3 - 2",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 25 oktober - 9:15 Reserven Voetb Vl F V.V. Emelgem-Kachtem B 1 3 - 2 K. SV Rumbeke B 1",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524323",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 15 november - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 09:15 SV Moorslede B 1(Ref. : De Paepe Enzo)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524327",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 22 november - 9:15 Reserven Voetb Vl F Merkem Sp. B 1 09:15 K. SV Rumbeke B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524340",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 29 november - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 09:15 K. Sint-Eloois-Winkel Sp. B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524347",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 06 december - 9:15 Reserven Voetb Vl F NSVD Handzame B 1 09:15 K. SV Rumbeke B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524354",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "vrijdag 11 december - 19:30 Reserven Voetb Vl F K. SV Rumbeke B 1 19:30 F.C. Passendale A 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524367",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "vrijdag 15 januari - 19:30 Reserven Voetb Vl F SK Elverdinge A 1 19:30 K. SV Rumbeke B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524378",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 24 januari - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 09:15 SK Staden B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524386",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 31 januari - 9:15 Reserven Voetb Vl F SV Moorslede B 1 09:15 K. SV Rumbeke B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524394",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 14 februari - 9:15 Reserven Voetb Vl F K. Sint-Eloois-Winkel Sp. B 1 09:15 K. SV Rumbeke B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524401",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 21 februari - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 09:15 V.V. Emelgem-Kachtem B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524412",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 28 februari - 9:15 Reserven Voetb Vl F FC Mandel United Izegem B 1 09:15 K. SV Rumbeke B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524421",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 07 maart - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 09:15 K. VP Gits B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524429",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 14 maart - 9:15 Reserven Voetb Vl F VK Langemark-Poelkapelle B 1 09:15 K. SV Rumbeke B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524433",
+      "scoreText": "10:00",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 21 maart - 10:00 Reserven Voetb Vl F K. SV Rumbeke B 1 10:00 K. WS Houthulst 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524443",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 04 april - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 09:15 Merkem Sp. B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524450",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 11 april - 9:15 Reserven Voetb Vl F SK Westrozebeke 1 09:15 K. SV Rumbeke B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524460",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "zondag 18 april - 9:15 Reserven Voetb Vl F K. SV Rumbeke B 1 09:15 NSVD Handzame B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524462",
+      "scoreText": "-",
+      "competition": "Reserven Voetb Vl F",
+      "competition_id": "CHP_131109",
+      "text": "vrijdag 23 april - 20:00 Reserven Voetb Vl F FC Dadizele Sport 1 - Algemeen niet-opkomenK. SV Rumbeke B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

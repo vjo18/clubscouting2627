@@ -1,7 +1,7 @@
 {
   "team_id": "360198",
   "url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/kalender",
-  "fetched_at": "2026-11-04T14:58:03.998Z",
+  "fetched_at": "2026-11-05T11:11:44.849Z",
   "completeness": "unverified",
   "observed_now": 22,
   "preserved": 0,
@@ -14,14 +14,19 @@
       "score": [
         1,
         4
-      ]
+      ],
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544602",
-      "scoreText": "20:00",
+      "scoreText": "5 - 0",
       "competition": "Regionale Res.Voetb Vl B",
-      "text": "vrijdag 06 november - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 20:00 K. Sp. Club Blankenberge(Ref. : Van Daele Lorenzo)",
-      "score": null
+      "text": "vrijdag 06 november - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 5 - 0 ForfaitK. Sp. Club Blankenberge(Ref. : Nog aan te duiden)",
+      "score": [
+        5,
+        0
+      ],
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7499924",
@@ -31,7 +36,8 @@
       "score": [
         1,
         1
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7578236",
@@ -41,7 +47,8 @@
       "score": [
         4,
         0
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7613342",
@@ -51,7 +58,8 @@
       "score": [
         1,
         1
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7578043",
@@ -61,7 +69,8 @@
       "score": [
         2,
         3
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7497361",
@@ -71,7 +80,8 @@
       "score": [
         1,
         2
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544567",
@@ -81,7 +91,8 @@
       "score": [
         3,
         1
-      ]
+      ],
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7644495",
@@ -91,7 +102,8 @@
       "score": [
         1,
         0
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544568",
@@ -101,7 +113,8 @@
       "score": [
         2,
         0
-      ]
+      ],
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544573",
@@ -111,7 +124,8 @@
       "score": [
         2,
         3
-      ]
+      ],
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544576",
@@ -121,7 +135,8 @@
       "score": [
         11,
         2
-      ]
+      ],
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544583",
@@ -131,7 +146,8 @@
       "score": [
         4,
         2
-      ]
+      ],
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544584",
@@ -141,7 +157,8 @@
       "score": [
         0,
         0
-      ]
+      ],
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7738516",
@@ -151,7 +168,8 @@
       "score": [
         2,
         1
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544590",
@@ -161,7 +179,8 @@
       "score": [
         1,
         6
-      ]
+      ],
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544594",
@@ -171,42 +190,48 @@
       "score": [
         5,
         1
-      ]
+      ],
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7743628",
       "scoreText": "20:00",
       "competition": "Reserven Provincie",
       "text": "dinsdag 10 november - 20:00 Reserven Provincie SPORTKRING ROESELARE 20:00 SPARTA PETEGEM DEINZE",
-      "score": null
+      "score": null,
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544604",
       "scoreText": "20:00",
       "competition": "Regionale Res.Voetb Vl B",
       "text": "vrijdag 13 november - 20:00 Regionale Res.Voetb Vl B KSKDJ Lovendegem 20:00 SPORTKRING ROESELARE(Ref. : Akbulut Mesut)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544609",
       "scoreText": "20:00",
       "competition": "Regionale Res.Voetb Vl B",
       "text": "vrijdag 20 november - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 20:00 R. Knokke FC(Ref. : Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544613",
       "scoreText": "20:00",
       "competition": "Regionale Res.Voetb Vl B",
       "text": "vrijdag 27 november - 20:00 Regionale Res.Voetb Vl B K.S.V. Oostkamp 20:00 SPORTKRING ROESELARE(Ref. : Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136067"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544618",
       "scoreText": "20:00",
       "competition": "Regionale Res.Voetb Vl B",
       "text": "vrijdag 04 december - 20:00 Regionale Res.Voetb Vl B SPORTKRING ROESELARE 20:00 K. SV Rumbeke A(Ref. : Nog aan te duiden)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136067"
     }
   ]
 }

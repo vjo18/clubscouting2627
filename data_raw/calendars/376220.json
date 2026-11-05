@@ -1,0 +1,181 @@
+{
+  "team_id": "376220",
+  "url": "https://www.rbfa.be/nl/club/1191/ploeg/376220/kalender",
+  "fetched_at": "2026-11-05T11:12:04.742Z",
+  "completeness": "unverified",
+  "observed_now": 18,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663367",
+      "scoreText": "1 - 5",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 31 oktober - 14:30 U19 Interprov Voetb V B S.V. Wevelgem City 3-2 1 - 5 FC MANDEL UNITED IZEGEM U19",
+      "score": [
+        1,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663370",
+      "scoreText": "15:30",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 07 november - 15:30 U19 Interprov Voetb V B Racing Club Harelbeke 3 15:30 FC MANDEL UNITED IZEGEM U19(Ref. : Terrier Alex)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7498423",
+      "scoreText": "",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "zaterdag 08 augustus - 14:00 U19 KSC DIKKELVENNEFC MANDEL UNITED IZEGEM U19",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7498593",
+      "scoreText": "",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "donderdag 13 augustus - 20:00 U19 FC MANDEL UNITED IZEGEM U19SK MUNKZWALM U19",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663336",
+      "scoreText": "0 - 5",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 05 september - 16:45 U19 Interprov Voetb V B Olsa Brakel 3 0 - 5 FC MANDEL UNITED IZEGEM U19",
+      "score": [
+        0,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663339",
+      "scoreText": "1 - 4",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 12 september - 16:00 U19 Interprov Voetb V B FC MANDEL UNITED IZEGEM U19 1 - 4 S.V. Wevelgem City 3-2",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7734948",
+      "scoreText": "",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "dinsdag 15 september - 19:00 U19 KV KORTRIJKFC MANDEL UNITED IZEGEM U19",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663344",
+      "scoreText": "2 - 0",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 19 september - 16:00 U19 Interprov Voetb V B FC MANDEL UNITED IZEGEM U19 2 - 0 Racing Club Harelbeke 3",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663349",
+      "scoreText": "10 - 2",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 26 september - 13:30 U19 Interprov Voetb V B KSV Oudenaarde 3 10 - 2 FC MANDEL UNITED IZEGEM U19",
+      "score": [
+        10,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663352",
+      "scoreText": "2 - 2",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 03 oktober - 16:00 U19 Interprov Voetb V B FC MANDEL UNITED IZEGEM U19 2 - 2 K.V.K. Ieper 3",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663357",
+      "scoreText": "3 - 0",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 10 oktober - 17:00 U19 Interprov Voetb V B F.C. Gullegem 3 3 - 0 FC MANDEL UNITED IZEGEM U19",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663359",
+      "scoreText": "1 - 4",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 17 oktober - 16:00 U19 Interprov Voetb V B FC MANDEL UNITED IZEGEM U19 1 - 4 Sportkring Roeselare 3",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663363",
+      "scoreText": "2 - 1",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 24 oktober - 16:00 U19 Interprov Voetb V B FC MANDEL UNITED IZEGEM U19 2 - 1 Olsa Brakel 3",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663376",
+      "scoreText": "16:00",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 14 november - 16:00 U19 Interprov Voetb V B FC MANDEL UNITED IZEGEM U19 16:00 KSV Oudenaarde 3(Ref. : Verheecke Christophe)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663379",
+      "scoreText": "16:15",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 21 november - 16:15 U19 Interprov Voetb V B K.V.K. Ieper 3 16:15 FC MANDEL UNITED IZEGEM U19(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663383",
+      "scoreText": "16:00",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 28 november - 16:00 U19 Interprov Voetb V B FC MANDEL UNITED IZEGEM U19 16:00 F.C. Gullegem 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7770784",
+      "scoreText": "20:00",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "woensdag 02 december - 20:00 U19 FC MANDEL UNITED IZEGEM U19 20:00 F.C. Gullegem 3(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663386",
+      "scoreText": "13:30",
+      "competition": "U19 Interprov Voetb V B",
+      "competition_id": "CHP_133272",
+      "text": "zaterdag 05 december - 13:30 U19 Interprov Voetb V B Sportkring Roeselare 3 13:30 FC MANDEL UNITED IZEGEM U19(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

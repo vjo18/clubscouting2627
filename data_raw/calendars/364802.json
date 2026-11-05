@@ -1,0 +1,212 @@
+{
+  "team_id": "364802",
+  "url": "https://www.rbfa.be/nl/club/1191/ploeg/364802/kalender",
+  "fetched_at": "2026-11-05T11:12:01.805Z",
+  "completeness": "unverified",
+  "observed_now": 20,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544542",
+      "scoreText": "1 - 1",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 30 oktober - 20:00 Regionale Res.Voetb Vl A FC MANDEL UNITED IZEGEM BELOFTEN 1 - 1 F.C. Gullegem",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544546",
+      "scoreText": "20:15",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 06 november - 20:15 Regionale Res.Voetb Vl A S.V. Wevelgem City A 20:15 FC MANDEL UNITED IZEGEM BELOFTEN(Ref. : Decuypere Matthias)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7578239",
+      "scoreText": "2 - 1",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "donderdag 13 augustus - 20:00 Reserven Provincie K.V.K. Ieper 2 - 1 FC MANDEL UNITED IZEGEM BELOFTEN",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7621311",
+      "scoreText": "4 - 2",
+      "competition": "1e Ploegen 3-4 Prov",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 19:30 1e Ploegen 3-4 Prov KLUISBERGEN SP 4 - 2 FC MANDEL UNITED IZEGEM BELOFTEN",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7642644",
+      "scoreText": "2 - 2",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "donderdag 20 augustus - 20:00 1e Ploegen 1-2 Prov K. WS HOUTHULST 2 - 2 FC MANDEL UNITED IZEGEM BELOFTEN",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628474",
+      "scoreText": "5 - 2",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "zaterdag 22 augustus - 17:00 1e Ploegen 1-2 Prov K. SK GELUWE 5 - 2 FC MANDEL UNITED IZEGEM BELOFTEN",
+      "score": [
+        5,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7733065",
+      "scoreText": "5 - 5",
+      "competition": "1e Ploegen 1-2 Prov",
+      "competition_id": null,
+      "text": "dinsdag 25 augustus - 19:30 1e Ploegen 1-2 Prov FC MANDEL UNITED IZEGEM BELOFTEN 5 - 5 S.V. WEVELGEM CITY",
+      "score": [
+        5,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7734947",
+      "scoreText": "",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "dinsdag 01 september - 19:00 Reserven Provincie KV KORTRIJKFC MANDEL UNITED IZEGEM BELOFTEN",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544509",
+      "scoreText": "5 - 1",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 04 september - 20:00 Regionale Res.Voetb Vl A FC MANDEL UNITED IZEGEM BELOFTEN 5 - 1 K.V. Diksmuide Oostende",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544514",
+      "scoreText": "3 - 3",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 11 september - 20:00 Regionale Res.Voetb Vl A F.C. Gullegem 3 - 3 FC MANDEL UNITED IZEGEM BELOFTEN",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544518",
+      "scoreText": "11 - 2",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 18 september - 20:00 Regionale Res.Voetb Vl A FC MANDEL UNITED IZEGEM BELOFTEN 11 - 2 S.V. Wevelgem City A",
+      "score": [
+        11,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544523",
+      "scoreText": "1 - 3",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 25 september - 20:15 Regionale Res.Voetb Vl A K.W.S. Club Lauwe A 1 - 3 FC MANDEL UNITED IZEGEM BELOFTEN",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544527",
+      "scoreText": "2 - 2",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 02 oktober - 20:00 Regionale Res.Voetb Vl A Racing Club Harelbeke 2 - 2 FC MANDEL UNITED IZEGEM BELOFTEN",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544528",
+      "scoreText": "9 - 0",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 09 oktober - 20:00 Regionale Res.Voetb Vl A FC MANDEL UNITED IZEGEM BELOFTEN 9 - 0 K.S.C. Wielsbeke",
+      "score": [
+        9,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544533",
+      "scoreText": "3 - 3",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 16 oktober - 20:00 Regionale Res.Voetb Vl A K.V.K. Ieper 3 - 3 FC MANDEL UNITED IZEGEM BELOFTEN",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544538",
+      "scoreText": "3 - 4",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "maandag 26 oktober - 20:00 Regionale Res.Voetb Vl A K.V. Diksmuide Oostende 3 - 4 FC MANDEL UNITED IZEGEM BELOFTEN",
+      "score": [
+        3,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544549",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 13 november - 20:00 Regionale Res.Voetb Vl A FC MANDEL UNITED IZEGEM BELOFTEN 20:00 K.W.S. Club Lauwe A(Ref. : Raes Baptiste Frans)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544553",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 20 november - 20:00 Regionale Res.Voetb Vl A FC MANDEL UNITED IZEGEM BELOFTEN 20:00 Racing Club Harelbeke(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544558",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 27 november - 20:00 Regionale Res.Voetb Vl A K.S.C. Wielsbeke 20:00 FC MANDEL UNITED IZEGEM BELOFTEN(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544561",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 04 december - 20:00 Regionale Res.Voetb Vl A FC MANDEL UNITED IZEGEM BELOFTEN 20:00 K.V.K. Ieper(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

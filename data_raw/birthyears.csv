@@ -1,4 +1,204 @@
 club_id;person_id;birth_year
+club-1156;name:amara dosso;2005
+club-1156;name:anthony gaziano;1994
+club-1156;name:arne allijns;2001
+club-1156;name:baptiste vasseur;2004
+club-1156;name:cameron pardo;1999
+club-1156;name:gaëtan guillaume d'hondt;2004
+club-1156;name:gillian vervacke;2001
+club-1156;name:jatse corne;2010
+club-1156;name:jeremie bayunga;1997
+club-1156;name:josias musenge kapumbu;1999
+club-1156;name:kevin bostyn;1989
+club-1156;name:lennert vansteenkiste;1996
+club-1156;name:louis taelman;2006
+club-1156;name:luca van cauteren;2006
+club-1156;name:luca vancayseele;2005
+club-1156;name:maksym levchenko;2005
+club-1156;name:mylan rooze;2003
+club-1156;name:neo gaë vermeire;2005
+club-1156;name:noa bara;2004
+club-1156;name:omar niakhaté;2003
+club-1156;name:robin dianny itoua;1996
+club-1156;name:rodrigue dutoit;1992
+club-1156;name:romain roussel;1996
+club-1156;name:rune moerkerke;2004
+club-1191;name:aaron dhondt;1995
+club-1191;name:adeniyi salami-odjo;2008
+club-1191;name:arthur desot;2003
+club-1191;name:brice verkerken;2001
+club-1191;name:dennis van vaerenbergh;1998
+club-1191;name:donovan habbas;1999
+club-1191;name:elias vanglabeke;2006
+club-1191;name:gillis verhelst;2000
+club-1191;name:jaro ide;2007
+club-1191;name:jarric buysse;1991
+club-1191;name:jef vandemaele;2001
+club-1191;name:jorn jan braekeveld;2003
+club-1191;name:jules desot;2003
+club-1191;name:lars demeulenaere;2007
+club-1191;name:liam danny prez;2000
+club-1191;name:lukas rommens;2005
+club-1191;name:martijn beernaert;2002
+club-1191;name:mathias desmet;1995
+club-1191;name:miel wydhooge;2008
+club-1191;name:milan vanacker;2001
+club-1191;name:xander robert martlé;2003
+club-1191;name:xander vandermeirsch;2006
+club-1191;name:yanis astitou;2005
+club-1295;name:alex olorunwa kalejaiye;2005
+club-1295;name:andy musayev;2003
+club-1295;name:bjarne cardon;1999
+club-1295;name:bram deschuyter;1997
+club-1295;name:broes ivan willem;1998
+club-1295;name:colin dumoulin;1999
+club-1295;name:edi tahiri;2004
+club-1295;name:emiel vandevyvere;2006
+club-1295;name:gianni winne;2007
+club-1295;name:gilles vercruysse;1998
+club-1295;name:glenn diedhiou;2001
+club-1295;name:ionan roose;2008
+club-1295;name:jasper vandenschrick;2005
+club-1295;name:joe dewaele;2009
+club-1295;name:jules vanhaecke;1999
+club-1295;name:kenny duyck;2008
+club-1295;name:lander avet;2005
+club-1295;name:lander couffez;2007
+club-1295;name:leandro wauters;2004
+club-1295;name:liam bronchain;2004
+club-1295;name:livio van damme;2008
+club-1295;name:lucas avet;2008
+club-1295;name:lukas vandenbussche;2005
+club-1295;name:matisse vandevelde;2006
+club-1295;name:mehdi hossaini;2007
+club-1295;name:milan beuckels;2004
+club-1295;name:milan dejonckheere;2007
+club-1295;name:milan seys;2003
+club-1295;name:naguy maertens;2005
+club-1295;name:nathan joseph kabongo kadima;2004
+club-1295;name:nils heuzel;2006
+club-1295;name:nils stephaan pierre;1995
+club-1295;name:noah vandecasteele;2006
+club-1295;name:pepijn de hantsetters;2008
+club-1295;name:robbe gilbert decostere;1998
+club-1295;name:robbe santens;2002
+club-1295;name:robbie paul d'haese;1999
+club-1295;name:ruben kabba ezukwo;2002
+club-1295;name:santiago de brock;2006
+club-1295;name:santiàgo de brock;2006
+club-1295;name:thibault dezutter;2004
+club-1295;name:tibo beuckels;2007
+club-1295;name:tibo de rese;2008
+club-1295;name:tristan deblieck;2005
+club-1295;name:zeno vanacker;2008
+club-1592;name:arthur bracke;2003
+club-1592;name:ferre van alderwerelt;2006
+club-1592;name:ferre vanalderwerelt;2006
+club-1592;name:gilles garrevoet;1994
+club-1592;name:henri verlinde;2005
+club-1592;name:jonas defraeye;1994
+club-1592;name:kenneth deceuninck;1997
+club-1592;name:kenny van damme;1994
+club-1592;name:louis desmet;1999
+club-1592;name:mathias meulenyzer;1994
+club-1592;name:matts deneir;1995
+club-1592;name:milan baeten;2005
+club-1592;name:monssef znagui;1991
+club-1592;name:nathan leyder;1997
+club-1592;name:olivier gerrit myny;1994
+club-1592;name:robbe jozef goddyn;2000
+club-1592;name:stan dujardin;2008
+club-1592;name:stan van steenbrugge;2006
+club-1592;name:stijn delbeke;2003
+club-1592;name:tom dekampener;2000
+club-1592;name:xanthi ego;2004
+club-1901;name:aron defevere;1995
+club-1901;name:batist moenens;2001
+club-1901;name:ben viaene;2007
+club-1901;name:dré verbeke;2007
+club-1901;name:henri moyaert;1993
+club-1901;name:husrev nalli;1998
+club-1901;name:jari dejaegere;1997
+club-1901;name:jérémie cremers;1991
+club-1901;name:lowie lava;2006
+club-1901;name:michiel tyvaert;1995
+club-1901;name:quincy ponjaert;2000
+club-1901;name:raven bulcaen;2007
+club-1901;name:robinson woodruff;1996
+club-1901;name:sem versavel;2007
+club-1901;name:seppe verbrugghe;2005
+club-1901;name:thomas timmerman;2000
+club-1901;name:viktor notebaert;1995
+club-1901;name:xander caenepeel;2007
+club-1901;name:yoran de ketelaere;2000
+club-1931;name:benoit de jaegere;2004
+club-1931;name:hemsley chizorba akpa-chukwu;2005
+club-1931;name:tristan aldcroft panduro;2008
+club-2075;name:aaron de muer;2007
+club-2075;name:basiru mbye;1999
+club-2075;name:dylan vanhaeren;1997
+club-2075;name:flor geldhof;2004
+club-2075;name:jonas taillieu;1999
+club-2075;name:kenny deré;2003
+club-2075;name:louis declerck;1999
+club-2075;name:milan iket;1997
+club-2075;name:milo minnebo;2005
+club-2075;name:nicolas daels;2001
+club-2075;name:obed kangudia;2000
+club-2075;name:oleksandr beshliaha;1994
+club-2075;name:olivier vermander;1998
+club-2075;name:rune ranson;2006
+club-2075;name:simon ballyn;2008
+club-2075;name:tanguy dekeyser;2008
+club-2075;name:thomas hilaire puype;2004
+club-2075;name:tosin thompson;2003
+club-5852;name:aaron vandendriessche;1991
+club-5852;name:arne vandevelde;2006
+club-5852;name:gauthier bernard willemyns;1999
+club-5852;name:guillaume devacht;1997
+club-5852;name:indy vancraeyveldt;1995
+club-5852;name:jannes vansteenkiste;1993
+club-5852;name:jarne demeyere;2005
+club-5852;name:juliaan jean-pierre laverge;2000
+club-5852;name:juul tanghe;2001
+club-5852;name:kevin henneuse;2000
+club-5852;name:mathieu de smet;2000
+club-5852;name:matt demets;1996
+club-5852;name:mitch dekuyper;1993
+club-5852;name:niels bataille;1995
+club-5852;name:olivier luckx;2001
+club-5852;name:robbe bakelandt;2001
+club-5852;name:rune libbrecht;2005
+club-5852;name:timon guy vandendriessche;2002
+club-5852;name:vic desloovere;2007
+club-5852;name:victor van de wiele;1996
+club-5852;name:yani van den bossche;2001
+club-5852;name:zuhayr nait m'bark;2008
+club-971;name:alexandre antunes;2008
+club-971;name:arthur leliaert;2006
+club-971;name:bas langenbick;2003
+club-971;name:elhadji kone;2006
+club-971;name:emiel vanden borre;2008
+club-971;name:fady ouazzani chahdi;2008
+club-971;name:gilles van steenland;2008
+club-971;name:ibrahim kalil sy;2007
+club-971;name:ilian temperman;2007
+club-971;name:ilias ben sadik;2007
+club-971;name:ismael adama diallo;2009
+club-971;name:lander van camp;2008
+club-971;name:louis colman;2007
+club-971;name:lukas rocha torres;2005
+club-971;name:matei barbat;2010
+club-971;name:mathias de leyn;2008
+club-971;name:milan vandeweghe;2007
+club-971;name:nando vanderspurt;2007
+club-971;name:prince zagadou tizie;2008
+club-971;name:sam behaeghe;2005
+club-971;name:sebbe gheerardyns;2005
+club-971;name:stan benjamien de baillie;2007
+club-971;name:thor owczarek;2007
+club-971;name:tiemen jens de bel;2006
+club-971;name:windlsida emmanuel ouedraogo;2007
 roeselare;name:arne cassaert;2000
 roeselare;name:arne de schepper;2001
 roeselare;name:arthur victor harinck;2004

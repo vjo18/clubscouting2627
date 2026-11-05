@@ -1,0 +1,354 @@
+{
+  "team_id": "370918",
+  "url": "https://www.rbfa.be/nl/club/971/ploeg/370918/kalender",
+  "fetched_at": "2026-11-05T11:13:17.900Z",
+  "completeness": "unverified",
+  "observed_now": 37,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565361",
+      "scoreText": "3 - 3",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 01 november - 15:00 1e Afdeling Voetb Vl Oud-Heverlee Leuven B 3 - 3 Cercle Brugge K.S.V. B",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565367",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 07 november - 20:00 1e Afdeling Voetb Vl FC Mandel United Izegem 20:00 Cercle Brugge K.S.V. B(Ref. : Huyghe Isaak - Mertens Alex - Ares Emiel)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497940",
+      "scoreText": "0 - 5",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "zaterdag 25 juli - 19:30 Beker van Vlaanderen A K.V.C.S.V. Oostkamp A 0 - 5 Cercle Brugge K.S.V. B",
+      "score": [
+        0,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497956",
+      "scoreText": "2 - 1",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 29 juli - 20:30 Beker van Vlaanderen A Cercle Brugge K.S.V. B 2 - 1 Racing Club Gent",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497960",
+      "scoreText": "0 - 5",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 05 augustus - 19:30 Beker van Vlaanderen A K.W.S. Club Lauwe A 0 - 5 Cercle Brugge K.S.V. B",
+      "score": [
+        0,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7504969",
+      "scoreText": "1 - 3",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "zaterdag 08 augustus - 17:00 2e3e Afdeling Voetb Vl Cercle Brugge K.S.V. B 1 - 3 SV ZULTE-WAREGEM",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497974",
+      "scoreText": "0 - 1",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 12 augustus - 20:30 Beker van Vlaanderen A Cercle Brugge K.S.V. B 0 - 1 Zwevegem Sport",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7639383",
+      "scoreText": "",
+      "competition": "Iste Ploeg",
+      "competition_id": null,
+      "text": "zaterdag 15 augustus - 11:00 Iste Ploeg CERCLE BRUGGE K.SV.Cercle Brugge K.S.V. B",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7645907",
+      "scoreText": "3 - 0",
+      "competition": "Beker van Vlaanderen",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 20:00 Beker van Vlaanderen K.S.V. OUDENAARDE 3 - 0 Cercle Brugge K.S.V. B",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565300",
+      "scoreText": "1 - 1",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 30 augustus - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 1 - 1 KVV Zelzate",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565312",
+      "scoreText": "3 - 1",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 06 september - 15:00 1e Afdeling Voetb Vl KFC Merelbeke 3 - 1 Cercle Brugge K.S.V. B",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565317",
+      "scoreText": "2 - 1",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 13 september - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 2 - 1 R. Knokke FC",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565270",
+      "scoreText": "3 - 1",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 19 september - 19:30 1e Afdeling Voetb Vl KFC Dessel Sp. A 3 - 1 Cercle Brugge K.S.V. B",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565279",
+      "scoreText": "1 - 3",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 27 september - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 1 - 3 KVK.Tienen",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565287",
+      "scoreText": "3 - 1",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 03 oktober - 20:00 1e Afdeling Voetb Vl KSK Heist A 3 - 1 Cercle Brugge K.S.V. B",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565295",
+      "scoreText": "2 - 1",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 11 oktober - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 2 - 1 Koninklijke Lyra-Lierse",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565346",
+      "scoreText": "2 - 2",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 17 oktober - 20:00 1e Afdeling Voetb Vl Thes Sport Tessenderlo A 2 - 2 Cercle Brugge K.S.V. B",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565348",
+      "scoreText": "1 - 4",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 25 oktober - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 1 - 4 Hoogstraten VV",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565371",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 15 november - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 K.F.C. Houtvenne A(Ref. : Windels Christophe - Verleysen Pieter - De Buck Kevin)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565328",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 22 november - 15:00 1e Afdeling Voetb Vl Racing Club Harelbeke 15:00 Cercle Brugge K.S.V. B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565334",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 29 november - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 Belisia Bilzen SV A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565382",
+      "scoreText": "18:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 05 december - 18:00 1e Afdeling Voetb Vl Sportkring Roeselare 18:00 Cercle Brugge K.S.V. B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565391",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 13 december - 15:00 1e Afdeling Voetb Vl KVV Zelzate 15:00 Cercle Brugge K.S.V. B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565392",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 10 januari - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 Oud-Heverlee Leuven B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565404",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 16 januari - 20:00 1e Afdeling Voetb Vl Koninklijke Lyra-Lierse 20:00 Cercle Brugge K.S.V. B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565409",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 24 januari - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 FC Mandel United Izegem(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565418",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 31 januari - 15:00 1e Afdeling Voetb Vl R. Knokke FC 15:00 Cercle Brugge K.S.V. B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565424",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 14 februari - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 Racing Club Harelbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565432",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 21 februari - 15:00 1e Afdeling Voetb Vl Belisia Bilzen SV A 15:00 Cercle Brugge K.S.V. B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565440",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 28 februari - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 Sportkring Roeselare(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565467",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 07 maart - 15:00 1e Afdeling Voetb Vl KVK.Tienen 15:00 Cercle Brugge K.S.V. B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565469",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 14 maart - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 KFC Dessel Sp. A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565480",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 20 maart - 20:00 1e Afdeling Voetb Vl K.F.C. Houtvenne A 20:00 Cercle Brugge K.S.V. B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565485",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 04 april - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 KSK Heist A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565494",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 11 april - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 KFC Merelbeke(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565448",
+      "scoreText": "20:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zaterdag 17 april - 20:00 1e Afdeling Voetb Vl Hoogstraten VV 20:00 Cercle Brugge K.S.V. B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565497",
+      "scoreText": "15:00",
+      "competition": "1e Afdeling Voetb Vl",
+      "competition_id": "CHP_134760",
+      "text": "zondag 25 april - 15:00 1e Afdeling Voetb Vl Cercle Brugge K.S.V. B 15:00 Thes Sport Tessenderlo A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    }
+  ]
+}

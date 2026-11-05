@@ -1,0 +1,417 @@
+{
+  "team_id": "377668",
+  "url": "https://www.rbfa.be/nl/club/976/ploeg/377668/kalender",
+  "fetched_at": "2026-11-05T11:13:29.161Z",
+  "completeness": "unverified",
+  "observed_now": 46,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617336",
+      "scoreText": "1 - 3",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "woensdag 04 november - 20:30 Jupiler Pro League KV.KORTRIJK A TEAM 1 - 3 Yellow-Red KV.Mechelen A",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617358",
+      "scoreText": "16:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 08 november - 16:00 Jupiler Pro League K.AA.Gent A 16:00 KV.KORTRIJK A TEAM(Ref. : Boterberg Jan - Vanpoucke Tom - Debeuckelaere Kevin - Put Bert)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523232",
+      "scoreText": "",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "zaterdag 04 juli - 14:00 Profvoetbal Club Brugge KV. AKV.KORTRIJK A TEAM",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523245",
+      "scoreText": "NVT*",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "zaterdag 18 juli - 12:00 Profvoetbal KV.KORTRIJK A TEAM NVT* VALENCIENNES FC",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523217",
+      "scoreText": "4 - 1",
+      "competition": "Iste Ploeg",
+      "competition_id": null,
+      "text": "zaterdag 25 juli - 11:00 Iste Ploeg KV.KORTRIJK A TEAM 4 - 1 R.KNOKKE FC. A TEAM",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523159",
+      "scoreText": "NVT*",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "zaterdag 25 juli - 16:00 Profvoetbal KV.KORTRIJK A TEAM NVT* SC AMIENS",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523233",
+      "scoreText": "",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "vrijdag 31 juli - 11:00 Profvoetbal KV.KORTRIJK A TEAMK.AA.GENT JONG GENT",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523215",
+      "scoreText": "NVT*",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "zaterdag 01 augustus - 14:00 Profvoetbal KV.KORTRIJK A TEAM NVT* STADE DE REIMS",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7616756",
+      "scoreText": "3 - 0",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "vrijdag 07 augustus - 20:45 Jupiler Pro League Club Brugge KV. A 3 - 0 KV.KORTRIJK A TEAM",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631414",
+      "scoreText": "NVT*",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "zaterdag 08 augustus - 11:30 Profvoetbal KV.KORTRIJK A TEAM NVT* CLUB BRUGGE KV. CLUB NXT",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617259",
+      "scoreText": "0 - 3",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 15 augustus - 18:15 Jupiler Pro League KV.KORTRIJK A TEAM 0 - 3 R.Antwerp F.C. A",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617290",
+      "scoreText": "1 - 3",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 29 augustus - 18:15 Jupiler Pro League KV.KORTRIJK A TEAM 1 - 3 SP du Pays de Charleroi A",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617277",
+      "scoreText": "1 - 0",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "donderdag 03 september - 20:30 Jupiler Pro League R.SC.Anderlecht A 1 - 0 KV.KORTRIJK A TEAM",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617301",
+      "scoreText": "0 - 2",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 06 september - 16:00 Jupiler Pro League KV.KORTRIJK A TEAM 0 - 2 SV.Zulte Waregem A",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617314",
+      "scoreText": "3 - 0",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 13 september - 19:15 Jupiler Pro League RAAL La Louviere 3 - 0 KV.KORTRIJK A TEAM",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617323",
+      "scoreText": "1 - 0",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 20 september - 19:15 Jupiler Pro League KV.KORTRIJK A TEAM 1 - 0 KV.RS.Waasland-SK.Beveren A",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505708",
+      "scoreText": "2 - 2",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zaterdag 26 september - 20:00 Croky Cup K.SK. HEIST A 2 - 2 5 - 4 Strafschoppen KV.KORTRIJK A TEAM",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628999",
+      "scoreText": "NVT*",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "donderdag 01 oktober - 11:00 Profvoetbal Cercle Brugge K.SV. A NVT* KV.KORTRIJK A TEAM",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617330",
+      "scoreText": "3 - 0",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 10 oktober - 20:45 Jupiler Pro League K.RC.Genk A 3 - 0 KV.KORTRIJK A TEAM",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7744846",
+      "scoreText": "",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "vrijdag 16 oktober - 12:00 Profvoetbal KONINKLIJKE LIERSE SPORTKRINGKV.KORTRIJK A TEAM",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7747764",
+      "scoreText": "3 - 1",
+      "competition": "Iste Ploeg",
+      "competition_id": null,
+      "text": "zaterdag 24 oktober - 11:30 Iste Ploeg KV.KORTRIJK A TEAM 3 - 1 R.SC.ANDERLECHT FUTURES U23",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617350",
+      "scoreText": "1 - 1",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 31 oktober - 18:15 Jupiler Pro League R.Standard de Liège A 1 - 1 KV.KORTRIJK A TEAM",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7770974",
+      "scoreText": "12:00",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "vrijdag 13 november - 12:00 Profvoetbal KV.KORTRIJK A TEAM 12:00 KONINKLIJKE LIERSE SPORTKRING(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617367",
+      "scoreText": "16:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 22 november - 16:00 Jupiler Pro League KV.KORTRIJK A TEAM 16:00 R.Union St.-Gilloise A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617373",
+      "scoreText": "20:45",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "vrijdag 27 november - 20:45 Jupiler Pro League Oud-Heverlee Leuven A 20:45 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617380",
+      "scoreText": "16:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 12 december - 16:00 Jupiler Pro League KV.KORTRIJK A TEAM 16:00 Lommel SK A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617394",
+      "scoreText": "16:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 20 december - 16:00 Jupiler Pro League K.St.-Truidense VV. A 16:00 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617400",
+      "scoreText": "16:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 26 december - 16:00 Jupiler Pro League KV.KORTRIJK A TEAM 16:00 Cercle Brugge K.SV. A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617410",
+      "scoreText": "20:45",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 16 januari - 20:45 Jupiler Pro League K.VC.Westerlo 20:45 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617421",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 24 januari - 23:00 Jupiler Pro League KV.KORTRIJK A TEAM 23:00 R.SC.Anderlecht A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617427",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 31 januari - 23:00 Jupiler Pro League KV.RS.Waasland-SK.Beveren A 23:00 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617440",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 07 februari - 23:00 Jupiler Pro League KV.KORTRIJK A TEAM 23:00 RAAL La Louviere(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617448",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 14 februari - 23:00 Jupiler Pro League R.Antwerp F.C. A 23:00 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617456",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 21 februari - 23:00 Jupiler Pro League KV.KORTRIJK A TEAM 23:00 K.RC.Genk A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617471",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 28 februari - 23:00 Jupiler Pro League Lommel SK A 23:00 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617480",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 07 maart - 23:00 Jupiler Pro League Yellow-Red KV.Mechelen A 23:00 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617493",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 14 maart - 23:00 Jupiler Pro League KV.KORTRIJK A TEAM 23:00 Oud-Heverlee Leuven A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617509",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 21 maart - 23:00 Jupiler Pro League SV.Zulte Waregem A 23:00 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617517",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 04 april - 23:00 Jupiler Pro League KV.KORTRIJK A TEAM 23:00 Club Brugge KV. A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617524",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 11 april - 23:00 Jupiler Pro League KV.KORTRIJK A TEAM 23:00 R.Standard de Liège A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617533",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 18 april - 23:00 Jupiler Pro League Cercle Brugge K.SV. A 23:00 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617550",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 25 april - 23:00 Jupiler Pro League KV.KORTRIJK A TEAM 23:00 K.VC.Westerlo(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617564",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 02 mei - 23:00 Jupiler Pro League R.Union St.-Gilloise A 23:00 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617576",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 09 mei - 23:00 Jupiler Pro League KV.KORTRIJK A TEAM 23:00 K.AA.Gent A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617579",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 16 mei - 23:00 Jupiler Pro League SP du Pays de Charleroi A 23:00 KV.KORTRIJK A TEAM(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617590",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 23 mei - 23:00 Jupiler Pro League KV.KORTRIJK A TEAM 23:00 K.St.-Truidense VV. A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

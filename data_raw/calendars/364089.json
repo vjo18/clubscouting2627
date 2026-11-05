@@ -1,0 +1,171 @@
+{
+  "team_id": "364089",
+  "url": "https://www.rbfa.be/nl/club/1901/ploeg/364089/kalender",
+  "fetched_at": "2026-11-05T11:12:20.492Z",
+  "completeness": "unverified",
+  "observed_now": 16,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663425",
+      "scoreText": "3 - 0",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zaterdag 31 oktober - 15:00 U19 Interprov Voetb V C SK Munkzwalm 1 3 - 0 K. SV Rumbeke 1",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663430",
+      "scoreText": "20:15",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "vrijdag 06 november - 20:15 U19 Interprov Voetb V C SK Lochristi 2-1 20:15 K. SV Rumbeke 1(Ref. : De Smedt Maarten)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7630577",
+      "scoreText": "1 - 1",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "zaterdag 15 augustus - 14:00 U19 K.V. DIKSMUIDE OOSTENDE 1 - 1 K. SV Rumbeke 1",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7631691",
+      "scoreText": "1 - 1",
+      "competition": "U19",
+      "competition_id": null,
+      "text": "zaterdag 29 augustus - 17:00 U19 K.S.C. Wielsbeke 2 1 - 1 K. SV Rumbeke 1",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663392",
+      "scoreText": "4 - 3",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zaterdag 05 september - 13:45 U19 Interprov Voetb V C KSC Dikkelvenne 2 4 - 3 K. SV Rumbeke 1",
+      "score": [
+        4,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663398",
+      "scoreText": "2 - 3",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zaterdag 12 september - 15:30 U19 Interprov Voetb V C K. SV Rumbeke 1 2 - 3 SK Munkzwalm 1",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663401",
+      "scoreText": "5 - 0",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zaterdag 19 september - 15:30 U19 Interprov Voetb V C K. SV Rumbeke 1 5 - 0 ForfaitSK Lochristi 2-1",
+      "score": [
+        5,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663405",
+      "scoreText": "2 - 4",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "vrijdag 25 september - 20:15 U19 Interprov Voetb V C K. VK Avelgem 2-1 2 - 4 K. SV Rumbeke 1",
+      "score": [
+        2,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663410",
+      "scoreText": "3 - 3",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zaterdag 03 oktober - 15:30 U19 Interprov Voetb V C K. SV Rumbeke 1 3 - 3 KSKDJ Lovendegem A 2",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663411",
+      "scoreText": "1 - 2",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "vrijdag 09 oktober - 19:45 U19 Interprov Voetb V C Zwevegem Sport 1 1 - 2 K. SV Rumbeke 1",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663418",
+      "scoreText": "3 - 1",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zaterdag 17 oktober - 15:30 U19 Interprov Voetb V C K. SV Rumbeke 1 3 - 1 K.S.C. Wielsbeke 2",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663422",
+      "scoreText": "3 - 2",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zaterdag 24 oktober - 15:30 U19 Interprov Voetb V C K. SV Rumbeke 1 3 - 2 KSC Dikkelvenne 2",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663433",
+      "scoreText": "15:30",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zaterdag 14 november - 15:30 U19 Interprov Voetb V C K. SV Rumbeke 1 15:30 K. VK Avelgem 2-1(Ref. : Lezeure Yannick)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663436",
+      "scoreText": "20:00",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "vrijdag 20 november - 20:00 U19 Interprov Voetb V C KSKDJ Lovendegem A 2 20:00 K. SV Rumbeke 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663442",
+      "scoreText": "15:30",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zaterdag 28 november - 15:30 U19 Interprov Voetb V C K. SV Rumbeke 1 15:30 Zwevegem Sport 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7663446",
+      "scoreText": "16:30",
+      "competition": "U19 Interprov Voetb V C",
+      "competition_id": "CHP_133273",
+      "text": "zaterdag 05 december - 16:30 U19 Interprov Voetb V C K.S.C. Wielsbeke 2 16:30 K. SV Rumbeke 1(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

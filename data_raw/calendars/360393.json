@@ -1,0 +1,201 @@
+{
+  "team_id": "360393",
+  "url": "https://www.rbfa.be/nl/club/1295/ploeg/360393/kalender",
+  "fetched_at": "2026-11-05T11:13:24.278Z",
+  "completeness": "unverified",
+  "observed_now": 19,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544541",
+      "scoreText": "2 - 1",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 30 oktober - 20:00 Regionale Res.Voetb Vl A K.S.C. Wielsbeke 2 - 1 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544545",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 06 november - 20:00 Regionale Res.Voetb Vl A K.V. DIKSMUIDE OOSTENDE 20:00 K.V.K. Ieper(Ref. : Ygodt Lee)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7565262",
+      "scoreText": "",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "zaterdag 08 augustus - 18:00 Reserven Provincie K.V. DIKSMUIDE OOSTENDETRUST BELOFTEN",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7643517",
+      "scoreText": "2 - 1",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 12 augustus - 19:30 Reserven Provincie K.V. DIKSMUIDE OOSTENDE 2 - 1 KVE AALTER",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7578043",
+      "scoreText": "2 - 3",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "maandag 17 augustus - 19:30 Reserven Provincie K.V. DIKSMUIDE OOSTENDE 2 - 3 SPORTKRING ROESELARE",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497584",
+      "scoreText": "4 - 2",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "zaterdag 22 augustus - 17:15 Reserven Provincie KVV ZELZATE 4 - 2 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        4,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7639326",
+      "scoreText": "3 - 5",
+      "competition": "1e Ploegen 3-4 Prov",
+      "competition_id": null,
+      "text": "dinsdag 25 augustus - 19:30 1e Ploegen 3-4 Prov K.V. DIKSMUIDE OOSTENDE 3 - 5 FC BEAUFORT MIDDELKERKE",
+      "score": [
+        3,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544509",
+      "scoreText": "5 - 1",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 04 september - 20:00 Regionale Res.Voetb Vl A FC Mandel United Izegem A 5 - 1 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544513",
+      "scoreText": "7 - 1",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 11 september - 20:00 Regionale Res.Voetb Vl A K.V. DIKSMUIDE OOSTENDE 7 - 1 K.S.C. Wielsbeke",
+      "score": [
+        7,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544517",
+      "scoreText": "4 - 0",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 18 september - 20:00 Regionale Res.Voetb Vl A K.V.K. Ieper 4 - 0 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        4,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544520",
+      "scoreText": "6 - 2",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 25 september - 20:00 Regionale Res.Voetb Vl A K.V. DIKSMUIDE OOSTENDE 6 - 2 Racing Club Harelbeke",
+      "score": [
+        6,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544526",
+      "scoreText": "2 - 2",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 02 oktober - 20:00 Regionale Res.Voetb Vl A K.V. DIKSMUIDE OOSTENDE 2 - 2 F.C. Gullegem",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544530",
+      "scoreText": "0 - 5",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "maandag 12 oktober - 20:00 Regionale Res.Voetb Vl A S.V. Wevelgem City A 0 - 5 K.V. DIKSMUIDE OOSTENDE",
+      "score": [
+        0,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544534",
+      "scoreText": "6 - 3",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 16 oktober - 20:00 Regionale Res.Voetb Vl A K.V. DIKSMUIDE OOSTENDE 6 - 3 K.W.S. Club Lauwe A",
+      "score": [
+        6,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544538",
+      "scoreText": "3 - 4",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "maandag 26 oktober - 20:00 Regionale Res.Voetb Vl A K.V. DIKSMUIDE OOSTENDE 3 - 4 FC Mandel United Izegem A",
+      "score": [
+        3,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544550",
+      "scoreText": "14:30",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "woensdag 11 november - 14:30 Regionale Res.Voetb Vl A Racing Club Harelbeke 14:30 K.V. DIKSMUIDE OOSTENDE(Ref. : Samyn Steven)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544552",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 20 november - 20:00 Regionale Res.Voetb Vl A F.C. Gullegem 20:00 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544556",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 27 november - 20:00 Regionale Res.Voetb Vl A K.V. DIKSMUIDE OOSTENDE 20:00 S.V. Wevelgem City A(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544562",
+      "scoreText": "20:15",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 04 december - 20:15 Regionale Res.Voetb Vl A K.W.S. Club Lauwe A 20:15 K.V. DIKSMUIDE OOSTENDE(Ref. : Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

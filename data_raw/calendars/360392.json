@@ -1,0 +1,395 @@
+{
+  "team_id": "360392",
+  "url": "https://www.rbfa.be/nl/club/1295/ploeg/360392/kalender",
+  "fetched_at": "2026-11-05T11:13:21.290Z",
+  "completeness": "unverified",
+  "observed_now": 41,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514444",
+      "scoreText": "0 - 0",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 31 oktober - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 0 - 0 KFCVW Hamme",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514451",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 07 november - 20:00 2de Afdeling Voetb Vl A KSV Oudenaarde 20:00 K.V. Diksmuide Oostende A(Ref. : Bossuyt Niels - Vanderhaegen Nobel - Moreels Michiel)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497932",
+      "scoreText": "1 - 4",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "zaterdag 25 juli - 18:00 Beker van Vlaanderen A Zwevegem Sport 1 - 4 K.V. Diksmuide Oostende A",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497954",
+      "scoreText": "2 - 1",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 29 juli - 20:00 Beker van Vlaanderen A K.V. Diksmuide Oostende A 2 - 1 K. Sp. Club Blankenberge A",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7501628",
+      "scoreText": "2 - 2",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "zaterdag 01 augustus - 18:00 2e3e Afdeling Voetb Vl KONINKLIJKE LYRA-LIERSE 2 - 2 K.V. Diksmuide Oostende A",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497966",
+      "scoreText": "2 - 3",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 05 augustus - 20:00 Beker van Vlaanderen A K. SV Rumbeke 2 - 3 K.V. Diksmuide Oostende A",
+      "score": [
+        2,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505611",
+      "scoreText": "6 - 0",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zondag 09 augustus - 16:00 Croky Cup K.V. Diksmuide Oostende A 6 - 0 AVANTI STEKENE",
+      "score": [
+        6,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7497970",
+      "scoreText": "1 - 0",
+      "competition": "Beker van Vlaanderen A",
+      "competition_id": "CHP_136560",
+      "text": "woensdag 12 augustus - 20:00 Beker van Vlaanderen A K.V. Diksmuide Oostende A 1 - 0 F.C. Gullegem",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505672",
+      "scoreText": "0 - 6",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zaterdag 15 augustus - 20:30 Croky Cup S.C. CITY PIRATES ANTWERPEN A 0 - 6 K.V. Diksmuide Oostende A",
+      "score": [
+        0,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7645906",
+      "scoreText": "2 - 2",
+      "competition": "Beker van Vlaanderen",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 20:00 Beker van Vlaanderen K.V. Diksmuide Oostende A 2 - 2 4 - 5 Strafschoppen KFC Voorde-Appelterre A",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505698",
+      "scoreText": "1 - 3",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zaterdag 22 augustus - 20:00 Croky Cup R.W.D.M. BRUSSELS 1 - 3 K.V. Diksmuide Oostende A",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514373",
+      "scoreText": "3 - 2",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zondag 30 augustus - 16:00 2de Afdeling Voetb Vl A KM Torhout A 3 - 2 K.V. Diksmuide Oostende A",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514381",
+      "scoreText": "1 - 0",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 05 september - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 1 - 0 KFCHO Kalken A",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7735696",
+      "scoreText": "",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "maandag 07 september - 20:00 2e3e Afdeling Voetb Vl K.V. Diksmuide Oostende AFC TRUST A-TEAM",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514385",
+      "scoreText": "3 - 1",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 12 september - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 3 - 1 FC Lebbeke",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514397",
+      "scoreText": "1 - 2",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 19 september - 20:00 2de Afdeling Voetb Vl A Racing Club Gent 1 - 2 K.V. Diksmuide Oostende A",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7505706",
+      "scoreText": "0 - 2",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zaterdag 26 september - 20:00 Croky Cup K.V. Diksmuide Oostende A 0 - 2 LOMMEL SK A",
+      "score": [
+        0,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514402",
+      "scoreText": "1 - 0",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "woensdag 30 september - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 1 - 0 KFC Voorde-Appelterre A",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514412",
+      "scoreText": "1 - 1",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 03 oktober - 11:00 2de Afdeling Voetb Vl A YRKV Mechelen B 1 - 1 K.V. Diksmuide Oostende A",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514419",
+      "scoreText": "2 - 1",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 10 oktober - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 2 - 1 K.S.V. Oostkamp A",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514429",
+      "scoreText": "3 - 2",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zondag 18 oktober - 15:00 2de Afdeling Voetb Vl A KSK.Londerzeel 3 - 2 K.V. Diksmuide Oostende A",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514458",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 14 november - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 20:00 VK Ninove A(Ref. : Depuydt Yuri - Carpels Cedo Gregorie - Baillieul Christophe)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514469",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 21 november - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 20:00 SV Zulte-Waregem B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514479",
+      "scoreText": "15:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zondag 29 november - 15:00 2de Afdeling Voetb Vl A RFC Wetteren 15:00 K.V. Diksmuide Oostende A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514485",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 05 december - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 20:00 Sparta Petegem Deinze A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514489",
+      "scoreText": "15:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zondag 13 december - 15:00 2de Afdeling Voetb Vl A K.S.V. Oostkamp A 15:00 K.V. Diksmuide Oostende A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514437",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 19 december - 20:00 2de Afdeling Voetb Vl A Koninklijke Eendracht Aalst Lede 20:00 K.V. Diksmuide Oostende A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514501",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 09 januari - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 20:00 Racing Club Gent(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514508",
+      "scoreText": "14:30",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zondag 17 januari - 14:30 2de Afdeling Voetb Vl A KFC Voorde-Appelterre A 14:30 K.V. Diksmuide Oostende A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514514",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 23 januari - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 20:00 YRKV Mechelen B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514520",
+      "scoreText": "18:30",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 30 januari - 18:30 2de Afdeling Voetb Vl A SV Zulte-Waregem B 18:30 K.V. Diksmuide Oostende A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514528",
+      "scoreText": "19:30",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 13 februari - 19:30 2de Afdeling Voetb Vl A VK Ninove A 19:30 K.V. Diksmuide Oostende A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514542",
+      "scoreText": "14:30",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zondag 21 februari - 14:30 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 14:30 KSV Oudenaarde(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514550",
+      "scoreText": "15:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zondag 28 februari - 15:00 2de Afdeling Voetb Vl A KFCVW Hamme 15:00 K.V. Diksmuide Oostende A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514556",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 06 maart - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 20:00 Koninklijke Eendracht Aalst Lede(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514562",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 13 maart - 20:00 2de Afdeling Voetb Vl A FC Lebbeke 20:00 K.V. Diksmuide Oostende A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514573",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 20 maart - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 20:00 RFC Wetteren(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514582",
+      "scoreText": "15:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zondag 04 april - 15:00 2de Afdeling Voetb Vl A KFCHO Kalken A 15:00 K.V. Diksmuide Oostende A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514588",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 10 april - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514595",
+      "scoreText": "20:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zaterdag 17 april - 20:00 2de Afdeling Voetb Vl A Sparta Petegem Deinze A 20:00 K.V. Diksmuide Oostende A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7514604",
+      "scoreText": "15:00",
+      "competition": "2de Afdeling Voetb Vl A",
+      "competition_id": "CHP_136062",
+      "text": "zondag 25 april - 15:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 15:00 KSK.Londerzeel(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    }
+  ]
+}
