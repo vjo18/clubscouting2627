@@ -3,10 +3,19 @@ import tempfile
 import unittest
 from pathlib import Path
 from clubscout.build import build
-from clubscout.scope import is_league_fixture
+from clubscout.scope import is_league_fixture, fixture_date, is_future_fixture
+from datetime import date
 
 
 class LeagueScopeTest(unittest.TestCase):
+    def test_future_fixtures_excluded_even_with_score(self):
+        upcoming={'text':'vrijdag 06 november - 20:00 Reeks A 0 - 0', 'score':[0,0]}
+        self.assertEqual(fixture_date(upcoming,'2026-2027'), date(2026,11,6))
+        self.assertTrue(is_future_fixture(upcoming,'2026-2027',date(2026,11,5)))
+        self.assertFalse(is_future_fixture(upcoming,'2026-2027',date(2026,11,6)))
+        self.assertTrue(is_future_fixture({'text':'zondag 10 januari - 15:00'},'2026-2027',date(2026,11,5)))
+        self.assertFalse(is_future_fixture({'text':'zaterdag 31 oktober - 20:00'},'2026-2027',date(2026,11,5)))
+
     def test_exact_positive_allowlist(self):
         team={'league_competitions':['U19 Interprov Voetb V A']}
         self.assertTrue(is_league_fixture(team,{'competition':'  U19  Interprov Voetb V A  '}))
