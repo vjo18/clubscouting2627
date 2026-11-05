@@ -12,7 +12,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -32,6 +32,8 @@ jobs:
           git add data_raw public/data
           if ! git diff --cached --quiet; then
             git commit -m 'Werk clubselecties bij via ploegkalenders'
+            git fetch origin main
+            git rebase origin/main
             git push origin HEAD:main
           fi
       - uses: actions/upload-artifact@v4
@@ -44,3 +46,4 @@ jobs:
           name: clubscout-diagnostiek
           path: diagnostics/
           if-no-files-found: ignore
+

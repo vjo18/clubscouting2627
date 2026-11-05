@@ -1,6 +1,8 @@
 import csv
 import json
 import unicodedata
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from collections import defaultdict
 from pathlib import Path
 from .scope import load_calendars
@@ -37,6 +39,7 @@ def build(root=ROOT):
             if r['birth_year'].isdigit() and 1900 <= int(r['birth_year']) <= 2100:
                 births[(r['club_id'],r['person_id'])].add(int(r['birth_year']))
     players, reports_seen, coverage = {}, set(), defaultdict(set)
+    age_year=datetime.now(ZoneInfo('Europe/Brussels')).year
     for path in sorted((root/'data_raw/reports').glob('*.json')):
         report = json.loads(path.read_text())
         if report['source'] in reports_seen:
@@ -64,19 +67,32 @@ def build(root=ROOT):
                 if alias:
                     p['_birth_years'].update(births.get((c['id'],alias),set()))
             stats = p['teams'].setdefault(tid, {'listed':0,'known_minutes':0,'minutes_known_matches':0,
-                                              'known_starts':0,'known_bench_only':0,'matches':[]})
+                                              'known_starts':0,'known_bench_only':0,'matches':[],
+                                              'minutes_enabled':bool(t.get('minutes_enabled')), 'possible_minutes':0,
+                                              'number_counts':{},'selection_details':[]})
             if report['source'] in stats['matches']:
                 raise ValueError('Speler dubbel op hetzelfde wedstrijdblad: '+r['name'])
             stats['listed'] += 1
             stats['known_starts'] += int(r['started'] is True)
             stats['known_bench_only'] += int(r['bench_only'] is True)
-            if r['minutes'] is not None:
-                stats['known_minutes'] += r['minutes']
-                stats['minutes_known_matches'] += 1
+            if t.get('minutes_enabled'):
+                stats['possible_minutes']+=t.get('match_duration',90)
+                if r['minutes'] is not None:
+                    stats['known_minutes'] += r['minutes']
+                    stats['minutes_known_matches'] += 1
+            number=str(r.get('number') or '').strip()
+            if number:stats['number_counts'][number]=stats['number_counts'].get(number,0)+1
+            stats['selection_details'].append({'url':report['source'],'number':number or None,
+                'minutes':r['minutes'] if t.get('minutes_enabled') else None})
             stats['matches'].append(report['source'])
     for p in players.values():
         years = p.pop('_birth_years')
         p['birth_year'] = next(iter(years)) if len(years)==1 else None
+        p['age']=age_year-p['birth_year'] if p['birth_year'] is not None else None
+        for stats in p['teams'].values():
+            complete=stats['minutes_enabled'] and stats['minutes_known_matches']==stats['listed']
+            stats['minutes']=stats['known_minutes'] if complete else None
+            stats['minutes_pct']=round(stats['known_minutes']*100/stats['possible_minutes'],1) if complete and stats['possible_minutes'] else None
         p['multiple_teams'] = len(p['teams']) > 1
         p['signals'] = []
         a_ids = [t['rbfa_team_id'] for c in config['clubs'] if c['id']==p['club_id'] for t in c['teams'] if t['include'] and t['role']=='A']
@@ -96,10 +112,13 @@ def build(root=ROOT):
                           'completeness':calendar.get('completeness','unverified'),
                           'preserved':calendar.get('preserved',0)}
     result = {'clubs':config['clubs'],'season':config['season'],'players':list(players.values()),
-              'matchScope':config.get('match_scope','all'),
+              'matchScope':config.get('match_scope','all'),'ageYear':age_year,
+              'updatedAt':datetime.now(ZoneInfo('Europe/Brussels')).isoformat(),
+              'pendingTeams':[tid for tid in teams if tid not in source_calendars],
+              'warnings':json.loads((root/'data_raw/scrape_status.json').read_text()).get('warnings',[]) if (root/'data_raw/scrape_status.json').exists() else [],
               'calendarCoverage':calendars,
               'coverage':{tid:len(urls) for tid,urls in coverage.items()},
-              'notice':('Alleen competitiewedstrijden. ' if league_only else '')+'Selecties zijn geen gespeelde wedstrijden. Ontbrekende speelgegevens blijven onbekend. Spelers met dezelfde volledige naam binnen dezelfde club worden automatisch gekoppeld over de ploegen heen.'}
+              'notice':('Alleen competitiewedstrijden. ' if league_only else '')+'Minutenpercentage = gespeelde minuten / mogelijke minuten binnen de selecties. Dezelfde naam binnen één club wordt automatisch gekoppeld. Leeftijd is bij benadering op basis van geboortejaar.'}
     dest = root/'public/data/players.json'
     temp = dest.with_suffix('.tmp')
     temp.write_text(json.dumps(result,ensure_ascii=False,indent=2))

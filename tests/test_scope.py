@@ -18,7 +18,7 @@ class LeagueScopeTest(unittest.TestCase):
             root=Path(folder)
             for p in ['config','data_raw/reports','data_raw/calendars','public/data']:
                 (root/p).mkdir(parents=True,exist_ok=True)
-            team={'include':True,'rbfa_team_id':'1','role':'A','league_competitions':['Reeks A']}
+            team={'include':True,'rbfa_team_id':'1','role':'A','minutes_enabled':True,'league_competitions':['Reeks A']}
             config={'season':'2026-2027','match_scope':'league_only','clubs':[{'id':'club','rbfa_club_id':'10','teams':[team]}]}
             (root/'config/clubs.json').write_text(json.dumps(config))
             (root/'config/player_identity.csv').write_text('club_id;team_id;name;person_id\n')

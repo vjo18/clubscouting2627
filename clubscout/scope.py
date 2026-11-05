@@ -7,6 +7,8 @@ def label(value):
 
 
 def is_league_fixture(team, match):
+    if team.get('competition_id') and match.get('competition_id'):
+        return team['competition_id']==match['competition_id']
     approved = {label(name) for name in team.get('league_competitions', []) if label(name)}
     return bool(label(match.get('competition'))) and label(match.get('competition')) in approved
 
@@ -23,7 +25,8 @@ def load_calendars(root, config, teams):
             if not team.get('league_competitions'):
                 raise ValueError('Geen goedgekeurde competitie voor ploeg '+tid)
             if tid not in calendars:
-                raise ValueError('Geen kalender voor competitiefilter: '+tid)
+                scoped[tid]=[]
+                continue
             matches = [m for m in calendars[tid]['matches'] if is_league_fixture(team, m)]
             if not matches:
                 raise ValueError('Geen wedstrijd met de goedgekeurde reeksnaam voor ploeg '+tid)

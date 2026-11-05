@@ -1,117 +1,845 @@
 {
   "season": "2026-2027",
+  "match_scope": "league_only",
   "clubs": [
     {
       "id": "roeselare",
       "name": "Sportkring Roeselare",
-      "registration": "08264",
       "rbfa_club_id": "2656",
+      "club_url": "https://www.rbfa.be/nl/club/2656/info",
       "teams": [
         {
-          "label": "A",
+          "label": "Eerste elftal",
           "role": "A",
           "competition": "1e Afdeling Voetb Vl",
-          "rbfa_team_id": "360196",
-          "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360196/kalender",
-          "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360196/overzicht",
+          "competition_id": "CHP_134760",
           "league_competitions": [
             "1e Afdeling Voetb Vl"
-          ]
+          ],
+          "rbfa_team_id": "360196",
+          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360196/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360196/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
         },
         {
           "label": "Reserven",
           "role": "reserves",
           "competition": "Regionale Res.Voetb Vl B",
-          "rbfa_team_id": "360198",
-          "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/kalender",
-          "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/overzicht",
+          "competition_id": "CHP_136067",
           "league_competitions": [
             "Regionale Res.Voetb Vl B"
-          ]
+          ],
+          "rbfa_team_id": "360198",
+          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360198/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
         },
         {
           "label": "U19",
           "role": "U19",
           "competition": "U19 Interprov Voetb V B",
-          "rbfa_team_id": "360199",
-          "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/kalender",
-          "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/overzicht",
+          "competition_id": "CHP_133272",
           "league_competitions": [
             "U19 Interprov Voetb V B"
-          ]
+          ],
+          "rbfa_team_id": "360199",
+          "team_url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/2656/ploeg/360199/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
         }
-      ],
-      "club_url": "https://www.rbfa.be/nl/club/2656/info"
+      ]
     },
     {
       "id": "torhout",
       "name": "KM Torhout",
-      "registration": "00822",
       "rbfa_club_id": "1185",
+      "club_url": "https://www.rbfa.be/nl/club/1185/info",
       "teams": [
         {
-          "label": "A",
+          "label": "Eerste elftal A",
           "role": "A",
           "competition": "2de Afdeling Voetb Vl A",
-          "rbfa_team_id": "364284",
-          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/kalender",
-          "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/overzicht",
+          "competition_id": "CHP_136062",
           "league_competitions": [
             "2de Afdeling Voetb Vl A"
-          ]
+          ],
+          "rbfa_team_id": "364284",
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
         },
         {
-          "label": "B",
+          "label": "Eerste elftal B",
           "role": "B",
           "competition": "2 Provinciaal Wvl A",
-          "rbfa_team_id": "364282",
-          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/kalender",
-          "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/overzicht",
+          "competition_id": "CHP_134096",
           "league_competitions": [
             "2 Provinciaal Wvl A"
-          ]
+          ],
+          "rbfa_team_id": "364282",
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364282/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
         },
         {
-          "label": "Res A",
+          "label": "Reserven A",
           "role": "reserves",
           "competition": "Regionale Res.Voetb Vl B",
-          "rbfa_team_id": "364285",
-          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364285/kalender",
-          "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364285/overzicht",
+          "competition_id": "CHP_136067",
           "league_competitions": [
             "Regionale Res.Voetb Vl B"
-          ]
+          ],
+          "rbfa_team_id": "364285",
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364285/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364285/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
         },
         {
-          "label": "U19 IP",
-          "role": "U19",
-          "competition": "U19 Interprov Voetb V A",
-          "rbfa_team_id": "381025",
-          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/kalender",
-          "include": true,
-          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/overzicht",
+          "label": "Reserven B",
+          "role": "reserves",
+          "competition": "Reserven Voetb Vl E",
+          "competition_id": "CHP_131108",
           "league_competitions": [
-            "U19 Interprov Voetb V A"
-          ]
+            "Reserven Voetb Vl E"
+          ],
+          "rbfa_team_id": "364283",
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/364283/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/364283/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
         },
         {
           "label": "U21",
           "role": "U21",
-          "competition": "Gewestelijk — uitgesloten",
-          "rbfa_team_id": null,
-          "calendar_url": null,
-          "include": false
+          "competition": "Gewestelijk U21 D",
+          "competition_id": "CHP_135384",
+          "league_competitions": [
+            "Gewestelijk U21 D"
+          ],
+          "rbfa_team_id": "381029",
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/381029/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/381029/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U19",
+          "role": "U19",
+          "competition": "U19 Interprov Voetb V A",
+          "competition_id": "CHP_132947",
+          "league_competitions": [
+            "U19 Interprov Voetb V A"
+          ],
+          "rbfa_team_id": "381025",
+          "team_url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1185/ploeg/381025/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
         }
-      ],
-      "club_url": "https://www.rbfa.be/nl/club/1185/info"
+      ]
+    },
+    {
+      "id": "club-1191",
+      "name": "F.C. MANDEL UNITED IZEGEM",
+      "rbfa_club_id": "1191",
+      "club_url": "https://www.rbfa.be/nl/club/1191/info",
+      "teams": [
+        {
+          "label": "Eerste elftal",
+          "role": "A",
+          "competition": "1e Afdeling Voetb Vl",
+          "competition_id": "CHP_134760",
+          "league_competitions": [
+            "1e Afdeling Voetb Vl"
+          ],
+          "rbfa_team_id": "364800",
+          "team_url": "https://www.rbfa.be/nl/club/1191/ploeg/364800/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1191/ploeg/364800/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven A",
+          "role": "reserves",
+          "competition": "Regionale Res.Voetb Vl A",
+          "competition_id": "CHP_136066",
+          "league_competitions": [
+            "Regionale Res.Voetb Vl A"
+          ],
+          "rbfa_team_id": "364802",
+          "team_url": "https://www.rbfa.be/nl/club/1191/ploeg/364802/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1191/ploeg/364802/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven B",
+          "role": "reserves",
+          "competition": "Reserven Voetb Vl F",
+          "competition_id": "CHP_131109",
+          "league_competitions": [
+            "Reserven Voetb Vl F"
+          ],
+          "rbfa_team_id": "371140",
+          "team_url": "https://www.rbfa.be/nl/club/1191/ploeg/371140/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1191/ploeg/371140/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U19",
+          "role": "U19",
+          "competition": "U19 Interprov Voetb V B",
+          "competition_id": "CHP_133272",
+          "league_competitions": [
+            "U19 Interprov Voetb V B"
+          ],
+          "rbfa_team_id": "376220",
+          "team_url": "https://www.rbfa.be/nl/club/1191/ploeg/376220/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1191/ploeg/376220/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
+    },
+    {
+      "id": "club-5852",
+      "name": "FOOTBALL CLUB GULLEGEM",
+      "rbfa_club_id": "5852",
+      "club_url": "https://www.rbfa.be/nl/club/5852/info",
+      "teams": [
+        {
+          "label": "Eerste elftal",
+          "role": "A",
+          "competition": "3de Afdeling Voetb Vl A",
+          "competition_id": "CHP_136064",
+          "league_competitions": [
+            "3de Afdeling Voetb Vl A"
+          ],
+          "rbfa_team_id": "361691",
+          "team_url": "https://www.rbfa.be/nl/club/5852/ploeg/361691/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/5852/ploeg/361691/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven",
+          "role": "reserves",
+          "competition": "Regionale Res.Voetb Vl A",
+          "competition_id": "CHP_136066",
+          "league_competitions": [
+            "Regionale Res.Voetb Vl A"
+          ],
+          "rbfa_team_id": "361693",
+          "team_url": "https://www.rbfa.be/nl/club/5852/ploeg/361693/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/5852/ploeg/361693/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U21",
+          "role": "U21",
+          "competition": "Gewestelijk U21 B",
+          "competition_id": "CHP_135382",
+          "league_competitions": [
+            "Gewestelijk U21 B"
+          ],
+          "rbfa_team_id": "377555",
+          "team_url": "https://www.rbfa.be/nl/club/5852/ploeg/377555/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/5852/ploeg/377555/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U19",
+          "role": "U19",
+          "competition": "U19 Interprov Voetb V B",
+          "competition_id": "CHP_133272",
+          "league_competitions": [
+            "U19 Interprov Voetb V B"
+          ],
+          "rbfa_team_id": "377556",
+          "team_url": "https://www.rbfa.be/nl/club/5852/ploeg/377556/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/5852/ploeg/377556/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
+    },
+    {
+      "id": "club-1901",
+      "name": "K.S.V. RUMBEKE",
+      "rbfa_club_id": "1901",
+      "club_url": "https://www.rbfa.be/nl/club/1901/info",
+      "teams": [
+        {
+          "label": "Eerste elftal",
+          "role": "A",
+          "competition": "3de Afdeling Voetb Vl A",
+          "competition_id": "CHP_136064",
+          "league_competitions": [
+            "3de Afdeling Voetb Vl A"
+          ],
+          "rbfa_team_id": "361044",
+          "team_url": "https://www.rbfa.be/nl/club/1901/ploeg/361044/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1901/ploeg/361044/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven A",
+          "role": "reserves",
+          "competition": "Regionale Res.Voetb Vl B",
+          "competition_id": "CHP_136067",
+          "league_competitions": [
+            "Regionale Res.Voetb Vl B"
+          ],
+          "rbfa_team_id": "361046",
+          "team_url": "https://www.rbfa.be/nl/club/1901/ploeg/361046/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1901/ploeg/361046/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven B",
+          "role": "reserves",
+          "competition": "Reserven Voetb Vl F",
+          "competition_id": "CHP_131109",
+          "league_competitions": [
+            "Reserven Voetb Vl F"
+          ],
+          "rbfa_team_id": "361083",
+          "team_url": "https://www.rbfa.be/nl/club/1901/ploeg/361083/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1901/ploeg/361083/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U19",
+          "role": "U19",
+          "competition": "U19 Interprov Voetb V C",
+          "competition_id": "CHP_133273",
+          "league_competitions": [
+            "U19 Interprov Voetb V C"
+          ],
+          "rbfa_team_id": "364089",
+          "team_url": "https://www.rbfa.be/nl/club/1901/ploeg/364089/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1901/ploeg/364089/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
+    },
+    {
+      "id": "club-2075",
+      "name": "K.S.V. OOSTKAMP",
+      "rbfa_club_id": "2075",
+      "club_url": "https://www.rbfa.be/nl/club/2075/info",
+      "teams": [
+        {
+          "label": "Eerste elftal A",
+          "role": "A",
+          "competition": "2de Afdeling Voetb Vl A",
+          "competition_id": "CHP_136062",
+          "league_competitions": [
+            "2de Afdeling Voetb Vl A"
+          ],
+          "rbfa_team_id": "365450",
+          "team_url": "https://www.rbfa.be/nl/club/2075/ploeg/365450/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/2075/ploeg/365450/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Eerste elftal B",
+          "role": "B",
+          "competition": "3 Provinciaal Wvl A",
+          "competition_id": "CHP_136237",
+          "league_competitions": [
+            "3 Provinciaal Wvl A"
+          ],
+          "rbfa_team_id": "365449",
+          "team_url": "https://www.rbfa.be/nl/club/2075/ploeg/365449/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/2075/ploeg/365449/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven",
+          "role": "reserves",
+          "competition": "Regionale Res.Voetb Vl B",
+          "competition_id": "CHP_136067",
+          "league_competitions": [
+            "Regionale Res.Voetb Vl B"
+          ],
+          "rbfa_team_id": "365451",
+          "team_url": "https://www.rbfa.be/nl/club/2075/ploeg/365451/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/2075/ploeg/365451/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
+    },
+    {
+      "id": "club-1931",
+      "name": "S.V. ZULTE-WAREGEM",
+      "rbfa_club_id": "1931",
+      "club_url": "https://www.rbfa.be/nl/club/1931/info",
+      "teams": [
+        {
+          "label": "Eerste elftal A",
+          "role": "A",
+          "competition": "Jupiler Pro League",
+          "competition_id": "CHP_131917",
+          "league_competitions": [
+            "Jupiler Pro League"
+          ],
+          "rbfa_team_id": "362182",
+          "team_url": "https://www.rbfa.be/nl/club/1931/ploeg/362182/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1931/ploeg/362182/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Eerste elftal B",
+          "role": "B",
+          "competition": "2de Afdeling Voetb Vl A",
+          "competition_id": "CHP_136062",
+          "league_competitions": [
+            "2de Afdeling Voetb Vl A"
+          ],
+          "rbfa_team_id": "362181",
+          "team_url": "https://www.rbfa.be/nl/club/1931/ploeg/362181/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1931/ploeg/362181/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U18",
+          "role": "U18",
+          "competition": "U18 Elite",
+          "competition_id": "CHP_132534",
+          "league_competitions": [
+            "U18 Elite"
+          ],
+          "rbfa_team_id": "374493",
+          "team_url": "https://www.rbfa.be/nl/club/1931/ploeg/374493/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1931/ploeg/374493/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
+    },
+    {
+      "id": "club-962",
+      "name": "CLUB BRUGGE K.V.",
+      "rbfa_club_id": "962",
+      "club_url": "https://www.rbfa.be/nl/club/962/info",
+      "teams": [
+        {
+          "label": "Eerste elftal A",
+          "role": "A",
+          "competition": "Jupiler Pro League",
+          "competition_id": "CHP_131917",
+          "league_competitions": [
+            "Jupiler Pro League"
+          ],
+          "rbfa_team_id": "378477",
+          "team_url": "https://www.rbfa.be/nl/club/962/ploeg/378477/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/962/ploeg/378477/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Eerste elftal B",
+          "role": "B",
+          "competition": "Challenger Pro League",
+          "competition_id": "CHP_132090",
+          "league_competitions": [
+            "Challenger Pro League"
+          ],
+          "rbfa_team_id": "379548",
+          "team_url": "https://www.rbfa.be/nl/club/962/ploeg/379548/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/962/ploeg/379548/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U18",
+          "role": "U18",
+          "competition": "U18 Elite",
+          "competition_id": "CHP_132534",
+          "league_competitions": [
+            "U18 Elite"
+          ],
+          "rbfa_team_id": "379065",
+          "team_url": "https://www.rbfa.be/nl/club/962/ploeg/379065/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/962/ploeg/379065/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
+    },
+    {
+      "id": "club-971",
+      "name": "CERCLE BRUGGE K.S.V.",
+      "rbfa_club_id": "971",
+      "club_url": "https://www.rbfa.be/nl/club/971/info",
+      "teams": [
+        {
+          "label": "Eerste elftal A",
+          "role": "A",
+          "competition": "Jupiler Pro League",
+          "competition_id": "CHP_131917",
+          "league_competitions": [
+            "Jupiler Pro League"
+          ],
+          "rbfa_team_id": "378654",
+          "team_url": "https://www.rbfa.be/nl/club/971/ploeg/378654/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/971/ploeg/378654/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Eerste elftal B",
+          "role": "B",
+          "competition": "1e Afdeling Voetb Vl",
+          "competition_id": "CHP_134760",
+          "league_competitions": [
+            "1e Afdeling Voetb Vl"
+          ],
+          "rbfa_team_id": "370918",
+          "team_url": "https://www.rbfa.be/nl/club/971/ploeg/370918/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/971/ploeg/370918/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U18",
+          "role": "U18",
+          "competition": "U18 Elite 2",
+          "competition_id": "CHP_132093",
+          "league_competitions": [
+            "U18 Elite 2"
+          ],
+          "rbfa_team_id": "379635",
+          "team_url": "https://www.rbfa.be/nl/club/971/ploeg/379635/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/971/ploeg/379635/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
+    },
+    {
+      "id": "club-1295",
+      "name": "K.V. DIKSMUIDE OOSTENDE",
+      "rbfa_club_id": "1295",
+      "club_url": "https://www.rbfa.be/nl/club/1295/info",
+      "teams": [
+        {
+          "label": "Eerste elftal A",
+          "role": "A",
+          "competition": "2de Afdeling Voetb Vl A",
+          "competition_id": "CHP_136062",
+          "league_competitions": [
+            "2de Afdeling Voetb Vl A"
+          ],
+          "rbfa_team_id": "360392",
+          "team_url": "https://www.rbfa.be/nl/club/1295/ploeg/360392/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1295/ploeg/360392/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Eerste elftal B",
+          "role": "B",
+          "competition": "2 Provinciaal Wvl A",
+          "competition_id": "CHP_134096",
+          "league_competitions": [
+            "2 Provinciaal Wvl A"
+          ],
+          "rbfa_team_id": "360391",
+          "team_url": "https://www.rbfa.be/nl/club/1295/ploeg/360391/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1295/ploeg/360391/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven",
+          "role": "reserves",
+          "competition": "Regionale Res.Voetb Vl A",
+          "competition_id": "CHP_136066",
+          "league_competitions": [
+            "Regionale Res.Voetb Vl A"
+          ],
+          "rbfa_team_id": "360393",
+          "team_url": "https://www.rbfa.be/nl/club/1295/ploeg/360393/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1295/ploeg/360393/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U19",
+          "role": "U19",
+          "competition": "U19 Interprov Voetb V A",
+          "competition_id": "CHP_132947",
+          "league_competitions": [
+            "U19 Interprov Voetb V A"
+          ],
+          "rbfa_team_id": "360394",
+          "team_url": "https://www.rbfa.be/nl/club/1295/ploeg/360394/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1295/ploeg/360394/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
+    },
+    {
+      "id": "club-976",
+      "name": "K.V. KORTRIJK",
+      "rbfa_club_id": "976",
+      "club_url": "https://www.rbfa.be/nl/club/976/info",
+      "teams": [
+        {
+          "label": "Eerste elftal",
+          "role": "A",
+          "competition": "Jupiler Pro League",
+          "competition_id": "CHP_131917",
+          "league_competitions": [
+            "Jupiler Pro League"
+          ],
+          "rbfa_team_id": "377668",
+          "team_url": "https://www.rbfa.be/nl/club/976/ploeg/377668/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/976/ploeg/377668/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven",
+          "role": "reserves",
+          "competition": "Reserven Voetb Vl I",
+          "competition_id": "CHP_131112",
+          "league_competitions": [
+            "Reserven Voetb Vl I"
+          ],
+          "rbfa_team_id": "367365",
+          "team_url": "https://www.rbfa.be/nl/club/976/ploeg/367365/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/976/ploeg/367365/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U21",
+          "role": "U21",
+          "competition": "U21 Pro League",
+          "competition_id": "CHP_135012",
+          "league_competitions": [
+            "U21 Pro League"
+          ],
+          "rbfa_team_id": "367366",
+          "team_url": "https://www.rbfa.be/nl/club/976/ploeg/367366/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/976/ploeg/367366/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U18",
+          "role": "U18",
+          "competition": "U18 Elite 2",
+          "competition_id": "CHP_132093",
+          "league_competitions": [
+            "U18 Elite 2"
+          ],
+          "rbfa_team_id": "367367",
+          "team_url": "https://www.rbfa.be/nl/club/976/ploeg/367367/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/976/ploeg/367367/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
+    },
+    {
+      "id": "club-1592",
+      "name": "ZWEVEGEM SPORT",
+      "rbfa_club_id": "1592",
+      "club_url": "https://www.rbfa.be/nl/club/1592/info",
+      "teams": [
+        {
+          "label": "Eerste elftal",
+          "role": "A",
+          "competition": "3de Afdeling Voetb Vl A",
+          "competition_id": "CHP_136064",
+          "league_competitions": [
+            "3de Afdeling Voetb Vl A"
+          ],
+          "rbfa_team_id": "362402",
+          "team_url": "https://www.rbfa.be/nl/club/1592/ploeg/362402/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1592/ploeg/362402/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven",
+          "role": "reserves",
+          "competition": "Reserven Voetb Vl A",
+          "competition_id": "CHP_134248",
+          "league_competitions": [
+            "Reserven Voetb Vl A"
+          ],
+          "rbfa_team_id": "362403",
+          "team_url": "https://www.rbfa.be/nl/club/1592/ploeg/362403/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1592/ploeg/362403/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U19",
+          "role": "U19",
+          "competition": "U19 Interprov Voetb V C",
+          "competition_id": "CHP_133273",
+          "league_competitions": [
+            "U19 Interprov Voetb V C"
+          ],
+          "rbfa_team_id": "377817",
+          "team_url": "https://www.rbfa.be/nl/club/1592/ploeg/377817/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1592/ploeg/377817/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
+    },
+    {
+      "id": "club-1156",
+      "name": "K.W.S. CLUB LAUWE",
+      "rbfa_club_id": "1156",
+      "club_url": "https://www.rbfa.be/nl/club/1156/info",
+      "teams": [
+        {
+          "label": "Eerste elftal A",
+          "role": "A",
+          "competition": "3de Afdeling Voetb Vl A",
+          "competition_id": "CHP_136064",
+          "league_competitions": [
+            "3de Afdeling Voetb Vl A"
+          ],
+          "rbfa_team_id": "363636",
+          "team_url": "https://www.rbfa.be/nl/club/1156/ploeg/363636/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1156/ploeg/363636/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Eerste elftal B",
+          "role": "B",
+          "competition": "3 Provinciaal Wvl B",
+          "competition_id": "CHP_136238",
+          "league_competitions": [
+            "3 Provinciaal Wvl B"
+          ],
+          "rbfa_team_id": "363635",
+          "team_url": "https://www.rbfa.be/nl/club/1156/ploeg/363635/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1156/ploeg/363635/kalender",
+          "minutes_enabled": true,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven A",
+          "role": "reserves",
+          "competition": "Regionale Res.Voetb Vl A",
+          "competition_id": "CHP_136066",
+          "league_competitions": [
+            "Regionale Res.Voetb Vl A"
+          ],
+          "rbfa_team_id": "363639",
+          "team_url": "https://www.rbfa.be/nl/club/1156/ploeg/363639/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1156/ploeg/363639/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "Reserven B",
+          "role": "reserves",
+          "competition": "Reserven Voetb Vl I",
+          "competition_id": "CHP_131112",
+          "league_competitions": [
+            "Reserven Voetb Vl I"
+          ],
+          "rbfa_team_id": "363638",
+          "team_url": "https://www.rbfa.be/nl/club/1156/ploeg/363638/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1156/ploeg/363638/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        },
+        {
+          "label": "U21",
+          "role": "U21",
+          "competition": "Provinciaal U21 A",
+          "competition_id": "CHP_135234",
+          "league_competitions": [
+            "Provinciaal U21 A"
+          ],
+          "rbfa_team_id": "382044",
+          "team_url": "https://www.rbfa.be/nl/club/1156/ploeg/382044/overzicht",
+          "calendar_url": "https://www.rbfa.be/nl/club/1156/ploeg/382044/kalender",
+          "minutes_enabled": false,
+          "match_duration": 90,
+          "include": true
+        }
+      ]
     }
-  ],
-  "match_scope": "league_only"
+  ]
 }
-

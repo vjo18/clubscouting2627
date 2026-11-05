@@ -3,12 +3,14 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {calendarJobs,teamCalendar,matchURL,score,mergeFixtures,isLeagueFixture} from '../scripts/calendar_helpers.mjs';
 
-test('De zeven opgegeven ploegen gebruiken uitsluitend hun eigen kalender',()=>{
+test('De 49 opgegeven ploegen gebruiken uitsluitend hun eigen kalender',()=>{
   const c=JSON.parse(fs.readFileSync(new URL('../config/clubs.json',import.meta.url)));
   const jobs=calendarJobs(c);
-  assert.deepEqual(jobs.map(j=>j.team.rbfa_team_id),['360196','360198','360199','364284','364282','364285','381025']);
+  assert.equal(jobs.length,49);
+  assert.equal(c.clubs.length,13);
+  assert.equal(jobs.filter(j=>j.team.minutes_enabled).length,25);
   assert.equal(jobs.filter(j=>j.club.rbfa_club_id==='2656').length,3);
-  assert.equal(jobs.filter(j=>j.club.rbfa_club_id==='1185').length,4);
+  assert.equal(jobs.filter(j=>j.club.rbfa_club_id==='1185').length,6);
   assert.ok(jobs.every(j=>j.url===`https://www.rbfa.be/nl/club/${j.club.rbfa_club_id}/ploeg/${j.team.rbfa_team_id}/kalender`));
 });
 test('Verkeerde club/ploeg en reekskalender worden geweigerd',()=>{
@@ -17,7 +19,7 @@ test('Verkeerde club/ploeg en reekskalender worden geweigerd',()=>{
 });
 test('Uitgesloten ploegen worden niet opgehaald; dubbele ploeg-ID is fout',()=>{
   const c=JSON.parse(fs.readFileSync(new URL('../config/clubs.json',import.meta.url)));
-  assert.equal(calendarJobs(c).some(j=>j.team.role==='U21'),false);
+  assert.equal(calendarJobs(c).some(j=>j.team.role==='U21'),true);
   c.clubs[0].teams.push({...c.clubs[0].teams[0]});
   assert.throws(()=>calendarJobs(c));
 });

@@ -21,4 +21,5 @@ dest = a.output_dir/f'{hashlib.sha256(a.source.encode()).hexdigest()}.json'
 temp = dest.with_suffix('.tmp')
 temp.write_text(json.dumps(r,ensure_ascii=False,indent=2))
 temp.replace(dest)
-print(f"{len(r['players'])} namen; speelgegevens onbekend; {dest.name}")
+print(f"{len(r['players'])} namen; {r['quality']}; {dest.name}")
+

@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths: ['public/**']
   workflow_run:
-    workflows: ['Update clubdata']
+    workflows: ['Update clubdata', 'Verwerk geboortejaren']
     types: [completed]
 permissions:
   contents: read
@@ -43,3 +43,4 @@ jobs:
       - name: Publiceer op GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+

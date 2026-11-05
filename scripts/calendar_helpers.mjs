@@ -1,6 +1,7 @@
 // Pure functies; ook zonder browser te testen.
 export function isLeagueFixture(team, match) {
   const normalize=value=>String(value??'').trim().toLocaleLowerCase('nl').replace(/\s+/g,' ');
+  if(team.competition_id && match.competition_id)return team.competition_id===match.competition_id;
   const name=normalize(match.competition);
   return Boolean(name) && (team.league_competitions??[]).some(c=>normalize(c)===name);
 }
