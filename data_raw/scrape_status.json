@@ -1,16 +1,9 @@
 {
-  "updated_at": "2026-11-05T14:49:35.926Z",
+  "updated_at": "2026-11-05T14:56:04.770Z",
   "warnings": [
     {
-      "team_id": "362182",
-      "club": "S.V. ZULTE-WAREGEM",
-      "team": "Eerste elftal A",
-      "url": "https://www.rbfa.be/nl/club/1931/ploeg/362182/kalender",
-      "error": "Ploegkalender nog onvolledig geladen: minder dan twee verschillende wedstrijden; eerdere kalender behouden."
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544602",
-      "error": "Waiting for selector `.event-summary .score` failed"
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524965",
+      "error": "Geen openbare spelerslijst"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7703411",
@@ -19,10 +12,6 @@
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7663401",
       "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7524965",
-      "error": "Geen openbare spelerslijst"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7700513",
