@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['public/**']
+    paths: ['public/**', 'clubscout/**', '.github/workflows/deploy.yml']
   workflow_run:
     workflows: ['Update clubdata', 'Verwerk geboortejaren']
     types: [completed]
