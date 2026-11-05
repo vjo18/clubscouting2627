@@ -52,8 +52,19 @@ async function openReady(page,url){
 
 async function readCalendar(page,job){
   console.log(`Ploegkalender: ${job.club.name} / ${job.team.label} — ${job.url}`);
-  await openReady(page,job.url);
-  await page.waitForSelector('.game-item, a[href*="/nl/wedstrijd/"]',{timeout:45000});
+  // RBFA-pagina's kunnen eenmalig onvolledig laden. Probeer de kalender
+  // nog eens voordat we een eerdere, geldige kalender behouden.
+  for(let attempt=1;attempt<=2;attempt++){
+    try{
+      await openReady(page,job.url);
+      await page.waitForSelector('.game-item, a[href*="/nl/wedstrijd/"]',{timeout:45000});
+      break;
+    }catch(error){
+      if(attempt===2)throw error;
+      console.warn('Kalenderpagina nog niet klaar; tweede poging: '+job.url);
+      await pause(2000);
+    }
+  }
   const rows=[];
   const collect=async()=>{
     for(const row of await page.evaluate(readCards))rows.push({...row,url:matchURL(row.url),score:score(row.scoreText)});
@@ -153,8 +164,17 @@ try{
       }
       p=await browser.newPage();
       console.log('Wedstrijdblad: '+url);
-      await openReady(p,url);
-      await p.waitForSelector('.event-summary .score',{timeout:30000});
+      for(let attempt=1;attempt<=2;attempt++){
+        try{
+          await openReady(p,url);
+          await p.waitForSelector('.event-summary .score',{timeout:30000});
+          break;
+        }catch(error){
+          if(attempt===2)throw error;
+          console.warn('Wedstrijdblad nog niet klaar; tweede poging: '+url);
+          await pause(2000);
+        }
+      }
       const ids=await p.$$eval('.event-summary a[href]',els=>els.map(a=>a.getAttribute('href').match(/\/ploeg\/(\d+)/)?.[1]).filter(Boolean));
       if([...fixture.teams].some(id=>!ids.includes(id)))throw Error('Verkeerde ploeg-ID op wedstrijdblad');
       const actualScore=score(await p.$eval('.event-summary .score',el=>el.textContent));
