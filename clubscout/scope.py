@@ -1,5 +1,8 @@
 """Alleen expliciet toegelaten competitienamen; onbekend is niet competitief."""
 import json
+import re
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 
 def label(value):
@@ -11,6 +14,31 @@ def is_league_fixture(team, match):
         return team['competition_id']==match['competition_id']
     approved = {label(name) for name in team.get('league_competitions', []) if label(name)}
     return bool(label(match.get('competition'))) and label(match.get('competition')) in approved
+
+
+MONTHS = dict(zip(
+    ('januari', 'februari', 'maart', 'april', 'mei', 'juni', 'juli', 'augustus', 'september', 'oktober', 'november', 'december'),
+    range(1, 13),
+))
+
+
+def fixture_date(match, season):
+    text = str(match.get('text') or '').casefold()
+    found = re.search(r'\b(\d{1,2})\s+(' + '|'.join(MONTHS) + r')\b', text)
+    if not found:
+        return None
+    start = int(str(season).split('-')[0])
+    month = MONTHS[found.group(2)]
+    year = start if month >= 7 else start + 1
+    try:
+        return datetime(year, month, int(found.group(1))).date()
+    except ValueError:
+        return None
+
+
+def is_future_fixture(match, season, today=None):
+    date = fixture_date(match, season)
+    return date is not None and date > (today or datetime.now(ZoneInfo('Europe/Brussels')).date())
 
 
 def load_calendars(root, config, teams):
@@ -27,10 +55,10 @@ def load_calendars(root, config, teams):
             if tid not in calendars:
                 scoped[tid]=[]
                 continue
-            matches = [m for m in calendars[tid]['matches'] if is_league_fixture(team, m)]
+            matches = [m for m in calendars[tid]['matches'] if is_league_fixture(team, m) and not is_future_fixture(m, config['season'])]
             if not matches:
                 raise ValueError('Geen wedstrijd met de goedgekeurde reeksnaam voor ploeg '+tid)
             scoped[tid] = matches
     else:
-        scoped = {tid: c['matches'] for tid, c in calendars.items()}
+        scoped = {tid: [m for m in c['matches'] if not is_future_fixture(m, config['season'])] for tid, c in calendars.items()}
     return calendars, scoped
