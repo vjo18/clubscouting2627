@@ -52,3 +52,20 @@ export function calendarJobs(config) {
   return jobs;
 }
 
+
+const MONTHS={januari:1,februari:2,maart:3,april:4,mei:5,juni:6,juli:7,augustus:8,september:9,oktober:10,november:11,december:12};
+export function fixtureDate(match,season='2026-2027'){
+  // RBFA toont dag en maand zonder jaartal; de competitie loopt van zomer tot zomer.
+  const text=String(match.text??'').toLocaleLowerCase('nl-BE');
+  const found=text.match(/\b(\d{1,2})\s+(januari|februari|maart|april|mei|juni|juli|augustus|september|oktober|november|december)\b/);
+  if(!found)return null;
+  const month=MONTHS[found[2]],day=Number(found[1]),startYear=Number(String(season).match(/^\d{4}/)?.[0]);
+  if(!startYear||day<1||day>31)return null;
+  const year=month>=7?startYear:startYear+1;
+  const date=new Date(Date.UTC(year,month-1,day));
+  return date.getUTCFullYear()===year&&date.getUTCMonth()===month-1&&date.getUTCDate()===day?date.toISOString().slice(0,10):null;
+}
+export function isFutureFixture(match,season='2026-2027',today=new Intl.DateTimeFormat('sv-SE',{timeZone:'Europe/Brussels',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date())){
+  const date=fixtureDate(match,season);
+  return date!==null&&date>today;
+}
