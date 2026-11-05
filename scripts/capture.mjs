@@ -5,7 +5,7 @@ import {fileURLToPath} from 'node:url';
 import {spawnSync} from 'node:child_process';
 import {createHash} from 'node:crypto';
 import puppeteer from 'puppeteer';
-import {calendarJobs,matchURL,mergeFixtures,score,isLeagueFixture} from './calendar_helpers.mjs';
+import {calendarJobs,matchURL,mergeFixtures,score,isLeagueFixture,isFutureFixture} from './calendar_helpers.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 process.chdir(root);
 if(process.platform==='linux' && !process.env.DISPLAY && !process.env.CLUBSCOUT_XVFB){
@@ -13,7 +13,9 @@ if(process.platform==='linux' && !process.env.DISPLAY && !process.env.CLUBSCOUT_
   if(r.error)console.error('Installeer xvfb of start vanuit een desktopomgeving.',r.error.message);
   process.exit(r.status??1);
 }
-const jobs=calendarJobs(JSON.parse(fs.readFileSync('config/clubs.json','utf8')));
+const config=JSON.parse(fs.readFileSync('config/clubs.json','utf8'));
+const jobs=calendarJobs(config);
+const isFuture=match=>isFutureFixture(match,config.season);
 const temp=fs.mkdtempSync(path.join(root,'.capture-'));
 fs.cpSync(path.join(root,'config'),path.join(temp,'config'),{recursive:true});
 fs.cpSync(path.join(root,'data_raw'),path.join(temp,'data_raw'),{recursive:true});
@@ -122,7 +124,7 @@ try{
     const file=path.join(temp,'data_raw/calendars',job.team.rbfa_team_id+'.json');
     if(!fs.existsSync(file))continue;
     for(const match of JSON.parse(fs.readFileSync(file,'utf8')).matches){
-      if(!isLeagueFixture(job.team,match)||!match.score)continue;
+      if(!isLeagueFixture(job.team,match)||!match.score||isFuture(match))continue;
       const fixture=fixtures.get(match.url)??{teams:new Set(),score:match.score};
       fixture.teams.add(job.team.rbfa_team_id);fixtures.set(match.url,fixture);
     }
@@ -140,7 +142,7 @@ try{
       fs.writeFileSync(file,JSON.stringify(calendar,null,2));
       diagnostics.calendars.push({team:job.team.rbfa_team_id,observed:fetched.length,preserved:calendar.preserved});
       for(const match of merged){
-        if(!isLeagueFixture(job.team,match)||!match.score)continue;
+        if(!isLeagueFixture(job.team,match)||!match.score||isFuture(match))continue;
         const fixture=fixtures.get(match.url)??{teams:new Set(),score:match.score};
         if(fixture.score.join('-')!==match.score.join('-'))throw Error('Tegenstrijdige score tussen kalenders');
         fixture.teams.add(job.team.rbfa_team_id);fixtures.set(match.url,fixture);
