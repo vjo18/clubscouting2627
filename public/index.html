@@ -9,11 +9,15 @@
 <div class="controls">
 <label>Club<select id="club"><option value="all">Alle clubs</option></select></label>
 <label>Speler zoeken<input id="search" placeholder="Naam van de speler"></label>
+<label>Minimumleeftijd<input id="minAge" type="number" min="0" max="120" step="1" placeholder="Geen minimum"></label>
+<label>Maximumleeftijd<input id="maxAge" type="number" min="0" max="120" step="1" placeholder="Geen maximum"></label>
+<label>Rugnummer<input id="number" type="number" min="0" max="999" step="1" placeholder="Alle nummers"></label>
+<label>Type speler<select id="playerType"><option value="all">Alle spelers</option><option value="goalkeeper">Doelman</option><option value="outfield">Veldspeler</option></select></label>
 <label>Scoutingfilter<select id="filter"><option value="all">Alle spelers</option><option value="multi">Bij meerdere ploegen</option><option value="young">Jong: t.e.m. 20 jaar · weinig minuten</option><option value="experienced">Ervaren: 23+ · weinig minuten</option></select></label>
 <label>Minder dan dit minutenpercentage<input id="threshold" type="number" min="0" max="100" step="1" value="25"></label>
 <label>Minuten vergelijken bij<select id="reference"><option value="A">A-ploeg van de club</option><option value="all">Alle ploegen met minutenregistratie</option></select></label>
 </div>
-<p class="muted" id="filter-help">De minutenfilters gebruiken alleen spelers met een gekend geboortejaar, minstens één selectie bij de gekozen ploeg en een volledig berekenbaar minutenpercentage.</p>
+<p class="muted" id="filter-help">Leeftijd is bij benadering op basis van geboortejaar; minimum en maximum tellen mee. Een rugnummer komt uit minstens één geregistreerde selectie. Het type speler volgt uit de RBFA-aanduiding (GK); spelers zonder betrouwbare positie vallen buiten de typefilter. Minutenfilters vereisen een gekend geboortejaar en een volledig berekenbaar minutenpercentage.</p>
 <div class="actions"><button id="export">Exporteer selectie</button><button id="birthyears">Ontbrekende geboortejaren</button><a class="button" href="https://github.com/vjo18/clubscouting2627/tree/main/data_raw/birthyear_uploads" target="_blank" rel="noopener noreferrer">Upload aangevulde CSV op GitHub</a></div>
 <details><summary>Hoe voeg ik geboortejaren toe?</summary><ol><li>Download <b>Ontbrekende geboortejaren</b>: alle spelers zonder geboortejaar, over alle clubs.</li><li>Vul vier cijfers in bij <b>Geboortejaar</b>. Laat club en naam staan. Bewaar de CSV.</li><li>Open de uploadmap hierboven, kies <b>Add file → Upload files</b> en upload met een nieuwe bestandsnaam op <b>main</b>.</li><li>Na de groene workflows <b>Verwerk geboortejaren</b> en <b>Publiceer dashboard</b> vernieuw je deze pagina.</li></ol><p>Ook MacroDroid-resultaten met <code>Ploeg;Naam;Geboortejaar;Gevonden</code> worden verwerkt. Leeftijd is kalenderjaar min geboortejaar, dus bij benadering.</p></details>
 <div class="cards" id="cards"></div><h2>Ploegoverzicht</h2><div class="coverage" id="coverage"></div>
@@ -23,7 +27,7 @@
 </main>
 <dialog id="detail"><button id="close">Sluiten</button><div id="detailBody"></div></dialog>
 <script type="module">
-import {matchesPreset,ageOf,numberSummary} from './filters.mjs';
+import {matchesPreset,matchesExtraFilters,ageOf,numberSummary} from './filters.mjs';
 const $=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let data,visible=[],page=0;const PAGE=50;
 const clubOf=p=>data.clubs.find(c=>c.id===p.club_id);
@@ -49,7 +53,7 @@ function render(){
  if(!data)return;
  const cid=$('club').value,c=data.clubs.find(c=>c.id===cid),ts=c?.teams.filter(t=>t.include)||[],query=$('search').value.toLocaleLowerCase('nl'),mode=$('filter').value,threshold=Math.min(100,Math.max(0,Number($('threshold').value))),ref=$('reference').value;
  const base=data.players.filter(p=>cid==='all'||p.club_id===cid);
- visible=base.filter(p=>p.name.toLocaleLowerCase('nl').includes(query)&&matchesPreset(p,clubOf(p),mode,threshold,ref,data.ageYear)).sort((a,b)=>a.name.localeCompare(b.name,'nl')||clubName(clubOf(a)).localeCompare(clubName(clubOf(b)),'nl'));
+ visible=base.filter(p=>p.name.toLocaleLowerCase('nl').includes(query)&&matchesPreset(p,clubOf(p),mode,threshold,ref,data.ageYear)&&matchesExtraFilters(p,{minAge:$('minAge').value,maxAge:$('maxAge').value,number:$('number').value,playerType:$('playerType').value},data.ageYear)).sort((a,b)=>a.name.localeCompare(b.name,'nl')||clubName(clubOf(a)).localeCompare(clubName(clubOf(b)),'nl'));
  $('threshold').disabled=!['young','experienced'].includes(mode);
  $('cards').innerHTML=[['Spelers gevonden',visible.length],['Bij meerdere ploegen',visible.filter(p=>p.multiple_teams).length],['Zonder geboortejaar · clubselectie',base.filter(p=>p.birth_year==null).length]].map(([label,n])=>`<div class="card"><strong>${n}</strong>${label}</div>`).join('');
  const missing=(data.pendingTeams||[]).length,warnings=(data.warnings||[]).length;
@@ -60,7 +64,7 @@ function render(){
  $('body').innerHTML=shown.map((p,i)=>{
   const pc=clubOf(p),age=ageOf(p,data.ageYear);
   return `<tr><td><button class="name" data-player="${i}">${esc(p.name)}</button><small>${age==null?'Geboortejaar onbekend':`≈ ${age} jaar · ${p.birth_year}`}</small></td>${c?ts.map(t=>`<td>${statsHTML(t,p.teams[t.rbfa_team_id])}</td>`).join(''):`<td>${esc(clubName(pc))}</td><td>${pc.teams.filter(t=>t.include&&p.teams[t.rbfa_team_id]).map(t=>`<div class="team-block"><small>${esc(t.label)}</small>${statsHTML(t,p.teams[t.rbfa_team_id])}</div>`).join('')}</td>`}</tr>`;
- }).join('')||`<tr><td colspan="${c?ts.length+1:3}" class="empty">Geen spelers voor deze filter. Leeftijdsfilters vereisen een geboortejaar en een volledig berekenbaar minutenpercentage bij de gekozen ploeg.</td></tr>`;
+ }).join('')||`<tr><td colspan="${c?ts.length+1:3}" class="empty">Geen spelers voor deze combinatie van filters. Controleer de leeftijd, het rugnummer, het spelerstype of de minutenvoorwaarden.</td></tr>`;
  document.querySelectorAll('[data-player]').forEach(b=>b.onclick=()=>show(shown[Number(b.dataset.player)]));
  $('prev').disabled=page===0;$('next').disabled=(page+1)*PAGE>=visible.length;
  $('pageinfo').textContent=visible.length?`${page*PAGE+1}–${Math.min((page+1)*PAGE,visible.length)} van ${visible.length}`:'0 resultaten';
@@ -85,7 +89,7 @@ $('export').onclick=()=>{
 };
 $('birthyears').onclick=()=>{if(data)download([['ClubRBFA','Naam','Geboortejaar'],...data.players.filter(p=>p.birth_year==null).sort((a,b)=>clubName(clubOf(a)).localeCompare(clubName(clubOf(b)),'nl')||a.name.localeCompare(b.name,'nl')).map(p=>[clubName(clubOf(p)),p.name,''])],'ontbrekende-geboortejaren.csv')};
 $('club').addEventListener('input',()=>{if(data){references();reset()}});
-for(const id of ['search','filter','threshold','reference'])$(id).addEventListener('input',reset);
+for(const id of ['search','filter','threshold','reference','minAge','maxAge','number','playerType'])$(id).addEventListener('input',reset);
 $('prev').onclick=()=>{if(page>0){page--;render()}};$('next').onclick=()=>{if((page+1)*PAGE<visible.length){page++;render()}};
 $('close').onclick=()=>$('detail').close();
 try{const r=await fetch('./data/players.json',{cache:'no-store'});if(!r.ok)throw Error('Databestand ontbreekt');data=await r.json();$('club').innerHTML='<option value="all">Alle clubs</option>'+data.clubs.map(c=>`<option value="${esc(c.id)}">${esc(clubName(c))}</option>`).join('');$('club').value='all';references();$('updated').textContent=`${data.season} · ${data.clubs.length} clubs · ${data.clubs.reduce((n,c)=>n+c.teams.filter(t=>t.include).length,0)} ploegen${data.updatedAt?' · bijgewerkt '+new Date(data.updatedAt).toLocaleString('nl-BE'):''}`;render()}catch(e){$('notice').textContent='Laden mislukt: '+e.message}
