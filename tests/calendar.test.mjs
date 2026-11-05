@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {calendarJobs,teamCalendar,matchURL,score,mergeFixtures,isLeagueFixture} from '../scripts/calendar_helpers.mjs';
+import {calendarJobs,teamCalendar,matchURL,score,mergeFixtures,isLeagueFixture,fixtureDate,isFutureFixture} from '../scripts/calendar_helpers.mjs';
 
 test('De 49 opgegeven ploegen gebruiken uitsluitend hun eigen kalender',()=>{
   const c=JSON.parse(fs.readFileSync(new URL('../config/clubs.json',import.meta.url)));
@@ -43,4 +43,14 @@ test('Competitiefilter weigert beker, oefenwedstrijden en onbekende labels',()=>
   const t={league_competitions:['2 Provinciaal Wvl A']};
   assert.equal(isLeagueFixture(t,{competition:'2 Provinciaal Wvl A'}),true);
   for(const name of ['',null,'BvW Heren Groep 3 P1/P2','1e Ploegen 1-2 Prov','Croky Cup'])assert.equal(isLeagueFixture(t,{competition:name}),false);
+});
+
+test('Toekomstige RBFA-wedstrijden blijven buiten de verwerking',()=>{
+  const tomorrow={text:'vrijdag 06 november - 20:00 Reeks A club A 20:00 club B',score:[0,0]};
+  assert.equal(fixtureDate(tomorrow,'2026-2027'),'2026-11-06');
+  assert.equal(isFutureFixture(tomorrow,'2026-2027','2026-11-05'),true);
+  assert.equal(isFutureFixture(tomorrow,'2026-2027','2026-11-06'),false);
+  assert.equal(isFutureFixture({text:'zondag 10 januari - 15:00'},'2026-2027','2026-11-05'),true);
+  assert.equal(isFutureFixture({text:'zaterdag 31 oktober - 20:00'},'2026-2027','2026-11-05'),false);
+  assert.equal(fixtureDate({text:'dinsdag 31 februari - 20:00'},'2026-2027'),null);
 });
