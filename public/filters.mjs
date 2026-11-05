@@ -21,3 +21,13 @@ export function numberSummary(stats){
   return Object.entries(stats.number_counts??{}).sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],undefined,{numeric:true}))
     .map(([n,count])=>`${n} (${count}×)`).join(', ');
 }
+
+export function matchesExtraFilters(player,{minAge='',maxAge='',number='',playerType='all'}={},ageYear=new Date().getFullYear()){
+  const age=ageOf(player,ageYear);
+  const min=minAge===''?null:Number(minAge),max=maxAge===''?null:Number(maxAge);
+  if((min!==null||max!==null)&&(age==null||(min!==null&&age<min)||(max!==null&&age>max)))return false;
+  const exactNumber=String(number??'').trim();
+  if(exactNumber&&!Object.values(player.teams??{}).some(stats=>Object.hasOwn(stats.number_counts??{},exactNumber)))return false;
+  if(playerType!=='all'&&player.player_type!==playerType)return false;
+  return true;
+}
