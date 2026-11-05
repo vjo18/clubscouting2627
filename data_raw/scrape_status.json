@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-05T11:27:37.642Z",
+  "updated_at": "2026-11-05T11:49:17.988Z",
   "warnings": [
+    {
+      "team_id": "365451",
+      "club": "K.S.V. OOSTKAMP",
+      "team": "Reserven",
+      "url": "https://www.rbfa.be/nl/club/2075/ploeg/365451/kalender",
+      "error": "Waiting for selector `.game-item, a[href*=\"/nl/wedstrijd/\"]` failed"
+    },
+    {
+      "team_id": "362182",
+      "club": "S.V. ZULTE-WAREGEM",
+      "team": "Eerste elftal A",
+      "url": "https://www.rbfa.be/nl/club/1931/ploeg/362182/kalender",
+      "error": "Waiting for selector `.game-item, a[href*=\"/nl/wedstrijd/\"]` failed"
+    },
     {
       "team_id": "362181",
       "club": "S.V. ZULTE-WAREGEM",
@@ -9,17 +23,10 @@
       "error": "Waiting for selector `.game-item, a[href*=\"/nl/wedstrijd/\"]` failed"
     },
     {
-      "team_id": "374493",
-      "club": "S.V. ZULTE-WAREGEM",
-      "team": "U18",
-      "url": "https://www.rbfa.be/nl/club/1931/ploeg/374493/kalender",
-      "error": "Waiting for selector `.game-item, a[href*=\"/nl/wedstrijd/\"]` failed"
-    },
-    {
-      "team_id": "378477",
-      "club": "CLUB BRUGGE K.V.",
-      "team": "Eerste elftal A",
-      "url": "https://www.rbfa.be/nl/club/962/ploeg/378477/kalender",
+      "team_id": "382044",
+      "club": "K.W.S. CLUB LAUWE",
+      "team": "U21",
+      "url": "https://www.rbfa.be/nl/club/1156/ploeg/382044/kalender",
       "error": "Waiting for selector `.game-item, a[href*=\"/nl/wedstrijd/\"]` failed"
     },
     {
@@ -27,63 +34,7 @@
       "error": "Waiting for selector `.event-summary .score` failed"
     },
     {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7565360",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7565306",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7524068",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7523994",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7524012",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544523",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544528",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544533",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7514917",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544511",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544516",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
       "url": "https://www.rbfa.be/nl/wedstrijd/7703411",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7514913",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544598",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544565",
       "error": "Waiting for selector `.event-summary .score` failed"
     },
     {
@@ -91,71 +42,31 @@
       "error": "Waiting for selector `.event-summary .score` failed"
     },
     {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7518762",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7518775",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7518778",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7640590",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7640602",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7640613",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7662077",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7662066",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7617336",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
       "url": "https://www.rbfa.be/nl/wedstrijd/7524965",
       "error": "Geen openbare spelerslijst"
     },
     {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7640607",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7640616",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7640623",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7518999",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7519069",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7519002",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
       "url": "https://www.rbfa.be/nl/wedstrijd/7700513",
+      "error": "Waiting for selector `.event-summary .score` failed"
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637481",
+      "error": "Waiting for selector `.event-summary .score` failed"
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617257",
+      "error": "Waiting for selector `.event-summary .score` failed"
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544524",
+      "error": "Waiting for selector `.event-summary .score` failed"
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544531",
+      "error": "Waiting for selector `.event-summary .score` failed"
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524957",
       "error": "Waiting for selector `.event-summary .score` failed"
     }
   ]

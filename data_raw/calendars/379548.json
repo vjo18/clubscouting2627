@@ -1,9 +1,9 @@
 {
   "team_id": "379548",
   "url": "https://www.rbfa.be/nl/club/962/ploeg/379548/kalender",
-  "fetched_at": "2026-11-05T11:13:12.109Z",
+  "fetched_at": "2026-11-05T11:44:25.497Z",
   "completeness": "unverified",
-  "observed_now": 1,
+  "observed_now": 29,
   "preserved": 0,
   "matches": [
     {
@@ -12,6 +12,257 @@
       "competition": "Challenger Pro League",
       "competition_id": "CHP_132090",
       "text": "zaterdag 07 november - 16:00 Challenger Pro League R.SC.Anderlecht B 16:00 Club Brugge KV. B(Ref. : Jacoby Anaik - Jans Lennert - De Couvreur Hannes - Staessens Brent)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617711",
+      "scoreText": "3 - 4",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zaterdag 31 oktober - 20:00 Challenger Pro League Club Brugge KV. B 3 - 4 Sporting Hasselt A",
+      "score": [
+        3,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7621443",
+      "scoreText": "3 - 0",
+      "competition": "Iste Ploeg",
+      "competition_id": null,
+      "text": "vrijdag 24 juli - 12:00 Iste Ploeg Club Brugge KV. B 3 - 0 OUD-HEVERLEE LEUVEN",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617663",
+      "scoreText": "3 - 2",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zaterdag 22 augustus - 16:00 Challenger Pro League Club Brugge KV. B 3 - 2 F.C. Seraing",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617673",
+      "scoreText": "1 - 2",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zaterdag 29 augustus - 20:00 Challenger Pro League K.Patro Eisden Maasmech. A 1 - 2 Club Brugge KV. B",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617681",
+      "scoreText": "0 - 1",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zaterdag 05 september - 16:00 Challenger Pro League Club Brugge KV. B 0 - 1 K.AS.Eupen A",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617687",
+      "scoreText": "4 - 4",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 13 september - 16:00 Challenger Pro League R.FC.de Liège 4 - 4 Club Brugge KV. B",
+      "score": [
+        4,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617690",
+      "scoreText": "2 - 2",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "vrijdag 18 september - 20:00 Challenger Pro League Club Brugge KV. B 2 - 2 K.AA.Gent B",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617699",
+      "scoreText": "3 - 0",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "vrijdag 09 oktober - 20:00 Challenger Pro League FC.V.Dender E.H. 3 - 0 Club Brugge KV. B",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617706",
+      "scoreText": "0 - 0",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zaterdag 24 oktober - 16:00 Challenger Pro League K.RC.Genk B 0 - 0 Club Brugge KV. B",
+      "score": [
+        0,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617728",
+      "scoreText": "20:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "vrijdag 20 november - 20:00 Challenger Pro League Club Brugge KV. B 20:00 R.Excelsior Virton A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617735",
+      "scoreText": "16:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zaterdag 28 november - 16:00 Challenger Pro League Club Brugge KV. B 16:00 KONINKLIJKE LIERSE SPORTKRING A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617742",
+      "scoreText": "20:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zaterdag 05 december - 20:00 Challenger Pro League Beerschot V.A. A 20:00 Club Brugge KV. B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617753",
+      "scoreText": "19:15",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 13 december - 19:15 Challenger Pro League KSC Lokeren A 19:15 Club Brugge KV. B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617756",
+      "scoreText": "20:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zaterdag 19 december - 20:00 Challenger Pro League Club Brugge KV. B 20:00 Francs Borains(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617766",
+      "scoreText": "16:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zaterdag 16 januari - 16:00 Challenger Pro League K.AS.Eupen A 16:00 Club Brugge KV. B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617777",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 31 januari - 23:00 Challenger Pro League Club Brugge KV. B 23:00 FC.V.Dender E.H.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617801",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 07 februari - 23:00 Challenger Pro League KONINKLIJKE LIERSE SPORTKRING A 23:00 Club Brugge KV. B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617811",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 14 februari - 23:00 Challenger Pro League Club Brugge KV. B 23:00 R.SC.Anderlecht B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617817",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 21 februari - 23:00 Challenger Pro League R.Excelsior Virton A 23:00 Club Brugge KV. B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617822",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 28 februari - 23:00 Challenger Pro League Club Brugge KV. B 23:00 R.FC.de Liège(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617830",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 07 maart - 23:00 Challenger Pro League Francs Borains 23:00 Club Brugge KV. B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617840",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 14 maart - 23:00 Challenger Pro League Club Brugge KV. B 23:00 Beerschot V.A. A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617846",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 21 maart - 23:00 Challenger Pro League F.C. Seraing 23:00 Club Brugge KV. B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617854",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 04 april - 23:00 Challenger Pro League Club Brugge KV. B 23:00 K.Patro Eisden Maasmech. A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617866",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 11 april - 23:00 Challenger Pro League K.AA.Gent B 23:00 Club Brugge KV. B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617873",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 18 april - 23:00 Challenger Pro League Club Brugge KV. B 23:00 K.RC.Genk B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617880",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 25 april - 23:00 Challenger Pro League Sporting Hasselt A 23:00 Club Brugge KV. B(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617883",
+      "scoreText": "23:00",
+      "competition": "Challenger Pro League",
+      "competition_id": "CHP_132090",
+      "text": "zondag 02 mei - 23:00 Challenger Pro League Club Brugge KV. B 23:00 KSC Lokeren A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
       "score": null
     }
   ]

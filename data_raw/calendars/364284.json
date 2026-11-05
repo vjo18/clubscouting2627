@@ -1,10 +1,10 @@
 {
   "team_id": "364284",
   "url": "https://www.rbfa.be/nl/club/1185/ploeg/364284/kalender",
-  "fetched_at": "2026-11-05T11:11:48.607Z",
+  "fetched_at": "2026-11-05T11:43:04.752Z",
   "completeness": "unverified",
-  "observed_now": 2,
-  "preserved": 38,
+  "observed_now": 40,
+  "preserved": 0,
   "matches": [
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514447",
@@ -33,7 +33,8 @@
       "score": [
         2,
         0
-      ]
+      ],
+      "competition_id": "CHP_136560"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7497949",
@@ -43,7 +44,8 @@
       "score": [
         0,
         3
-      ]
+      ],
+      "competition_id": "CHP_136560"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7497962",
@@ -53,7 +55,8 @@
       "score": [
         3,
         1
-      ]
+      ],
+      "competition_id": "CHP_136560"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7505633",
@@ -63,7 +66,8 @@
       "score": [
         1,
         3
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7497976",
@@ -73,14 +77,16 @@
       "score": [
         1,
         0
-      ]
+      ],
+      "competition_id": "CHP_136560"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7493283",
       "scoreText": "",
       "competition": "2e3e Afdeling Voetb Vl",
       "text": "donderdag 13 augustus - 19:30 2e3e Afdeling Voetb Vl K. SV VEURNEKM Torhout A",
-      "score": null
+      "score": null,
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7573182",
@@ -90,7 +96,8 @@
       "score": [
         2,
         2
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7505671",
@@ -100,7 +107,8 @@
       "score": [
         0,
         1
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7727326",
@@ -110,7 +118,8 @@
       "score": [
         4,
         3
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7617549",
@@ -120,7 +129,8 @@
       "score": [
         0,
         3
-      ]
+      ],
+      "competition_id": null
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514373",
@@ -130,7 +140,8 @@
       "score": [
         3,
         2
-      ]
+      ],
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514382",
@@ -140,7 +151,8 @@
       "score": [
         1,
         1
-      ]
+      ],
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514388",
@@ -150,7 +162,8 @@
       "score": [
         0,
         0
-      ]
+      ],
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514396",
@@ -160,7 +173,8 @@
       "score": [
         2,
         1
-      ]
+      ],
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514404",
@@ -170,7 +184,8 @@
       "score": [
         1,
         0
-      ]
+      ],
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514415",
@@ -180,7 +195,8 @@
       "score": [
         2,
         0
-      ]
+      ],
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514421",
@@ -190,7 +206,8 @@
       "score": [
         4,
         1
-      ]
+      ],
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514431",
@@ -200,7 +217,8 @@
       "score": [
         3,
         1
-      ]
+      ],
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514439",
@@ -210,140 +228,160 @@
       "score": [
         1,
         0
-      ]
+      ],
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514461",
       "scoreText": "15:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zondag 15 november - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 FC Lebbeke(Ref. : Grzybowski Patryk - Roose Jarne - Demoen Simon)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514465",
       "scoreText": "19:30",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zaterdag 21 november - 19:30 2de Afdeling Voetb Vl A VK Ninove A 19:30 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514477",
       "scoreText": "19:30",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zaterdag 28 november - 19:30 2de Afdeling Voetb Vl A KM Torhout A 19:30 K.S.V. Oostkamp A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514482",
       "scoreText": "20:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "vrijdag 04 december - 20:00 2de Afdeling Voetb Vl A KSV Oudenaarde 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514494",
       "scoreText": "15:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zondag 13 december - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 KFCHO Kalken A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514499",
       "scoreText": "20:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zaterdag 09 januari - 20:00 2de Afdeling Voetb Vl A Sparta Petegem Deinze A 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514511",
       "scoreText": "15:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zondag 17 januari - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 SV Zulte-Waregem B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514517",
       "scoreText": "15:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zondag 24 januari - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 VK Ninove A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514527",
       "scoreText": "15:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zondag 31 januari - 15:00 2de Afdeling Voetb Vl A KSK.Londerzeel 15:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514532",
       "scoreText": "15:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zondag 14 februari - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 YRKV Mechelen B(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514538",
       "scoreText": "20:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zaterdag 20 februari - 20:00 2de Afdeling Voetb Vl A FC Lebbeke 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514548",
       "scoreText": "15:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zondag 28 februari - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 KFC Voorde-Appelterre A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514555",
       "scoreText": "20:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zaterdag 06 maart - 20:00 2de Afdeling Voetb Vl A Racing Club Gent 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514565",
       "scoreText": "15:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zondag 14 maart - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 KFCVW Hamme(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514569",
       "scoreText": "19:30",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zaterdag 20 maart - 19:30 2de Afdeling Voetb Vl A K.S.V. Oostkamp A 19:30 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514581",
       "scoreText": "19:30",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zaterdag 03 april - 19:30 2de Afdeling Voetb Vl A KM Torhout A 19:30 KSV Oudenaarde(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514588",
       "scoreText": "20:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zaterdag 10 april - 20:00 2de Afdeling Voetb Vl A K.V. Diksmuide Oostende A 20:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514597",
       "scoreText": "15:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zondag 18 april - 15:00 2de Afdeling Voetb Vl A KM Torhout A 15:00 RFC Wetteren(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7514601",
       "scoreText": "15:00",
       "competition": "2de Afdeling Voetb Vl A",
       "text": "zondag 25 april - 15:00 2de Afdeling Voetb Vl A Koninklijke Eendracht Aalst Lede 15:00 KM Torhout A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
-      "score": null
+      "score": null,
+      "competition_id": "CHP_136062"
     }
   ]
 }

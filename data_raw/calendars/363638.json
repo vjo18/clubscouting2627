@@ -1,9 +1,9 @@
 {
   "team_id": "363638",
   "url": "https://www.rbfa.be/nl/club/1156/ploeg/363638/kalender",
-  "fetched_at": "2026-11-05T11:13:41.509Z",
+  "fetched_at": "2026-11-05T11:44:54.014Z",
   "completeness": "unverified",
-  "observed_now": 2,
+  "observed_now": 32,
   "preserved": 0,
   "matches": [
     {
@@ -11,7 +11,7 @@
       "scoreText": "1 - 0",
       "competition": "Reserven Voetb Vl I",
       "competition_id": "CHP_131112",
-      "text": "vrijdag 30 oktober - 19:30 Reserven Voetb Vl I OG Stasegem A 1 1 - 0 K.W.S. Club Lauwe B 1",
+      "text": "vrijdag 30 oktober - 19:30 Reserven Voetb Vl I OG Stasegem A 1 1 - 0 K.W.S. CLUB LAUWE",
       "score": [
         1,
         0
@@ -22,7 +22,280 @@
       "scoreText": "14:00",
       "competition": "Reserven Voetb Vl I",
       "competition_id": "CHP_131112",
-      "text": "zaterdag 07 november - 14:00 Reserven Voetb Vl I K.W.S. Club Lauwe B 1 14:00 K. Rekkem Sport 1(Ref. : Lievens Wouter)",
+      "text": "zaterdag 07 november - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 14:00 K. Rekkem Sport 1(Ref. : Lievens Wouter)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7622345",
+      "scoreText": "3 - 2",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "vrijdag 14 augustus - 20:00 Reserven Provincie K.W.S. CLUB LAUWE 3 - 2 HULSTE SP.",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7504920",
+      "scoreText": "3 - 2",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 19:30 Reserven Provincie K.S.K. OOSTNIEUWKERKE 3 - 2 K.W.S. CLUB LAUWE",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7630624",
+      "scoreText": "1 - 3",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "zaterdag 22 augustus - 16:00 Reserven Provincie K.S.V. PITTEM 1 - 3 K.W.S. CLUB LAUWE",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7645767",
+      "scoreText": "2 - 1",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 26 augustus - 20:00 Reserven Provincie SK TORHOUT 2 - 1 K.W.S. CLUB LAUWE",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524957",
+      "scoreText": "3 - 6",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zondag 30 augustus - 10:00 Reserven Voetb Vl I WS Bellegem B 1 3 - 6 K.W.S. CLUB LAUWE",
+      "score": [
+        3,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524963",
+      "scoreText": "1 - 4",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 05 september - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 1 - 4 S.V. Wevelgem City C 1",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524968",
+      "scoreText": "3 - 3",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 12 september - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 3 - 3 R. Dottignies Sp. 1",
+      "score": [
+        3,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524980",
+      "scoreText": "7 - 3",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 19 september - 17:00 Reserven Voetb Vl I KSV Kortrijk B 1 7 - 3 K.W.S. CLUB LAUWE",
+      "score": [
+        7,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524985",
+      "scoreText": "5 - 1",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 26 september - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 5 - 1 RC Lauwe 1",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7524993",
+      "scoreText": "3 - 1",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "vrijdag 02 oktober - 20:00 Reserven Voetb Vl I SV Ingelmunster 1 3 - 1 K.W.S. CLUB LAUWE",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525002",
+      "scoreText": "2 - 2",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 10 oktober - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 2 - 2 Hulste Sp. B 1",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525018",
+      "scoreText": "",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "vrijdag 23 oktober - 20:15 Reserven Voetb Vl I K.W.S. CLUB LAUWEUitgesteldJong Anzegem B 1",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525043",
+      "scoreText": "17:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 14 november - 17:00 Reserven Voetb Vl I K.F.C. Moen 1 17:00 K.W.S. CLUB LAUWE(Ref. : Van De Casteele Thierry)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525049",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 21 november - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 14:00 Jong Vijve A 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525061",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zondag 29 november - 9:15 Reserven Voetb Vl I KV Kortrijk 1 09:15 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525065",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 05 december - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 14:00 K. WS Desselgem 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525077",
+      "scoreText": "09:15",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zondag 13 december - 9:15 Reserven Voetb Vl I S.V. Wevelgem City C 1 09:15 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525082",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 09 januari - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 14:00 WS Bellegem B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525090",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 16 januari - 14:00 Reserven Voetb Vl I R. Dottignies Sp. 1 14:00 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525095",
+      "scoreText": "20:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "vrijdag 22 januari - 20:00 Reserven Voetb Vl I Jong Vijve A 1 20:00 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525107",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 30 januari - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 14:00 K.F.C. Moen 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525113",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 13 februari - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 14:00 KSV Kortrijk B 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525123",
+      "scoreText": "14:30",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 20 februari - 14:30 Reserven Voetb Vl I K. Rekkem Sport 1 14:30 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525129",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 27 februari - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 14:00 OG Stasegem A 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525135",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "vrijdag 05 maart - 19:30 Reserven Voetb Vl I Hulste Sp. B 1 19:30 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525145",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 13 maart - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 14:00 SV Ingelmunster 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525150",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "vrijdag 19 maart - 19:30 Reserven Voetb Vl I RC Lauwe 1 19:30 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525158",
+      "scoreText": "19:30",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "vrijdag 02 april - 19:30 Reserven Voetb Vl I K. WS Desselgem 1 19:30 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525171",
+      "scoreText": "14:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "zaterdag 10 april - 14:00 Reserven Voetb Vl I K.W.S. CLUB LAUWE 14:00 KV Kortrijk 1(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7525176",
+      "scoreText": "20:00",
+      "competition": "Reserven Voetb Vl I",
+      "competition_id": "CHP_131112",
+      "text": "vrijdag 16 april - 20:00 Reserven Voetb Vl I Jong Anzegem B 1 20:00 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden)",
       "score": null
     }
   ]

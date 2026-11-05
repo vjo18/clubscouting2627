@@ -1,0 +1,379 @@
+{
+  "team_id": "378477",
+  "url": "https://www.rbfa.be/nl/club/962/ploeg/378477/kalender",
+  "fetched_at": "2026-11-05T11:44:24.015Z",
+  "completeness": "unverified",
+  "observed_now": 42,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617347",
+      "scoreText": "2 - 4",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "vrijdag 30 oktober - 20:45 Jupiler Pro League SV.Zulte Waregem A 2 - 4 CLUB BRUGGE KV.",
+      "score": [
+        2,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617357",
+      "scoreText": "13:30",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 08 november - 13:30 Jupiler Pro League CLUB BRUGGE KV. 13:30 R.SC.Anderlecht A(Ref. : Vergoote Jasper - Geerolf Michael - Tiesters Martijn - Bourdeaud'Hui Simon)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523232",
+      "scoreText": "",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "zaterdag 04 juli - 14:00 Profvoetbal CLUB BRUGGE KV.KV.Kortrijk",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7523251",
+      "scoreText": "NVT*",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "vrijdag 17 juli - 19:00 Profvoetbal CLUB BRUGGE KV. NVT* SC HEERENVEEN A-ELFTAL",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7612828",
+      "scoreText": "",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "vrijdag 31 juli - 20:30 Profvoetbal CLUB BRUGGE KV.R.Union St.-Gilloise A",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7630448",
+      "scoreText": "NVT*",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "zaterdag 01 augustus - 11:30 Profvoetbal CLUB BRUGGE KV. NVT* CLUB BRUGGE KV.",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7616756",
+      "scoreText": "3 - 0",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "vrijdag 07 augustus - 20:45 Jupiler Pro League CLUB BRUGGE KV. 3 - 0 KV.Kortrijk",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7629020",
+      "scoreText": "NVT*",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "zaterdag 08 augustus - 12:00 Profvoetbal CLUB BRUGGE KV. NVT* BEERSCHOT V.A.",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617257",
+      "scoreText": "0 - 3",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 15 augustus - 20:45 Jupiler Pro League Oud-Heverlee Leuven A 0 - 3 CLUB BRUGGE KV.",
+      "score": [
+        0,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617279",
+      "scoreText": "1 - 0",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 23 augustus - 18:30 Jupiler Pro League CLUB BRUGGE KV. 1 - 0 Cercle Brugge K.SV. A",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617292",
+      "scoreText": "2 - 1",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 30 augustus - 13:30 Jupiler Pro League K.AA.Gent A 2 - 1 CLUB BRUGGE KV.",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617298",
+      "scoreText": "0 - 1",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "vrijdag 04 september - 20:45 Jupiler Pro League Lommel SK A 0 - 1 CLUB BRUGGE KV.",
+      "score": [
+        0,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617312",
+      "scoreText": "3 - 1",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 13 september - 13:30 Jupiler Pro League CLUB BRUGGE KV. 3 - 1 R.Antwerp F.C. A",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617322",
+      "scoreText": "3 - 0",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 20 september - 18:30 Jupiler Pro League CLUB BRUGGE KV. 3 - 0 K.RC.Genk A",
+      "score": [
+        3,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7742935",
+      "scoreText": "NVT*",
+      "competition": "Profvoetbal",
+      "competition_id": null,
+      "text": "zaterdag 03 oktober - 12:00 Profvoetbal CLUB BRUGGE KV. NVT* EXCELSIOR ROTTERDAM A-ELFTAL",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617325",
+      "scoreText": "1 - 4",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 10 oktober - 18:15 Jupiler Pro League RAAL La Louviere 1 - 4 CLUB BRUGGE KV.",
+      "score": [
+        1,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7743672",
+      "scoreText": "1 - 0",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "zaterdag 17 oktober - 20:45 Croky Cup CLUB BRUGGE KV. 1 - 0 KSC LOKEREN",
+      "score": [
+        1,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617339",
+      "scoreText": "3 - 2",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 25 oktober - 16:00 Jupiler Pro League CLUB BRUGGE KV. 3 - 2 K.St.-Truidense VV. A",
+      "score": [
+        3,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617368",
+      "scoreText": "20:45",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 21 november - 20:45 Jupiler Pro League Yellow-Red KV.Mechelen A 20:45 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617376",
+      "scoreText": "18:30",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 29 november - 18:30 Jupiler Pro League R.Standard de Liège A 18:30 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7746993",
+      "scoreText": "20:30",
+      "competition": "Croky Cup",
+      "competition_id": null,
+      "text": "vrijdag 04 december - 20:30 Croky Cup CLUB BRUGGE KV. 20:30 KV.RS.Waasland-SK.Beveren A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617385",
+      "scoreText": "16:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 13 december - 16:00 Jupiler Pro League CLUB BRUGGE KV. 16:00 K.VC.Westerlo(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617395",
+      "scoreText": "18:30",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 20 december - 18:30 Jupiler Pro League R.Union St.-Gilloise A 18:30 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617397",
+      "scoreText": "13:30",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zaterdag 26 december - 13:30 Jupiler Pro League CLUB BRUGGE KV. 13:30 SP du Pays de Charleroi A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617407",
+      "scoreText": "20:45",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "vrijdag 15 januari - 20:45 Jupiler Pro League KV.RS.Waasland-SK.Beveren A 20:45 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617416",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 24 januari - 23:00 Jupiler Pro League CLUB BRUGGE KV. 23:00 RAAL La Louviere(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617430",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 31 januari - 23:00 Jupiler Pro League R.Antwerp F.C. A 23:00 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617438",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 07 februari - 23:00 Jupiler Pro League CLUB BRUGGE KV. 23:00 R.Standard de Liège A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617446",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 14 februari - 23:00 Jupiler Pro League K.VC.Westerlo 23:00 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617455",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 21 februari - 23:00 Jupiler Pro League CLUB BRUGGE KV. 23:00 Lommel SK A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617473",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 28 februari - 23:00 Jupiler Pro League R.SC.Anderlecht A 23:00 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617478",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 07 maart - 23:00 Jupiler Pro League CLUB BRUGGE KV. 23:00 KV.RS.Waasland-SK.Beveren A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617488",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 14 maart - 23:00 Jupiler Pro League SP du Pays de Charleroi A 23:00 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617511",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 21 maart - 23:00 Jupiler Pro League CLUB BRUGGE KV. 23:00 K.AA.Gent A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617517",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 04 april - 23:00 Jupiler Pro League KV.Kortrijk 23:00 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617525",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 11 april - 23:00 Jupiler Pro League CLUB BRUGGE KV. 23:00 Oud-Heverlee Leuven A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617538",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 18 april - 23:00 Jupiler Pro League K.RC.Genk A 23:00 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617552",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 25 april - 23:00 Jupiler Pro League CLUB BRUGGE KV. 23:00 R.Union St.-Gilloise A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617565",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 02 mei - 23:00 Jupiler Pro League Cercle Brugge K.SV. A 23:00 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617570",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 09 mei - 23:00 Jupiler Pro League CLUB BRUGGE KV. 23:00 Yellow-Red KV.Mechelen A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617586",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 16 mei - 23:00 Jupiler Pro League K.St.-Truidense VV. A 23:00 CLUB BRUGGE KV.(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7617588",
+      "scoreText": "23:00",
+      "competition": "Jupiler Pro League",
+      "competition_id": "CHP_131917",
+      "text": "zondag 23 mei - 23:00 Jupiler Pro League CLUB BRUGGE KV. 23:00 SV.Zulte Waregem A(Ref. : Nog aan te duiden - Nog aan te duiden - Nog aan te duiden)",
+      "score": null
+    }
+  ]
+}

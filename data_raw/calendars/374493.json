@@ -1,0 +1,294 @@
+{
+  "team_id": "374493",
+  "url": "https://www.rbfa.be/nl/club/1931/ploeg/374493/kalender",
+  "fetched_at": "2026-11-05T11:44:23.729Z",
+  "completeness": "unverified",
+  "observed_now": 31,
+  "preserved": 0,
+  "matches": [
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7770973",
+      "scoreText": "4 - 1",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "woensdag 04 november - 14:15 -18 SV.ZULTE WAREGEM 4 - 1 KV.KORTRIJK",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7639356",
+      "scoreText": "13:30",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "zaterdag 14 november - 13:30 -18 KONINKLIJKE LIERSE SPORTKRING 13:30 SV.ZULTE WAREGEM(Ref. : Coveliers Philippe)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7612717",
+      "scoreText": "3 - 4",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "zaterdag 01 augustus - 13:00 -18 R.UNION ST.-GILLOISE 3 - 4 SV.ZULTE WAREGEM",
+      "score": [
+        3,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7585329",
+      "scoreText": "",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "zaterdag 08 augustus - 13:30 -18 SV.ZULTE WAREGEMBEERSCHOT V.A.",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7629010",
+      "scoreText": "5 - 2",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "zaterdag 22 augustus - 10:30 -18 SV.ZULTE WAREGEM 5 - 2 KV.RS.WAASLAND-SK.BEVEREN",
+      "score": [
+        5,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7629868",
+      "scoreText": "2 - 2",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "woensdag 26 augustus - 13:30 -18 SV.ZULTE WAREGEM 2 - 2 CERCLE BRUGGE K.SV.",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7727979",
+      "scoreText": "2 - 2",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "zaterdag 29 augustus - 13:30 -18 R.Antwerp F.C. 2 - 2 SV.ZULTE WAREGEM",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637445",
+      "scoreText": "4 - 4",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 05 september - 14:00 U18 Elite Oud-Heverlee Leuven 4 - 4 SV.ZULTE WAREGEM",
+      "score": [
+        4,
+        4
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637453",
+      "scoreText": "2 - 2",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 12 september - 13:30 U18 Elite SV.ZULTE WAREGEM 2 - 2 R.Standard de Liège",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637459",
+      "scoreText": "2 - 2",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 19 september - 15:00 U18 Elite K.St.-Truidense VV. 2 - 2 SV.ZULTE WAREGEM",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7739563",
+      "scoreText": "",
+      "competition": "U19 Ip",
+      "competition_id": null,
+      "text": "zaterdag 26 september - 15:00 U19 Ip RAAL LA LOUVIERESV.ZULTE WAREGEM",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637465",
+      "scoreText": "1 - 1",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 10 oktober - 13:30 U18 Elite SV.ZULTE WAREGEM 1 - 1 Club Brugge KV.",
+      "score": [
+        1,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637468",
+      "scoreText": "2 - 1",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 17 oktober - 14:00 U18 Elite R.Antwerp F.C. 2 - 1 SV.ZULTE WAREGEM",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637477",
+      "scoreText": "4 - 1",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 24 oktober - 13:30 U18 Elite SV.ZULTE WAREGEM 4 - 1 Yellow-Red KV.Mechelen",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637481",
+      "scoreText": "2 - 1",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 31 oktober - 14:30 U18 Elite R.SC.Anderlecht 2 - 1 SV.ZULTE WAREGEM",
+      "score": [
+        2,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7771450",
+      "scoreText": "",
+      "competition": "-18",
+      "competition_id": null,
+      "text": "woensdag 04 november - 14:15 -18 SV.ZULTE WAREGEMKV.KORTRIJK",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637484",
+      "scoreText": "14:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 21 november - 14:30 U18 Elite K.VC.Westerlo 14:30 SV.ZULTE WAREGEM(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637496",
+      "scoreText": "13:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 28 november - 13:30 U18 Elite SV.ZULTE WAREGEM 13:30 K.AA.Gent(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637498",
+      "scoreText": "14:00",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 09 januari - 14:00 U18 Elite SP du Pays de Charleroi 14:00 SV.ZULTE WAREGEM(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637511",
+      "scoreText": "13:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 16 januari - 13:30 U18 Elite SV.ZULTE WAREGEM 13:30 K.RC.Genk(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637517",
+      "scoreText": "13:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 23 januari - 13:30 U18 Elite SV.ZULTE WAREGEM 13:30 Oud-Heverlee Leuven(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637518",
+      "scoreText": "15:00",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 30 januari - 15:00 U18 Elite R.Standard de Liège 15:00 SV.ZULTE WAREGEM(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637529",
+      "scoreText": "13:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 06 februari - 13:30 U18 Elite SV.ZULTE WAREGEM 13:30 K.St.-Truidense VV.(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637532",
+      "scoreText": "14:45",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 20 februari - 14:45 U18 Elite Club Brugge KV. 14:45 SV.ZULTE WAREGEM(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637541",
+      "scoreText": "13:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 27 februari - 13:30 U18 Elite SV.ZULTE WAREGEM 13:30 R.Antwerp F.C.(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637550",
+      "scoreText": "13:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 06 maart - 13:30 U18 Elite Yellow-Red KV.Mechelen 13:30 SV.ZULTE WAREGEM(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637560",
+      "scoreText": "13:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 13 maart - 13:30 U18 Elite SV.ZULTE WAREGEM 13:30 R.SC.Anderlecht(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637566",
+      "scoreText": "13:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 20 maart - 13:30 U18 Elite SV.ZULTE WAREGEM 13:30 K.VC.Westerlo(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637571",
+      "scoreText": "14:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 10 april - 14:30 U18 Elite K.AA.Gent 14:30 SV.ZULTE WAREGEM(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637578",
+      "scoreText": "13:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 17 april - 13:30 U18 Elite SV.ZULTE WAREGEM 13:30 SP du Pays de Charleroi(Ref. : RBA - RBA - RBA)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7637583",
+      "scoreText": "13:30",
+      "competition": "U18 Elite",
+      "competition_id": "CHP_132534",
+      "text": "zaterdag 24 april - 13:30 U18 Elite K.RC.Genk 13:30 SV.ZULTE WAREGEM(Ref. : RBA - RBA - RBA)",
+      "score": null
+    }
+  ]
+}

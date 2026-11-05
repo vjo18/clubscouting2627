@@ -1,9 +1,9 @@
 {
   "team_id": "363639",
   "url": "https://www.rbfa.be/nl/club/1156/ploeg/363639/kalender",
-  "fetched_at": "2026-11-05T11:13:38.876Z",
+  "fetched_at": "2026-11-05T11:44:51.306Z",
   "completeness": "unverified",
-  "observed_now": 2,
+  "observed_now": 20,
   "preserved": 0,
   "matches": [
     {
@@ -11,7 +11,7 @@
       "scoreText": "0 - 1",
       "competition": "Regionale Res.Voetb Vl A",
       "competition_id": "CHP_136066",
-      "text": "vrijdag 30 oktober - 20:15 Regionale Res.Voetb Vl A K.W.S. Club Lauwe A 0 - 1 S.V. Wevelgem City A",
+      "text": "vrijdag 30 oktober - 20:15 Regionale Res.Voetb Vl A K.W.S. CLUB LAUWE 0 - 1 S.V. Wevelgem City A",
       "score": [
         0,
         1
@@ -22,7 +22,190 @@
       "scoreText": "20:15",
       "competition": "Regionale Res.Voetb Vl A",
       "competition_id": "CHP_136066",
-      "text": "vrijdag 06 november - 20:15 Regionale Res.Voetb Vl A K.W.S. Club Lauwe A 20:15 Racing Club Harelbeke(Ref. : Declercq Geatan)",
+      "text": "vrijdag 06 november - 20:15 Regionale Res.Voetb Vl A K.W.S. CLUB LAUWE 20:15 Racing Club Harelbeke(Ref. : Declercq Geatan)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7613132",
+      "scoreText": "2 - 2",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "donderdag 06 augustus - 19:30 Reserven Provincie K. RC BISSEGEM 2 - 2 K.W.S. CLUB LAUWE",
+      "score": [
+        2,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7621205",
+      "scoreText": "3 - 1",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "zondag 09 augustus - 10:00 Reserven Provincie WS BELLEGEM 3 - 1 K.W.S. CLUB LAUWE",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628172",
+      "scoreText": "11 - 2",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 12 augustus - 19:30 Reserven Provincie K.W.S. CLUB LAUWE 11 - 2 K.DNS HEULE",
+      "score": [
+        11,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7628173",
+      "scoreText": "2 - 0",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 19 augustus - 19:30 Reserven Provincie K.W.S. CLUB LAUWE 2 - 0 K. SV MOORSELE",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7731653",
+      "scoreText": "3 - 1",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "woensdag 26 augustus - 19:45 Reserven Provincie K.W.S. CLUB LAUWE 3 - 1 K. REKKEM SPORT",
+      "score": [
+        3,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7735832",
+      "scoreText": "1 - 2",
+      "competition": "Reserven Provincie",
+      "competition_id": null,
+      "text": "dinsdag 01 september - 19:30 Reserven Provincie OL. LEDEGEM 1 - 2 K.W.S. CLUB LAUWE",
+      "score": [
+        1,
+        2
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544511",
+      "scoreText": "0 - 6",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 04 september - 20:15 Regionale Res.Voetb Vl A K.W.S. CLUB LAUWE 0 - 6 F.C. Gullegem",
+      "score": [
+        0,
+        6
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544515",
+      "scoreText": "2 - 5",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 11 september - 20:15 Regionale Res.Voetb Vl A S.V. Wevelgem City A 2 - 5 K.W.S. CLUB LAUWE",
+      "score": [
+        2,
+        5
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544519",
+      "scoreText": "4 - 1",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 18 september - 20:00 Regionale Res.Voetb Vl A Racing Club Harelbeke 4 - 1 K.W.S. CLUB LAUWE",
+      "score": [
+        4,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544523",
+      "scoreText": "1 - 3",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 25 september - 20:15 Regionale Res.Voetb Vl A K.W.S. CLUB LAUWE 1 - 3 FC Mandel United Izegem A",
+      "score": [
+        1,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544524",
+      "scoreText": "5 - 1",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 02 oktober - 20:00 Regionale Res.Voetb Vl A K.S.C. Wielsbeke 5 - 1 K.W.S. CLUB LAUWE",
+      "score": [
+        5,
+        1
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544531",
+      "scoreText": "2 - 8",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 09 oktober - 20:15 Regionale Res.Voetb Vl A K.W.S. CLUB LAUWE 2 - 8 K.V.K. Ieper",
+      "score": [
+        2,
+        8
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544534",
+      "scoreText": "6 - 3",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 16 oktober - 20:00 Regionale Res.Voetb Vl A K.V. Diksmuide Oostende 6 - 3 K.W.S. CLUB LAUWE",
+      "score": [
+        6,
+        3
+      ]
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544537",
+      "scoreText": "",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 23 oktober - 20:00 Regionale Res.Voetb Vl A F.C. GullegemUitgesteldK.W.S. CLUB LAUWE",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544549",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 13 november - 20:00 Regionale Res.Voetb Vl A FC Mandel United Izegem A 20:00 K.W.S. CLUB LAUWE(Ref. : Raes Baptiste Frans)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544554",
+      "scoreText": "20:15",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 20 november - 20:15 Regionale Res.Voetb Vl A K.W.S. CLUB LAUWE 20:15 K.S.C. Wielsbeke(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544557",
+      "scoreText": "20:00",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 27 november - 20:00 Regionale Res.Voetb Vl A K.V.K. Ieper 20:00 K.W.S. CLUB LAUWE(Ref. : Nog aan te duiden)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7544562",
+      "scoreText": "20:15",
+      "competition": "Regionale Res.Voetb Vl A",
+      "competition_id": "CHP_136066",
+      "text": "vrijdag 04 december - 20:15 Regionale Res.Voetb Vl A K.W.S. CLUB LAUWE 20:15 K.V. Diksmuide Oostende(Ref. : Nog aan te duiden)",
       "score": null
     }
   ]
