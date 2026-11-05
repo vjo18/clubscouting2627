@@ -55,12 +55,12 @@ function render(){
  const missing=(data.pendingTeams||[]).length,warnings=(data.warnings||[]).length;
  $('notice').textContent=data.notice+(missing?` ${missing} ploegkalenders wachten nog op een eerste geslaagde verwerking.`:'')+(warnings?` Broncontrole: ${warnings} kalenders of verslagen konden niet volledig worden bijgewerkt; bekijk de dekking per ploeg.`:'');
  $('coverage').innerHTML=c?ts.map(t=>{const x=data.calendarCoverage?.[t.rbfa_team_id];return `<span><b>${esc(t.label)}</b>: ${data.coverage[t.rbfa_team_id]||0} bladen${x?` · ${x.imported}/${x.played} gevonden uitslagen verwerkt`:' · kalender nog niet verwerkt'}${t.minutes_enabled?' · met minuten':''}</span>`}).join(''):'Kies een club om de dekking en de afzonderlijke ploegkolommen te bekijken.';
- $('head').innerHTML=`<tr><th>Speler / leeftijd bij benadering</th>${c?ts.map(t=>`<th>${esc(t.label)}</th>`).join(''):'<th>Club</th><th>Selecties per ploeg</th>'}<th>Scoutsignaal</th></tr>`;
+ $('head').innerHTML=`<tr><th>Speler / leeftijd bij benadering</th>${c?ts.map(t=>`<th>${esc(t.label)}</th>`).join(''):'<th>Club</th><th>Selecties per ploeg</th>'}</tr>`;
  const shown=visible.slice(page*PAGE,(page+1)*PAGE);
  $('body').innerHTML=shown.map((p,i)=>{
   const pc=clubOf(p),age=ageOf(p,data.ageYear);
-  return `<tr><td><button class="name" data-player="${i}">${esc(p.name)}</button><small>${age==null?'Geboortejaar onbekend':`≈ ${age} jaar · ${p.birth_year}`}</small></td>${c?ts.map(t=>`<td>${statsHTML(t,p.teams[t.rbfa_team_id])}</td>`).join(''):`<td>${esc(clubName(pc))}</td><td>${pc.teams.filter(t=>t.include&&p.teams[t.rbfa_team_id]).map(t=>`<div class="team-block"><small>${esc(t.label)}</small>${statsHTML(t,p.teams[t.rbfa_team_id])}</div>`).join('')}</td>`}<td>${p.signals.map(s=>`<small>${esc(s)}</small>`).join('')||'—'}</td></tr>`;
- }).join('')||`<tr><td colspan="${c?ts.length+2:4}" class="empty">Geen spelers voor deze filter. Leeftijdsfilters vereisen een geboortejaar en een volledig berekenbaar minutenpercentage bij de gekozen ploeg.</td></tr>`;
+  return `<tr><td><button class="name" data-player="${i}">${esc(p.name)}</button><small>${age==null?'Geboortejaar onbekend':`≈ ${age} jaar · ${p.birth_year}`}</small></td>${c?ts.map(t=>`<td>${statsHTML(t,p.teams[t.rbfa_team_id])}</td>`).join(''):`<td>${esc(clubName(pc))}</td><td>${pc.teams.filter(t=>t.include&&p.teams[t.rbfa_team_id]).map(t=>`<div class="team-block"><small>${esc(t.label)}</small>${statsHTML(t,p.teams[t.rbfa_team_id])}</div>`).join('')}</td>`}</tr>`;
+ }).join('')||`<tr><td colspan="${c?ts.length+1:3}" class="empty">Geen spelers voor deze filter. Leeftijdsfilters vereisen een geboortejaar en een volledig berekenbaar minutenpercentage bij de gekozen ploeg.</td></tr>`;
  document.querySelectorAll('[data-player]').forEach(b=>b.onclick=()=>show(shown[Number(b.dataset.player)]));
  $('prev').disabled=page===0;$('next').disabled=(page+1)*PAGE>=visible.length;
  $('pageinfo').textContent=visible.length?`${page*PAGE+1}–${Math.min((page+1)*PAGE,visible.length)} van ${visible.length}`:'0 resultaten';
