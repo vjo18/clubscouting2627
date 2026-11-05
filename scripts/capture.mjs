@@ -39,9 +39,20 @@ function readCards(){
   });
 }
 
+async function openReady(page,url){
+  try{await page.goto(url,{waitUntil:'networkidle2',timeout:25000});}
+  catch(e){if(!String(e.message).includes('Navigation timeout'))throw e;}
+  // De gewone keuze voor alleen noodzakelijke cookies voorkomt dat advertentie-
+  // requests het inlezen ophouden; dit raakt geen verificatie- of logincontroles.
+  await page.evaluate(()=>{
+    const button=Array.from(document.querySelectorAll('button,a')).find(n=>n.textContent.trim()==='Alleen noodzakelijke cookies');
+    if(button)button.click();
+  });
+}
+
 async function readCalendar(page,job){
   console.log(`Ploegkalender: ${job.club.name} / ${job.team.label} — ${job.url}`);
-  await page.goto(job.url,{waitUntil:'domcontentloaded',timeout:60000});
+  await openReady(page,job.url);
   await page.waitForSelector('.game-item, a[href*="/nl/wedstrijd/"]',{timeout:45000});
   const rows=[];
   const collect=async()=>{
@@ -81,7 +92,7 @@ async function readCalendar(page,job){
     if(i===99)throw Error('Pagineringlimiet bereikt; kalender niet aanvaarden');
   }
   const unique=mergeFixtures([],rows);
-  if(!unique.length)throw Error('Geen herkenbare wedstrijden op ploegkalender');
+  if(unique.length<2)throw Error('Ploegkalender nog onvolledig geladen: minder dan twee verschillende wedstrijden; eerdere kalender behouden.');
   return unique;
 }
 
@@ -94,6 +105,17 @@ async function pool(items,work,concurrency=3){
 try{
   browser=await puppeteer.launch({headless:false,args:['--no-sandbox','--disable-setuid-sandbox']});
   const fixtures=new Map(),warnings=[],teamById=new Map(jobs.map(j=>[j.team.rbfa_team_id,j.team]));
+  // Ook bij een tijdelijke kalenderfout blijven eerder gevonden wedstrijden
+  // beschikbaar om ontbrekende spelersbladen opnieuw te proberen.
+  for(const job of jobs){
+    const file=path.join(temp,'data_raw/calendars',job.team.rbfa_team_id+'.json');
+    if(!fs.existsSync(file))continue;
+    for(const match of JSON.parse(fs.readFileSync(file,'utf8')).matches){
+      if(!isLeagueFixture(job.team,match)||!match.score)continue;
+      const fixture=fixtures.get(match.url)??{teams:new Set(),score:match.score};
+      fixture.teams.add(job.team.rbfa_team_id);fixtures.set(match.url,fixture);
+    }
+  }
   await pool(jobs,async job=>{
     const p=await browser.newPage();
     try{
@@ -131,7 +153,7 @@ try{
       }
       p=await browser.newPage();
       console.log('Wedstrijdblad: '+url);
-      await p.goto(url,{waitUntil:'domcontentloaded',timeout:60000});
+      await openReady(p,url);
       await p.waitForSelector('.event-summary .score',{timeout:30000});
       const ids=await p.$$eval('.event-summary a[href]',els=>els.map(a=>a.getAttribute('href').match(/\/ploeg\/(\d+)/)?.[1]).filter(Boolean));
       if([...fixture.teams].some(id=>!ids.includes(id)))throw Error('Verkeerde ploeg-ID op wedstrijdblad');
