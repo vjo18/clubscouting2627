@@ -1,9 +1,9 @@
 {
   "team_id": "365450",
   "url": "https://www.rbfa.be/nl/club/2075/ploeg/365450/kalender",
-  "fetched_at": "2026-11-05T11:43:32.715Z",
+  "fetched_at": "2026-11-05T14:23:04.834Z",
   "completeness": "unverified",
-  "observed_now": 39,
+  "observed_now": 40,
   "preserved": 0,
   "matches": [
     {
@@ -373,6 +373,14 @@
       "competition": "2de Afdeling Voetb Vl A",
       "competition_id": "CHP_136062",
       "text": "zondag 25 april - 15:00 2de Afdeling Voetb Vl A VK Ninove A 15:00 K.V.C.S.V. Oostkamp A(Ref. : BAKBVB - BAKBVB - BAKBVB)",
+      "score": null
+    },
+    {
+      "url": "https://www.rbfa.be/nl/wedstrijd/7772135",
+      "scoreText": "19:30",
+      "competition": "2e3e Afdeling Voetb Vl",
+      "competition_id": null,
+      "text": "zaterdag 02 januari - 19:30 2e3e Afdeling Voetb Vl K.V.C.S.V. Oostkamp A 19:30 K. SP. CLUB BLANKENBERGE",
       "score": null
     }
   ]

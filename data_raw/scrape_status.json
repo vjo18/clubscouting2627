@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-11-05T11:49:17.988Z",
+  "updated_at": "2026-11-05T14:28:45.202Z",
   "warnings": [
-    {
-      "team_id": "365451",
-      "club": "K.S.V. OOSTKAMP",
-      "team": "Reserven",
-      "url": "https://www.rbfa.be/nl/club/2075/ploeg/365451/kalender",
-      "error": "Waiting for selector `.game-item, a[href*=\"/nl/wedstrijd/\"]` failed"
-    },
-    {
-      "team_id": "362182",
-      "club": "S.V. ZULTE-WAREGEM",
-      "team": "Eerste elftal A",
-      "url": "https://www.rbfa.be/nl/club/1931/ploeg/362182/kalender",
-      "error": "Waiting for selector `.game-item, a[href*=\"/nl/wedstrijd/\"]` failed"
-    },
-    {
-      "team_id": "362181",
-      "club": "S.V. ZULTE-WAREGEM",
-      "team": "Eerste elftal B",
-      "url": "https://www.rbfa.be/nl/club/1931/ploeg/362181/kalender",
-      "error": "Waiting for selector `.game-item, a[href*=\"/nl/wedstrijd/\"]` failed"
-    },
-    {
-      "team_id": "382044",
-      "club": "K.W.S. CLUB LAUWE",
-      "team": "U21",
-      "url": "https://www.rbfa.be/nl/club/1156/ploeg/382044/kalender",
-      "error": "Waiting for selector `.game-item, a[href*=\"/nl/wedstrijd/\"]` failed"
-    },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544602",
       "error": "Waiting for selector `.event-summary .score` failed"
@@ -47,26 +19,6 @@
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7700513",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7637481",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7617257",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544524",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544531",
-      "error": "Waiting for selector `.event-summary .score` failed"
-    },
-    {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7524957",
       "error": "Waiting for selector `.event-summary .score` failed"
     }
   ]
