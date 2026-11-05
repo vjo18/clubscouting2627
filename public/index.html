@@ -40,6 +40,13 @@ function references(){
  $('reference').innerHTML='<option value="A">A-ploeg van de club</option><option value="all">Alle ploegen met minutenregistratie</option>'+clubs.flatMap(c=>c.teams.filter(t=>t.include&&t.minutes_enabled).map(t=>`<option value="${esc(t.rbfa_team_id)}">${esc(clubName(c))} · ${esc(t.label)}</option>`)).join('');
  if([...$('reference').options].some(o=>o.value===old))$('reference').value=old;
 }
+function competitionHTML(t){
+ const name=esc(t.competition||'Competitie onbekend');
+ const id=String(t.competition_id||'');
+ if(!/^CHP_\d+$/.test(id))return name;
+ const url='https://www.rbfa.be/nl/competitie/'+id+'/rangschikking';
+ return `<a href="${url}" target="_blank" rel="noopener noreferrer" title="Bekijk de rangschikking op RBFA">${name} ↗</a>`;
+}
 function statsHTML(t,s){
  if(!s)return '—';
  const numbers=numberSummary(s);
@@ -62,8 +69,8 @@ function render(){
  const warningBox=$('warning-details');
  warningBox.style.display=reportWarnings.length?'block':'none';
  warningBox.innerHTML=reportWarnings.length?`<details><summary><b>${reportWarnings.length} wedstrijdverslagen zonder volledige spelersgegevens</b> · bekijk de uitzonderingen</summary><ul>${reportWarnings.map(w=>`<li><a href="${esc(w.url)}" target="_blank" rel="noopener noreferrer">Wedstrijd ${esc(w.url.split('/').pop())}</a> — ${esc(w.error==='Geen openbare spelerslijst'?'Alleen score beschikbaar, geen spelerslijst':'Geen bruikbaar wedstrijdverslag (bv. forfait)')}</li>`).join('')}</ul></details>`:'';
- $('coverage').innerHTML=c?ts.map(t=>{const x=data.calendarCoverage?.[t.rbfa_team_id];return `<span><b>${esc(t.label)}</b>: ${data.coverage[t.rbfa_team_id]||0} bladen${x?` · ${x.imported}/${x.played} gevonden uitslagen verwerkt`:' · kalender nog niet verwerkt'}${t.minutes_enabled?' · met minuten':''}</span>`}).join(''):'Kies een club om de dekking en de afzonderlijke ploegkolommen te bekijken.';
- $('head').innerHTML=`<tr><th>Speler / leeftijd bij benadering</th>${c?ts.map(t=>`<th>${esc(t.label)}</th>`).join(''):'<th>Club</th><th>Selecties per ploeg</th>'}</tr>`;
+ $('coverage').innerHTML=c?ts.map(t=>{const x=data.calendarCoverage?.[t.rbfa_team_id];return `<span><b>${esc(t.label)}</b> · ${competitionHTML(t)}<small class="muted"> · ${data.coverage[t.rbfa_team_id]||0} bladen${x?` · ${x.imported}/${x.played} gevonden uitslagen verwerkt`:' · kalender nog niet verwerkt'}${t.minutes_enabled?' · met minuten':''}</small></span>`}).join(''):'Kies een club om per ploeg de competitie, rangschikking en gegevensdekking te bekijken.';
+ $('head').innerHTML=`<tr><th>Speler / leeftijd bij benadering</th>${c?ts.map(t=>`<th>${esc(t.label)}<small>${competitionHTML(t)}</small></th>`).join(''):'<th>Club</th><th>Selecties per ploeg</th>'}</tr>`;
  const shown=visible.slice(page*PAGE,(page+1)*PAGE);
  $('body').innerHTML=shown.map((p,i)=>{
   const pc=clubOf(p),age=ageOf(p,data.ageYear);
