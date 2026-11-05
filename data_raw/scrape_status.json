@@ -1,6 +1,13 @@
 {
-  "updated_at": "2026-11-05T14:28:45.202Z",
+  "updated_at": "2026-11-05T14:49:35.926Z",
   "warnings": [
+    {
+      "team_id": "362182",
+      "club": "S.V. ZULTE-WAREGEM",
+      "team": "Eerste elftal A",
+      "url": "https://www.rbfa.be/nl/club/1931/ploeg/362182/kalender",
+      "error": "Ploegkalender nog onvolledig geladen: minder dan twee verschillende wedstrijden; eerdere kalender behouden."
+    },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7544602",
       "error": "Waiting for selector `.event-summary .score` failed"

@@ -88980,12 +88980,15 @@
   ],
   "matchScope": "league_only",
   "ageYear": 2026,
-  "updatedAt": "2026-11-05T15:28:49.700183+01:00",
+  "updatedAt": "2026-11-05T15:49:39.850331+01:00",
   "pendingTeams": [],
   "warnings": [
     {
-      "url": "https://www.rbfa.be/nl/wedstrijd/7544602",
-      "error": "Waiting for selector `.event-summary .score` failed"
+      "team_id": "362182",
+      "club": "S.V. ZULTE-WAREGEM",
+      "team": "Eerste elftal A",
+      "url": "https://www.rbfa.be/nl/club/1931/ploeg/362182/kalender",
+      "error": "Ploegkalender nog onvolledig geladen: minder dan twee verschillende wedstrijden; eerdere kalender behouden."
     },
     {
       "url": "https://www.rbfa.be/nl/wedstrijd/7703411",
@@ -89005,444 +89008,444 @@
     }
   ],
   "calendarCoverage": {
-    "360392": {
-      "observed": 30,
+    "364285": {
+      "observed": 9,
       "played": 9,
-      "excluded": 11,
+      "excluded": 9,
       "imported": 9,
-      "fetched_at": "2026-11-05T14:24:37.646Z",
+      "fetched_at": "2026-11-05T14:43:28.927Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "360394": {
+      "observed": 8,
+      "played": 8,
+      "excluded": 9,
+      "imported": 8,
+      "fetched_at": "2026-11-05T14:45:18.445Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "363638": {
+      "observed": 9,
+      "played": 8,
+      "excluded": 23,
+      "imported": 8,
+      "fetched_at": "2026-11-05T14:46:29.543Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "381029": {
+      "observed": 9,
+      "played": 9,
+      "excluded": 9,
+      "imported": 9,
+      "fetched_at": "2026-11-05T14:43:55.444Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "360198": {
+      "observed": 9,
+      "played": 9,
+      "excluded": 13,
+      "imported": 9,
+      "fetched_at": "2026-11-05T14:43:23.368Z",
       "completeness": "unverified",
       "preserved": 0
     },
     "377556": {
-      "observed": 14,
+      "observed": 9,
       "played": 9,
-      "excluded": 6,
+      "excluded": 11,
       "imported": 9,
-      "fetched_at": "2026-11-05T14:22:55.146Z",
+      "fetched_at": "2026-11-05T14:43:54.452Z",
       "completeness": "unverified",
       "preserved": 0
     },
-    "360199": {
-      "observed": 14,
-      "played": 8,
-      "excluded": 4,
-      "imported": 8,
-      "fetched_at": "2026-11-05T14:22:26.521Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "363636": {
-      "observed": 30,
+    "364284": {
+      "observed": 10,
       "played": 10,
-      "excluded": 9,
+      "excluded": 30,
       "imported": 10,
-      "fetched_at": "2026-11-05T14:24:42.283Z",
+      "fetched_at": "2026-11-05T14:43:26.890Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "364283": {
+      "observed": 9,
+      "played": 8,
+      "excluded": 19,
+      "imported": 8,
+      "fetched_at": "2026-11-05T14:43:36.271Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "378654": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 30,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:45:06.559Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "360392": {
+      "observed": 9,
+      "played": 9,
+      "excluded": 32,
+      "imported": 9,
+      "fetched_at": "2026-11-05T14:45:11.685Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "362402": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 30,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:45:29.843Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "382044": {
+      "observed": 8,
+      "played": 7,
+      "excluded": 13,
+      "imported": 6,
+      "fetched_at": "2026-11-05T14:46:31.565Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "361083": {
+      "observed": 9,
+      "played": 8,
+      "excluded": 21,
+      "imported": 8,
+      "fetched_at": "2026-11-05T14:44:00.195Z",
       "completeness": "unverified",
       "preserved": 0
     },
     "379065": {
-      "observed": 22,
+      "observed": 7,
       "played": 7,
-      "excluded": 4,
+      "excluded": 19,
       "imported": 7,
-      "fetched_at": "2026-11-05T14:24:06.060Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "361046": {
-      "observed": 14,
-      "played": 7,
-      "excluded": 6,
-      "imported": 7,
-      "fetched_at": "2026-11-05T14:22:58.856Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "379548": {
-      "observed": 28,
-      "played": 8,
-      "excluded": 1,
-      "imported": 8,
-      "fetched_at": "2026-11-05T14:24:05.316Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "364285": {
-      "observed": 14,
-      "played": 9,
-      "excluded": 4,
-      "imported": 9,
-      "fetched_at": "2026-11-05T14:22:37.625Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "367367": {
-      "observed": 14,
-      "played": 7,
-      "excluded": 18,
-      "imported": 7,
-      "fetched_at": "2026-11-05T14:24:31.649Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "381025": {
-      "observed": 12,
-      "played": 7,
-      "excluded": 7,
-      "imported": 7,
-      "fetched_at": "2026-11-05T14:22:42.213Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "364800": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 8,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:22:43.961Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "377668": {
-      "observed": 34,
-      "played": 10,
-      "excluded": 12,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:24:22.443Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "367365": {
-      "observed": 28,
-      "played": 10,
-      "excluded": 4,
-      "imported": 9,
-      "fetched_at": "2026-11-05T14:24:26.688Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "374493": {
-      "observed": 22,
-      "played": 7,
-      "excluded": 9,
-      "imported": 7,
-      "fetched_at": "2026-11-05T14:24:00.797Z",
+      "fetched_at": "2026-11-05T14:45:06.342Z",
       "completeness": "unverified",
       "preserved": 0
     },
     "377817": {
-      "observed": 14,
+      "observed": 8,
       "played": 8,
-      "excluded": 3,
+      "excluded": 9,
       "imported": 8,
-      "fetched_at": "2026-11-05T14:24:36.845Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "377555": {
-      "observed": 14,
-      "played": 8,
-      "excluded": 2,
-      "imported": 7,
-      "fetched_at": "2026-11-05T14:22:54.163Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "364282": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 7,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:22:33.900Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "361044": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 8,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:23:01.572Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "379635": {
-      "observed": 14,
-      "played": 6,
-      "excluded": 8,
-      "imported": 6,
-      "fetched_at": "2026-11-05T14:24:11.948Z",
+      "fetched_at": "2026-11-05T14:45:34.241Z",
       "completeness": "unverified",
       "preserved": 0
     },
     "361691": {
-      "observed": 30,
+      "observed": 10,
       "played": 10,
-      "excluded": 8,
+      "excluded": 28,
       "imported": 10,
-      "fetched_at": "2026-11-05T14:22:50.610Z",
+      "fetched_at": "2026-11-05T14:43:48.563Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "381025": {
+      "observed": 7,
+      "played": 7,
+      "excluded": 12,
+      "imported": 7,
+      "fetched_at": "2026-11-05T14:43:34.346Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "361046": {
+      "observed": 9,
+      "played": 7,
+      "excluded": 11,
+      "imported": 7,
+      "fetched_at": "2026-11-05T14:43:59.052Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "360391": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 27,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:45:14.111Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "377555": {
+      "observed": 9,
+      "played": 8,
+      "excluded": 7,
+      "imported": 7,
+      "fetched_at": "2026-11-05T14:43:53.038Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "365451": {
+      "observed": 9,
+      "played": 8,
+      "excluded": 8,
+      "imported": 8,
+      "fetched_at": "2026-11-05T14:44:06.611Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "362181": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 31,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:44:59.783Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "361693": {
+      "observed": 9,
+      "played": 8,
+      "excluded": 10,
+      "imported": 8,
+      "fetched_at": "2026-11-05T14:43:50.098Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "378477": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 32,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:45:00.890Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "364282": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 27,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:43:28.647Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "360196": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 32,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:43:24.355Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "371140": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 19,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:43:43.843Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "361044": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 28,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:43:57.631Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "377668": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 36,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:45:21.052Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "363639": {
+      "observed": 9,
+      "played": 8,
+      "excluded": 11,
+      "imported": 8,
+      "fetched_at": "2026-11-05T14:45:38.995Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "379548": {
+      "observed": 8,
+      "played": 8,
+      "excluded": 21,
+      "imported": 8,
+      "fetched_at": "2026-11-05T14:45:04.905Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "365449": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 26,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:44:05.250Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "367365": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 22,
+      "imported": 9,
+      "fetched_at": "2026-11-05T14:45:23.122Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "367366": {
+      "observed": 6,
+      "played": 6,
+      "excluded": 23,
+      "imported": 6,
+      "fetched_at": "2026-11-05T14:45:25.410Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "360393": {
+      "observed": 9,
+      "played": 9,
+      "excluded": 10,
+      "imported": 9,
+      "fetched_at": "2026-11-05T14:45:16.438Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "374493": {
+      "observed": 7,
+      "played": 7,
+      "excluded": 24,
+      "imported": 7,
+      "fetched_at": "2026-11-05T14:45:01.043Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "367367": {
+      "observed": 7,
+      "played": 7,
+      "excluded": 25,
+      "imported": 7,
+      "fetched_at": "2026-11-05T14:45:27.455Z",
       "completeness": "unverified",
       "preserved": 0
     },
     "362182": {
-      "observed": 34,
+      "observed": 10,
       "played": 10,
-      "excluded": 11,
+      "excluded": 35,
       "imported": 10,
       "fetched_at": "2026-11-05T14:23:59.543Z",
       "completeness": "unverified",
       "preserved": 0
     },
-    "361083": {
-      "observed": 28,
-      "played": 8,
-      "excluded": 2,
-      "imported": 8,
-      "fetched_at": "2026-11-05T14:22:59.763Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "378654": {
-      "observed": 34,
+    "364800": {
+      "observed": 10,
       "played": 10,
-      "excluded": 6,
+      "excluded": 28,
       "imported": 10,
-      "fetched_at": "2026-11-05T14:24:11.061Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "362403": {
-      "observed": 30,
-      "played": 9,
-      "excluded": 3,
-      "imported": 9,
-      "fetched_at": "2026-11-05T14:24:36.554Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "360394": {
-      "observed": 12,
-      "played": 8,
-      "excluded": 5,
-      "imported": 8,
-      "fetched_at": "2026-11-05T14:24:21.548Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "365449": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 6,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:23:06.666Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "364089": {
-      "observed": 14,
-      "played": 9,
-      "excluded": 2,
-      "imported": 8,
-      "fetched_at": "2026-11-05T14:23:03.596Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "363635": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 8,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:24:42.549Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "370918": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 7,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:24:10.946Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "360393": {
-      "observed": 14,
-      "played": 9,
-      "excluded": 5,
-      "imported": 9,
-      "fetched_at": "2026-11-05T14:24:17.374Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "362181": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 11,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:23:59.647Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "363638": {
-      "observed": 28,
-      "played": 8,
-      "excluded": 4,
-      "imported": 8,
-      "fetched_at": "2026-11-05T14:25:35.865Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "378477": {
-      "observed": 34,
-      "played": 10,
-      "excluded": 8,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:24:05.174Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "360198": {
-      "observed": 14,
-      "played": 10,
-      "excluded": 8,
-      "imported": 9,
-      "fetched_at": "2026-11-05T14:22:26.157Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "365451": {
-      "observed": 14,
-      "played": 8,
-      "excluded": 3,
-      "imported": 8,
-      "fetched_at": "2026-11-05T14:23:07.896Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "363639": {
-      "observed": 14,
-      "played": 8,
-      "excluded": 6,
-      "imported": 8,
-      "fetched_at": "2026-11-05T14:25:31.855Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "360391": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 7,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:24:16.978Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "360196": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 12,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:22:26.911Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "364283": {
-      "observed": 28,
-      "played": 8,
-      "excluded": 0,
-      "imported": 8,
-      "fetched_at": "2026-11-05T14:22:38.537Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "362402": {
-      "observed": 30,
-      "played": 10,
-      "excluded": 10,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:24:31.988Z",
+      "fetched_at": "2026-11-05T14:43:39.215Z",
       "completeness": "unverified",
       "preserved": 0
     },
     "376220": {
-      "observed": 14,
+      "observed": 9,
       "played": 9,
-      "excluded": 4,
+      "excluded": 9,
       "imported": 9,
-      "fetched_at": "2026-11-05T14:22:49.486Z",
+      "fetched_at": "2026-11-05T14:43:45.671Z",
       "completeness": "unverified",
       "preserved": 0
     },
-    "364284": {
-      "observed": 30,
+    "363635": {
+      "observed": 10,
       "played": 10,
-      "excluded": 10,
+      "excluded": 28,
       "imported": 10,
-      "fetched_at": "2026-11-05T14:22:33.486Z",
+      "fetched_at": "2026-11-05T14:45:38.295Z",
       "completeness": "unverified",
       "preserved": 0
     },
-    "364802": {
-      "observed": 14,
+    "379635": {
+      "observed": 6,
+      "played": 6,
+      "excluded": 16,
+      "imported": 6,
+      "fetched_at": "2026-11-05T14:45:33.218Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "362403": {
+      "observed": 10,
       "played": 9,
-      "excluded": 6,
+      "excluded": 23,
       "imported": 9,
-      "fetched_at": "2026-11-05T14:22:44.942Z",
+      "fetched_at": "2026-11-05T14:45:31.726Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "360199": {
+      "observed": 8,
+      "played": 8,
+      "excluded": 10,
+      "imported": 8,
+      "fetched_at": "2026-11-05T14:43:21.420Z",
       "completeness": "unverified",
       "preserved": 0
     },
     "365450": {
-      "observed": 30,
+      "observed": 10,
       "played": 10,
-      "excluded": 10,
+      "excluded": 30,
       "imported": 10,
-      "fetched_at": "2026-11-05T14:23:04.834Z",
+      "fetched_at": "2026-11-05T14:44:04.244Z",
       "completeness": "unverified",
       "preserved": 0
     },
-    "382044": {
-      "observed": 14,
-      "played": 7,
-      "excluded": 7,
-      "imported": 6,
-      "fetched_at": "2026-11-05T14:25:36.456Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "371140": {
-      "observed": 28,
-      "played": 10,
-      "excluded": 1,
-      "imported": 10,
-      "fetched_at": "2026-11-05T14:22:48.074Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "367366": {
-      "observed": 20,
-      "played": 6,
-      "excluded": 9,
-      "imported": 6,
-      "fetched_at": "2026-11-05T14:24:26.945Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "361693": {
-      "observed": 14,
-      "played": 8,
-      "excluded": 5,
-      "imported": 8,
-      "fetched_at": "2026-11-05T14:22:52.592Z",
-      "completeness": "unverified",
-      "preserved": 0
-    },
-    "381029": {
-      "observed": 14,
+    "364089": {
+      "observed": 9,
       "played": 9,
-      "excluded": 4,
+      "excluded": 7,
+      "imported": 8,
+      "fetched_at": "2026-11-05T14:44:02.125Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "363636": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 29,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:45:36.429Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "370918": {
+      "observed": 10,
+      "played": 10,
+      "excluded": 27,
+      "imported": 10,
+      "fetched_at": "2026-11-05T14:45:09.498Z",
+      "completeness": "unverified",
+      "preserved": 0
+    },
+    "364802": {
+      "observed": 9,
+      "played": 9,
+      "excluded": 11,
       "imported": 9,
-      "fetched_at": "2026-11-05T14:22:39.389Z",
+      "fetched_at": "2026-11-05T14:43:41.363Z",
       "completeness": "unverified",
       "preserved": 0
     }
