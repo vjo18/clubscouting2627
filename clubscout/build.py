@@ -5,7 +5,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 from collections import defaultdict
 from pathlib import Path
-from .scope import load_calendars
+from .scope import load_calendars, is_future_fixture
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -120,11 +120,17 @@ def build(root=ROOT):
                           'imported':len(played & coverage[tid]), 'fetched_at':calendar['fetched_at'],
                           'completeness':calendar.get('completeness','unverified'),
                           'preserved':calendar.get('preserved',0)}
+    # Toekomstige wedstrijden horen niet in de bronwaarschuwingen of statistieken.
+    future_urls = {m['url'] for calendar in source_calendars.values()
+                   for m in calendar['matches'] if is_future_fixture(m, config['season'])}
+    status_path = root/'data_raw/scrape_status.json'
+    source_warnings = json.loads(status_path.read_text()).get('warnings', []) if status_path.exists() else []
+    warnings = [warning for warning in source_warnings if warning.get('url') not in future_urls]
     result = {'clubs':config['clubs'],'season':config['season'],'players':list(players.values()),
               'matchScope':config.get('match_scope','all'),'ageYear':age_year,
               'updatedAt':datetime.now(ZoneInfo('Europe/Brussels')).isoformat(),
               'pendingTeams':[tid for tid in teams if tid not in source_calendars],
-              'warnings':json.loads((root/'data_raw/scrape_status.json').read_text()).get('warnings',[]) if (root/'data_raw/scrape_status.json').exists() else [],
+              'warnings':warnings,
               'calendarCoverage':calendars,
               'coverage':{tid:len(urls) for tid,urls in coverage.items()},
               'notice':('Alleen competitiewedstrijden. ' if league_only else '')+'Minutenpercentage = gespeelde minuten / mogelijke minuten binnen de selecties. Dezelfde naam binnen één club wordt automatisch gekoppeld. Leeftijd is bij benadering op basis van geboortejaar.'}
