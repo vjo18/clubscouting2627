@@ -20,14 +20,6 @@ jobs:
         with:
           python-version: '3.11'
       - run: python3 scripts/import_birthyears.py
-      - name: Bewaar geboortejaren en dashboard
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data_raw/birthyears.csv public/data/players.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Verwerk geboortejaren en leeftijdsfilters'
-            git fetch origin main
-            git rebase origin/main
-            git push origin HEAD:main
-          fi
+      - name: Publiceer geboortejaren op actuele main
+        run: python3 scripts/publish_data.py
+

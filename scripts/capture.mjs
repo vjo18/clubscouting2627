@@ -41,7 +41,7 @@ function readCards(){
 
 async function readCalendar(page,job){
   console.log(`Ploegkalender: ${job.club.name} / ${job.team.label} — ${job.url}`);
-  await page.goto(job.url,{waitUntil:'networkidle2',timeout:60000});
+  await page.goto(job.url,{waitUntil:'domcontentloaded',timeout:60000});
   await page.waitForSelector('.game-item, a[href*="/nl/wedstrijd/"]',{timeout:45000});
   const rows=[];
   const collect=async()=>{
@@ -63,7 +63,7 @@ async function readCalendar(page,job){
         if(!select)throw Error('Kalenderfilter verdwenen');
         select.value=value;select.dispatchEvent(new Event('change',{bubbles:true}));
       },{index:s.index,value:option.value});
-      await page.waitForNetworkIdle({idleTime:800,timeout:20000});
+      await page.waitForNetworkIdle({idleTime:800,timeout:20000}).catch(()=>{});
       await page.waitForSelector('.game-item, a[href*="/nl/wedstrijd/"]',{timeout:20000});await collect();
     }
   }
@@ -77,7 +77,7 @@ async function readCalendar(page,job){
       if(!el)return false;el.click();return true;
     });
     if(!clicked)break;
-    await page.waitForNetworkIdle({idleTime:800,timeout:20000});await collect();
+    await page.waitForNetworkIdle({idleTime:800,timeout:20000}).catch(()=>{});await collect();
     if(i===99)throw Error('Pagineringlimiet bereikt; kalender niet aanvaarden');
   }
   const unique=mergeFixtures([],rows);
@@ -131,8 +131,8 @@ try{
       }
       p=await browser.newPage();
       console.log('Wedstrijdblad: '+url);
-      await p.goto(url,{waitUntil:'networkidle2',timeout:60000});
-      await p.waitForSelector('.event-summary',{timeout:30000});
+      await p.goto(url,{waitUntil:'domcontentloaded',timeout:60000});
+      await p.waitForSelector('.event-summary .score',{timeout:30000});
       const ids=await p.$$eval('.event-summary a[href]',els=>els.map(a=>a.getAttribute('href').match(/\/ploeg\/(\d+)/)?.[1]).filter(Boolean));
       if([...fixture.teams].some(id=>!ids.includes(id)))throw Error('Verkeerde ploeg-ID op wedstrijdblad');
       const actualScore=score(await p.$eval('.event-summary .score',el=>el.textContent));
@@ -156,3 +156,4 @@ try{
   fs.writeFileSync('diagnostics/last-capture.json',JSON.stringify(diagnostics,null,2));
   if(browser)await browser.close();fs.rmSync(temp,{recursive:true,force:true});
 }
+

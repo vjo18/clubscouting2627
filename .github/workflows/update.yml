@@ -15,6 +15,8 @@ jobs:
     timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -25,17 +27,14 @@ jobs:
       - run: npm install --no-audit --no-fund
       - run: npm test
       - run: npm run scrape
-      - name: Bewaar gevalideerde gegevens
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data_raw public/data
-          if ! git diff --cached --quiet; then
-            git commit -m 'Werk clubselecties bij via ploegkalenders'
-            git fetch origin main
-            git rebase origin/main
-            git push origin HEAD:main
-          fi
+      - name: Bewaar brongegevens voor herstel zonder herscrapen
+        uses: actions/upload-artifact@v4
+        with:
+          name: clubscout-brongegevens
+          path: data_raw/
+          retention-days: 14
+      - name: Publiceer op actuele main en bereken dashboard opnieuw
+        run: python3 scripts/publish_data.py
       - uses: actions/upload-artifact@v4
         with:
           name: clubscout-dashboard
@@ -46,4 +45,5 @@ jobs:
           name: clubscout-diagnostiek
           path: diagnostics/
           if-no-files-found: ignore
+
 
