@@ -28,6 +28,7 @@
 <dialog id="detail"><button id="close">Sluiten</button><div id="detailBody"></div></dialog>
 <script type="module">
 import {matchesPreset,matchesExtraFilters,ageOf,numberSummary} from './filters.mjs';
+import {missingBirthyearsCsv} from './birthyear_csv.mjs';
 const $=id=>document.getElementById(id),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let data,visible=[],page=0;const PAGE=50;
 const clubOf=p=>data.clubs.find(c=>c.id===p.club_id);
@@ -99,10 +100,7 @@ $('export').onclick=()=>{
 };
 function downloadMissingBirthyears(){
  if(!data)return;
- const missing=data.players.filter(p=>p.birth_year==null).sort((a,b)=>clubName(clubOf(a)).localeCompare(clubName(clubOf(b)),'nl')||a.name.localeCompare(b.name,'nl'));
- const rows=[['ClubRBFA','Naam','Geboortejaar'],...missing.map(p=>[clubName(clubOf(p)),p.name,''])];
- const quote=v=>String(v??'').includes(';')||String(v??'').includes('"')?'"'+String(v).replaceAll('"','""')+'"':String(v??'');
- const blob=new Blob([String.fromCharCode(0xFEFF)+rows.map(row=>row.map(quote).join(';')).join(String.fromCharCode(13,10))],{type:'text/csv;charset=utf-8'});
+ const blob=new Blob([missingBirthyearsCsv(data.clubs,data.players,clubName)],{type:'text/csv;charset=utf-8'});
  const url=URL.createObjectURL(blob),link=document.createElement('a');
  link.href=url;link.download='ontbrekende_geboortejaren.csv';link.click();
  setTimeout(()=>URL.revokeObjectURL(url),1000);
