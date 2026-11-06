@@ -97,7 +97,17 @@ $('export').onclick=()=>{
  for(const p of visible){const c=clubOf(p);for(const t of c.teams.filter(t=>t.include&&p.teams[t.rbfa_team_id])){const s=p.teams[t.rbfa_team_id];rows.push([clubName(c),p.name,p.birth_year,ageOf(p,data.ageYear),t.label,s.listed,numberSummary(s),t.minutes_enabled?s.minutes:'',t.minutes_enabled?s.possible_minutes:'',t.minutes_enabled?s.minutes_pct:'']);}}
  download(rows,'clubscout-selectie.csv');
 };
-$('birthyears').onclick=()=>{if(data)download([['ClubRBFA','Naam','Geboortejaar'],...data.players.filter(p=>p.birth_year==null).sort((a,b)=>clubName(clubOf(a)).localeCompare(clubName(clubOf(b)),'nl')||a.name.localeCompare(b.name,'nl')).map(p=>[clubName(clubOf(p)),p.name,''])],'ontbrekende-geboortejaren.csv')};
+function downloadMissingBirthyears(){
+ if(!data)return;
+ const missing=data.players.filter(p=>p.birth_year==null).sort((a,b)=>clubName(clubOf(a)).localeCompare(clubName(clubOf(b)),'nl')||a.name.localeCompare(b.name,'nl'));
+ const rows=[['ClubRBFA','Naam','Geboortejaar'],...missing.map(p=>[clubName(clubOf(p)),p.name,''])];
+ const quote=v=>String(v??'').includes(';')||String(v??'').includes('"')?'"'+String(v).replaceAll('"','""')+'"':String(v??'');
+ const blob=new Blob([String.fromCharCode(0xFEFF)+rows.map(row=>row.map(quote).join(';')).join(String.fromCharCode(13,10))],{type:'text/csv;charset=utf-8'});
+ const url=URL.createObjectURL(blob),link=document.createElement('a');
+ link.href=url;link.download='ontbrekende_geboortejaren.csv';link.click();
+ setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+$('birthyears').onclick=downloadMissingBirthyears;
 $('club').addEventListener('input',()=>{if(data){references();reset()}});
 for(const id of ['search','filter','threshold','reference','minAge','maxAge','number','playerType'])$(id).addEventListener('input',reset);
 $('prev').onclick=()=>{if(page>0){page--;render()}};$('next').onclick=()=>{if((page+1)*PAGE<visible.length){page++;render()}};
